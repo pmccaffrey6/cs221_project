@@ -1,0 +1,4712 @@
+	uniprot_ids	substrates
+0	Q9ESW4	ATP
+1	Q9ESW4	acylglycerol
+2	Q53H12	ATP
+3	Q53H12	acylglycerol
+0	P35739	more
+1	P35916	more
+2	P35918	more
+3	P35968	more
+4	P36888	more
+5	P54753	ATP
+6	P54753	a [protein]-L-tyrosine
+7	P54754	more
+8	P54762	more
+9	P55144	more
+10	P97523	more
+11	P97793	more
+12	Q00342	more
+13	Q00495	more
+14	Q00993	more
+15	Q01279	more
+16	Q01974	more
+17	Q02763	more
+18	Q02858	more
+19	Q03137	ATP
+20	Q03137	protein
+21	Q03145	ATP
+22	Q03145	protein
+23	Q03146	more
+24	Q03351	more
+25	Q03526	more
+26	Q04912	ATP
+27	Q04912	a [macrophage-stimulating protein]-L-tyrosine
+28	Q04912	more
+29	Q06418	ATP
+30	Q06418	a [protein]-L-tyrosine
+31	Q06418	more
+32	Q07496	more
+33	Q07497	ATP
+34	Q07497	protein
+35	Q07497	more
+36	Q08345	more
+37	Q08345	ATP
+38	Q08345	protein tyrosine
+39	Q09147	more
+40	Q12866	more
+41	Q24488	more
+42	Q27324	more
+43	Q60553	ATP
+44	Q60553	protein tyrosine
+45	Q60805	more
+46	Q61772	more
+47	Q62371	more
+48	Q62799	more
+49	Q62956	more
+50	Q63474	more
+51	Q63604	ATP
+52	Q63604	protein tyrosine
+53	Q90344	more
+54	Q91571	more
+55	Q91694	more
+56	Q91845	more
+57	P00533	ATP
+58	P00533	NAEYLRV
+59	P00533	ATP
+60	P00533	VPEYINQ
+61	P00533	ATP
+62	P00533	a [protein]-L-tyrosine
+63	P00533	more
+64	P76387	ATP
+65	P76387	tyrosine-protein kinase Wcz
+66	P76387	more
+67	P38134	ATP
+68	P38134	tyrosine-protein kinase Etp
+69	P58764	ATP
+70	P58764	tyrosine-protein kinase Wcz
+71	P58764	ATP
+72	P58764	poly(Glu:Tyr)
+73	P58764	more
+74	O52788	ATP
+75	O52788	tyrosine-protein kinase Wcz
+76	O52788	more
+77	O02466	more
+78	O13146	more
+79	O61460	more
+80	P00535	more
+81	P04626	more
+82	P05532	more
+83	P06494	more
+84	P07333	more
+85	P07333	ATP
+86	P07333	protein tyrosine
+87	P08069	more
+88	P08069	ATP
+89	P08069	Ac-DYFE-6-chloro-W-NHMe
+90	P08069	ATP
+91	P08069	Ac-DYFGW-NHMe
+92	P08069	ATP
+93	P08069	YFEW
+94	P08581	more
+95	P08922	ATP
+96	P08922	protein tyrosine
+97	P08923	more
+98	P09208	more
+99	P09619	more
+100	P09759	more
+101	P10721	ATP
+102	P10721	a [protein]-L-tyrosine
+103	P10721	more
+104	P10721	ATP
+105	P10721	protein tyrosine
+106	P10721	ATP
+107	P10721	phosphatidylinositol 3-kinase
+108	P11362	more
+109	P11362	ATP
+110	P11362	phospholipase C gamma
+111	P13368	more
+112	P13388	more
+113	P14616	more
+114	P14617	more
+115	P15127	more
+116	P15208	ATP
+117	P15208	protein tyrosine
+118	P15209	more
+119	P18475	more
+120	P20786	more
+121	P20806	more
+122	P21709	ATP
+123	P21709	a [protein]-L-tyrosine
+124	P21709	more
+125	P21802	more
+126	P22455	more
+127	P24062	more
+128	P24348	more
+129	P24786	more
+130	P26618	more
+131	P26619	more
+132	P29317	ATP
+133	P29317	a [protein]-L-tyrosine
+134	P29318	more
+135	P29319	more
+136	P29320	more
+137	P29320	ATP
+138	P29320	protein tyrosine
+139	P29323	more
+140	P29376	more
+141	P30530	ATP
+142	P30530	a [protein]-L-tyrosine
+143	P30530	more
+144	P34891	more
+145	P34892	more
+146	P34925	more
+0	Q07014	more
+1	Q07014	ATP
+2	Q07014	[protein]-L-tyrosine
+3	Q08881	more
+4	Q13882	more
+5	Q13882	ATP
+6	Q13882	a [protein]-L-tyrosine
+7	Q13882	ATP
+8	Q13882	[Sam68]-L-tyrosine
+9	Q13882	ATP
+10	Q13882	[protein]-L-tyrosine
+11	Q24592	more
+12	Q62120	more
+13	Q62137	more
+14	P06239	ATP
+15	P06239	a [protein]-L-tyrosine
+16	Q06187	ATP
+17	Q06187	[protein]-L-tyrosine
+18	Q9WUD9	ATP
+19	Q9WUD9	[protein kinase C zeta]-L-tyrosine
+20	Q9WUD9	ATP
+21	Q9WUD9	[protein]-L-tyrosine
+22	Q9U5Y2	more
+23	P34152	more
+24	O35346	ATP
+25	O35346	[protein]-L-tyrosine
+26	Q91738	more
+27	P37173	more
+28	P36894	more
+29	Q62893	more
+30	Q16671	more
+31	Q09488	more
+32	P36897	more
+33	Q95126	more
+34	P37023	more
+35	P36895	more
+36	Q62312	more
+37	P38438	more
+38	P50488	more
+39	P27037	more
+40	P27041	more
+41	P27040	more
+42	P27039	more
+43	P20792	more
+44	P12965	more
+45	P10741	more
+46	P07331	more
+47	P58764	ATP
+48	P58764	[protein]-L-tyrosine
+49	Q13418	ATP
+50	Q13418	beta 1-integrin cytoplasmic domain peptide
+51	Q13418	ATP
+52	Q13418	myelin basic protein
+53	Q13418	ATP
+54	Q13418	recombinant GST/beta3 integrin cytoplasmic tail peptide
+55	Q13418	ATP
+56	Q13418	a protein
+57	O43187	ATP
+58	O43187	a protein
+59	O70146	ATP
+60	O70146	a protein
+61	P46573	ATP
+62	P46573	casein
+63	P46573	ATP
+64	P46573	enolase
+65	P46573	ATP
+66	P46573	myosin light chain
+67	P46573	ATP
+68	P46573	a protein
+69	P47735	ATP
+70	P47735	a protein
+71	O60674	more
+72	O60674	ATP
+73	O60674	a [protein]-L-tyrosine
+74	P53666	ATP
+75	P53666	a protein
+76	P53671	ATP
+77	P53671	histone
+78	P53671	ATP
+79	P53671	myelin basic protein
+80	Q06548	ATP
+81	Q06548	casein
+82	Q06548	ATP
+83	Q06548	enolase
+84	Q06548	ATP
+85	Q06548	myosin light chain
+86	Q06548	ATP
+87	Q06548	a protein
+88	Q15569	ATP
+89	Q15569	myelin basic protein
+90	Q15569	ATP
+91	Q15569	a protein
+92	Q63572	ATP
+93	Q63572	a protein
+94	Q924U5	ATP
+95	Q924U5	cofilin
+96	Q924U5	ATP
+97	Q924U5	a protein
+98	Q96S53	ATP
+99	Q96S53	cofilin
+100	Q96S53	ATP
+101	Q96S53	a protein
+102	Q9SYQ8	ATP
+103	Q9SYQ8	a protein
+104	P00519	more
+105	P00519	ATP
+106	P00519	[estrogen receptor alpha]-L-tyrosine
+107	P00519	ATP
+108	P00519	a [Tyr-2 peptide]-L-tyrosine
+109	P00519	ATP
+110	P00519	[protein]-L-tyrosine
+111	O43353	more
+112	O43353	ATP
+113	O43353	a protein
+114	P04049	ATP
+115	P04049	a protein
+116	P10398	ATP
+117	P10398	a protein
+118	P11346	ATP
+119	P11346	a protein
+120	P00520	ATP
+121	P00520	a [protein]-L-tyrosine
+122	P15056	ATP
+123	P15056	a protein
+124	Q9Y572	more
+125	Q9Y572	ATP
+126	Q9Y572	a protein
+127	P47810	more
+128	P54350	ATP
+129	P54350	cdc2
+130	P30291	more
+131	P30291	ATP
+132	P30291	cyclin-associated cyclin-dependent kinase
+133	P30291	ATP
+134	P30291	p34cdc2
+135	P47817	more
+136	P47817	ATP
+137	P47817	cdc2
+138	A1A5H8	more
+139	A1A5H8	ATP
+140	A1A5H8	[FAK]-L-tyrosine
+141	Q38KH2	ATP
+142	Q38KH2	[protein]-L-tyrosine
+143	P00522	more
+144	P00523	more
+145	P00523	ATP
+146	P00523	a [protein]-L-tyrosine
+147	P00523	AEEEIYGEFEAKKKK
+148	P00523	ATP
+149	P00523	denatured enolase
+150	P00523	ATP
+151	P00526	more
+152	P00541	more
+153	P06240	more
+154	P06241	more
+155	P06241	ATP
+156	P06241	protein tyrosine
+157	P07332	more
+158	P07948	ATP
+159	P07948	[protein]-L-tyrosine
+160	P08631	more
+161	P10936	more
+162	P12931	ATP
+163	P12931	[protein]-L-tyrosine
+164	P12931	ATP
+165	P12931	poly(Glu,Tyr)
+166	P12931	ATP
+167	P12931	[hyperpolarization-activated, cyclic nucleotide-gated 4 channel]-L-tyrosine
+168	P12931	ATP
+169	P12931	poly(Glu4-Tyr)
+170	P16591	more
+171	P24604	more
+172	P24604	ATP
+173	P24604	[protein]-L-tyrosine
+174	P25911	more
+175	P25911	ATP
+176	P25911	[protein]-L-tyrosine
+177	P27447	more
+178	P27446	more
+179	P29597	more
+180	P29597	ATP
+181	P29597	protein tyrosine
+182	P32577	more
+183	P32577	ATP
+184	P32577	protein tyrosine
+185	P35991	more
+186	P35991	ATP
+187	P35991	a [protein]-L-tyrosine
+188	P35991	ATP
+189	P35991	[protein]-L-tyrosine
+190	P41239	ATP
+191	P41239	protein
+192	P41240	ATP
+193	P41240	protein
+194	P41240	ATP
+195	P41240	protein
+196	P41242	more
+197	P41243	more
+198	P42679	more
+199	P42679	ATP
+200	P42679	Src protein
+201	P42682	more
+202	P42685	more
+203	P43403	more
+204	P43404	more
+205	P43405	ATP
+206	P43405	[protein]-L-tyrosine
+207	P48025	more
+208	P48025	ATP
+209	P48025	[protein]-L-tyrosine
+210	P48025	ATP
+211	P48025	KVEKIGEGTYGVVYK
+212	P51451	more
+213	P51813	more
+214	P51813	ATP
+215	P51813	[protein]-L-tyrosine
+216	P52332	more
+217	P52333	more
+218	Q04736	more
+0	Q9GM70	more
+1	O14757	more
+2	O14936	more
+3	O15075	more
+4	O35280	more
+5	O61267	more
+6	O70405	more
+7	O70405	ATP
+8	O70405	protein
+9	O88866	more
+10	O96017	more
+11	O96017	ATP
+12	O96017	Cdc25C
+13	P06782	more
+14	P07334	more
+15	P22987	more
+16	P23647	more
+17	P34208	more
+18	P38147	more
+19	P38990	more
+20	P39009	more
+21	P39009	ATP
+22	P39009	protein
+23	P49071	more
+24	P49137	ATP
+25	P49137	Lys-Lys-Phe-Asn-Arg-Thr-Leu-Ser-Val-Ala
+26	P49137	ATP
+27	P49137	protein
+28	P52497	more
+29	P53104	more
+30	P53682	more
+31	P54646	ATP
+32	P54646	beta-hydroxy beta-methylglutaryl-coenzyme A reductase
+33	P54646	ATP
+34	P54646	acetyl-CoA carboxylase
+35	P87050	more
+36	Q00372	more
+37	Q02723	more
+38	Q06850	ATP
+39	Q06850	histone III
+40	Q09137	more
+41	Q09137	ATP
+42	Q09137	acetyl-CoA carboxylase
+43	Q09137	ATP
+44	Q09137	3-hydroxy-3-methylglutaryl-CoA reductase
+45	Q09170	more
+46	Q12263	more
+47	Q15831	more
+48	Q23023	more
+49	Q38997	more
+50	Q91604	ATP
+51	Q91604	protein
+52	Q6DE87	more
+53	Q6DE87	ATP
+54	Q6DE87	Cdc25C
+55	Q9Z265	more
+56	Q9Z265	ATP
+57	Q9Z265	Cdc25C
+58	O15726	ATP
+59	O15726	a protein
+60	O15726	ATP
+61	O15726	a protein
+62	O74135	ATP
+63	O74135	Tea1
+64	O74135	ATP
+65	O74135	a protein
+66	O74135	ATP
+67	O74135	a protein
+68	P16913	ATP
+69	P16913	a protein
+70	P16913	ATP
+71	P16913	a protein
+72	P23291	ATP
+73	P23291	a protein
+74	P23291	ATP
+75	P23291	a protein
+76	P23292	ATP
+77	P23292	a protein
+78	P23292	ATP
+79	P23292	a protein
+80	P29295	ATP
+81	P29295	a protein
+82	P29295	ATP
+83	P29295	a protein
+84	P29295	ATP
+85	P29295	casein
+86	P40233	ATP
+87	P40233	a protein
+88	P40233	ATP
+89	P40233	a protein
+90	P40234	ATP
+91	P40234	a protein
+92	P40234	ATP
+93	P40234	a protein
+94	P40235	ATP
+95	P40235	a protein
+96	P40235	ATP
+97	P40235	a protein
+98	P40236	ATP
+99	P40236	a protein
+100	P40236	ATP
+101	P40236	a protein
+102	P48730	ATP
+103	P48730	AKAP450
+104	P54367	ATP
+105	P54367	a protein
+106	P54367	ATP
+107	P54367	a protein
+108	Q06486	ATP
+109	Q06486	DDDDVASLPGLRRR
+110	Q06486	ATP
+111	Q06486	phosvitin
+112	Q06486	ATP
+113	Q06486	casein
+114	Q62761	ATP
+115	Q62761	phosvitin
+116	Q62761	ATP
+117	Q62761	a protein
+118	Q62761	ATP
+119	Q62761	a protein
+120	Q62761	ATP
+121	Q62761	casein
+122	Q62762	ATP
+123	Q62762	phosvitin
+124	Q62762	ATP
+125	Q62762	casein
+126	Q62763	ATP
+127	Q62763	phosvitin
+128	Q62763	ATP
+129	Q62763	casein
+130	P08181	more
+131	P08181	casein
+132	P08181	ATP
+133	P19139	more
+134	P19139	casein
+135	P19139	ATP
+136	P19139	ATP
+137	P19139	PACSIN 1 protein
+138	P19139	ATP
+139	P19139	protein kinase C
+140	P15790	casein
+141	P15790	ATP
+142	P68400	casein
+143	P68400	ATP
+144	P28523	ATP
+145	P28523	RRRDDDSDDD
+146	P28523	GTP
+147	P28523	a protein
+148	P28523	ATP
+149	P28523	a protein
+150	P28523	ATP
+151	P28523	a protein
+152	P18334	more
+153	P18334	casein
+154	P18334	ATP
+155	P18334	casein
+156	P18334	GTP
+157	P28020	casein
+158	P28020	ATP
+159	Q02720	more
+160	Q02720	casein
+161	Q02720	ATP
+162	P20427	casein
+163	P20427	ATP
+164	P20427	RRRDDDSDDD
+165	P20427	ATP
+166	P21868	casein
+167	P21868	ATP
+168	P21869	casein
+169	P21869	ATP
+170	Q08466	casein
+171	Q08466	ATP
+172	Q08467	casein
+173	Q08467	ATP
+174	Q08467	casein
+175	Q08467	GTP
+176	P28547	casein
+177	P28547	ATP
+178	O54833	more
+179	O54833	casein
+180	O54833	ATP
+181	O54833	ATP
+182	O54833	PACSIN 1 protein
+183	O54833	ATP
+184	O54833	protein kinase C
+185	P19454	casein
+186	P19454	ATP
+187	P40231	more
+188	P40231	casein
+189	P40231	ATP
+190	Q60737	more
+191	Q60737	casein
+192	Q60737	ATP
+193	P18266	more
+194	P18266	ATP
+195	P18266	SREBP-1c
+196	O14427	ATP
+197	O14427	protein
+198	O75914	ATP
+199	O75914	protein
+200	O88506	ATP
+201	O88506	protein
+202	O88643	ATP
+203	O88643	protein
+204	O96013	ATP
+205	O96013	Cdc42Hs
+206	O96013	ATP
+207	O96013	protein
+208	P27636	ATP
+209	P27636	protein
+210	P35465	ATP
+211	P35465	Akt (MBP)
+212	P35465	ATP
+213	P35465	myelin basic protein (MBP)
+214	P48562	ATP
+215	P48562	protein
+216	P50527	ATP
+217	P50527	protein
+218	Q03497	ATP
+219	Q03497	protein
+220	Q12469	ATP
+221	Q12469	protein
+222	Q13153	more
+223	Q13153	ATP
+224	Q13153	beta-catenin
+225	Q13153	ATP
+226	Q13153	PKB protein kinase
+227	Q13153	ATP
+228	Q13153	axin
+229	Q13153	ATP
+230	Q13153	glycogen synthase
+231	Q13153	ATP
+232	Q13153	glycogen synthase kinase 3
+233	Q13153	ATP
+234	Q13153	protein
+235	Q61036	ATP
+236	Q61036	myelin basic protein kinase
+237	Q61036	ATP
+238	Q61036	protein
+239	P15056	ATP
+240	P15056	a protein
+241	P15056	ATP
+242	P15056	a protein
+243	Q13523	more
+244	Q13523	ATP
+245	Q13523	SF2/ASF
+246	Q61136	ATP
+247	Q61136	SF2/ASF
+248	P36616	ATP
+249	P36616	myelin basic protein
+250	P36616	ATP
+251	P36616	SR protein
+252	P36616	ATP
+253	P36616	protein
+254	P49762	ATP
+255	P49762	SR protein
+256	P97343	ATP
+257	P97343	SR protein
+258	P97343	ATP
+259	P97343	stathmin
+260	P97343	ATP
+261	P97343	protein
+262	Q07538	ATP
+263	Q07538	SR protein
+264	Q63285	ATP
+265	Q63285	SR protein
+266	Q63285	ATP
+267	Q63285	stathmin
+268	Q63285	ATP
+269	Q63285	protein
+270	Q9H2X6	ATP
+271	Q9H2X6	SR protein
+272	Q9QZR5	ATP
+273	Q9QZR5	SR protein
+274	Q13188	more
+275	Q13043	more
+276	P51955	more
+277	P08092	ATP
+278	P08092	a protein
+279	P08092	ATP
+280	P08092	a protein
+281	P22211	ATP
+282	P22211	a protein
+283	P22211	ATP
+284	P22211	a protein
+285	P25333	ATP
+286	P25333	a protein
+287	P25333	ATP
+288	P25333	a protein
+289	P36002	ATP
+290	P36002	a protein
+291	P36002	ATP
+292	P36002	a protein
+293	P38691	ATP
+294	P38691	a protein
+295	P38691	ATP
+296	P38691	a protein
+297	P47116	ATP
+298	P47116	a protein
+299	P47116	ATP
+300	P47116	a protein
+301	Q12505	ATP
+302	Q12505	a protein
+303	Q12505	ATP
+304	Q12505	a protein
+305	O08901	ATP
+306	O08901	a protein
+307	O08901	ATP
+308	O08901	a protein
+309	O43683	ATP
+310	O43683	a protein
+311	O43683	ATP
+312	O43683	a protein
+313	O60566	ATP
+314	O60566	a protein
+315	O60566	ATP
+316	O60566	a protein
+317	O94751	ATP
+318	O94751	a protein
+319	O94751	ATP
+320	O94751	a protein
+321	P41695	ATP
+322	P41695	Bub3
+323	P41695	ATP
+324	P41695	a protein
+325	P41695	ATP
+326	P41695	a protein
+327	Q9Z1S0	ATP
+328	Q9Z1S0	a protein
+329	Q9Z1S0	ATP
+330	Q9Z1S0	a protein
+331	O75716	ATP
+332	O75716	protein
+333	O88697	ATP
+334	O88697	protein
+335	O88697	ATP
+336	O88697	protein
+337	P57760	ATP
+338	P57760	protein
+339	O00311	ATP
+340	O00311	MCM2
+341	O00311	ATP
+342	O00311	MCM3
+343	O00311	ATP
+344	O00311	a protein
+345	O00311	ATP
+346	O00311	a protein
+347	O00311	ATP
+348	O00311	histone H1
+349	P06243	ATP
+350	P06243	a protein
+351	P06243	ATP
+352	P06243	a protein
+353	P50582	ATP
+354	P50582	a protein
+355	P50582	ATP
+356	P50582	a protein
+357	Q9UQY9	ATP
+358	Q9UQY9	a protein
+359	Q9UQY9	ATP
+360	Q9UQY9	a protein
+361	O10269	ATP
+362	O10269	a protein
+363	O10269	ATP
+364	O10269	a protein
+365	P41415	ATP
+366	P41415	late gene expression factor LEF-8
+367	P41415	ATP
+368	P41415	a protein
+369	P41415	ATP
+370	P41415	a protein
+371	P41719	ATP
+372	P41719	a protein
+373	P41719	ATP
+374	P41719	a protein
+375	P41720	ATP
+376	P41720	a protein
+377	P41720	ATP
+378	P41720	a protein
+379	P53323	ATP
+380	P53323	a protein
+381	P53323	ATP
+382	P53323	a protein
+383	P53323	ATP
+384	P53323	casein
+385	Q9BXU1	ATP
+386	Q9BXU1	a protein
+387	Q9BXU1	ATP
+388	Q9BXU1	a protein
+389	P32361	ATP
+390	P32361	a protein
+391	P32361	ATP
+392	P32361	a protein
+393	P9WI79	ATP
+394	P9WI79	myelin basic protein
+395	P9WI79	ATP
+396	P9WI79	a protein
+397	P9WI79	ATP
+398	P9WI79	a protein
+399	P9WI79	ATP
+400	P9WI79	histone
+401	P54734	ATP
+402	P54734	a protein
+403	P54734	ATP
+404	P54734	a protein
+405	P54736	ATP
+406	P54736	TEM-beta-lactamase
+407	P54736	ATP
+408	P54736	a protein
+409	P54736	ATP
+410	P54736	a protein
+411	P54737	ATP
+412	P54737	a protein
+413	P54737	ATP
+414	P54737	a protein
+415	P54738	ATP
+416	P54738	a protein
+417	P54738	ATP
+418	P54738	a protein
+419	P54741	ATP
+420	P54741	AfsR
+421	P54741	ATP
+422	P54741	a protein
+423	P54741	ATP
+424	P54741	a protein
+425	P38938	more
+426	Q8WZ42	more
+427	P48736	more
+428	P48736	ATP
+429	P48736	Src protein
+430	P42336	more
+431	P42336	ATP
+432	P42336	AMP-activated protein kinase alpha1
+433	P42336	ATP
+434	P42336	granulocyte macrophage colony stimulating factor receptor
+435	P42336	ATP
+436	P42336	interleukin 3
+437	Q8LP30	ATP
+438	Q8LP30	tomato mosaic virus movement protein
+439	Q709M1	more
+440	Q709M0	more
+441	Q9JJ76	ATP
+442	Q9JJ76	mPer1
+443	Q9JJ75	ATP
+444	Q9JJ75	mPer1
+445	Q9SDY2	more
+446	Q6TQF8	ATP
+447	Q6TQF8	RSK peptide
+448	Q6TQF8	ATP
+449	Q6TQF8	ribosomal protein S6
+450	Q6SA08	ATP
+451	Q6SA08	CREB
+452	Q9BXA6	more
+453	Q9BXA6	ATP
+454	Q9BXA6	myelin basic protein
+455	Q9BXA6	ATP
+456	Q9BXA6	histone H4
+457	Q9BXA6	ATP
+458	Q9BXA6	histone H2A
+459	Q9BXA6	ATP
+460	Q9BXA6	histone H2AX
+461	Q9BXA6	ATP
+462	Q9BXA6	histone H1
+463	Q9BXA6	ATP
+464	Q9BXA6	histone H2B
+465	Q925K9	more
+466	Q925K9	ATP
+467	Q925K9	myelin basic protein
+468	Q925K9	ATP
+469	Q925K9	histone H4
+470	Q925K9	ATP
+471	Q925K9	histone H2A
+472	Q925K9	ATP
+473	Q925K9	histone H2AX
+474	Q925K9	ATP
+475	Q925K9	histone H1
+476	Q925K9	ATP
+477	Q925K9	histone H2B
+478	Q6E0B2	more
+479	Q6E0B2	ATP
+480	Q6E0B2	myelin basic protein
+481	A9P6P9	more
+482	A3QQQ9	more
+483	A3QQQ9	ATP
+484	A3QQQ9	myelin basic protein
+485	A3QQQ9	ATP
+486	A3QQQ9	Trx-His-S-CREB protein
+487	A9P6P7	more
+488	A3QQR1	more
+489	Q61846	ATP
+490	Q61846	apoptosis signal-regulating kinase 1
+491	P9WI71	ATP
+492	P9WI71	EmbR
+493	Q924X7	ATP
+494	Q924X7	vimentin
+495	Q8NU97	ATP
+496	Q8NU97	PknG
+497	Q8NM29	ATP
+498	Q8NM29	OdhI
+499	O66844	ATP
+500	O66844	AaSTPK
+501	O66844	ATP
+502	O66844	CPS.A subunit
+503	O66844	GTP
+504	O66844	AaSTPK
+505	O66844	GTP
+506	O66844	CPS.A subunit
+507	Q15208	ATP
+508	Q15208	CDC25A
+509	Q15208	ATP
+510	Q15208	KKRNRRLSVA
+511	Q15208	ATP
+512	Q15208	Cdc25A
+513	P9WI63	ATP
+514	P9WI63	Rv2175
+515	P9WI83	ATP
+516	P9WI83	UDP-N-acetylmuramoyl-L-alanine:D-glutamate ligase
+517	O30245	more
+518	O30245	ATP
+519	O30245	myelin basic protein
+520	O30245	ATP
+521	O30245	alpha-casein
+522	O30245	ATP
+523	O30245	histone
+524	O14965	ATP
+525	O14965	protein
+526	Q9ZSA2	ATP
+527	Q9ZSA2	syntide2
+528	Q9ZSA2	ATP
+529	Q9ZSA2	histone
+530	O28471	ATP
+531	O28471	a protein
+532	O28471	ATP
+533	O28471	a protein
+534	Q6PHR2	more
+535	Q6PHR2	ATP
+536	Q6PHR2	Gli1 protein
+537	Q6PHR2	ATP
+538	Q6PHR2	Gli2 protein
+539	Q6PHR2	ATP
+540	Q6PHR2	Gli3 protein
+541	Q97ZY9	ATP
+542	Q97ZY9	casein
+543	Q97ZY9	ATP
+544	Q97ZY9	reduced carboxymethylated lysozyme
+545	Q97ZY9	ATP
+546	Q97ZY9	a protein
+547	Q97ZY9	ATP
+548	Q97ZY9	a protein
+549	Q9RRH3	more
+550	Q9RRH3	ATP
+551	Q9RRH3	PprA
+552	Q9RRH3	ATP
+553	Q9RRH3	PprA protein
+554	Q9RRH3	ATP
+555	Q9RRH3	maltose binding protein
+556	M1R341	ATP
+557	M1R341	a protein
+558	M1R341	ATP
+559	M1R341	a protein
+560	Q9D411	ATP
+561	Q9D411	Cre-responsive element modulator
+562	Q9D411	ATP
+563	Q9D411	Crem protein
+564	P53667	more
+565	P53667	ATP
+566	P53667	protein
+567	P74297	ATP
+568	P74297	myelin basic protein
+569	P74297	ATP
+570	P74297	GroES protein
+571	P74297	ATP
+572	P74297	a protein
+573	P74297	ATP
+574	P74297	a protein
+575	P74297	ATP
+576	P74297	histone H1
+577	P54735	ATP
+578	P54735	myelin basic protein
+579	P54735	ATP
+580	P54735	GroES protein
+581	P54735	ATP
+582	P54735	a protein
+583	P54735	ATP
+584	P54735	a protein
+585	P54735	ATP
+586	P54735	histone H1
+587	P73515	more
+588	P73515	ATP
+589	P73515	myelin basic protein
+590	P73515	ATP
+591	P73515	GroES protein
+592	P73515	ATP
+593	P73515	histone H1
+594	P73515	ATP
+595	P73515	a protein
+596	P73515	ATP
+597	P73515	a protein
+598	P73515	ATP
+599	P73515	histone H1
+600	M1R338	more
+601	M1R338	ATP
+602	M1R338	a protein
+603	M1R338	ATP
+604	M1R338	a protein
+605	M1QEG4	more
+606	M1QEG4	ATP
+607	M1QEG4	a protein
+608	M1QEG4	ATP
+609	M1QEG4	a protein
+610	M1RFK9	more
+611	M1RFK9	ATP
+612	M1RFK9	a protein
+613	M1RFK9	ATP
+614	M1RFK9	a protein
+615	M1RNN3	more
+616	M1RNN3	ATP
+617	M1RNN3	a protein
+618	M1RNN3	ATP
+619	M1RNN3	a protein
+620	M1R969	more
+621	M1R969	ATP
+622	M1R969	a protein
+623	M1R969	ATP
+624	M1R969	a protein
+625	Q9ZNB6	more
+626	Q9ZNB6	ATP
+627	Q9ZNB6	KbpA
+628	Q9ZNB6	ATP
+629	Q9ZNB6	KbpA protein
+630	Q13315	more
+631	Q13315	ATP
+632	Q13315	rapamycin
+633	P53668	more
+634	P53668	ATP
+635	P53668	protein
+636	Q13535	more
+637	Q13535	ATP
+638	Q13535	rapamycin
+639	P78527	more
+640	P78527	ATP
+641	P78527	rapamycin
+642	A0A0F6PAW6	ATP
+643	A0A0F6PAW6	a protein
+644	A0A0F6PAW6	ATP
+645	A0A0F6PAW6	a protein
+646	Q96Q15	more
+647	Q96Q15	ATP
+648	Q96Q15	rapamycin
+649	Q8W5G9	more
+650	Q8W5G9	ATP
+651	Q8W5G9	RNP29
+652	Q8W5G9	ATP
+653	Q8W5G9	casein
+654	Q8W5G9	GTP
+655	Q8W5G9	RNP29
+656	Q9DC28	ATP
+657	Q9DC28	AKAP450
+658	O64816	ATP
+659	O64816	WheIF4B protein
+660	M1R344	more
+661	M1R344	ATP
+662	M1R344	a protein
+663	M1R344	ATP
+664	M1R344	a protein
+665	O13310	more
+666	P11792	more
+667	Q9Z2A0	ATP
+668	Q9Z2A0	protein kinase Czeta
+669	Q9WVC6	more
+670	O00141	more
+671	P31749	more
+672	P31749	ATP
+673	P31749	histone H1
+674	P31749	ATP
+675	P31749	Ac-RPRAASF
+676	P31749	ATP
+677	P31749	glycogen synthase kinase-3 (GSK-3) fusion protein
+678	Q9Y243	ATP
+679	Q9Y243	glycogen synthase kinase-3 (GSK-3) fusion protein
+680	O42626	more
+681	O48963	more
+682	O48963	ATP
+683	O48963	protein
+684	P12688	more
+685	P18961	more
+686	P67999	ATP
+687	P67999	S6 protein of the 40s ribosomal subunit
+688	P21901	more
+689	P22204	more
+690	P31751	more
+691	P31751	ATP
+692	P31751	glycogen synthase kinase-3 (GSK-3) fusion protein
+693	P32328	more
+694	P38679	more
+695	P42818	more
+696	P42818	ATP
+697	P42818	plant ribosomal proteins
+698	P47196	more
+699	P51812	more
+700	Q06226	more
+701	Q09013	more
+702	Q60823	more
+703	Q62101	ATP
+704	Q62101	protein
+705	Q63484	ATP
+706	Q63484	protein
+707	Q9UK32	more
+708	Q9Z1M4	more
+709	O59790	more
+710	O59790	ATP
+711	O59790	histone H3
+712	O59790	ATP
+713	O59790	histone H3
+714	P11801	ATP
+715	P11801	protein
+716	P24719	more
+717	P38991	more
+718	P50526	more
+0	P33973	ATP
+1	P33973	a protein
+2	Q14164	ATP
+3	Q14164	STAT1 transcription factor
+4	Q14164	ATP
+5	Q14164	interferon regulatory factor 3
+6	Q60680	ATP
+7	Q60680	a protein
+8	Q15111	ATP
+9	Q15111	[IkappaB protein]
+10	O14920	ATP
+11	O14920	[IkappaB protein]
+12	O14920	ATP
+13	O14920	IkappaBalpha
+14	O14920	ATP
+15	O14920	[biotinylated IkappaBa peptide]
+16	O14920	ATP
+17	O14920	p65/RelA
+18	O14920	ATP
+19	O14920	a protein
+20	O15111	ATP
+21	O15111	IkappaBalpha
+22	O15111	ATP
+23	O15111	p65/RelA
+24	O15111	ATP
+25	O15111	a protein
+26	O15111	ATP
+27	O15111	IkappaB alpha
+28	O88351	ATP
+29	O88351	a protein
+0	P17612	more
+1	P17612	ATP
+2	P17612	AID protein
+3	P17612	ATP
+4	P17612	CFTR protein
+5	P17612	ATP
+6	P17612	CREb protein
+7	P17612	ATP
+8	P17612	GRK2 protein
+9	P17612	ATP
+10	P17612	GSK3 protein
+11	P17612	ATP
+12	P17612	HSL protein
+13	P17612	ATP
+14	P17612	KCNN2 protein
+15	P17612	ATP
+16	P17612	NFAT2 protein
+17	P17612	ATP
+18	P17612	VASP protein
+19	P17612	ATP
+20	P17612	bAD protein
+21	P17612	ATP
+22	P17612	calpain 2
+23	P25321	ATP
+24	P25321	a protein
+25	P34099	more
+26	P05132	more
+27	P05132	ATP
+28	P05132	a protein
+29	P05132	ATP
+30	P05132	kemptide
+31	P05132	ATP
+32	P05132	SP20 protein
+33	P05132	ATP
+34	P05132	Kemptide
+35	P05132	ATP
+36	P05132	a protein
+37	Q6ZXJ1	ATP
+38	Q6ZXJ1	phosphatase inhibitor PKI
+39	Q7K6A0	more
+40	Q7KQK0	more
+41	A0A068EPY7	ATP
+42	A0A068EPY7	a protein
+43	P61925	ATP
+44	P61925	SP20 protein
+0	P00516	more
+1	P00516	ATP
+2	P00516	protein
+3	Q13976	more
+4	Q13976	ATP
+5	Q13976	a protein
+6	P32023	more
+7	Q13237	more
+8	Q13237	ATP
+9	Q13237	Rab11 protein
+10	Q13237	ATP
+11	Q13237	VASP protein
+12	Q61410	ATP
+13	Q61410	glycogen synthase kinase-3beta
+14	P0C605	more
+15	P0C605	ATP
+16	P0C605	protein
+17	Q869J9	more
+18	Q8MMZ8	more
+19	Q8MMP4	more
+20	Q8SSX4	more
+0	P68404	more
+1	P28867	more
+2	Q9BZL6	ATP
+3	Q9BZL6	histone H1
+4	O19111	more
+5	P04409	more
+6	P05129	more
+7	P05129	ATP
+8	P05129	PKC-alpha-derived peptide
+9	P05129	ATP
+10	P05129	FKKQGSFAKKK
+11	P05771	ATP
+12	P05771	FKKQGSFAKKK
+13	P09215	more
+14	P09215	ATP
+15	P09215	insulin receptor substrate-1
+16	P09217	more
+17	P09217	ATP
+18	P09217	insulin receptor substrate-3
+19	P09217	ATP
+20	P09217	insulin receptor substrate-4
+21	P09217	ATP
+22	P09217	insulin receptor substrate-1
+23	P16054	more
+24	P17252	ATP
+25	P17252	FKKQGSFAKKK
+26	P17252	ATP
+27	P17252	ADAM17
+28	P20444	more
+29	P23298	more
+30	P24583	more
+31	P24723	ATP
+32	P24723	FKKQGSFAKKK
+33	P41743	ATP
+34	P41743	FKKQGSFAKKK
+35	P41743	ATP
+36	P41743	myelin basic protein
+37	P43057	more
+38	P43057	ATP
+39	P43057	myelin basic protein
+40	Q02156	ATP
+41	Q02156	FKKQGSFAKKK
+42	Q02156	ATP
+43	Q02156	ADAM17
+44	Q04759	more
+45	Q04759	ATP
+46	Q04759	FKKQGSFAKKK
+47	Q05513	more
+48	Q05513	ATP
+49	Q05513	FKKQGSFAKKK
+50	Q05513	ATP
+51	Q05513	ADAM17
+52	Q05655	more
+53	Q05655	ATP
+54	Q05655	FKKQGSFAKKK
+55	Q05655	ATP
+56	Q05655	ADAM17
+57	Q15139	more
+58	Q15139	ATP
+59	Q15139	protein
+60	Q16512	ATP
+61	Q16512	protein
+62	Q16513	ATP
+63	Q16513	protein
+64	Q62074	ATP
+65	Q62074	protein
+66	Q62074	ATP
+67	Q62074	Par-3
+68	Q63433	ATP
+69	Q63433	S6-(229-239) peptide
+70	Q63433	ATP
+71	Q63433	ribosomal protein S6-(229-239) peptide analogue
+72	Q64617	ATP
+73	Q64617	histone IIIS
+74	Q1H8W8	more
+75	Q1H8W8	ATP
+76	Q1H8W8	histone H1-IIIS
+77	M5AWX6	ATP
+78	M5AWX6	beta-catenin
+0	P28327	ATP
+1	P28327	protein
+2	P28327	ATP
+3	P28327	rhodopsin TM5
+4	P28327	more
+5	P28327	ATP
+6	P28327	rhodopsin
+7	P28327	ATP
+8	P28327	rhodopsin
+9	P28327	ATP
+10	P28327	rhodopsin
+11	Q15835	ATP
+12	Q15835	rhodopsin
+13	Q15835	ATP
+14	Q15835	rhodopsin
+15	Q15835	ATP
+16	Q15835	rhodopsin
+17	Q63651	ATP
+18	Q63651	rhodopsin
+19	Q63651	ATP
+20	Q63651	rhodopsin
+21	Q63651	ATP
+22	Q63651	rhodopsin
+23	Q8WTQ7	more
+24	O73685	ATP
+25	O73685	rhodopsin
+26	O73685	ATP
+27	O73685	rhodopsin
+28	O97020	ATP
+29	O97020	rhodopsin
+30	O97020	ATP
+31	O97020	rhodopsin
+32	Q9N2R0	ATP
+33	Q9N2R0	rhodopsin
+34	Q9N2R0	ATP
+35	Q9N2R0	rhodopsin
+36	Q49HM9	ATP
+37	Q49HM9	cone opsin
+38	Q49HM9	more
+39	Q49HM9	ATP
+40	Q49HM9	opsin
+41	Q49HM8	ATP
+42	Q49HM8	cone opsin
+43	Q49HM8	more
+44	Q1XHM0	ATP
+45	Q1XHM0	opsin
+46	Q49HN0	ATP
+47	Q49HN0	opsin
+48	Q1XHL7	ATP
+49	Q1XHL7	opsin
+0	P21146	more
+1	P21146	ATP
+2	P21146	rhodopsin
+3	P21146	ATP
+4	P21146	G protein-coupled receptor
+5	P21146	ATP
+6	P21146	[beta-adrenergic receptor]
+7	P25098	more
+8	P25098	ATP
+9	P25098	alpha1D-adrenergic receptor
+10	P25098	tubulin
+11	P25098	ATP
+12	P25098	ATP
+13	P25098	protein
+14	P25098	ATP
+15	P25098	protein
+16	P26817	more
+17	P26817	ATP
+18	P26817	beta-adrenergic receptor
+19	P26818	ATP
+20	P26818	protein
+21	P26818	ATP
+22	P26818	protein
+23	P26819	more
+24	P26819	ATP
+25	P26819	beta-adrenergic receptor
+26	P26819	ATP
+27	P26819	alpha1-adrenergic receptor
+28	P26819	ATP
+29	P26819	beta1-adrenergic receptor
+30	P35626	ATP
+31	P35626	calcium-sensing receptor
+32	P35626	ATP
+33	P35626	rhodopsin
+34	P35626	ATP
+35	P35626	beta-adrenergic receptor
+36	P32866	more
+37	O97627	more
+38	O97627	ATP
+39	O97627	dopamine D1 receptor
+40	Q3UYH7	more
+0	Q62833	more
+1	O70293	more
+2	Q8VEB1	more
+3	Q8VEB1	ATP
+4	Q8VEB1	alpha1-adrenergic receptor
+5	Q8VEB1	ATP
+6	Q8VEB1	[G-protein-coupled receptor]
+7	Q99MK8	ATP
+8	Q99MK8	ATP
+9	Q99MK8	G protein-coupled receptor
+10	P32298	more
+11	P32298	ATP
+12	P32298	rhodopsin
+13	P32298	ATP
+14	P32298	[G-protein-coupled receptor]
+15	P32298	ATP
+16	P32298	activated form of G protein-coupled receptors
+17	P34947	more
+18	P34947	ATP
+19	P34947	[G-protein-coupled receptor]
+20	P34947	ATP
+21	P34947	[beta2-adrenergic receptor]
+22	P34947	ATP
+23	P34947	moesin
+24	P34947	ATP
+25	P34947	rhodopsin
+26	P43249	ATP
+27	P43249	rhodopsin
+28	P43249	ATP
+29	P43249	[G-protein-coupled receptor]
+30	P43249	ATP
+31	P43249	protein
+32	P43249	ATP
+33	P43249	beta 2-adrenergic receptor
+34	P43250	more
+35	P43250	ATP
+36	P43250	rhodopsin
+37	P43250	ATP
+38	P43250	beta 2-adrenergic receptor
+0	P08413	ATP
+1	P08413	syntide-2
+2	P08414	ATP
+3	P08414	Notch1 protein
+4	P11275	more
+5	P11275	ATP
+6	P11275	protein kinase G
+7	P11275	ATP
+8	P11275	protein
+9	P11275	ATP
+10	P11275	cAMP-response element binding protein
+11	P11730	more
+12	P11798	ATP
+13	P11798	syntide-2
+14	P11798	ATP
+15	P11798	autocamtide-2
+16	P15791	more
+17	P15791	ATP
+18	P15791	voltage-gated calcium channel beta1b subunit
+19	P15791	ATP
+20	P15791	voltage-gated calcium channel beta2a subunit
+21	P15791	ATP
+22	P15791	voltage-gated calcium channel beta3 subunit
+23	P15791	ATP
+24	P15791	voltage-gated calcium channel beta4 subunit
+25	Q00168	ATP
+26	Q00168	protein
+27	Q13554	ATP
+28	Q13554	biotinylated Thr-Arg-Ser-Ala-Ile-Arg-Arg-Ala-Ser-Thr-Ile-Glu-Met-Pro-Gln-Gln-Ala-Arg Gln
+29	Q13554	ATP
+30	Q13554	phospholamban
+31	Q13557	ATP
+32	Q13557	biotinylated Thr-Arg-Ser-Ala-Ile-Arg-Arg-Ala-Ser-Thr-Ile-Glu-Met-Pro-Gln-Gln-Ala-Arg Gln
+33	Q13557	ATP
+34	Q13557	eukaryotic translation initiation factor 4B
+35	Q13557	ATP
+36	Q13557	stress-induced phosphoprotein 1
+37	Q13557	ATP
+38	Q13557	histone deacetylase 5
+39	Q13557	ATP
+40	Q13557	phospholamban
+41	Q14012	more
+42	Q14012	ATP
+43	Q14012	synapsin I
+44	Q16566	more
+45	Q16566	ATP
+46	Q16566	a protein
+47	Q16566	ATP
+48	Q16566	synapsin I
+49	Q24210	more
+50	Q63450	ATP
+51	Q63450	protein
+52	Q63450	ATP
+53	Q63450	beta-Pak-interacting exchange factor
+54	Q9P7I2	more
+55	Q923T9	more
+56	Q923T9	ATP
+57	Q923T9	Emi2
+58	Q923T9	ATP
+59	Q923T9	protein ERK
+60	Q923T9	ATP
+61	Q923T9	protein CREB
+62	Q9UQM7	ATP
+63	Q9UQM7	biotinylated Thr-Arg-Ser-Ala-Ile-Arg-Arg-Ala-Ser-Thr-Ile-Glu-Met-Pro-Gln-Gln-Ala-Arg Gln
+64	Q9UQM7	ATP
+65	Q9UQM7	phospholamban
+66	Q7TNJ7	more
+67	Q7TNJ7	ATP
+68	Q7TNJ7	YLRRRLSDSNF
+69	Q8AYR3	more
+70	Q8AYR3	ATP
+71	Q8AYR3	syntide-2
+72	Q84ZT8	more
+73	Q84ZT8	ATP
+74	Q84ZT8	histone IIIS
+75	Q84ZT8	ATP
+76	Q84ZT8	syntide-2
+77	Q84ZT8	ATP
+78	Q84ZT8	syntide-2 peptide
+79	Q8IU85	more
+80	Q8IU85	ATP
+81	Q8IU85	syntide-2
+82	Q8WSQ3	more
+83	Q8WSQ3	ATP
+84	Q8WSQ3	myosin II light chain
+85	Q00LS5	more
+86	Q13555	more
+87	Q13555	ATP
+88	Q13555	biotinylated Thr-Arg-Ser-Ala-Ile-Arg-Arg-Ala-Ser-Thr-Ile-Glu-Met-Pro-Gln-Gln-Ala-Arg Gln
+89	Q13555	ATP
+90	Q13555	STAT3
+91	Q13555	ATP
+92	Q13555	phospholamban
+93	O77708	ATP
+94	O77708	histone deacetylase 5
+95	Q568I9	more
+96	Q568I9	ATP
+97	Q568I9	syntide-2
+98	Q568I9	ATP
+99	Q568I9	histone H1
+100	Q568I9	ATP
+101	Q568I9	myelin basic protein
+102	O62305	ATP
+103	O62305	syntide-2
+104	O62305	ATP
+105	O62305	autocamtide-2
+106	Q96RR4	ATP
+107	Q96RR4	Ca2+/calmodulin-dependent protein kinase I
+108	Q96RR4	ATP
+109	Q96RR4	Ca2+/calmodulin-dependent protein kinase IV
+0	P07313	ATP
+1	P07313	myosin light chain
+2	P11799	ATP
+3	P11799	myosin light chain
+4	P11799	more
+5	P11799	ATP
+6	P11799	[non-muscle heavy meromyosin IIB]
+7	P11799	ATP
+8	P11799	[non-muscle regulatory light chain]
+9	P11799	ATP
+10	P11799	[smooth muscle heavy meromyosin]
+11	P11799	ATP
+12	P11799	[smooth muscle regulatory light chain]
+13	P11799	ATP
+14	P11799	myosin light chain
+15	P11799	ATP
+16	P11799	[myosin light chain]
+17	P20689	ATP
+18	P20689	myosin light chain
+19	P20689	more
+20	P20689	ATP
+21	P20689	myosin light chain
+22	P25323	ATP
+23	P25323	myosin light chain
+24	P25323	more
+25	P25323	ATP
+26	P25323	Dictyostelium myosin
+27	P25323	ATP
+28	P25323	[myosin II light chain]
+29	P25323	ATP
+30	P25323	kemptamide
+31	P25323	ATP
+32	P25323	myosin
+33	P25323	ATP
+34	P25323	myosin II
+35	P25323	ATP
+36	P25323	protein
+37	P25323	ATP
+38	P25323	myosin light chain
+39	P29294	ATP
+40	P29294	myosin light chain
+41	Q15746	ATP
+42	Q15746	myosin light chain
+43	Q15746	more
+44	Q15746	ATP
+45	Q15746	TRPC5 channel
+46	Q15746	ATP
+47	Q15746	myosin light chain
+48	Q15746	ATP
+49	Q15746	[myosin light chain]
+50	Q28824	ATP
+51	Q28824	myosin light chain
+52	Q28824	more
+53	Q28824	ATP
+54	Q28824	myosin light chain
+55	Q9H1R3	more
+56	Q9H1R3	ATP
+57	Q9H1R3	TRPC5 channel
+58	O02827	ATP
+59	O02827	myosin light chain
+60	O02827	more
+61	Q6PDN3	more
+62	Q6PDN3	ATP
+63	Q6PDN3	myosin light chain 2
+64	Q6PDN3	ATP
+65	Q6PDN3	[myosin light chain]
+66	D3ZFU9	ATP
+67	D3ZFU9	[myosin light chain]
+68	P18666	ATP
+69	P18666	[myosin light chain]
+70	Q3UIZ8	ATP
+71	Q3UIZ8	[myosin light chain]
+0	P00518	ATP
+1	P00518	glycogen phosphorylase b
+2	P13286	more
+3	P15735	more
+4	P31325	ATP
+5	P31325	protein
+6	Q16816	ATP
+7	Q16816	phosphorylase b
+8	Q16816	more
+9	Q9VYV7	more
+10	Q64649	more
+11	P46020	ATP
+12	P46020	phosphorylase b
+13	P46020	more
+14	P18688	glycogen phosphorylase b
+15	P18688	ATP
+16	Q9W6R1	glycogen phosphorylase b
+17	Q9W6R1	ATP
+18	P34335	glycogen phosphorylase b
+19	P34335	ATP
+20	P46019	more
+21	A2WRR1	glycogen phosphorylase b
+22	A2WRR1	ATP
+23	Q4S8G1	glycogen phosphorylase b
+24	Q4S8G1	ATP
+25	P12798	glycogen phosphorylase b
+26	P12798	ATP
+27	Q171G3	glycogen phosphorylase b
+28	Q171G3	ATP
+29	P18688	more
+30	P18688	2 ATP
+31	P18688	glycogen phosphorylase b
+32	P18688	2 ATP
+33	P18688	phosphorylase b
+34	Q93100	2 ATP
+35	Q93100	glycogen phosphorylase b
+0	Q16654	ATP
+1	Q16654	[pyruvate dehydrogenase (lipoamide)]
+2	Q16654	ATP
+3	Q16654	SMAD1/5/8 protein
+4	Q16654	ATP
+5	Q16654	[pyruvate dehydrogenase (acetyl-transferring)]
+6	Q16654	ATP
+7	Q16654	[pyruvate dehydrogenase (acetyl-transferring)]
+8	Q16654	ATP
+9	Q16654	Ac-YHGHSMSDPGVSYR
+10	Q63065	ATP
+11	Q63065	[pyruvate dehydrogenase (lipoamide)]
+12	Q63065	more
+13	O02623	ATP
+14	O02623	[pyruvate dehydrogenase (lipoamide)]
+15	O02623	more
+16	Q9SBJ1	ATP
+17	Q9SBJ1	[pyruvate dehydrogenase (lipoamide)]
+18	Q9SBJ1	more
+19	Q9SBJ1	ATP
+20	Q9SBJ1	pyruvate dehydrogenase
+21	Q9SBJ1	ATP
+22	Q9SBJ1	pyruvate dehydrogenase
+23	C1IHT9	ATP
+24	C1IHT9	[pyruvate dehydrogenase (acetyl-transferring)]
+25	C1IHT9	ATP
+26	C1IHT9	[pyruvate dehydrogenase (acetyl-transferring)]
+27	Q64536	ATP
+28	Q64536	pyruvate dehydrogenase
+29	Q64536	ATP
+30	Q64536	pyruvate dehydrogenase
+31	Q15118	more
+32	Q15118	ATP
+33	Q15118	[pyruvate dehydrogenase (acetyl-transferring)]
+34	Q15118	ATP
+35	Q15118	[pyruvate dehydrogenase (acetyl-transferring)]
+36	Q15118	ATP
+37	Q15118	PDHA1
+38	Q15118	ATP
+39	Q15118	[pyruvate dehydrogenase A1 (acetyl-transferring)]
+40	Q15120	ATP
+41	Q15120	[pyruvate dehydrogenase (acetyl-transferring)]
+42	Q15120	ATP
+43	Q15120	[pyruvate dehydrogenase (acetyl-transferring)]
+44	I1RE83	ATP
+45	I1RE83	[pyruvate dehydrogenase (acetyl-transferring)]
+46	I1RE83	ATP
+47	I1RE83	[pyruvate dehydrogenase (acetyl-transferring)]
+48	Q15119	ATP
+49	Q15119	[pyruvate dehydrogenase (acetyl-transferring)]
+50	Q15119	ATP
+51	Q15119	[pyruvate dehydrogenase (acetyl-transferring)]
+0	O08796	ATP
+1	O08796	[eukaryotic translation elongation factor 2]
+2	O08796	more
+3	O08796	ATP
+4	O08796	[elongation factor 2]
+5	O08796	ATP
+6	O08796	MH-1 peptide
+7	O08796	ATP
+8	O08796	a protein
+9	P70531	ATP
+10	P70531	[elongation factor 2]
+11	P70531	ATP
+12	P70531	a protein
+13	Q9QZ05	ATP
+14	Q9QZ05	[eukaryotic translation initiation factor 2]
+15	P15442	ATP
+16	P15442	[eukaryotic translation initiation factor 2]
+17	O00418	more
+18	O00418	ATP
+19	O00418	[elongation factor 2]
+20	O00418	ATP
+21	O00418	N-myc downstream-regulated gene 1 protein
+22	O00418	ATP
+23	O00418	PEST proteolytic signal-containing nuclear protein
+24	O00418	ATP
+25	O00418	SAP domain-containing ribonucleoprotein
+26	O00418	ATP
+27	O00418	U4/U6 small nuclear ribonucleoprotein Prp31
+28	O00418	ATP
+29	O00418	acetyl-RKKYKFNEDTERRRFL-amide
+30	O00418	ATP
+31	O00418	cortactin
+32	O00418	ATP
+33	O00418	heat shock protein 60
+34	O00418	ATP
+35	O00418	hematological and neurological expressed 1-like protein
+36	O00418	ATP
+37	O00418	heterogeneous nuclear ribonucleoprotein A1
+38	O00418	ATP
+39	O00418	immunoglobulin-binding protein 1
+40	O00418	ATP
+41	O00418	microtubule-associated protein 4
+42	O00418	ATP
+43	O00418	prothymosin alpha
+44	O00418	ATP
+45	O00418	scaffold attachment factor B2
+46	O00418	ATP
+47	O00418	MH-1 peptide
+48	O00418	ATP
+49	O00418	a protein
+50	O01991	ATP
+51	O01991	a protein
+0	Q60806	more
+1	Q9H4B4	ATP
+2	Q9H4B4	protein
+3	Q9H4B4	ATP
+4	Q9H4B4	a protein
+5	Q9H4B4	more
+6	Q9H4B4	ATP
+7	Q9H4B4	Cdc25A
+8	Q9H4B4	ATP
+9	Q9H4B4	casein
+10	Q9H4B4	ATP
+11	Q9H4B4	PLKtide
+12	Q9H4B4	ATP
+13	Q9H4B4	cJun peptide
+14	Q9H4B4	ATP
+15	Q9H4B4	Cdc25C
+16	Q9H4B4	ATP
+17	Q9H4B4	p53
+18	P32562	ATP
+19	P32562	protein
+20	P32562	more
+21	P32562	ATP
+22	P32562	Mus81-Mms4 resolvase
+23	P32562	ATP
+24	P32562	Nud1
+25	P32562	ATP
+26	P32562	Slk19
+27	P32562	ATP
+28	P32562	Stu2
+29	P32562	ATP
+30	P32562	casein
+31	P34331	more
+32	P50528	more
+33	P52304	ATP
+34	P52304	protein
+35	P52304	more
+36	P52304	ATP
+37	P52304	Cdc25
+38	P53350	ATP
+39	P53350	protein
+40	P53350	ATP
+41	P53350	a protein
+42	P53350	more
+43	P53350	ATP
+44	P53350	PLKtide
+45	P53350	ATP
+46	P53350	cJun peptide
+47	P53350	ATP
+48	P53350	Brd4
+49	P53350	ATP
+50	P53350	Ect2
+51	P53350	ATP
+52	P53350	HsCdc14A
+53	P53350	ATP
+54	P53350	Pin1
+55	P53350	ATP
+56	P53350	Plk1 polo box 1-derived peptide
+57	P53350	ATP
+58	P53350	SCFFbw7 ubiquitin ligase
+59	P53350	ATP
+60	P53350	SYK tyrosine kinase
+61	P53350	ATP
+62	P53350	gammaBD of IKKbeta
+63	P53350	ATP
+64	P53350	protein MAVS
+65	P53350	ATP
+66	P53350	viral phosphoprotein P
+67	P53350	ATP
+68	P53350	centromeric protein PBIP1
+69	P53350	ATP
+70	P53350	BubR1
+71	P53350	ATP
+72	P53350	casein
+73	P53350	ATP
+74	P53350	Cdc25C
+75	P53350	ATP
+76	P53350	p53
+77	P53351	ATP
+78	P53351	a protein
+79	Q07832	more
+80	Q64702	more
+81	Q9R012	more
+82	Q62673	more
+83	O00444	more
+84	O00444	ATP
+85	O00444	TPSDSLIYDDGLS
+86	Q9NYY3	ATP
+87	Q9NYY3	a protein
+88	Q9NYY3	more
+89	Q9NYY3	ATP
+90	Q9NYY3	PLKtide
+91	Q9NYY3	ATP
+92	Q9NYY3	cJun peptide
+93	Q9NYY3	ATP
+94	Q9NYY3	BubR1
+95	Q9NYY3	ATP
+96	Q9NYY3	53BP1
+97	Q9NYY3	ATP
+98	Q9NYY3	CENP-Q
+99	Q9NYY3	ATP
+100	Q9NYY3	CLASP
+101	Q9NYY3	ATP
+102	Q9NYY3	PBIP1
+103	Q9NYY3	ATP
+104	Q9NYY3	mitotic centromere-associated kinesin
+105	Q9NYY3	ATP
+106	Q9NYY3	Cdc25C
+107	Q6DRK7	ATP
+108	Q6DRK7	protein
+109	Q6DRK7	ATP
+110	Q6DRK7	casein
+111	Q4KMI8	ATP
+112	Q4KMI8	protein
+113	Q4KMI8	ATP
+114	Q4KMI8	5FAM-RALMEASFADQAR-NH2
+115	Q5UES2	ATP
+116	Q5UES2	a protein
+117	Q00444	ATP
+118	Q00444	a protein
+119	Q4FZD7	ATP
+120	Q4FZD7	a protein
+121	O97143	more
+0	Q04859	more
+1	Q05006	more
+2	Q07785	ATP
+3	Q07785	casein
+4	Q07785	ATP
+5	Q07785	histone H1
+6	Q15131	more
+7	Q15131	ATP
+8	Q15131	protein
+9	Q63699	more
+10	Q9NYV4	ATP
+11	Q9NYV4	polymerase II C-terminal domain
+12	Q9W739	more
+13	P43568	ATP
+14	P43568	cyclin-dependent kinase
+15	P11837	ATP
+16	P11837	protein
+17	Q8GVD8	more
+18	Q8GVD7	more
+19	Q9JHU3	more
+20	P97377	ATP
+21	P97377	retinoblastoma protein
+22	Q8W4P1	ATP
+23	Q8W4P1	RNA polymerase II
+24	Q14004	ATP
+25	Q14004	polymerase II C-terminal domain
+26	O76039	more
+27	O35831	ATP
+28	O35831	protein
+29	P04551	more
+30	P04551	ATP
+31	P04551	protein
+32	P06242	more
+33	P06493	ATP
+34	P06493	SIRT2
+35	P06493	ATP
+36	P06493	promyelocytic leukemia zinc finger
+37	P06493	ATP
+38	P06493	histone H1
+39	P11440	more
+40	P11440	ATP
+41	P11440	RNA polymerase II
+42	P11802	more
+43	P17157	more
+44	P17157	ATP
+45	P17157	Gcn4 protein
+46	P17157	ATP
+47	P17157	Glc8 protein
+48	P17157	ATP
+49	P17157	Gsy2 protein
+50	P17157	ATP
+51	P17157	Pho4 protein
+52	P17157	ATP
+53	P17157	Rga2 protein
+54	P17157	ATP
+55	P17157	Rim 15 protein
+56	P17157	ATP
+57	P17157	Rvs167 protein
+58	P17157	ATP
+59	P17157	Sic1 protein
+60	P17157	ATP
+61	P17157	Whi5 G1 protein
+62	P20793	more
+63	P20794	more
+64	P20911	more
+65	P21127	more
+66	P21127	ATP
+67	P21127	histone H1
+68	P23437	more
+69	P24033	ATP
+70	P24033	histone H1
+71	P24100	more
+72	P24788	more
+73	P24941	ATP
+74	P24941	promyelocytic leukemia zinc finger
+75	P24941	ATP
+76	P24941	histone H1
+77	P24941	ATP
+78	P24941	RNA polymerase II
+79	P25859	more
+80	P30285	more
+81	P32581	more
+82	P34117	more
+83	P34556	more
+84	P35567	ATP
+85	P35567	cdk2
+86	P35567	ATP
+87	P35567	cdc2
+88	P35567	ATP
+89	P35567	cdc2-like protein
+90	P36615	more
+91	P38973	more
+92	P39951	more
+93	P43294	more
+94	P49336	more
+95	P49615	ATP
+96	P49615	amphiphysin I
+97	P49615	ATP
+98	P49615	dynamin I
+99	P49615	ATP
+100	P49615	high-molecular-weight neurofilament
+101	P49615	ATP
+102	P49615	microtubule-associated tau
+103	P49615	ATP
+104	P49615	pre-synaptic P/Q-type voltage-dependent calcium channel
+105	P49615	ATP
+106	P49615	synaptojanin I
+107	P50613	more
+108	P50613	ATP
+109	P50613	protein
+110	P50613	ATP
+111	P50613	steroidogenic factor 1
+112	P50750	more
+113	P50750	ATP
+114	P50750	histone H1
+115	P50750	ATP
+116	P50750	RNA polymerase II
+117	P51166	ATP
+118	P51166	neuronal cytoskeletal protein NF-H
+119	P51166	ATP
+120	P51166	neuronal cytoskeletal protein tau
+121	P51166	ATP
+122	P51166	neuronal cytoskeletal proteins NF-M
+123	P54665	more
+124	P54666	more
+125	Q00535	ATP
+126	Q00535	tau protein
+127	Q00535	ATP
+128	Q00535	histone 1
+129	Q00535	ATP
+130	Q00535	huntingtin
+131	Q00535	ATP
+132	Q00535	PKTPKKAKKL
+133	Q01917	more
+134	Q02399	ATP
+135	Q02399	protein
+136	Q03114	ATP
+137	Q03114	parkin
+138	Q03147	ATP
+139	Q03147	protein
+140	Q03147	ATP
+141	Q03147	steroidogenic factor 1
+142	Q03957	ATP
+143	Q03957	RNA polymerase II largest subunit
+144	Q04735	ATP
+145	Q04735	protein
+0	Q9H4B4	ATP
+1	Q9H4B4	[DNA-directed RNA polymerase II]
+2	P23293	ATP
+3	P23293	[DNA-directed RNA polymerase II]
+4	P23293	ATP
+5	P23293	[DNA-directed RNA polymerase]
+6	P23293	ATP
+7	P23293	C-terminal domain of RNA polymerase II
+8	P23293	more
+9	P06242	ATP
+10	P06242	[DNA-directed RNA polymerase II]
+11	P06242	ATP
+12	P06242	[DNA-directed RNA polymerase]
+13	P06242	ATP
+14	P06242	C-terminal domain of RNA polymerase II
+15	P06242	more
+16	P39073	ATP
+17	P39073	[DNA-directed RNA polymerase II]
+18	P39073	ATP
+19	P39073	[DNA-directed RNA polymerase]
+20	P39073	more
+21	P49336	ATP
+22	P49336	[DNA-directed RNA polymerase II]
+23	P50613	ATP
+24	P50613	[DNA-directed RNA polymerase II]
+25	P50613	ATP
+26	P50613	RNA polymerase II C-terminal subunit
+27	P50613	more
+28	P50750	ATP
+29	P50750	[DNA-directed RNA polymerase II]
+30	P50750	ATP
+31	P50750	RNA polymerase II C-terminal subunit
+32	P50750	more
+33	Q03957	ATP
+34	Q03957	[DNA-directed RNA polymerase II]
+35	Q03957	ATP
+36	Q03957	[DNA-directed RNA polymerase]
+37	Q03957	ATP
+38	Q03957	C-terminal domain of RNA polymerase II
+39	Q03957	ATP
+40	Q03957	RNA polymerase II C-terminal domain
+41	Q03957	more
+42	Q9NYV4	ATP
+43	Q9NYV4	[DNA-directed RNA polymerase]
+44	Q9VT57	ATP
+45	Q9VT57	[DNA-directed RNA polymerase II]
+46	Q9VT57	more
+47	Q96WV9	ATP
+48	Q96WV9	[DNA-directed RNA polymerase II]
+49	Q96WV9	more
+50	O14098	ATP
+51	O14098	[DNA-directed RNA polymerase II]
+52	O14098	more
+53	Q9VP22	ATP
+54	Q9VP22	[DNA-directed RNA polymerase]
+55	Q9VP22	more
+56	Q14004	ATP
+57	Q14004	[DNA-directed RNA polymerase]
+58	Q14004	ATP
+59	Q14004	GST-tagged yCTD fusion protein
+60	Q9ESU6	ATP
+61	Q9ESU6	[DNA-directed RNA polymerase]
+62	Q9ESU6	more
+63	Q9USJ8	ATP
+64	Q9USJ8	[DNA-directed RNA polymerase]
+65	Q9USJ8	more
+66	Q24216	ATP
+67	Q24216	[DNA-directed RNA polymerase II]
+68	Q24216	more
+69	Q12126	ATP
+70	Q12126	[DNA-directed RNA polymerase II]
+71	Q12126	more
+0	A9UJZ9	ATP
+1	A9UJZ9	MK2
+2	A1ED58	ATP
+3	A1ED58	MK2
+4	A1ED59	ATP
+5	A1ED59	MK2
+6	Q16539	more
+7	Q16539	ATP
+8	Q16539	ATF2
+9	Q16539	ATP
+10	Q16539	a protein
+11	Q16539	ATP
+12	Q16539	MAPKAPK2
+13	Q9M6R8	more
+14	B1VK40	ATP
+15	B1VK40	myelin basic protein
+16	B1VK39	ATP
+17	B1VK39	myelin basic protein
+18	P53778	more
+19	P53778	ATP
+20	P53778	Lin-1
+21	P53778	ATP
+22	P53778	a protein
+23	P53778	ATP
+24	P53778	c-Jun
+25	O44408	ATP
+26	O44408	GLH-1
+27	O15264	more
+28	O15264	ATP
+29	O15264	MAPKAP kinase-2
+30	O15264	ATP
+31	O15264	MAPKAP kinase-3
+32	O15264	ATP
+33	O15264	transcription factor ATF2
+34	O15264	ATP
+35	O15264	transcription factor Elk-1
+36	O15264	ATP
+37	O15264	transcription factor SAP-1
+38	O42099	more
+39	O61443	more
+40	O62618	more
+41	P14681	more
+42	P14681	ATP
+43	P14681	Ste50
+44	P16892	more
+45	P21708	more
+46	P21708	ATP
+47	P21708	protein
+48	P26696	more
+49	P27361	more
+50	P27361	ATP
+51	P27361	protein
+52	P27361	ATP
+53	P27361	focal adhesion kinase
+54	P27638	more
+55	P63085	ATP
+56	P63085	Elk-1
+57	P63085	ATP
+58	P63085	Net
+59	P28482	more
+60	P28482	ATP
+61	P28482	focal adhesion kinase
+62	P32485	more
+63	P32485	ATP
+64	P32485	Ste50
+65	P40417	more
+66	P41808	more
+67	P42525	more
+68	P42525	ATP
+69	P42525	myelin basic protein
+70	P45983	more
+71	P45983	ATP
+72	P45983	a protein
+73	P45983	ATP
+74	P45983	ATF2
+75	P45983	ATP
+76	P45983	c-Jun
+77	P45983	ATP
+78	P45983	Elk-1
+79	P45983	ATP
+80	P45983	Net
+81	P45983	ATP
+82	P45983	c-Jun activation domain
+83	P45984	more
+84	P45984	ATP
+85	P45984	ATF2
+86	P45984	ATP
+87	P45984	c-Jun
+88	P45984	ATP
+89	P45984	Elk-1
+90	P45984	ATP
+91	P45984	Net
+92	P45984	ATP
+93	P45984	c-Jun activation domain
+94	P47811	more
+95	P47811	ATP
+96	P47811	a protein
+97	P47811	ATP
+98	P47811	protein ATF2
+99	P47812	more
+100	P49185	ATP
+101	P49185	protein
+102	P49186	ATP
+103	P49186	protein
+104	P49187	ATP
+105	P49187	protein
+106	P53779	more
+107	P53779	ATP
+108	P53779	a protein
+109	P53779	ATP
+110	P53779	ATF-2
+111	P53779	ATP
+112	P53779	protein
+113	P53779	ATP
+114	P53779	c-Jun
+115	P53779	ATP
+116	P53779	Bcl-2
+117	P53779	ATP
+118	P53779	protein APP
+119	P92208	more
+120	P92208	ATP
+121	P92208	transcription factor Djun
+122	Q00772	more
+123	Q07176	more
+124	Q09892	more
+125	Q13164	more
+126	Q15759	more
+127	Q15759	ATP
+128	Q15759	Elk-1
+129	Q15759	ATP
+130	Q15759	Net
+131	Q15759	ATP
+132	Q15759	MAPKAPK2
+133	Q39023	more
+134	Q39023	ATP
+135	Q39023	myelin basic protein
+136	Q39023	N6-benzyl-ATPgammaS
+137	Q39023	myelin basic protein
+138	Q39023	ATPgammaS
+139	Q39023	myelin basic protein
+140	Q39023	ATP
+141	Q39023	Arabidopsis thaliana protein AT1G7815
+142	Q39023	ATP
+143	Q39023	Arabidopsis thaliana protein AT2G26530
+144	Q39023	ATP
+145	Q39023	Arabidopsis thaliana protein AT3G11330
+146	Q39023	ATP
+147	Q39023	Arabidopsis thaliana protein AT4G38710
+148	Q39024	more
+149	Q39024	ATP
+150	Q39024	myelin basic protein
+151	Q39024	ATPgammaS
+152	Q39024	myelin basic protein
+153	Q39026	more
+154	Q39026	ATP
+155	Q39026	myelin basic protein
+156	Q39026	ATPgammaS
+157	Q39026	myelin basic protein
+158	Q39026	ATP
+159	Q39026	Arabidopsis thaliana protein AT1G7815
+160	Q39026	ATP
+161	Q39026	Arabidopsis thaliana protein AT2G26530
+162	Q39026	ATP
+163	Q39026	Arabidopsis thaliana protein AT3G11330
+164	Q39026	ATP
+165	Q39026	Arabidopsis thaliana protein AT4G38710
+166	Q39026	ATP
+167	Q39026	BES1
+168	Q39026	ATP
+169	Q39026	EB1c
+170	Q39026	ATP
+171	Q39026	MAP65-1
+172	Q40353	ATP
+173	Q40353	myelin basic protein
+174	Q40517	ATP
+175	Q40517	protein
+176	Q40517	ATP
+177	Q40517	myelin basic protein
+178	Q40531	ATP
+179	Q40531	protein
+180	Q40531	ATP
+181	Q40531	myelin basic protein
+182	Q40532	ATP
+183	Q40532	protein
+184	Q40532	ATP
+185	Q40532	myelin basic protein
+186	Q61532	ATP
+187	Q61532	protein
+188	Q61831	more
+189	Q8WQG9	more
+190	Q91Y86	more
+191	Q92207	more
+192	Q92246	more
+193	Q92398	more
+194	Q9DGD9	more
+195	Q9DGE1	more
+196	Q9DGE2	more
+197	Q9WTU6	more
+198	Q9WTY9	more
+199	P63086	more
+200	P63086	ATP
+201	P63086	c-Jun
+202	P63086	ATP
+203	P63086	Elk1
+204	P63086	ATP
+205	P63086	phospholipase C-gamma1
+206	Q8J1Y8	more
+0	O08648	more
+1	O08648	ATP
+2	O08648	protein
+3	O14299	ATP
+4	O14299	protein
+5	O14299	ATP
+6	O14299	Atf1
+7	O14299	ATP
+8	O14299	Sty1
+9	O14299	ATP
+10	O14299	Wis1
+11	O74304	ATP
+12	O74304	protein
+13	O74304	ATP
+14	O74304	Atf1
+15	O74304	ATP
+16	O74304	Sty1
+17	O74304	ATP
+18	O74304	Wis1
+19	O95382	ATP
+20	O95382	MKK4
+21	O95382	ATP
+22	O95382	JNK
+23	O95382	ATP
+24	O95382	p38
+25	O95382	ATP
+26	O95382	MKK6
+27	O95382	ATP
+28	O95382	ASK1
+29	P23561	ATP
+30	P23561	protein
+31	P28829	ATP
+32	P28829	protein
+33	P53349	ATP
+34	P53349	protein
+35	P53349	ATP
+36	P53349	c-Jun
+37	Q10407	ATP
+38	Q10407	protein
+39	Q99759	ATP
+40	Q99759	a protein
+41	Q6RFY4	more
+42	Q6RFY3	more
+43	Q7XTK4	more
+44	Q7XTK4	ATP
+45	Q7XTK4	MKK3
+46	Q6VAB6	more
+47	Q6VAB6	ATP
+48	Q6VAB6	MKK6
+49	Q6VAB6	ATP
+50	Q6VAB6	MEK1
+51	Q6VAB6	ATP
+52	Q6VAB6	MKK7
+53	Q6VAB6	ATP
+54	Q6VAB6	MEK2
+55	Q39008	more
+56	Q39008	ATP
+57	Q39008	MKK1
+58	Q39008	ATP
+59	Q39008	MKK2
+60	Q39008	ATP
+61	Q39008	myelin basic protein
+62	Q39008	ATP
+63	Q39008	MPK4
+64	Q62073	ATP
+65	Q62073	Ror2
+66	Q9WTR2	ATP
+67	Q9WTR2	ASK1
+68	F4HVH9	more
+69	I7FWY1	ATP
+70	I7FWY1	BcSak1
+71	Q13233	ATP
+72	Q13233	tristetraprolin
+73	A0A0U1XFE3	ATP
+74	A0A0U1XFE3	MKK6
+75	A0A0U1XFE3	ATP
+76	A0A0U1XFE3	MKK3
+77	O81472	more
+78	A0A0U1XFB1	ATP
+79	A0A0U1XFB1	MKK6
+80	A0A0U1XFB1	ATP
+81	A0A0U1XFB1	MKK3
+82	V9LY75	more
+83	V9LY75	ATP
+84	V9LY75	a protein
+85	V9LYK6	more
+86	V9LYK6	ATP
+87	V9LYK6	a protein
+88	F4K645	more
+89	Q5TCX8	ATP
+90	Q5TCX8	IKKalpha
+0	P18431	more
+1	P49841	ATP
+2	P49841	protein tau
+3	P49841	ATP
+4	P49841	DIWKKFELLPTPPLSPSRRSG
+5	P49841	ATP
+6	P49841	DIWKKFELVPSPPTSPPWGL
+7	P49841	ATP
+8	P49841	EEPQTVPEMPGETPPLSPIDMESQER
+9	P49841	ATP
+10	P49841	FXVEXTPXCFSRXSSLSSLS
+11	P49841	ATP
+12	P49841	LLNASGSTSTPAPSRTASFSESR
+13	P49841	ATP
+14	P49841	SPPLSPIDMETQER
+15	P49841	ATP
+16	P49841	SPVVSGDT(P)SPR
+17	P49841	ATP
+18	P49841	TPPKSPSAAK
+19	P49841	ATP
+20	P49841	[amyloid precursor protein]
+21	P49841	protein tau
+22	P49841	ATP
+23	P49841	glycogen synthase
+24	P49841	ATP
+25	P49841	more
+26	P49841	ATP
+27	P49841	[tau-protein]
+28	P49841	ATP
+29	P49841	beta-catenin
+30	P18265	glycogen synthase
+31	P18265	ATP
+32	P18265	more
+33	P18266	ATP
+34	P18266	protein tau
+35	P18266	glycogen synthase
+36	P18266	ATP
+37	P18266	ATP
+38	P18266	protein PHF-1 (Ser396/404)
+39	P18266	more
+40	P18266	ATP
+41	P18266	[tau-protein]
+42	P21965	ATP
+43	P21965	protein
+44	P21965	more
+45	P38615	more
+46	P51136	ATP
+47	P51136	glycogen synthase
+48	P51136	more
+49	Q39012	more
+50	Q3UVR3	more
+51	Q3UVR3	ATP
+52	Q3UVR3	[tau-protein]
+53	Q3UVR3	ATP
+54	Q3UVR3	CEP164
+55	Q3UVR3	ATP
+56	Q3UVR3	CEP97
+57	Q3UVR3	ATP
+58	Q3UVR3	TDP-43
+59	Q3UVR3	ATP
+60	Q3UVR3	tubulin
+61	Q9WV60	ATP
+62	Q9WV60	protein tau
+63	Q9WV60	ATP
+64	Q9WV60	[tau-protein]
+65	Q6IQ55	more
+66	Q6IQ55	ATP
+67	Q6IQ55	[tau-protein]
+68	Q6IQ55	ATP
+69	Q6IQ55	CEP164
+70	Q6IQ55	ATP
+71	Q6IQ55	CEP97
+72	Q6IQ55	ATP
+73	Q6IQ55	TDP-43
+74	Q6IQ55	ATP
+75	Q6IQ55	tubulin
+76	Q5TCY1	ATP
+77	Q5TCY1	[tau-protein]
+78	P49840	more
+79	P49840	ATP
+80	P49840	[tau-protein]
+81	Q2NL51	ATP
+82	Q2NL51	[tau-protein]
+83	Q5EG47	ATP
+84	Q5EG47	[tau-protein]
+0	Q5EG47	ATP
+1	Q5EG47	[acetyl-CoA carboxylase]
+0	P36897	more
+1	P36897	ATP
+2	P36897	Smad2
+3	P36897	ATP
+4	P36897	Smad3
+5	P36897	ATP
+6	P36897	[TGF-beta receptor I]
+7	P36897	ATP
+8	P36897	KMGSPSVRCS(P)SMS
+9	P37023	more
+10	P80204	more
+11	P80204	ATP
+12	P80204	Smad2
+13	P80204	ATP
+14	P80204	Smad3
+0	P54645	more
+1	P54645	ATP
+2	P54645	[peptide HMRSAMSGLHLVKRR]
+3	Q09137	more
+4	Q09137	ATP
+5	Q09137	[peptide HMRSAMSGLHLVKRR]
+6	Q13131	more
+7	Q13131	ATP
+8	Q13131	3-mercaptopyruvate sulfurtransferase
+9	Q13131	ATP
+10	Q13131	DNA damage-binding protein 1
+11	Q13131	ATP
+12	Q13131	S-formylglutathione hydrolase
+13	Q13131	ATP
+14	Q13131	acylamino-acid-releasing enzyme
+15	Q13131	ATP
+16	Q13131	adenylate kinase isoenzyme 1
+17	Q13131	ATP
+18	Q13131	band 3 anion transport protein
+19	Q13131	ATP
+20	Q13131	beta actin
+21	Q13131	ATP
+22	Q13131	bisphosphoglycerate mutase
+23	Q13131	ATP
+24	Q13131	carbonic anhydrase 1
+25	Q13131	ATP
+26	Q13131	catalase
+27	Q13131	ATP
+28	Q13131	cytoplasmic malate dehydrogenase
+29	Q13131	ATP
+30	Q13131	dihydropteridine reductase
+31	Q13131	ATP
+32	Q13131	erythrocyte spectrin alpha chain
+33	Q13131	ATP
+34	Q13131	erythrocyte spectrin beta chain
+35	Q13131	ATP
+36	Q13131	flavin reductase
+37	Q13131	ATP
+38	Q13131	glutathione S-transferase omega-1
+39	Q13131	ATP
+40	Q13131	glutathione synthetase
+41	Q13131	ATP
+42	Q13131	peroxiredoxin-2
+43	Q13131	ATP
+44	Q13131	peroxiredoxin-6
+45	Q13131	ATP
+46	Q13131	phosphoglycerate kinase 1
+47	Q13131	ATP
+48	Q13131	phosphoribosylformylglycinamidine synthase
+49	Q13131	ATP
+50	Q13131	proteasome subunit alpha type-1
+51	Q13131	ATP
+52	Q13131	proteasome subunit alpha type-7
+53	Q13131	ATP
+54	Q13131	purine nucleoside phosphorylase
+55	Q13131	ATP
+56	Q13131	selenium binding protein 1
+57	Q13131	ATP
+58	Q13131	thioredoxin-like protein 1
+59	Q13131	ATP
+60	Q13131	transaldolase
+61	Q13131	ATP
+62	Q13131	transferrin
+63	Q13131	ATP
+64	Q13131	ubiquitin carboxyl-terminal hydrolase 13
+65	Q13131	ATP
+66	Q13131	ubiquitin carboxyl-terminal hydrolase 14
+67	Q13131	ATP
+68	Q13131	ubiquitin carboxyl-terminal hydrolase 5
+69	Q13131	ATP
+70	Q13131	ubiquitin-activating enzyme E1
+71	Q13131	ATP
+72	Q13131	valosin-containing protein
+73	Q13131	ATP
+74	Q13131	biotin-GGHMRSAMSGLHLVKRR-NH2
+75	P80386	more
+76	P80386	ATP
+77	P80386	[peptide HMRSAMSGLHLVKRR]
+78	P80385	more
+79	P80385	ATP
+80	P80385	[peptide HMRSAMSGLHLVKRR]
+81	Q04739	more
+82	Q04739	ATP
+83	Q04739	Mig2 protein
+84	Q04739	ATP
+85	Q04739	Mig1 protein
+86	Q13131	ATP
+87	Q13131	ubiquitin ligase Nedd4-2
+88	P54646	ATP
+89	P54646	Cy5-SAMS peptide
+90	Q13131	ATP
+91	Q13131	biotin-GGHMRSAMSGLHLVKRR-NH2
+92	P32578	more
+93	P32578	ATP
+94	P32578	Mig1 protein
+95	P34164	more
+96	P34164	ATP
+97	P34164	Mig1 protein
+0	O49562	pyruvate, phosphate dikinase
+1	O49562	ADP
+2	Q9MAC9	pyruvate, phosphate dikinase
+3	Q9MAC9	ADP
+4	O23404	pyruvate, phosphate dikinase
+5	O23404	ADP
+0	Q00972	more
+1	Q00972	ATP
+2	Q00972	[3-methyl-2-oxobutanoate dehydrogenase (acetyl-transferring)]
+3	Q00972	ATP
+4	Q00972	[branched-chain keto-acid dehydrogenase (acetyl-transferring)]
+5	Q14874	ATP
+6	Q14874	[3-methyl-2-oxobutanoate dehydrogenase (acetyl-transferring)]
+7	O55028	ATP
+8	O55028	[3-methyl-2-oxobutanoate dehydrogenase (acetyl-transferring)]
+9	O55028	ATP
+10	O55028	[branched-chain a-keto acid dehydrogenase (acetyl-transferring)]
+0	P08200	ATP
+1	P08200	[isocitrate dehydrogenase (NADP+)]
+2	P08200	ATP
+3	P08200	[isocitrate dehydrogenase (NADP+)]
+4	P11071	ATP
+5	P11071	[isocitrate dehydrogenase (NADP+)]
+6	P11071	ATP
+7	P11071	[isocitrate dehydrogenase (NADP+)]
+8	Q63Y16	ATP
+9	Q63Y16	[isocitrate dehydrogenase (NADP+)]
+10	Q63Y16	ATP
+11	Q63Y16	[isocitrate dehydrogenase (NADP+)]
+12	Q8X607	ATP
+13	Q8X607	[isocitrate dehydrogenase (NADP+)]
+14	Q8X607	ATP
+15	Q8X607	[isocitrate dehydrogenase (NADP+)]
+16	Q8X607	more
+0	O76739	ATP
+1	O76739	casein
+2	O76739	ATP
+3	O76739	myosin II heavy chain
+4	O76739	more
+5	O76739	ATP
+6	O76739	RKKFGESEKTKTKEFL-amide
+7	O76739	ATP
+8	O76739	caldesmon
+9	O76739	ATP
+10	O76739	myelin basic protein
+11	O76739	ATP
+12	O76739	myosin regulatory light chain
+13	Q8MY12	ATP
+14	Q8MY12	myosin II heavy chain
+15	P42527	ATP
+16	P42527	casein
+17	P42527	ATP
+18	P42527	myosin II heavy chain
+19	P42527	more
+20	P42527	ATP
+21	P42527	myosin heavy chain kinase
+22	P42527	ATP
+23	P42527	[myosin heavy-chain]
+24	P42527	ATP
+25	P42527	RKKFGESEKTKTKEFL-amide
+26	P42527	ATP
+27	P42527	AAYKTKKKK
+28	P42527	ATP
+29	P42527	YAYDTRYRR
+30	P42527	ATP
+31	P42527	[myosin II heavy-chain]
+32	P42527	ATP
+33	P42527	[myosin-heavy-chain]
+34	P42527	ATP
+35	P42527	myelin basic protein
+36	P42527	ATP
+37	P42527	RKKFGESEKTKTKEFL
+38	P42527	ATP
+39	P42527	myosin heavy-chain
+40	P42527	ATP
+41	P42527	caldesmon
+42	P42527	ATP
+43	P42527	myelin basic protein
+44	P42527	ATP
+45	P42527	myosin regulatory light chain
+46	P90648	ATP
+47	P90648	casein
+48	P90648	ATP
+49	P90648	myosin II heavy chain
+50	P90648	more
+51	P90648	ATP
+52	P90648	[myosin heavy-chain]
+53	P90648	ATP
+54	P90648	RKKFGESEKTKTKEFL-amide
+55	P90648	ATP
+56	P90648	RKKFGESEKTKTKEFL
+57	P90648	ATP
+58	P90648	myosin heavy-chain
+59	P90648	ATP
+60	P90648	caldesmon
+61	P90648	ATP
+62	P90648	myelin basic protein
+63	P90648	ATP
+64	P90648	myosin regulatory light chain
+65	P90648	ATP
+66	P90648	MH1 peptide
+67	P34125	ATP
+68	P34125	myosin heavy chain kinase
+69	Q869N2	more
+70	Q869N2	ATP
+71	Q869N2	myosin heavy chain kinase
+72	Q869N2	ATP
+73	Q869N2	myosin I heavy chain
+74	Q869N2	ATP
+75	Q869N2	AKRVSMMR
+76	Q869N2	ATP
+77	Q869N2	GRSARVSTYA
+78	Q93107	more
+79	Q93107	ATP
+80	Q93107	myosin I heavy chain
+81	Q93107	ATP
+82	Q93107	GRGRSSVYS
+0	Q14296	ATP
+1	Q14296	[Fas-activated serine/threonine protein]
+2	Q14296	more
+3	Q14296	ATP
+4	Q14296	TIA-1
+5	Q14296	ATP
+6	Q14296	TIA-1
+7	Q9JIX9	ATP
+8	Q9JIX9	[Fas-activated serine/threonine protein]
+9	Q9NYY8	ATP
+10	Q9NYY8	[Fas-activated serine/threonine protein]
+0	Q9EQG9	ATP
+1	Q9EQG9	[Goodpasture antigen-binding protein]
+2	Q9EQG9	more
+3	Q9Y5P4	ATP
+4	Q9Y5P4	[Goodpasture antigen-binding protein]
+5	Q9Y5P4	more
+6	Q9Y5P4	ATP
+7	Q9Y5P4	goodpasture antigen
+8	Q9Y5P4	ATP
+9	Q9Y5P4	membrane type IV collagen
+10	Q5M7Y0	ATP
+11	Q5M7Y0	[Goodpasture antigen-binding protein]
+12	Q5M7Y0	more
+0	P18160	more
+1	P18160	ATP
+2	P18160	protein tyrosine
+3	P43405	ATP
+4	P43405	a protein
+5	P43405	more
+6	P43405	ATP
+7	P43405	adaptor protein SH2 domain-containing leukocyte protein
+8	P43405	ATP
+9	P43405	immunglobulin-alpha
+10	P22216	more
+11	P22216	ATP
+12	P22216	protein
+13	P32350	more
+14	Q9Y463	ATP
+15	Q9Y463	a protein
+16	Q9Y463	ATP
+17	Q9Y463	SR protein
+18	Q9Y463	ATP
+19	Q9Y463	RRRFRPASPLRGPPK
+20	O35491	ATP
+21	O35491	protein
+22	O35491	ATP
+23	O35491	SR protein
+24	O35491	ATP
+25	O35491	SR protein
+26	O35492	ATP
+27	O35492	protein
+28	O35492	ATP
+29	O35492	SR protein
+30	O35492	ATP
+31	O35492	SR protein
+32	O35493	ATP
+33	O35493	protein
+34	O35493	ATP
+35	O35493	SR protein
+36	O35493	ATP
+37	O35493	SR protein
+38	O43781	ATP
+39	O43781	PRAS40
+40	O43781	ATP
+41	O43781	S6K1
+42	P14680	ATP
+43	P14680	myelin basic protein
+44	P14680	ATP
+45	P14680	protein
+46	P14680	ATP
+47	P14680	SR protein
+48	P14680	ATP
+49	P14680	Pop2p
+50	P22518	ATP
+51	P22518	SR protein
+52	P22518	ATP
+53	P22518	Ser/Arg-rich splicing factors
+54	P49657	ATP
+55	P49657	SR protein
+56	P49760	ATP
+57	P49760	protein
+58	Q13627	ATP
+59	Q13627	a protein
+60	Q13627	more
+61	Q13627	ATP
+62	Q13627	SR protein
+63	Q13627	ATP
+64	Q13627	RRRFRPASPLRGPPK
+65	Q61214	ATP
+66	Q61214	a protein
+67	Q61214	more
+68	Q61214	ATP
+69	Q61214	SR protein
+70	Q61214	ATP
+71	Q61214	extracellular MAP kinase kinase
+72	Q61214	ATP
+73	Q61214	extracellular signal-regulated kinase
+74	Q61214	ATP
+75	Q61214	neurodegeneration-related septin 4
+76	Q63117	more
+77	Q63117	ATP
+78	Q63117	protein
+79	Q63117	ATP
+80	Q63117	SR protein
+81	Q63470	ATP
+82	Q63470	a protein
+83	Q63470	more
+84	Q63470	ATP
+85	Q63470	protein
+86	Q63470	ATP
+87	Q63470	SR protein
+88	Q63470	ATP
+89	Q63470	histone
+90	Q63470	ATP
+91	Q63470	serine/arginine-rich protein 55
+92	Q92630	ATP
+93	Q92630	protein
+94	P33981	more
+95	P33981	ATP
+96	P33981	protein
+97	P35761	more
+98	P35761	ATP
+99	P35761	myelin basic protein
+100	P35761	ATP
+101	P35761	protein
+102	P54199	more
+103	P54199	ATP
+104	P54199	protein
+105	P49762	ATP
+106	P49762	protein
+107	P51566	more
+108	Q9Z188	ATP
+109	Q9Z188	peptide DYRKtide
+110	Q8GV30	more
+111	Q8GV28	more
+112	Q8GV29	more
+113	Q922Y0	more
+114	A0A0G4DBZ7	ATP
+115	A0A0G4DBZ7	a protein
+116	A0A0G4DBZ7	more
+117	Q9NR20	ATP
+118	Q9NR20	a protein
+119	Q9NR20	more
+120	Q9NR20	ATP
+121	Q9NR20	RRRFRPASPLRGPPK
+122	Q9NR20	ATP
+123	Q9NR20	RRARKLTATPTPLGG
+124	Q9NR20	ATP
+125	Q9NR20	biotin-Ttds-TPGSRSRTPSLPT
+126	Q9NR20	ATP
+127	Q9NR20	biotin-Ttds-VGLLKLASPELER
+128	Q8BI55	ATP
+129	Q8BI55	a protein
+130	Q8BI55	more
+131	Q8BI55	ATP
+132	Q8BI55	RRRFRPASPLRGPPK
+133	Q8BI55	ATP
+134	Q8BI55	RRARKLTATPTPLGG
+135	Q8BI55	ATP
+136	Q8BI55	biotin-Ttds-TPGSRSRTPSLPT
+137	Q8BI55	ATP
+138	Q8BI55	biotin-Ttds-VGLLKLASPELER
+139	Q8RWH3	more
+140	Q8RWH3	ATP
+141	Q8RWH3	RNA binding family protein
+142	Q8RWH3	ATP
+143	Q8RWH3	annexin 1
+144	Q8RWH3	ATP
+145	Q8RWH3	annexin 2
+146	Q8RWH3	ATP
+147	Q8RWH3	annexin 4
+0	O09110	ATP
+1	O09110	protein
+2	O14733	more
+3	O14733	ATP
+4	O14733	protein
+5	O14733	ATP
+6	O14733	JNK
+7	O14733	ATP
+8	O14733	JNK1
+9	O14733	ATP
+10	O14733	p38
+11	O14733	ATP
+12	O14733	JNK
+13	O14733	ATP
+14	O14733	c-Jun N-terminal kinase
+15	O35099	ATP
+16	O35099	protein
+17	P06784	ATP
+18	P06784	protein
+19	P08018	ATP
+20	P08018	protein
+21	P10506	ATP
+22	P10506	protein
+23	P31938	ATP
+24	P31938	protein
+25	P31938	ATP
+26	P31938	Erk-1 gene product
+27	P31938	ATP
+28	P31938	[ERK2 substrate peptide]
+29	P31938	ATP
+30	P31938	[myelin basic protein substrate peptide]
+31	P31938	ATP
+32	P31938	myelin basic protein kinase
+33	P32490	ATP
+34	P32490	protein
+35	P32491	ATP
+36	P32491	protein
+37	P33886	ATP
+38	P33886	protein
+39	P36507	ATP
+40	P36507	a protein
+41	P36507	ATP
+42	P36507	ERK1
+43	P36507	ATP
+44	P36507	ERK2
+45	P41892	ATP
+46	P41892	protein
+47	P45985	more
+48	P45985	ATP
+49	P45985	protein
+50	P45985	ATP
+51	P45985	p38
+52	P45985	ATP
+53	P45985	JNK
+54	P0CY25	ATP
+55	P0CY25	protein
+56	P46734	ATP
+57	P46734	protein
+58	P46734	ATP
+59	P46734	p38 MAP kinase
+60	P47809	more
+61	P47809	ATP
+62	P47809	JNK
+63	P47809	ATP
+64	P47809	p38
+65	P47809	ATP
+66	P47809	JNK
+67	P52564	more
+68	P52564	ATP
+69	P52564	protein
+70	P52564	ATP
+71	P52564	a protein
+72	P52564	ATP
+73	P52564	p38 MAP kinase
+74	P52564	ATP
+75	P52564	K53M-[p38alpha]
+76	P52564	ATP
+77	P52564	p38
+78	P52564	ATP
+79	P52564	p38/MPK2 kinase
+80	P52564	ATP
+81	P52564	p38alpha
+82	Q01986	ATP
+83	Q01986	protein
+84	Q01986	ATP
+85	Q01986	p42 MAP kinase
+86	Q02750	more
+87	Q02750	ATP
+88	Q02750	protein
+89	Q02750	ATP
+90	Q02750	a protein
+91	Q02750	ATP
+92	Q02750	ERK1
+93	Q02750	ATP
+94	Q02750	ERK2
+95	Q02750	ATP
+96	Q02750	K52R-[ERK2]
+97	Q02750	ATP
+98	Q02750	MyoD
+99	Q05116	ATP
+100	Q05116	protein
+101	Q05116	ATP
+102	Q05116	MAP kinase
+103	Q10664	ATP
+104	Q10664	protein
+105	Q10664	ATP
+106	Q10664	MAP kinase ERK1
+107	Q13163	ATP
+108	Q13163	protein
+109	Q23977	ATP
+110	Q23977	protein
+111	Q61083	ATP
+112	Q61083	protein
+113	Q61084	ATP
+114	Q61084	protein
+115	Q63932	ATP
+116	Q63932	protein
+117	Q64303	ATP
+118	Q64303	protein
+119	Q90891	ATP
+120	Q90891	protein
+121	Q99078	ATP
+122	Q99078	protein
+123	Q99683	ATP
+124	Q99683	protein
+125	Q99683	ATP
+126	Q99683	MKK4
+127	Q99759	more
+128	Q99759	ATP
+129	Q99759	protein
+130	Q9Y884	more
+131	Q9Y884	ATP
+132	Q9Y884	protein
+133	Q9GRT1	more
+134	Q9GRT1	ATP
+135	Q9GRT1	myelin basic protein
+136	Q9GRT1	ATP
+137	Q9GRT1	MAP kinase
+138	Q94A06	more
+139	Q5QN75	more
+140	A3FK65	more
+141	Q0Z7Z4	more
+142	A2XE35	more
+143	Q0MSI2	more
+144	Q9S7U9	more
+145	Q8CE90	more
+146	Q8CE90	ATP
+147	Q8CE90	JNK
+148	Q8CE90	ATP
+149	Q8CE90	c-Jun N-terminal kinase
+150	Q8CE90	ATP
+151	Q8CE90	p38
+152	Q8CE90	ATP
+153	Q8CE90	JNK
+154	Q8CE90	ATP
+155	Q8CE90	JNK
+156	A9UK00	ATP
+157	A9UK00	p38
+158	I7FWY1	ATP
+159	I7FWY1	BcSak1
+160	A5A544	more
+161	A3FK65	more
+162	I3RJI6	more
+163	Q0Z7Z4	more
+164	A2XE35	more
+165	S4S5K3	more
+166	S4S5K3	ATP
+167	S4S5K3	GhMPK7
+168	F8THZ4	ATP
+169	F8THZ4	MAP kinase 6
+170	F8THZ4	ATP
+171	F8THZ4	casein
+172	Q8RXG3	ATP
+173	Q8RXG3	myelin basic protein
+174	Q94EV7	more
+175	I3L5D4	ATP
+176	I3L5D4	extracellular regulated kinase 1
+177	I3L5D4	ATP
+178	I3L5D4	extracellular regulated kinase 2
+179	O80396	ATP
+180	O80396	MAP kinase
+0	P18769	more
+1	P18769	protein
+2	P18769	ATP
+3	P20169	more
+4	P21865	more
+5	P0AEC3	ArcA
+6	P0AEC3	ATP
+7	P0AEC3	protein
+8	P0AEC3	ATP
+9	P23222	more
+10	P27668	more
+11	P27896	more
+12	P29072	more
+13	P29905	more
+14	P30855	EvgA
+15	P30855	ATP
+16	P30855	more
+17	P30855	BvgA
+18	P30855	ATP
+19	P33113	more
+20	P33639	more
+21	P35164	more
+22	P37433	more
+23	P0AEC8	DcuR
+24	P0AEC8	ATP
+25	P0AEC8	more
+26	P0AEC8	protein
+27	P0AEC8	ATP
+28	P39453	TorR
+29	P39453	ATP
+30	P39453	more
+31	P39664	protein
+32	P39664	ATP
+33	P39928	more
+34	P40719	more
+35	P45608	more
+36	P45609	more
+37	P0C0F6	more
+38	P49333	more
+39	P52687	CitB
+40	P52687	ATP
+41	P52687	more
+42	P0C5S6	more
+43	P54302	more
+44	P72292	more
+45	P77485	more
+46	P77510	more
+47	P96123	more
+48	Q02541	more
+49	P0A4I7	more
+50	Q04804	more
+51	Q04850	more
+52	Q04943	more
+53	Q06067	more
+54	Q06240	ATP
+55	Q06240	a protein
+56	Q07737	ATP
+57	Q07737	a protein
+58	Q08408	ATP
+59	Q08408	a protein
+60	Q08430	ATP
+61	Q08430	a protein
+62	Q44007	ATP
+63	Q44007	a protein
+64	Q45614	ATP
+65	Q45614	a protein
+66	Q45614	ATP
+67	Q45614	YycF
+68	Q45614	more
+69	Q48768	ATP
+70	Q48768	a protein
+71	Q52880	ATP
+72	Q52880	a protein
+73	Q52977	ATP
+74	Q52977	a protein
+75	Q3J6C1	ATP
+76	Q3J6C1	a protein
+77	Q53135	ATP
+78	Q53135	a protein
+79	P0A4I6	ATP
+80	P0A4I6	a protein
+81	Q55168	Rcp1
+82	Q55168	ATP
+83	Q56310	ATP
+84	Q56310	protein L-histidine
+85	Q8X524	more
+86	Q9APE0	more
+87	Q9RQQ9	ATP
+88	Q9RQQ9	a protein
+89	Q9RQQ9	CtrA
+90	Q9RQQ9	ATP
+91	Q9RQQ9	protein
+92	Q9RQQ9	ATP
+93	Q9RZA4	ATP
+94	Q9RZA4	a protein
+95	Q9Z5F5	ATP
+96	Q9Z5F5	protein L-histidine
+97	Q9X180	more
+98	Q9HWR3	more
+99	Q09JB9	more
+100	Q09JB8	more
+101	Q09JB7	more
+102	Q09JB6	more
+103	Q09JB3	more
+104	Q09JB2	more
+105	Q88PG3	more
+106	A0A2P0HDR3	more
+107	A0A2P0HDR3	GTP
+108	A0A2P0HDR3	Spo0F L-histidine
+109	A0A2P0HDR3	GTP
+110	A0A2P0HDR3	protein-L-histidine
+111	Q9S434	more
+112	O25026	more
+113	P0AEC8	more
+114	Q09JB4	more
+115	Q9S1J9	ATP
+116	Q9S1J9	VicR protein L-histidine
+117	O34757	more
+118	O34757	ATP
+119	O34757	protein L-histidine
+120	Q66WP9	ATP
+121	Q66WP9	protein L-histidine
+122	O48929	ATP
+123	O48929	protein L-histidine
+124	P73276	more
+125	P73276	ATP
+126	P73276	protein L-histidine
+127	Q9KZ83	more
+128	Q9KZ83	ATP
+129	Q9KZ83	protein L-histidine
+130	Q9KZ83	ATP
+131	Q9KZ83	DraR L-histidine
+132	O31671	ATP
+133	O31671	protein L-histidine
+134	O31671	ATP
+135	O31671	Spo0A L-histidine
+136	Q8DT64	more
+137	Q8DT64	ATP
+138	Q8DT64	protein L-histidine
+139	Q8DT64	ATP
+140	Q8DT64	VicR L-histidine
+141	Q9ABE3	more
+142	Q9ABE3	ATP
+143	Q9ABE3	protein L-histidine
+144	D3J125	more
+145	O22267	more
+146	Q55586	ATP
+147	Q55586	protein L-histidine
+148	Q9HX42	more
+149	Q9HX42	ATP
+150	Q9HX42	protein L-histidine
+151	G3XD98	more
+152	G3XD98	ATP
+153	G3XD98	protein L-histidine
+154	Q2YKK7	more
+155	Q2YKK7	ATP
+156	Q2YKK7	protein L-histidine
+157	P0DMC6	more
+158	P0AEC7	more
+159	P0AEC7	protein
+160	P0AEC7	ATP
+161	Q47745	more
+162	Q48828	more
+163	P41406	more
+164	I1WSZ3	more
+165	O32193	more
+166	O34206	protein
+167	O34206	ATP
+168	O34427	more
+169	O82436	more
+170	P0AEJ4	more
+171	P0AEJ4	protein
+172	P0AEJ4	ATP
+173	P0AEJ4	ATP
+174	P0AEJ4	histidine kinase EnvZ
+175	P0AEJ4	regulator protein OmpR
+176	P0AEJ4	ATP
+177	P0AFB6	protein
+178	P0AFB6	ATP
+179	P07167	more
+180	P07168	more
+181	P07363	more
+182	P07363	protein
+183	P07363	ATP
+184	P0AE83	more
+185	P08401	more
+186	P08982	more
+187	P09384	more
+188	P09431	more
+189	P09835	more
+190	P10047	more
+191	P10799	more
+192	P10955	more
+193	P13633	more
+194	P0DM80	more
+195	P0DMC5	more
+196	P14377	more
+197	P15939	more
+198	P16497	more
+199	P16497	protein
+200	P16497	ATP
+201	P16575	more
+202	P16575	protein
+203	P16575	ATP
+204	P16575	BvgA
+205	P16575	ATP
+0	P0DMM5	ATP
+1	P0DMM5	[ClpC]-L-arginine
+2	P0DMM5	ATP
+3	P0DMM5	[CtsR]-L-arginine
+4	P0DMM5	ATP
+5	P0DMM5	[CtsR]-L-arginine62
+6	P0DMM5	ATP
+7	P0DMM5	[McsB]-L-arginine
+0	Q9F1X7	ATP
+1	Q9F1X7	acetate
+2	Q9F1X7	ATP
+3	Q9F1X7	acetate
+4	Q5BM21	ATP
+5	Q5BM21	acetate
+6	Q5BM21	ATP
+7	Q5BM21	acetate
+8	Q2N1I6	ATP
+9	Q2N1I6	acetate
+10	Q2N1I6	ATP
+11	Q2N1I6	acetate
+12	P38502	ATP
+13	P38502	acetate
+14	P38502	ATP
+15	P38502	acetate
+16	P38502	ITP
+17	P38502	acetate
+18	P38502	ITP
+19	P38502	acetate
+20	P38502	more
+21	P38502	TTP
+22	P38502	acetate
+23	P38502	TTP
+24	P38502	acetate
+25	P38502	acetyl phosphate
+26	P38502	hydroxylamine
+27	P38502	acetyl phosphate
+28	P38502	hydroxylamine
+29	P38502	ATP
+30	P38502	propionate
+31	P38502	ATP
+32	P38502	propionate
+33	P38502	GTP
+34	P38502	acetate
+35	P38502	GTP
+36	P38502	acetate
+37	P38502	CTP
+38	P38502	acetate
+39	P38502	CTP
+40	P38502	acetate
+41	P38502	UTP
+42	P38502	acetate
+43	P38502	UTP
+44	P38502	acetate
+45	Q9WYB1	ATP
+46	Q9WYB1	acetate
+47	Q9WYB1	ATP
+48	Q9WYB1	acetate
+49	Q9WYB1	acetyl phosphate
+50	Q9WYB1	hydroxylamine
+51	Q9WYB1	acetyl phosphate
+52	Q9WYB1	hydroxylamine
+53	P75245	ATP
+54	P75245	acetate
+55	P75245	ATP
+56	P75245	acetate
+57	P63411	ATP
+58	P63411	acetate
+59	P63411	ATP
+60	P63411	acetate
+61	P63411	ATP
+62	P63411	formate
+63	P63411	ATP
+64	P63411	formate
+65	P63411	ATP
+66	P63411	propionate
+67	P63411	ATP
+68	P63411	propionate
+69	P63411	GTP
+70	P63411	acetate
+71	P63411	GTP
+72	P63411	acetate
+73	P63411	CTP
+74	P63411	acetate
+75	P63411	CTP
+76	P63411	acetate
+77	P63411	UTP
+78	P63411	acetate
+79	P63411	UTP
+80	P63411	acetate
+81	P0CW04	ATP
+82	P0CW04	acetate
+83	P0CW04	ATP
+84	P0CW04	acetate
+85	P0CW05	ATP
+86	P0CW05	acetate
+87	P0CW05	ATP
+88	P0CW05	acetate
+89	A2RNG4	ATP
+90	A2RNG4	acetate
+91	A2RNG4	ATP
+92	A2RNG4	acetate
+93	G4T0C7	ATP
+94	G4T0C7	acetate
+95	G4T0C7	ATP
+96	G4T0C7	acetate
+97	G4T0C7	ADP
+98	G4T0C7	acetyl phosphate
+99	A2RNG5	ATP
+100	A2RNG5	acetate
+101	A2RNG5	ATP
+102	A2RNG5	acetate
+103	P0A6A3	ATP
+104	P0A6A3	acetate
+105	P0A6A3	ATP
+106	P0A6A3	acetate
+107	P0A6A3	more
+108	P0A6A3	acetyl phosphate
+109	P0A6A3	hydroxylamine
+110	P0A6A3	acetyl phosphate
+111	P0A6A3	hydroxylamine
+112	E3W769	ATP
+113	E3W769	acetate
+114	E3W769	ATP
+115	E3W769	acetate
+116	E3W769	acetyl phosphate
+117	E3W769	hydroxylamine
+118	E3W769	acetyl phosphate
+119	E3W769	hydroxylamine
+0	P0A7B5	ATP
+1	P0A7B5	L-glutamate
+2	P32264	ATP
+3	P32264	L-glutamate
+4	Q6E235	ATP
+5	Q6E235	L-glutamate
+0	C4M1C3	diphosphate
+1	C4M1C3	acetate
+2	C4M1C3	diphosphate
+3	C4M1C3	acetate
+4	C4M1C3	phosphate
+5	C4M1C3	acetyl phosphate
+0	O06961	more
+1	O06961	ATP
+2	O06961	acetate
+3	O06961	ATP
+4	O06961	butyrate
+5	O06961	ATP
+6	O06961	propanoate
+7	O06961	CTP
+8	O06961	propanoate
+9	O06961	GTP
+10	O06961	propanoate
+11	O06961	UTP
+12	O06961	propanoate
+0	Q49156	ATP
+1	Q49156	2-phospho-D-glycerate
+0	Q4JAQ2	ATP
+1	Q4JAQ2	an [amino group carrier protein]-C-terminal-N-(1,4-dicarboxybutan-1-yl)-L-glutamine
+0	P0A2X7	ATP
+1	P0A2X7	NH3
+2	P0A2X7	CO2
+3	P0A2X7	ATP
+4	P0A2X7	NH3
+5	P0A2X7	CO2
+6	P0A2X7	ADP
+7	P0A2X7	carbamoyl phosphate
+8	P0A2X7	ADP
+9	P0A2X7	carbamoyl phosphate
+10	P0A2X7	ATP
+11	P0A2X7	NH3
+12	P0A2X7	formate
+13	P0A2X7	ATP
+14	P0A2X7	NH3
+15	P0A2X7	propionate
+16	P0A2X7	ATP
+17	P0A2X7	NH3
+18	P0A2X7	acetate
+19	P0A2X7	ATP
+20	P0A2X7	NH3
+21	P0A2X7	acetate
+22	O96432	ADP
+23	O96432	carbamoyl phosphate
+24	P95474	ATP
+25	P95474	NH3
+26	P95474	CO2
+27	P95474	ATP
+28	P95474	NH3
+29	P95474	CO2
+30	P95474	ADP
+31	P95474	carbamoyl phosphate
+32	P95474	ADP
+33	P95474	carbamoyl phosphate
+34	A8BB85	ADP
+35	A8BB85	carbamoyl phosphate
+36	A8BB85	ADP
+37	A8BB85	carbamoyl phosphate
+38	A8BB85	ATP
+39	A8BB85	carbamate
+40	O97438	ATP
+41	O97438	NH3
+42	O97438	CO2
+43	O97438	ATP
+44	O97438	NH3
+45	O97438	CO2
+46	O97438	more
+47	A0A0H3BY05	ATP
+48	A0A0H3BY05	NH3
+49	A0A0H3BY05	CO2
+50	A0A0H3BY05	ATP
+51	A0A0H3BY05	NH3
+52	A0A0H3BY05	CO2
+53	A0A0H3BY05	ADP
+54	A0A0H3BY05	carbamoyl phosphate
+55	A0A0H3BY05	ADP
+56	A0A0H3BY05	carbamoyl phosphate
+0	Q42961	ATP
+1	Q42961	3-phospho-D-glycerate
+2	Q42961	ATP
+3	Q42961	3-phospho-D-glycerate
+4	Q01655	more
+5	Q01655	ATP
+6	Q01655	3-phospho-D-glycerate
+7	Q01655	ATP
+8	Q01655	3-phospho-D-glycerate
+9	P07205	ATP
+10	P07205	3-phospho-D-glycerate
+11	P07205	ATP
+12	P07205	3-phospho-D-glycerate
+13	Q27683	ATP
+14	Q27683	3-phospho-D-glycerate
+15	Q27683	ATP
+16	Q27683	3-phospho-D-glycerate
+17	P50312	ATP
+18	P50312	3-phospho-D-glycerate
+19	P50312	ATP
+20	P50312	3-phospho-D-glycerate
+21	C1LT16	ATP
+22	C1LT16	3-phospho-D-glycerate
+23	C1LT16	ATP
+24	C1LT16	3-phospho-D-glycerate
+25	Q95PK9	ATP
+26	Q95PK9	3-phospho-D-glycerate
+27	Q95PK9	ATP
+28	Q95PK9	3-phospho-D-glycerate
+29	P61883	ATP
+30	P61883	3-phospho-D-glycerate
+31	P61883	ATP
+32	P61883	3-phospho-D-glycerate
+33	A0A1D3TPD1	more
+34	P61884	ATP
+35	P61884	3-phospho-D-glycerate
+36	P61884	ATP
+37	P61884	3-phospho-D-glycerate
+38	P61884	ATP
+39	P61884	3-phospho-D-glycerate
+40	P61884	ATP
+41	P61884	3-phospho-D-glycerate
+42	P61884	ADP
+43	P61884	3-phospho-D-glyceroyl phosphate
+44	P61884	ADP
+45	P61884	3-phospho-D-glyceroyl phosphate
+46	P61884	ATP
+47	P61884	3-phospho-D-glycerate
+48	P46273	ATP
+49	P46273	3-phospho-D-glycerate
+50	P46273	ATP
+51	P46273	3-phospho-D-glycerate
+52	P00558	ATP
+53	P00558	3-phospho-D-glycerate
+54	P00558	ATP
+55	P00558	3-phospho-D-glycerate
+56	P00558	more
+57	P00558	ATP
+58	P00558	3-phospho-D-glycerate
+59	P00558	ATP
+60	P00558	3-phospho-D-glycerate
+61	P00558	ADP
+62	P00558	3-phospho-D-glyceroyl phosphate
+63	P00558	ADP
+64	P00558	3-phospho-D-glyceroyl phosphate
+65	P00558	ADP
+66	P00558	1,3-bisphosphoglycerate
+67	P00558	D-ADP
+68	P00558	1,3-bisphosphoglycerate
+69	P00558	L-ADP
+70	P00558	1,3-bisphosphoglycerate
+71	Q9RBS3	ATP
+72	Q9RBS3	3-phospho-D-glycerate
+73	Q9RBS3	ATP
+74	Q9RBS3	3-phospho-D-glycerate
+75	P50311	ATP
+76	P50311	3-phospho-D-glycerate
+77	P50311	ATP
+78	P50311	3-phospho-D-glycerate
+79	P00560	ATP
+80	P00560	3-phospho-D-glycerate
+81	P00560	ATP
+82	P00560	3-phospho-D-glycerate
+83	P00560	ADP
+84	P00560	3-phospho-D-glyceroyl phosphate
+85	P00560	ADP
+86	P00560	3-phospho-D-glyceroyl phosphate
+87	Q7SIB7	ATP
+88	Q7SIB7	3-phospho-D-glycerate
+89	Q7SIB7	ATP
+90	Q7SIB7	3-phospho-D-glycerate
+91	P18912	ADP
+92	P18912	3-phospho-D-glyceroyl 1-phosphate
+93	P18912	ADP
+94	P18912	3-phospho-D-glyceroyl 1-phosphate
+95	Q08GC7	ADP
+96	Q08GC7	3-phospho-D-glyceroyl phosphate
+97	Q08GC7	ADP
+98	Q08GC7	3-phospho-D-glyceroyl phosphate
+99	P07378	ADP
+100	P07378	3-phospho-D-glyceroyl phosphate
+101	P07378	ADP
+102	P07378	3-phospho-D-glyceroyl phosphate
+103	P50317	ATP
+104	P50317	3-phospho-D-glycerate
+105	P50317	ATP
+106	P50317	3-phospho-D-glycerate
+107	P20971	ATP
+108	P20971	3-phospho-D-glycerate
+109	P20971	ATP
+110	P20971	3-phospho-D-glycerate
+111	Q95PK8	ATP
+112	Q95PK8	3-phospho-D-glycerate
+113	Q95PK8	ATP
+114	Q95PK8	3-phospho-D-glycerate
+115	A8JC04	ATP
+116	A8JC04	3-phospho-D-glycerate
+117	A8JC04	ATP
+118	A8JC04	3-phospho-D-glycerate
+119	Q6H6C7	ATP
+120	Q6H6C7	3-phospho-D-glycerate
+121	Q6H6C7	ATP
+122	Q6H6C7	3-phospho-D-glycerate
+0	O81852	ATP
+1	O81852	L-aspartate
+2	O81852	ATP
+3	O81852	L-aspartate
+4	Q46133	ATP
+5	Q46133	L-aspartate
+6	Q46133	ATP
+7	Q46133	L-aspartate
+8	Q46133	more
+9	P10869	ATP
+10	P10869	L-aspartate
+11	Q9LYU8	ATP
+12	Q9LYU8	L-aspartate
+13	Q9LYU8	ATP
+14	Q9LYU8	L-aspartate
+15	Q9S702	ATP
+16	Q9S702	L-aspartate
+17	Q9S702	ATP
+18	Q9S702	L-aspartate
+19	P61489	ATP
+20	P61489	L-aspartate
+21	P61489	ATP
+22	P61489	L-aspartate
+23	Q0KJ33	ATP
+24	Q0KJ33	L-aspartate
+25	Q0KJ33	ATP
+26	Q0KJ33	L-aspartate
+27	Q9RUL9	ATP
+28	Q9RUL9	L-aspartate
+29	Q9RUL9	ATP
+30	Q9RUL9	L-aspartate
+31	Q57991	ATP
+32	Q57991	L-aspartate
+33	Q57991	ATP
+34	Q57991	L-aspartate
+35	B0L9J2	ATP
+36	B0L9J2	L-aspartate
+37	B0L9J2	ATP
+38	B0L9J2	L-aspartate
+39	P26512	ATP
+40	P26512	L-aspartate
+41	P26512	ATP
+42	P26512	L-aspartate
+43	O23653	ATP
+44	O23653	L-aspartate
+45	O23653	ATP
+46	O23653	L-aspartate
+47	P74569	ATP
+48	P74569	L-aspartate
+49	P74569	ATP
+50	P74569	L-aspartate
+51	Q97MC0	ATP
+52	Q97MC0	L-aspartate
+53	Q97MC0	ATP
+54	Q97MC0	L-aspartate
+55	P08660	ATP
+56	P08660	L-aspartate
+57	P08660	ATP
+58	P08660	L-aspartate
+59	P08495	ATP
+60	P08495	L-aspartate
+61	P08495	ATP
+62	P08495	L-aspartate
+63	E0AE72	ATP
+64	E0AE72	L-aspartate
+65	E0AE72	ATP
+66	E0AE72	L-aspartate
+67	Q9SA18	ATP
+68	Q9SA18	L-aspartate
+69	Q9SA18	ATP
+70	Q9SA18	L-aspartate
+0	Q9X278	ATP
+1	Q9X278	isobutanoate
+2	Q9X278	ATP
+3	Q9X278	isobutanoate
+4	Q9X278	ATP
+5	Q9X278	butanoate
+6	Q9X278	ATP
+7	Q9X278	butanoate
+0	Q9SCL7	ATP
+1	Q9SCL7	N-acetyl-L-glutamate
+2	Q8P8J6	ATP
+3	Q8P8J6	N-acetyl-L-glutamate
+4	Q8P8J6	acetyl-CoA
+5	Q8P8J6	L-glutamate
+6	Q9X2A4	ATP
+7	Q9X2A4	N-acetyl-L-glutamate
+8	Q9HTN2	ATP
+9	Q9HTN2	N-acetyl-L-glutamate
+10	P0A6C8	ATP
+11	P0A6C8	N-acetyl-L-glutamate
+12	Q0ASS9	ATP
+13	Q0ASS9	N-acetyl-L-glutamate
+14	Q0ASS9	ATP
+15	Q0ASS9	N-acetyl-L-glutamate
+16	Q01217	ATP
+17	Q01217	N-acetyl-L-glutamate
+18	A0A140NEG9	ATP
+19	A0A140NEG9	N-acetyl-L-glutamate
+20	A0A0H2X8L7	more
+21	A0A0H2X8L7	ATP
+22	A0A0H2X8L7	N-acetyl-L-glutamate
+23	A0A0H2X8L7	ATP
+24	A0A0H2X8L7	N-acetyl-L-glutamate
+25	Q6R6P5	ATP
+26	Q6R6P5	N-acetyl-L-glutamate
+27	Q6R6P5	ATP
+28	Q6R6P5	N-acetyl-L-glutamate
+0	Q6AW43	ATP
+1	Q6AW43	guanidinoacetate
+2	Q6AW43	ATP
+3	Q6AW43	guanidinoacetate
+4	Q6AW43	ATP
+5	Q6AW43	creatine
+6	Q6AW43	ATP
+7	Q6AW43	glycocyamine
+0	P12277	ATP
+1	P12277	creatine
+2	P12277	ATP
+3	P12277	creatine
+4	P12277	ATP
+5	P12277	N-ethylglycocyamine
+6	P12277	ATP
+7	P12277	cyclocreatine
+8	P12277	ATP
+9	P12277	glycocyamine
+10	P06732	ATP
+11	P06732	creatine
+12	P06732	ATP
+13	P06732	creatine
+14	P00563	ATP
+15	P00563	creatine
+16	P00563	ATP
+17	P00563	creatine
+18	P00563	ATP
+19	P00563	creatine
+20	P00563	ATP
+21	P00563	creatine
+22	P11009	ATP
+23	P11009	creatine
+24	P11009	ATP
+25	P11009	creatine
+26	P11009	more
+27	Q90X19	ATP
+28	Q90X19	creatine
+29	Q90X19	ATP
+30	Q90X19	creatine
+31	Q04447	ATP
+32	Q04447	creatine
+33	Q04447	ATP
+34	Q04447	creatine
+35	Q04447	more
+36	P30275	ATP
+37	P30275	creatine
+38	P30275	ATP
+39	P30275	creatine
+40	P07335	ATP
+41	P07335	creatine
+42	P07335	ATP
+43	P07335	creatine
+44	P07335	more
+45	A0A0A1IVI8	ATP
+46	A0A0A1IVI8	creatine
+47	A0A0A1IVI8	ATP
+48	A0A0A1IVI8	creatine
+0	Q4AEC4	ATP
+1	Q4AEC4	L-arginine
+2	Q4AED2	ATP
+3	Q4AED2	D-Arg
+4	Q4AED2	ATP
+5	Q4AED2	lombricine
+6	Q4AED2	ATP
+7	Q4AED2	taurocyamine
+8	Q4AED2	ATP
+9	Q4AED2	L-Arg
+10	Q4AED2	ATP
+11	Q4AED2	L-Arg
+12	Q4AED1	ATP
+13	Q4AED1	L-Arg
+14	Q4AED1	ATP
+15	Q4AED1	L-Arg
+16	Q4AED1	ATP
+17	Q4AED1	D-Arg
+18	Q4AED1	ATP
+19	Q4AED1	lombricine
+20	Q4AED1	ATP
+21	Q4AED1	taurocyamine
+22	Q4AED1	ATP
+23	Q4AED1	D-Arg
+24	P51545	ATP
+25	P51545	L-Arg
+26	P51545	ATP
+27	P51545	L-Arg
+28	B1PVZ9	ATP
+29	B1PVZ9	L-Arg
+30	B1PVZ9	ATP
+31	B1PVZ9	L-Arg
+32	B0FRF9	ATP
+33	B0FRF9	L-Arg
+34	B0FRF9	ATP
+35	B0FRF9	L-Arg
+36	Q2F5T5	ATP
+37	Q2F5T5	L-Arg
+38	Q2F5T5	ATP
+39	Q2F5T5	L-Arg
+40	O96507	ATP
+41	O96507	L-Arg
+42	O96507	ATP
+43	O96507	L-Arg
+44	O15992	ATP
+45	O15992	L-Arg
+46	O15992	ATP
+47	O15992	L-Arg
+48	P51541	ATP
+49	P51541	L-Arg
+50	P51541	ATP
+51	P51541	L-Arg
+52	P51541	more
+53	O61367	ATP
+54	O61367	L-Arg
+55	O61367	ATP
+56	O61367	L-Arg
+57	O61367	ADP
+58	O61367	Nomega-phospho-L-Arg
+59	Q1DA50	ATP
+60	Q1DA50	L-Arg
+61	Q1DA50	ATP
+62	Q1DA50	L-Arg
+63	D5FLG2	ATP
+64	D5FLG2	L-Arg
+65	D5FLG2	ATP
+66	D5FLG2	L-Arg
+67	D5FLG2	more
+68	H9BZ68	ATP
+69	H9BZ68	L-Arg
+70	H9BZ68	ATP
+71	H9BZ68	L-Arg
+72	H9BZ68	ADP
+73	H9BZ68	Nomega-phospho-L-Arg
+74	H9BZ68	ATP
+75	H9BZ68	L-arginine ethyl ester
+76	H9BZ68	ATP
+77	H9BZ68	L-canavanine
+78	H9BZ68	ATP
+79	H9BZ68	L-homoarginine
+80	H9BZ68	more
+81	Q4KY22	ATP
+82	Q4KY22	L-Arg
+83	Q4KY22	ATP
+84	Q4KY22	L-Arg
+85	E2JE77	ATP
+86	E2JE77	L-Arg
+87	E2JE77	ATP
+88	E2JE77	L-Arg
+89	Q10454	ATP
+90	Q10454	L-arginine
+91	Q10454	ATP
+92	Q10454	L-arginine
+93	Q27535	ATP
+94	Q27535	L-arginine
+95	Q27535	ATP
+96	Q27535	L-arginine
+97	U3T1K4	ATP
+98	U3T1K4	L-arginine
+99	U3T1K4	ATP
+100	U3T1K4	L-arginine
+101	U3T2Y2	ATP
+102	U3T2Y2	L-arginine
+103	U3T2Y2	ATP
+104	U3T2Y2	L-arginine
+105	K0DDQ9	GTP
+106	K0DDQ9	L-arginine
+107	K0DDQ9	ATP
+108	K0DDQ9	L-arginine
+109	K0DDQ9	ATP
+110	K0DDQ9	L-arginine
+111	K0DG62	GTP
+112	K0DG62	L-arginine
+113	K0DG62	ATP
+114	K0DG62	L-arginine
+115	K0DG62	ATP
+116	K0DG62	L-arginine
+117	A0A0F6WMX1	ATP
+118	A0A0F6WMX1	L-arginine
+119	A0A0F6WMX1	ATP
+120	A0A0F6WMX1	L-arginine
+121	C0STY2	ATP
+122	C0STY2	L-arginine
+123	C0STY2	ATP
+124	C0STY2	L-arginine
+125	C0STY3	ATP
+126	C0STY3	L-arginine
+127	C0STY3	ATP
+128	C0STY3	L-arginine
+129	W8GJF4	ATP
+130	W8GJF4	L-arginine
+131	W8GJF4	ATP
+132	W8GJF4	L-arginine
+133	Q38EV2	ATP
+134	Q38EV2	L-arginine
+135	Q38EV2	ATP
+136	Q38EV2	L-arginine
+137	Q38EV1	ATP
+138	Q38EV1	L-arginine
+139	Q38EV1	ATP
+140	Q38EV1	L-arginine
+141	Q38EU9	ATP
+142	Q38EU9	L-arginine
+143	Q38EU9	ATP
+144	Q38EU9	L-arginine
+145	O45518	ATP
+146	O45518	L-arginine
+147	O45518	ATP
+148	O45518	L-arginine
+149	O45011	ATP
+150	O45011	L-arginine
+151	O45011	ATP
+152	O45011	L-arginine
+153	O01854	ATP
+154	O01854	L-arginine
+155	O01854	ATP
+156	O01854	L-arginine
+157	Q9NKV6	ATP
+158	Q9NKV6	L-Arg
+159	Q9NKV6	ATP
+160	Q9NKV6	L-Arg
+161	Q9NKV5	ATP
+162	Q9NKV5	L-Arg
+163	Q9NKV5	ATP
+164	Q9NKV5	L-Arg
+165	Q9NKV4	ATP
+166	Q9NKV4	L-Arg
+167	Q9NKV4	ATP
+168	Q9NKV4	L-Arg
+169	A7YVI5	ATP
+170	A7YVI5	L-Arg
+171	A7YVI5	ATP
+172	A7YVI5	L-Arg
+173	A7YVI5	more
+174	A7YVI5	ATP
+175	A7YVI5	L-Arg
+176	A7YVI5	ATP
+177	A7YVI5	L-Arg
+178	A4F2K7	ATP
+179	A4F2K7	L-Arg
+180	A4F2K7	ATP
+181	A4F2K7	L-Arg
+182	A6M9J4	ATP
+183	A6M9J4	L-Arg
+184	A6M9J4	ATP
+185	A6M9J4	L-Arg
+186	A6M9J4	ATP
+187	A6M9J4	L-arginine
+188	A6M9J4	ATP
+189	A6M9J4	L-arginine
+190	Q004B5	ATP
+191	Q004B5	L-arginine
+192	Q004B5	ATP
+193	Q004B5	L-arginine
+194	Q004B5	ATP
+195	Q004B5	L-Arg
+196	Q004B5	ATP
+197	Q004B5	L-Arg
+0	P16641	ATP
+1	P16641	taurocyamine
+2	P16641	ATP
+3	P16641	taurocyamine
+4	P16641	more
+5	G7YHA8	ATP
+6	G7YHA8	taurocyamine
+7	G7YHA8	ATP
+8	G7YHA8	taurocyamine
+9	G7YHA8	more
+10	G5ADV1	ATP
+11	G5ADV1	taurocyamine
+12	G5ADV1	ATP
+13	G5ADV1	taurocyamine
+14	G5ADV1	ATP
+15	G5ADV1	glycocyamine
+16	G5ADV1	ATP
+17	G5ADV1	glycocyamine
+18	G5ADV1	more
+19	Q4AEC6	ATP
+20	Q4AEC6	taurocyamine
+21	Q4AEC6	ATP
+22	Q4AEC6	taurocyamine
+23	Q4AEC6	ATP
+24	Q4AEC6	lombricine
+25	Q4AEC6	ATP
+26	Q4AEC6	glycocyamine
+27	Q4AEC6	ATP
+28	Q4AEC6	glycocyamine
+29	Q4AEC6	more
+30	Q4AEC6	ATP
+31	Q4AEC6	D-lombricine
+32	Q4AEC5	ATP
+33	Q4AEC5	taurocyamine
+34	Q4AEC5	ATP
+35	Q4AEC5	taurocyamine
+36	Q4AEC5	ATP
+37	Q4AEC5	lombricine
+38	Q4AEC5	ATP
+39	Q4AEC5	glycocyamine
+40	Q4AEC5	ATP
+41	Q4AEC5	glycocyamine
+42	Q4AEC5	more
+43	Q4AEC5	ATP
+44	Q4AEC5	D-lombricine
+45	Q4AEC7	ATP
+46	Q4AEC7	taurocyamine
+47	Q4AEC7	ATP
+48	Q4AEC7	taurocyamine
+49	Q4AEC7	ATP
+50	Q4AEC7	lombricine
+51	Q4AEC7	ATP
+52	Q4AEC7	glycocyamine
+53	Q4AEC7	ATP
+54	Q4AEC7	glycocyamine
+55	Q4AEC8	ATP
+56	Q4AEC8	taurocyamine
+57	Q4AEC8	ATP
+58	Q4AEC8	taurocyamine
+59	Q4AEC8	ATP
+60	Q4AEC8	lombricine
+61	Q4AEC8	ATP
+62	Q4AEC8	glycocyamine
+63	Q4AEC8	ATP
+64	Q4AEC8	glycocyamine
+65	Q4AEC8	ATP
+66	Q4AEC8	arginine
+67	C7BCG0	ATP
+68	C7BCG0	taurocyamine
+69	C7BCG0	ATP
+70	C7BCG0	taurocyamine
+0	Q8T6T7	ATP
+1	Q8T6T7	lombricine
+2	Q8T6T7	ATP
+3	Q8T6T7	lombricine
+4	Q8T6T7	ATP
+5	Q8T6T7	lombricine
+6	C8CG36	ATP
+7	C8CG36	lombricine
+8	B0FYX1	ATP
+9	B0FYX1	lombricine
+10	I0E0A8	ATP
+11	I0E0A8	lombricine
+12	I0E0A7	ATP
+13	I0E0A7	lombricine
+0	P23533	phosphoenolpyruvate
+1	P23533	histidine-containing protein
+2	P23533	phosphoenolpyruvate
+3	P23533	histidine-containing protein
+4	P23533	phosphoenolpyruvate
+5	P23533	protein histidine
+6	P23533	phosphoenolpyruvate
+7	P23533	HPr
+8	P23533	phosphoenolpyruvate
+9	P23533	HPr
+10	P30299	phosphoenolpyruvate
+11	P30299	protein histidine
+12	P30299	phosphoenolpyruvate
+13	P30299	protein histidine
+14	P30299	phosphoenolpyruvate
+15	P30299	protein histidine
+16	P08838	phosphoenolpyruvate
+17	P08838	protein histidine
+18	Q9KZP1	phosphoenolpyruvate
+19	Q9KZP1	protein histidine
+20	Q9KZP1	phosphoenolpyruvate
+21	Q9KZP1	protein histidine
+22	Q9KZP1	more
+23	P08839	phosphoenolpyruvate
+24	P08839	protein histidine
+25	Q8NP83	phosphoenolpyruvate
+26	Q8NP83	protein histidine
+27	Q8R7R4	phosphoenolpyruvate
+28	Q8R7R4	protein histidine
+29	Q8R7R4	phosphoenolpyruvate
+30	Q8R7R4	protein histidine
+31	A0A0H2ZMY1	more
+32	A0A0H2ZMY1	phosphoenolpyruvate
+33	A0A0H2ZMY1	protein histidine
+34	A0A0H2ZMY1	phosphoenolpyruvate
+35	A0A0H2ZMY1	protein histidine
+0	A4RQI1	ATP
+1	A4RQI1	(phosphate)n
+2	A4RQI1	ATP
+3	A4RQI1	(phosphate)n
+4	A4RQI1	ATP
+5	A4RQI1	(phosphate)n
+6	A0A090M3D0	ATP
+7	A0A090M3D0	(phosphate)n
+8	A0A090M3D0	ATP
+9	A0A090M3D0	(phosphate)n
+10	A0A090M3D0	ATP
+11	A0A090M3D0	(phosphate)n
+12	Q2MEV6	ATP
+13	Q2MEV6	(phosphate)n
+14	Q2MEV6	ATP
+15	Q2MEV6	(phosphate)n
+16	Q2MEV6	ATP
+17	Q2MEV6	(phosphate)n
+18	Q0K2G4	ATP
+19	Q0K2G4	(phosphate)n
+20	Q0K2G4	ATP
+21	Q0K2G4	(phosphate)n
+22	Q0K2G4	ATP
+23	Q0K2G4	(phosphate)n
+24	Q0KCB8	ATP
+25	Q0KCB8	(phosphate)n
+26	Q0KCB8	ATP
+27	Q0KCB8	(phosphate)n
+28	Q0KCB8	ATP
+29	Q0KCB8	(phosphate)n
+30	Q0KC60	ATP
+31	Q0KC60	(phosphate)n
+32	Q0KC60	ATP
+33	Q0KC60	(phosphate)n
+34	Q0KC60	ATP
+35	Q0KC60	(phosphate)n
+36	Q0KF43	ATP
+37	Q0KF43	(phosphate)n
+38	Q0KF43	ATP
+39	Q0KF43	(phosphate)n
+40	Q0KF43	ATP
+41	Q0KF43	(phosphate)n
+42	Q0KCY1	ATP
+43	Q0KCY1	(phosphate)n
+44	Q0KCY1	ATP
+45	Q0KCY1	(phosphate)n
+46	Q0KCY1	ATP
+47	Q0KCY1	(phosphate)n
+48	Q0KA91	ATP
+49	Q0KA91	(phosphate)n
+50	Q0KA91	ATP
+51	Q0KA91	(phosphate)n
+52	Q0KA91	ATP
+53	Q0KA91	(phosphate)n
+54	Q0K8Z5	ATP
+55	Q0K8Z5	(phosphate)n
+56	Q0K8Z5	ATP
+57	Q0K8Z5	(phosphate)n
+58	Q0K8Z5	ATP
+59	Q0K8Z5	(phosphate)n
+60	Q5NEQ5	ATP
+61	Q5NEQ5	(phosphate)n+1
+62	Q5NEQ5	GTP
+63	Q5NEQ5	(phosphate)n+1
+64	Q5NEQ5	GDP
+65	Q5NEQ5	(phosphate)n
+66	Q5NEQ5	GDP
+67	Q5NEQ5	(phosphate)n
+68	Q5NEQ5	ADP
+69	Q5NEQ5	(phosphate)n
+70	Q5NEQ5	ADP
+71	Q5NEQ5	(phosphate)n
+72	Q5NEQ5	more
+73	Q5LSN8	CDP
+74	Q5LSN8	(phosphate)n
+75	Q5LSN8	UDP
+76	Q5LSN8	(phosphate)n
+77	Q5LSN8	GDP
+78	Q5LSN8	(phosphate)n
+79	Q5LSN8	GDP
+80	Q5LSN8	(phosphate)n
+81	Q5LSN8	ADP
+82	Q5LSN8	(phosphate)n
+83	Q5LSN8	ADP
+84	Q5LSN8	(phosphate)n
+85	Q5LSN8	more
+86	Q5LU04	CDP
+87	Q5LU04	(phosphate)n
+88	Q5LU04	UDP
+89	Q5LU04	(phosphate)n
+90	Q5LU04	GDP
+91	Q5LU04	(phosphate)n
+92	Q5LU04	GDP
+93	Q5LU04	(phosphate)n
+94	Q5LU04	ADP
+95	Q5LU04	(phosphate)n
+96	Q5LU04	ADP
+97	Q5LU04	(phosphate)n
+98	Q5LU04	more
+99	Q5LX16	CDP
+100	Q5LX16	(phosphate)n
+101	Q5LX16	UDP
+102	Q5LX16	(phosphate)n
+103	Q5LX16	GDP
+104	Q5LX16	(phosphate)n
+105	Q5LX16	GDP
+106	Q5LX16	(phosphate)n
+107	Q5LX16	ADP
+108	Q5LX16	(phosphate)n
+109	Q5LX16	ADP
+110	Q5LX16	(phosphate)n
+111	Q5LX16	more
+112	B4EY92	ATP
+113	B4EY92	(phosphate)n
+114	B4EY92	ATP
+115	B4EY92	(phosphate)n
+116	B4EY92	ATP
+117	B4EY92	(phosphate)n
+118	B1HP60	ATP
+119	B1HP60	(phosphate)n
+120	B1HP60	ATP
+121	B1HP60	(phosphate)n
+122	B1HP60	ATP
+123	B1HP60	(phosphate)n
+124	P0DP45	ADP
+125	P0DP45	(phosphate)n+1
+126	P0DP45	ADP
+127	P0DP45	(phosphate)n+1
+128	Q8GCQ3	ATP
+129	Q8GCQ3	(phosphate)n
+130	Q8GCQ3	ATP
+131	Q8GCQ3	(phosphate)n
+132	Q8GCQ3	ATP
+133	Q8GCQ3	(phosphate)n
+134	Q8GCQ3	GTP
+135	Q8GCQ3	(phosphate)n
+136	Q8GCQ3	GTP
+137	Q8GCQ3	(phosphate)n
+138	Q8KT80	ATP
+139	Q8KT80	(phosphate)n
+140	Q8KT80	ATP
+141	Q8KT80	(phosphate)n
+142	Q8KT80	ATP
+143	Q8KT80	(phosphate)n
+144	A1W0X7	ATP
+145	A1W0X7	(phosphate)n
+146	A1W0X7	ATP
+147	A1W0X7	(phosphate)n
+148	A1W0X7	ATP
+149	A1W0X7	(phosphate)n
+150	Q9S646	ATP
+151	Q9S646	(phosphate)n
+152	Q9S646	ATP
+153	Q9S646	(phosphate)n
+154	Q9S646	ATP
+155	Q9S646	(phosphate)n
+156	P9WHV9	ATP
+157	P9WHV9	(phosphate)n
+158	P9WHV9	ATP
+159	P9WHV9	(phosphate)n
+160	P9WHV9	ATP
+161	P9WHV9	(phosphate)n
+162	P9WHV9	more
+163	Q72JY1	ATP
+164	Q72JY1	(phosphate)n
+165	Q72JY1	ATP
+166	Q72JY1	(phosphate)n
+167	Q72JY1	ATP
+168	Q72JY1	(phosphate)n
+169	Q209Q9	more
+170	Q8DMA8	ATP
+171	Q8DMA8	(phosphate)n
+172	Q8DMA8	ATP
+173	Q8DMA8	(phosphate)n
+174	Q8DMA8	ATP
+175	Q8DMA8	(phosphate)n
+176	Q54BM7	ATP
+177	Q54BM7	(phosphate)n
+178	Q54BM7	ATP
+179	Q54BM7	(phosphate)n
+180	Q54BM7	ATP
+181	Q54BM7	(phosphate)n
+182	Q54BM7	more
+183	Q8KT90	ATP
+184	Q8KT90	(phosphate)n
+185	Q8KT90	ATP
+186	Q8KT90	(phosphate)n
+187	Q8KT90	ATP
+188	Q8KT90	(phosphate)n
+189	Q92SA6	ATP
+190	Q92SA6	(phosphate)n
+191	Q92SA6	ATP
+192	Q92SA6	(phosphate)n
+193	Q92SA6	ATP
+194	Q92SA6	(phosphate)n
+195	P0A7B1	ATP
+196	P0A7B1	(phosphate)n
+197	P0A7B1	ATP
+198	P0A7B1	(phosphate)n
+199	P0A7B1	ATP
+200	P0A7B1	(phosphate)n
+201	A2SQZ9	ATP
+202	A2SQZ9	(phosphate)n
+203	A2SQZ9	ATP
+204	A2SQZ9	(phosphate)n
+205	A2SQZ9	ATP
+206	A2SQZ9	(phosphate)n
+207	A2VBB6	ATP
+208	A2VBB6	(phosphate)n
+209	A2VBB6	ATP
+210	A2VBB6	(phosphate)n
+211	A2VBB6	ATP
+212	A2VBB6	(phosphate)n
+0	Q564A6	AMP
+1	Q564A6	GTP
+2	Q964H2	GTP
+3	Q964H2	AMP
+4	Q964H2	GTP
+5	Q964H2	AMP
+6	Q964H2	ITP
+7	Q964H2	AMP
+8	Q964H2	ITP
+9	Q964H2	AMP
+10	Q964H2	more
+11	Q964H2	ATP
+12	Q964H2	AMP
+13	Q964H2	ATP
+14	Q964H2	AMP
+15	Q964H2	CTP
+16	Q964H2	AMP
+17	Q964H2	CTP
+18	Q964H2	AMP
+19	Q964H2	UTP
+20	Q964H2	AMP
+21	Q964H2	UTP
+22	Q964H2	AMP
+23	Q964H2	GTP
+24	Q964H2	IMP
+25	P27144	GTP
+26	P27144	AMP
+27	P27144	GTP
+28	P27144	AMP
+0	Q6QGP4	ATP
+1	Q6QGP4	dAMP
+2	Q6QGP4	ATP
+3	Q6QGP4	dAMP
+4	Q6QGP4	ATP
+5	Q6QGP4	dCMP
+6	Q6QGP4	ATP
+7	Q6QGP4	dCMP
+8	Q6QGP4	ATP
+9	Q6QGP4	dGMP
+10	Q6QGP4	ATP
+11	Q6QGP4	dGMP
+12	Q6QGP4	ATP
+13	Q6QGP4	dTMP
+14	Q6QGP4	ATP
+15	Q6QGP4	dTMP
+16	Q6QGP4	ATP
+17	Q6QGP4	deoxynucleoside monophosphate
+18	Q6QGP4	ATP
+19	Q6QGP4	deoxynucleoside monophosphate
+20	Q6QGP4	more
+0	P30085	ATP
+1	P30085	UMP
+2	P30085	ATP
+3	P30085	UMP
+4	P30085	ATP
+5	P30085	CMP
+6	P30085	ATP
+7	P30085	CMP
+8	P30085	ATP
+9	P30085	dCMP
+10	P30085	ATP
+11	P30085	dCMP
+12	P30085	ATP
+13	P30085	dUMP
+14	P30085	ATP
+15	P30085	(S)-1-(3-hydroxy-2-phosphonylmethoxypropyl) cytosine
+16	P30085	ATP
+17	P30085	1-beta-D-arabinofuranosylcytosine
+18	P30085	ATP
+19	P30085	2',2'-difluorodeoxycytidine
+20	P30085	ATP
+21	P30085	5-aza-cidofovir
+22	P30085	ATP
+23	P30085	D-CMP
+24	P30085	ATP
+25	P30085	D-UMP
+26	P30085	ATP
+27	P30085	D-dCMP
+28	P30085	ATP
+29	P30085	D-dUMP
+30	P30085	ATP
+31	P30085	L-3TCMP
+32	P30085	ATP
+33	P30085	beta-D-2'-azido-2'-dCMP
+34	P30085	ATP
+35	P30085	beta-D-2'-azido-2'-dUMP
+36	P30085	ATP
+37	P30085	beta-L-2'-azido-2'-dCMP
+38	P30085	ATP
+39	P30085	beta-L-2'-azido-2'-dUMP
+40	P30085	ATP
+41	P30085	cidofovir
+42	P30085	ATP
+43	P30085	cytarabine
+44	P30085	ATP
+45	P30085	dAMP
+46	P30085	ATP
+47	P30085	gemcitabine
+48	P30085	ATP
+49	P30085	gemcitabine
+50	P30085	ATP
+51	P30085	gemcitabine phosphate
+52	P30085	ATP
+53	P30085	ara-CMP
+54	P30085	ATP
+55	P30085	AMP
+56	P30085	ATP
+57	P30085	L-CMP
+58	P30085	ATP
+59	P30085	L-dCMP
+60	P30085	ATP
+61	P30085	L-dUMP
+62	P30085	more
+63	Q5EBM0	ATP
+64	Q5EBM0	UMP
+65	Q5EBM0	ATP
+66	Q5EBM0	UMP
+67	Q5EBM0	ATP
+68	Q5EBM0	CMP
+69	Q5EBM0	ATP
+70	Q5EBM0	CMP
+71	Q5EBM0	ATP
+72	Q5EBM0	dCMP
+73	Q5EBM0	ATP
+74	Q5EBM0	dCMP
+75	Q5EBM0	ATP
+76	Q5EBM0	dUMP
+77	Q5EBM0	more
+78	O04905	ATP
+79	O04905	UMP
+80	O04905	ATP
+81	O04905	UMP
+82	O04905	ATP
+83	O04905	CMP
+84	O04905	ATP
+85	O04905	CMP
+0	P55881	ATP
+1	P55881	thiamine phosphate
+2	O67883	ATP
+3	O67883	thiamine phosphate
+4	A3MTW6	ATP
+5	A3MTW6	thiamine phosphate
+0	Q15126	ATP
+1	Q15126	5-phosphomevalonate
+2	Q15126	ATP
+3	Q15126	5-phosphomevalonate
+4	Q15126	ATP
+5	Q15126	(R)-mevalonate 5-phosphate
+6	Q15126	ATP
+7	Q15126	(R)-mevalonate 5-phosphate
+8	Q15126	ATP
+9	Q15126	(R)-5-phosphomevalonate
+10	Q15126	ATP
+11	Q15126	(R)-5-phosphomevalonate
+12	Q15126	ATP
+13	Q15126	(R)-5-phosphomevalonate
+14	F6K7K0	ATP
+15	F6K7K0	(R)-5-phosphomevalonate
+16	F6K7K0	ATP
+17	F6K7K0	(R)-5-phosphomevalonate
+18	F6K7K0	ATP
+19	F6K7K0	(R)-5-phosphomevalonate
+20	Q97UL6	ATP
+21	Q97UL6	(R)-5-phosphomevalonate
+22	Q97UL6	ATP
+23	Q97UL6	(R)-5-phosphomevalonate
+24	Q97UL6	ATP
+25	Q97UL6	(R)-5-phosphomevalonate
+26	P24521	ATP
+27	P24521	(R)-5-phosphomevalonate
+28	P24521	ATP
+29	P24521	(R)-5-phosphomevalonate
+30	P24521	ATP
+31	P24521	(R)-5-phosphomevalonate
+0	Q6PD10	ATP
+1	Q6PD10	1D-myo-inositol hexakisphosphate
+2	Q6PD10	ATP
+3	Q6PD10	1D-myo-inositol hexakisphosphate
+4	Q6PD10	more
+5	Q6PD10	ATP
+6	Q6PD10	1D-myo-inositol hexakisphosphate
+7	Q9LY23	ATP
+8	Q9LY23	1D-myo-inositol 1-diphosphate pentakisphosphate
+9	Q9LY23	more
+10	Q9LY23	ATP
+11	Q9LY23	1D-myo-inositol hexakisphosphate
+12	Q9FLT2	ATP
+13	Q9FLT2	1D-myo-inositol 1-diphosphate pentakisphosphate
+14	Q9FLT2	more
+15	Q9FLT2	ATP
+16	Q9FLT2	1D-myo-inositol hexakisphosphate
+17	O43314	ATP
+18	O43314	1D-myo-inositol 1-diphosphate pentakisphosphate
+19	O43314	ATP
+20	O43314	1D-myo-inositol hexakisphosphate
+21	O43314	more
+22	O43314	ATP
+23	O43314	1D-myo-inositol hexakisphosphate
+24	Q96PC2	ATP
+25	Q96PC2	1D-myo-inositol hexakisphosphate
+26	Q96PC2	ATP
+27	Q96PC2	1D-myo-inositol hexakisphosphate
+28	Q96PC2	ATP
+29	Q96PC2	1D-myo-inositol-1,3,4,5,6-pentakisphosphate
+30	Q8BWD2	more
+31	Q80V72	more
+32	C4M387	more
+33	C4M387	ATP
+34	C4M387	1D-myo-inositol hexakisphosphate
+35	Q9UHH9	ATP
+36	Q9UHH9	1D-myo-inositol hexakisphosphate
+37	Q9UHH9	ATP
+38	Q9UHH9	1D-myo-inositol hexakisphosphate
+39	Q9UHH9	more
+0	Q97R83	ATP
+1	Q97R83	UMP
+2	Q97R83	ATP
+3	Q97R83	UMP
+4	P0A7E9	ATP
+5	P0A7E9	UMP
+6	P0A7E9	ATP
+7	P0A7E9	UMP
+8	P0A7E9	GTP
+9	P0A7E9	UMP
+10	P0A7E9	MgATP2-
+11	P0A7E9	UMP
+12	P0A7E9	ATP
+13	P0A7E9	5-fluoro-UMP
+14	P0A7E9	ATP
+15	P0A7E9	6-aza-UMP
+16	P0A7E9	more
+17	O31749	ATP
+18	O31749	UMP
+19	O31749	ATP
+20	O31749	UMP
+21	O31749	ATP
+22	O31749	5-fluoro-UMP
+23	O31749	ATP
+24	O31749	6-aza-UMP
+25	P65933	ATP
+26	P65933	UMP
+27	P65933	ATP
+28	P65933	UMP
+29	Q8U122	ATP
+30	Q8U122	UMP
+31	Q8U122	ATP
+32	Q8U122	UMP
+33	A7ZWB7	ATP
+34	A7ZWB7	UMP
+35	A7ZWB7	ATP
+36	A7ZWB7	UMP
+37	Q9PPX6	ATP
+38	Q9PPX6	UMP
+39	Q9PPX6	ATP
+40	Q9PPX6	UMP
+41	Q97ZE2	ATP
+42	Q97ZE2	UMP
+43	Q97ZE2	ATP
+44	Q97ZE2	UMP
+45	Q97ZE2	ATP
+46	Q97ZE2	dUMP
+47	Q97ZE2	more
+48	Q81S73	ATP
+49	Q81S73	UMP
+50	Q81S73	ATP
+51	Q81S73	UMP
+52	P65932	ATP
+53	P65932	UMP
+54	P65932	ATP
+55	P65932	UMP
+56	P56106	ATP
+57	P56106	UMP
+58	P56106	ATP
+59	P56106	UMP
+60	P9WHK5	ATP
+61	P9WHK5	UMP
+62	P9WHK5	ATP
+63	P9WHK5	UMP
+64	B8XPY6	ATP
+65	B8XPY6	UMP
+66	B8XPY6	ATP
+67	B8XPY6	UMP
+0	P16690	ATP
+1	P16690	ribose 1,5-bisphosphate
+2	P16690	more
+0	P0C644	ATP
+1	P0C644	1D-myo-inositol 5-diphosphate pentakisphosphate
+2	Q6PFW1	more
+3	Q6PFW1	ATP
+4	Q6PFW1	1D-myo-inositol 5-diphosphate pentakisphosphate
+5	O43314	more
+6	O43314	ATP
+7	O43314	1D-myo-inositol 5-diphosphate pentakisphosphate
+8	O43314	ADP
+9	O43314	1,5-bis-diphospho-1D-myo-inositol 2,3,4,6-tetrakisphosphate
+10	O43314	ADP
+11	O43314	1-diphospho-1D-myo-inositol 2,3,4,5,6-pentakisphosphate
+12	O43314	ATP
+13	O43314	1D-myo-inositol 5-diphosphate 1,2,3,4,6-pentakisphosphate
+14	O43314	ATP
+15	O43314	1D-myo-inositol hexakisphosphate
+16	O43314	ATP
+17	O43314	5-diphospho-1D-myo-inositol 1,2,3,4,6-pentakisphosphate
+0	A0A140N8S7	ATP
+1	A0A140N8S7	CMP
+2	A0A140N8S7	ATP
+3	A0A140N8S7	CMP
+4	A0A140N8S7	ATP
+5	A0A140N8S7	dCMP
+6	A0A140N8S7	ATP
+7	A0A140N8S7	dCMP
+8	A0A140N8S7	ATP
+9	A0A140N8S7	2',3'-dideoxy-CMP
+10	A0A140N8S7	ATP
+11	A0A140N8S7	ara-CMP
+12	A0A140N8S7	ATP
+13	A0A140N8S7	UMP
+14	A0A140N8S7	ATP
+15	A0A140N8S7	UMP
+16	P0A6I0	ATP
+17	P0A6I0	CMP
+18	P0A6I0	ATP
+19	P0A6I0	CMP
+20	P0A6I0	ATP
+21	P0A6I0	dCMP
+22	P0A6I0	ATP
+23	P0A6I0	dCMP
+24	P0A6I0	more
+25	P0A6I0	ATP
+26	P0A6I0	UMP
+27	P0A6I0	ATP
+28	P0A6I0	UMP
+29	P9WPA9	ATP
+30	P9WPA9	CMP
+31	P9WPA9	ATP
+32	P9WPA9	CMP
+33	P9WPA9	more
+34	P0A6I0	ATP
+35	P0A6I0	CMP
+36	P0A6I0	ATP
+37	P0A6I0	CMP
+38	P0A6I0	ATP
+39	P0A6I0	dCMP
+40	P0A6I0	ATP
+41	P0A6I0	dCMP
+42	P0A6I0	more
+43	P0A6I0	ATP
+44	P0A6I0	UMP
+45	P0A6I0	ATP
+46	P0A6I0	UMP
+47	P0A6I0	GTP
+48	P0A6I0	CMP
+49	P0A6I0	dATP
+50	P0A6I0	CMP
+51	P0A6I0	ATP
+52	P0A6I0	1-beta-D-arabinofuranosylcytosine 5'-phosphate
+53	P0A6I0	ATP
+54	P0A6I0	2-thiouridine 5'-monophosphate
+55	P0A6I0	ATP
+56	P0A6I0	dUMP
+57	P0A6I0	CTP
+58	P0A6I0	CMP
+59	P0A6I0	ITP
+60	P0A6I0	CMP
+61	P0A6I0	UTP
+62	P0A6I0	CMP
+63	P0A6I0	dCTP
+64	P0A6I0	CMP
+65	P0A6I0	dUTP
+66	P0A6I0	CMP
+0	Q60352	ATP
+1	Q60352	(2E,6E)-farnesyl phosphate
+2	Q60352	ATP
+3	Q60352	isopentenyl phosphate
+4	Q60352	ATP
+5	Q60352	isopentenyl phosphate
+6	Q60352	ATP
+7	Q60352	dimethylallyl alcohol
+8	Q60352	ATP
+9	Q60352	dimethylallyl phosphate
+10	P56848	ATP
+11	P56848	isopentenyl phosphate
+12	P56848	ATP
+13	P56848	isopentenyl phosphate
+14	P56848	ATP
+15	P56848	dimethyl allylalcohol
+16	Q9HLX1	ATP
+17	Q9HLX1	isopentenyl phosphate
+18	Q9HLX1	ATP
+19	Q9HLX1	isopentenyl phosphate
+20	Q9HLX1	ATP
+21	Q9HLX1	dimethylallyl alcohol
+22	Q9HLX1	ATP
+23	Q9HLX1	dimethylallyl phosphate
+24	Q9HLX1	ATP
+25	Q9HLX1	but-3-en-1-yl phosphate
+26	Q9HLX1	ATP
+27	Q9HLX1	butyl phosphate
+28	Q9HLX1	ATP
+29	Q9HLX1	isopentenyl thiolophosphate
+30	Q9HLX1	ATP
+31	Q9HLX1	geranyl phosphate
+32	Q9HLX1	ATP
+33	Q9HLX1	fosfomycin
+34	O26153	ATP
+35	O26153	isopentenyl phosphate
+36	O26153	ATP
+37	O26153	isopentenyl phosphate
+38	O26153	ATP
+39	O26153	dimethylallyl alcohol
+40	O26153	ATP
+41	O26153	dimethylallyl phosphate
+42	O26153	ATP
+43	O26153	but-3-en-1-yl phosphate
+44	O26153	ATP
+45	O26153	butyl phosphate
+46	O26153	ATP
+47	O26153	isopentenyl thiolophosphate
+48	O26153	ATP
+49	O26153	geranyl phosphate
+50	Q56187	ATP
+51	Q56187	isopentenyl phosphate
+52	Q56187	ATP
+53	Q56187	isopentenyl phosphate
+54	Q56187	ATP
+55	Q56187	fosfomycin
+56	D4GWT7	ATP
+57	D4GWT7	isopentenyl phosphate
+58	D4GWT7	ATP
+59	D4GWT7	isopentenyl phosphate
+60	Q8H1F7	ATP
+61	Q8H1F7	isopentenyl phosphate
+62	Q8H1F7	ATP
+63	Q8H1F7	isopentenyl phosphate
+64	Q8H1F7	ATP
+65	Q8H1F7	dimethylallyl phosphate
+66	Q8H1F7	ATP
+67	Q8H1F7	geranyl phosphate
+0	O49562	[pyruvate, phosphate dikinase] phosphate
+1	O49562	phosphate
+2	Q195N6	[pyruvate, phosphate dikinase] phosphate
+3	Q195N6	phosphate
+4	Q195N6	more
+0	P76445	ditrans-octacis-undecaprenyl diphosphate
+1	P76445	alpha-D-Kdo-(2->4)-alpha-D-Kdo-(2->6)-lipid A
+2	P76445	diacylglycerol diphosphate
+3	P76445	alpha-D-Kdo-(2->4)-alpha-D-Kdo-(2->6)-lipid A

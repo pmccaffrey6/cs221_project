@@ -1,0 +1,1395 @@
+	uniprot_ids	substrates
+0	Q8ZL58	L-talarate
+1	Q8ZL58	galactarate
+2	Q8ZL58	meso-galactarate
+3	Q8EMJ9	galactarate
+4	Q8ZL58	galactarate
+0	Q6TFC2	dTDP-glucose
+1	E3VXL5	UDP-D-glucose
+2	A7K9F4	UDP-D-glucose
+3	P27830	dTDP-glucose
+4	P27830	UDP-D-glucose
+5	P27830	dTDP-6-fluoro-6-deoxyglucose
+6	C5J046	dTDP-glucose
+7	P9WN65	dTDP-alpha-D-glucose
+8	Q6EB26	dTDP-alpha-D-glucose
+9	Q9ZGH3	dTDP-alpha-D-glucose
+10	Q20697	dTDP-alpha-D-glucose
+0	P93031	GDP-mannose
+1	P93031	GDPmannose
+2	P93031	GDPmannose
+3	P93031	more
+4	D3JU53	GDP-mannose
+5	D3JU53	GDP-mannose
+6	Q51366	GDP-mannose
+7	Q51366	GDP-4-dehydro-6-deoxy-D-mannose
+8	O60547	GDP-mannose
+9	O60547	GDPmannose
+10	O60547	more
+11	B4EFL2	GDP-alpha-D-mannose
+0	Q8BH86	D-glutamate
+1	Q8BH86	D-glutamate
+2	Q8BH86	5-oxo-D-proline
+3	Q8BH86	H2O
+0	Q8Z897	3-(5-oxo-4,5-dihydro-3H-imidazol-4-yl)propanoate
+0	Q97U96	D-arabinonate
+1	Q97U96	more
+0	P57472	prephenate
+1	Q9ZUY3	prephenate
+2	A8CF65	prephenate
+3	A8CF65	L-arogenate
+4	O30012	prephenate
+5	Q74NC4	prephenate
+6	Q6Z3Y3	prephenate
+7	C7EXK8	prephenate
+8	Q8DUV6	prephenate
+9	A0A1I9WKA1	prephenate
+10	A0A1I9WKA2	prephenate
+11	A0A1I9WKA6	prephenate
+0	M0BFX8	Palmitoleic acid
+1	M0BFX8	H2O
+2	M0BFX8	myristoleic acid
+3	M0BFX8	H2O
+4	M0BFX8	linoleic acid
+5	M0BFX8	H2O
+6	M0BFX8	oleate
+7	M0BFX8	H2O
+8	A0A2J0U0P5	(9Z)-hexadec-9-enoic acid
+9	A0A2J0U0P5	H2O
+10	A0A2J0U0P5	(9Z,12Z)-octadec-9,12-dienoic acid
+11	A0A2J0U0P5	H2O
+12	A0A2J0U0P5	(9Z,12Z,15Z)-octadec-9,12,15-trienoic acid
+13	A0A2J0U0P5	H2O
+14	A0A2J0U0P5	(9Z)-octadec-9-enoic acid
+15	A0A2J0U0P5	H2O
+16	A0A2J0U0P5	(6Z,9Z,12Z)-octadec-6,9,12-trienoic acid
+17	A0A2J0U0P5	H2O
+18	A0A1E4R6K3	(9Z)-hexadec-9-enoic acid
+19	A0A1E4R6K3	H2O
+20	A0A1E4R6K3	(9Z,12Z)-octadec-9,12-dienoic acid
+21	A0A1E4R6K3	H2O
+22	A0A1E4R6K3	(9Z,12Z,15Z)-octadec-9,12,15-trienoic acid
+23	A0A1E4R6K3	H2O
+24	A0A1E4R6K3	(9Z)-octadec-9-enoic acid
+25	A0A1E4R6K3	H2O
+26	A0A1E4R6K3	(6Z,9Z,12Z)-octadec-6,9,12-trienoic acid
+27	A0A1E4R6K3	H2O
+28	A0A249DBU8	(9Z)-hexadec-9-enoic acid
+29	A0A249DBU8	H2O
+30	A0A249DBU8	(9Z,12Z)-octadec-9,12-dienoic acid
+31	A0A249DBU8	H2O
+32	A0A0G9FDC3	(9Z)-hexadec-9-enoic acid
+33	A0A0G9FDC3	H2O
+34	A0A0G9FDC3	(9Z,12Z)-octadec-9,12-dienoic acid
+35	A0A0G9FDC3	H2O
+36	A0A2N6TXX1	(9Z)-hexadec-9-enoic acid
+37	A0A2N6TXX1	H2O
+38	A0A2N6TXX1	(9Z,12Z)-octadec-9,12-dienoic acid
+39	A0A2N6TXX1	H2O
+40	A0A1C7FUY1	(9Z)-hexadec-9-enoic acid
+41	A0A1C7FUY1	H2O
+42	A0A1C7FUY1	(9Z,12Z)-octadec-9,12-dienoic acid
+43	A0A1C7FUY1	H2O
+44	C7LRD0	Palmitoleic acid
+45	C7LRD0	H2O
+46	C7LRD0	myristoleic acid
+47	C7LRD0	H2O
+48	C7LRD0	linoleic acid
+49	C7LRD0	H2O
+50	C7LRD0	oleate
+51	C7LRD0	H2O
+52	E5V2D7	Palmitoleic acid
+53	E5V2D7	H2O
+54	E5V2D7	myristoleic acid
+55	E5V2D7	H2O
+56	E5V2D7	linoleic acid
+57	E5V2D7	H2O
+58	E5V2D7	oleate
+59	E5V2D7	H2O
+60	Q5FL96	Palmitoleic acid
+61	Q5FL96	H2O
+62	Q5FL96	myristoleic acid
+63	Q5FL96	H2O
+64	Q5FL96	linoleic acid
+65	Q5FL96	H2O
+66	Q5FL96	oleate
+67	Q5FL96	H2O
+68	A0A448B1L4	Palmitoleic acid
+69	A0A448B1L4	H2O
+70	A0A448B1L4	linoleic acid
+71	A0A448B1L4	H2O
+72	A0A448B1L4	myristoleic acid
+73	A0A448B1L4	H2O
+74	A0A448B1L4	oleate
+75	A0A448B1L4	H2O
+76	Q307I4	more
+77	C7DLJ6	Palmitoleic acid
+78	C7DLJ6	H2O
+79	C7DLJ6	(R)-10-Hydroxystearate
+80	C7DLJ6	(R)-10-Hydroxystearate
+81	C7DLJ6	(9Z)-hexadec-9-enoic acid
+82	C7DLJ6	H2O
+83	C7DLJ6	(9Z,12Z)-octadec-9,12-dienoic acid
+84	C7DLJ6	H2O
+85	C7DLJ6	linoleic acid
+86	C7DLJ6	H2O
+87	C7DLJ6	oleate
+88	C7DLJ6	H2O
+89	C7DLJ6	oleic acid
+90	C7DLJ6	H2O
+91	C7DLJ6	myristoleic acid
+92	C7DLJ6	H2O
+93	C7DLJ6	(9Z,12Z,15Z)-octadec-9,12,15-trienoic acid
+94	C7DLJ6	H2O
+95	C7DLJ6	oleate
+96	C7DLJ6	H2O
+97	B9E972	(9Z)-hexadec-9-enoic acid
+98	B9E972	H2O
+99	B9E972	(9Z,12Z)-octadec-9,12-dienoic acid
+100	B9E972	H2O
+101	B9E972	more
+102	B9E972	(9Z,12Z,15Z)-octadec-9,12,15-trienoic acid
+103	B9E972	H2O
+104	B9E972	alpha-linolenic acid
+105	B9E972	gamma-linolenic acid
+106	B9E972	linoleic acid
+107	B9E972	myristoleic acid
+108	B9E972	oleic acid
+109	B9E972	H2O
+110	B9E972	palmitoleic acid
+111	B9E972	(9Z)-octadec-9-enoic acid
+112	B9E972	H2O
+113	B9E972	(6Z,9Z,12Z)-octadec-6,9,12-trienoic acid
+114	B9E972	H2O
+115	B5XK69	(9Z)-hexadec-9-enoic acid
+116	B5XK69	H2O
+117	B5XK69	(9Z,12Z)-octadec-9,12-dienoic acid
+118	B5XK69	H2O
+119	B5XK69	(9Z,12Z,15Z)-octadec-9,12,15-trienoic acid
+120	B5XK69	H2O
+121	B5XK69	(9Z)-octadec-9-enoic acid
+122	B5XK69	H2O
+123	B5XK69	(6Z,9Z,12Z)-octadec-6,9,12-trienoic acid
+124	B5XK69	H2O
+125	T5I9M6	Palmitoleic acid
+126	T5I9M6	H2O
+127	T5I9M6	(9Z,12Z)-octadec-9,12-dienoic acid
+128	T5I9M6	H2O
+129	T5I9M6	more
+130	T5I9M6	(9Z,12Z,15Z)-octadec-9,12,15-trienoic acid
+131	T5I9M6	H2O
+132	T5I9M6	oleate
+133	T5I9M6	H2O
+134	T5I9M6	(6Z,9Z,12Z)-octadec-6,9,12-trienoic acid
+135	T5I9M6	H2O
+0	G3KIM4	(R)-lactoyl-CoA
+0	D3RXI4	crotonoyl-CoA
+1	D3RXI4	H2O
+0	A0A172ML99	Itaconyl-CoA
+1	A0A172ML99	H2O
+0	P0A6Q3	(3R)-3-hydroxydecanoyl-[acyl-carrier protein]
+1	Q9L0M4	3-hydroxydecanoyl-N-acetylcysteamine
+2	Q9L0M4	3-hydroxyhexanoyl-N-acetylcysteamine
+3	Q9L0M4	3-hydroxyoctanoyl-N-acetylcysteamine
+4	Q9L0M4	5-methyl-3-hydroxyhexanoyl-N-acetylcysteamine
+5	Q9L0M4	6-methyl-3-hydroxyheptanoyl-N-acetylcysteamine
+6	Q9L0M4	7-methyl-3-hydroxyoctanoyl-N-acetylcysteamine
+7	F2VYC9	(3R)-3-hydroxybutyryl-[acyl-carrier protein]
+0	Q6BF17	D-galactonate
+1	G3YE52	D-galactonate
+2	G3YE52	more
+3	G3Y8T6	D-galactonate
+4	G3Y8T6	more
+0	Q5QGZ8	beta-Cyano-L-alanine
+1	Q5QGZ8	H2O
+0	P32963	HCN
+1	P32963	H2O
+2	P32963	HCN
+3	P32963	H2O
+4	P32963	HCN
+5	P32963	H2O
+6	P32963	acetonitrile
+7	P32963	H2O
+8	P32963	benzonitrile
+9	P32963	H2O
+10	P32963	propionitrile
+11	P32963	H2O
+12	P32963	more
+13	P32964	HCN
+14	P32964	H2O
+15	P32964	HCN
+16	P32964	H2O
+17	P32964	HCN
+18	P32964	H2O
+0	G3Y683	L-Fuconate
+1	G3Y683	D-Glucuronate
+2	G3Y683	D-gluconate
+3	G3Y683	D-mannonate
+4	G3Y683	L-fuconate
+5	G3Y683	H2O
+6	G3Y683	L-galactonate
+7	G3Y683	L-mannonate
+8	G3Y683	more
+0	P33025	more
+1	P33025	uracil
+2	P33025	D-ribose 5-phosphate
+3	P33025	uracil
+4	P33025	D-ribose 5-phosphate
+0	Q1ET39	more
+1	P10746	hydroxymethylbilane
+2	P10746	hydroxymethylbilane
+3	Q72KM1	Hydroxymethylbilane
+4	O48721	hydroxymethylbilane
+5	O48721	more
+6	Q88B90	hydroxymethylbilane
+0	F8U971	UDP-glucose
+1	F8U971	dTDP-glucose
+2	F8U969	UDP-glucose
+3	F8U969	dTDP-glucose
+0	Q485S0	trans-3-hydroxy-L-proline
+1	H3ZMH8	trans-3-hydroxy-L-proline
+2	A0A1C4WR37	trans-3-hydroxy-L-proline
+3	V5YXI5	trans-3-hydroxy-L-proline
+4	Q96EM0	trans-3-hydroxy-L-proline
+0	Q67A25	4-hydroxyphenylacetaldehyde
+1	Q67A25	dopamine
+2	Q67A25	4-(2-Aminoethyl)benzene-1,2-diol
+3	Q67A25	4-hydroxyphenylacetaldehyde
+4	Q67A25	4-(2-Aminoethyl)benzene-1,2-diol
+5	Q67A25	4-hydroxyphenylacetaldehyde
+6	Q67A25	4-hydroxyphenylacetone
+7	Q67A25	dopamine
+8	C3SBT7	4-hydroxyphenylacetaldehyde
+9	C3SBT7	dopamine
+10	Q4QTJ2	4-hydroxyphenylacetaldehyde
+11	Q4QTJ2	dopamine
+12	A2A1A1	4-hydroxyphenylacetaldehyde
+13	A2A1A1	dopamine
+14	A2A1A1	1-butylaldehyde
+15	A2A1A1	dopamine
+16	A2A1A1	hydrocinnamaldehyde
+17	A2A1A1	dopamine
+18	D2SMN1	4-hydroxyphenylacetaldehyde
+19	D2SMN1	dopamine
+20	D2SMN3	4-hydroxyphenylacetaldehyde
+21	D2SMN3	dopamine
+22	F5C449	4-hydroxyphenylacetaldehyde
+23	F5C449	dopamine
+24	Q4QTJ1	4-hydroxyphenylacetaldehyde
+25	Q4QTJ1	dopamine
+0	P74840	citrate
+1	P74840	more
+2	P74840	2-Hydroxybutane-1,2,3-tricarboxylate
+3	P74840	cis-aconitate
+4	P77243	more
+5	P77243	cis-aconitate
+6	P77243	(2S,3S)-2-methylcitrate
+7	P77243	(2S,3S)-hydroxybutane-1,2,3-tricarboxylate
+8	P77243	(2S,3S)-hydroxybutane-1,2,3-tricarboxylate
+9	P77243	(2S,3S)-2-hydroxybutane-1,2,3-tricarboxylate
+10	P77243	(2S,3S)-2-methylcitrate
+11	P77243	(2S,3S)-2-hydroxybutane-1,2,3-tricarboxylate
+12	Q2L8W4	2-methylcitrate
+13	P45859	more
+14	P45859	(2S,3S)-2-hydroxybutane-1,2,3-tricarboxylate
+15	P45859	(2S,3S)-2-methylcitrate
+16	P45859	(2S,3S)-2-hydroxybutane-1,2,3-tricarboxylate
+17	P74840	(2S,3S)-2-hydroxybutane-1,2,3-tricarboxylate
+0	A4VVI4	D-Mannonate
+1	P24215	D-Mannonate
+2	Q1QT83	D-Mannonate
+0	D4GP40	D-gluconate
+1	D4GP40	more
+2	D4GP40	D-xylonate
+3	Q9A9Z2	D-xylonate
+4	P39358	D-xylonate
+0	Q9KWL6	(E)-3-carboxy-5-oxo-2-hexenedioic acid
+1	Q9KWL6	H2O
+2	Q9KWL6	(E)-3-carboxy-5-oxo-2-hexenedioic acid
+3	Q9KWL6	H2O
+4	Q9KWL6	more
+5	Q93PS9	2-hydroxy-4-carboxy-hexa-2,4-dienedioate
+6	D0IZN8	2-hydroxy-4-carboxy-hexa-2,4-dienedioate
+0	Q2UZQ5	acrylonitrile
+1	Q2UZQ5	H2O
+2	Q2UZQ5	acrylonitrile
+3	Q2UZQ5	H2O
+4	Q2UZQ6	acrylonitrile
+5	Q2UZQ6	H2O
+6	Q2UZQ6	acrylonitrile
+7	Q2UZQ6	H2O
+8	Q5XPL4	methacrylonitrile
+9	Q5XPL4	H2O
+10	Q5XPL4	butyronitrile
+11	Q5XPL4	H2O
+12	Q5XPL4	butyronitrile
+13	Q5XPL4	H2O
+14	Q5XPL4	3-hydroxybutryronitrile
+15	Q5XPL4	H2O
+16	Q5XPL4	3-hydroxypropionitrile
+17	Q5XPL4	H2O
+18	Q5XPL4	3-hydroxyvaleronitrile
+19	Q5XPL4	H2O
+20	Q5XPL4	adiponitrile
+21	Q5XPL4	H2O
+22	Q5XPL4	glycolonitrile
+23	Q5XPL4	H2O
+24	Q5XPL4	acrylonitrile
+25	Q5XPL4	H2O
+26	Q5XPL4	acrylonitrile
+27	Q5XPL4	H2O
+28	Q5XPL4	3-cyanopyridine
+29	Q5XPL4	H2O
+30	Q8GJG6	acrylonitrile
+31	Q8GJG6	H2O
+32	Q8GJG6	acrylonitrile
+33	Q8GJG6	H2O
+34	Q7SID2	methacrylonitrile
+35	Q7SID2	H2O
+36	Q7SID2	more
+37	Q7SID2	benzonitrile
+38	Q7SID2	H2O
+39	Q7SID2	methacrylonitrile
+40	Q7SID2	H2O
+41	Q7SID2	tert-butylisonitrile
+42	Q7SID2	H2O
+43	Q7SID2	4-cyanopyridine
+44	Q7SID2	H2O
+45	Q7SID2	acrylonitrile
+46	Q7SID2	H2O
+47	Q7SID2	acetonitrile
+48	Q7SID2	H2O
+49	Q7SID2	acetonitrile
+50	Q7SID2	H2O
+51	Q7SID2	acetonitrile
+52	Q7SID2	H2O
+53	Q7SID2	3-cyanopyridine
+54	Q7SID2	H2O
+55	Q7SID2	benzonitrile
+56	Q7SID2	H2O
+57	Q7SID2	benzonitrile
+58	Q7SID2	H2O
+59	Q7SID2	acrylonitrile
+60	Q7SID2	H2O
+61	Q7SID2	acrylonitrile
+62	Q7SID2	H2O
+63	Q7SID2	3-cyanopyridine
+64	Q7SID2	H2O
+65	A9V2C1	benzonitrile
+66	A9V2C1	H2O
+67	A9V2C1	benzonitrile
+68	A9V2C1	H2O
+69	A9V2C1	acrylonitrile
+70	A9V2C1	H2O
+71	A9V2C1	acrylonitrile
+72	A9V2C1	H2O
+73	Q5XPL5	3-cyanopyridine
+74	Q5XPL5	H2O
+75	B6CWJ3	more
+76	B6CWJ3	toyocamycin
+77	B6CWJ3	H2O
+78	B6CWJ3	3-cyanopyridine
+79	B6CWJ3	H2O
+80	Q7SID2	acrylonitrile
+81	Q7SID2	H2O
+82	Q7SID2	acrylonitrile
+83	Q7SID2	H2O
+84	A5W402	more
+85	A5W402	4-chlorobutyronitrile
+86	A5W402	H2O
+87	A5W402	benzeneacetonitrile
+88	A5W402	H2O
+89	A5W402	valeronitrile
+90	A5W402	H2O
+91	A5W402	4-cyanopyridine
+92	A5W402	H2O
+93	A5W402	isobutyronitrile
+94	A5W402	H2O
+95	A5W402	benzonitrile
+96	A5W402	H2O
+97	A5W402	benzonitrile
+98	A5W402	H2O
+99	A5W402	acrylonitrile
+100	A5W402	H2O
+101	A5W402	acrylonitrile
+102	A5W402	H2O
+103	A5W402	3-cyanopyridine
+104	A5W402	H2O
+105	A5W402	3-methylbenzonitrile
+106	A5W402	H2O
+107	Q7SID3	methacrylonitrile
+108	Q7SID3	H2O
+109	Q7SID3	more
+110	Q7SID3	4-cyanopyridine
+111	Q7SID3	H2O
+112	Q7SID3	acetonitrile
+113	Q7SID3	H2O
+114	Q7SID3	acetonitrile
+115	Q7SID3	H2O
+116	Q7SID3	acetonitrile
+117	Q7SID3	H2O
+118	Q7SID3	3-cyanopyridine
+119	Q7SID3	H2O
+120	Q7SID3	benzonitrile
+121	Q7SID3	H2O
+122	Q7SID3	benzonitrile
+123	Q7SID3	H2O
+124	Q7SID3	acrylonitrile
+125	Q7SID3	H2O
+126	Q7SID3	acrylonitrile
+127	Q7SID3	H2O
+128	Q7SID3	3-cyanopyridine
+129	Q7SID3	H2O
+130	Q7SID3	acrylonitrile
+131	Q7SID3	H2O
+132	Q7SID3	acrylonitrile
+133	Q7SID3	H2O
+134	B6CWJ4	more
+135	B6CWJ4	toyocamycin
+136	B6CWJ4	H2O
+137	B6CWJ4	3-cyanopyridine
+138	B6CWJ4	H2O
+139	B6CWJ5	more
+140	B6CWJ5	toyocamycin
+141	B6CWJ5	H2O
+142	B6CWJ5	3-cyanopyridine
+143	B6CWJ5	H2O
+144	P13448	methacrylonitrile
+145	P13448	H2O
+146	P13448	propionitrile
+147	P13448	H2O
+148	P13448	propionitrile
+149	P13448	H2O
+150	P13448	more
+151	P13448	acetonitrile
+152	P13448	H2O
+153	P13448	acetonitrile
+154	P13448	H2O
+155	P13448	acetonitrile
+156	P13448	H2O
+157	P13448	benzonitrile
+158	P13448	H2O
+159	P13448	benzonitrile
+160	P13448	H2O
+161	P13448	acrylonitrile
+162	P13448	H2O
+163	P13448	acrylonitrile
+164	P13448	H2O
+165	P13448	3-cyanopyridine
+166	P13448	H2O
+167	P13448	(R)-2-chloromandelonitrile
+168	P13448	H2O
+169	P13448	2-hydroxy-4-phenylbutanenitrile
+170	P13448	H2O
+171	P13448	2-hydroxy-4-phenylbutyronitrile
+172	P13448	H2O
+173	P13448	3-phenoxymandelonitrile
+174	P13448	H2O
+175	P13448	4-chloro-3-hydroxybutanenitrile
+176	P13448	H2O
+177	P13448	4-methylmandelonitrile
+178	P13448	H2O
+179	P13448	butyronitrile
+180	P13448	H2O
+181	P13448	isobutyronitrile
+182	P13448	H2O
+183	P13448	2,2-dimethylcyclopropanecarbonitrile
+184	P13448	H2O
+185	K9NKC3	indole-3-nitrile
+186	K9NKC3	H2O
+187	K9NLN7	indole-3-nitrile
+188	K9NLN7	H2O
+189	P29378	adiponitrile
+190	P29378	H2O
+191	P29378	adiponitrile
+192	P29378	H2O
+193	P29378	adiponitrile
+194	P29378	H2O
+195	P29378	3-cyanopyridine
+196	P29378	H2O
+197	P29378	(R)-mandelonitrile
+198	P29378	H2O
+199	P29378	(S)-mandelonitrile
+200	P29378	H2O
+201	P29378	2-cyanobenzamide
+202	P29378	H2O
+203	P29378	4-cyanobenzamide
+204	P29378	H2O
+205	P29378	5-cyanovaleramide
+206	P29378	cyanoacetamide
+207	P29378	malononitrile
+208	P29378	H2O
+209	P29378	malononitrile
+210	P29378	H2O
+211	P29378	phthalodinitrile
+212	P29378	H2O
+213	P29378	phthalodinitrile
+214	P29378	H2O
+215	P29378	terephthalonitrile
+216	P29378	H2O
+217	P29378	terephthalonitrile
+218	P29378	H2O
+219	J9PBS0	acrylonitrile
+220	J9PBS0	H2O
+221	A0A0H3HE78	propionitrile
+222	A0A0H3HE78	H2O
+223	A0A0H3HE78	propionitrile
+224	A0A0H3HE78	H2O
+225	A0A0H3HE78	butyronitrile
+226	A0A0H3HE78	H2O
+227	A0A0H3HE78	butyronitrile
+228	A0A0H3HE78	H2O
+229	A0A0H3HE78	alpha-methylbenzyl cyanide
+230	A0A0H3HE78	H2O
+231	A0A0H3HE78	alpha-methylbenzyl cyanide
+232	A0A0H3HE78	H2O
+233	A0A0H3HE78	methacrylonitrile
+234	A0A0H3HE78	H2O
+235	A0A0H3HE78	more
+236	A0A0H3HE78	mandelonitrile
+237	A0A0H3HE78	H2O
+238	A0A0H3HE78	4-cyanopyridine
+239	A0A0H3HE78	H2O
+240	A0A0H3HE78	isobutyronitrile
+241	A0A0H3HE78	H2O
+242	A0A0H3HE78	benzonitrile
+243	A0A0H3HE78	H2O
+244	A0A0H3HE78	benzonitrile
+245	A0A0H3HE78	H2O
+246	A0A0H3HE78	acrylonitrile
+247	A0A0H3HE78	H2O
+248	A0A0H3HE78	acrylonitrile
+249	A0A0H3HE78	H2O
+250	A0A0H3HE78	3-cyanopyridine
+251	A0A0H3HE78	H2O
+252	A0A0H3HE78	2-cyanopyridine
+253	A0A0H3HE78	H2O
+254	A0A0H3HE78	2,2-dimethylcyclopropanecarbonitrile
+255	A0A0H3HE78	H2O
+256	A0A0H3HE78	benzyl cyanide
+257	A0A0H3HE78	H2O
+258	P97051	3-cyanopyridine
+259	P97051	H2O
+260	A0A2Z6FCE3	1-cyanocyclohexaneacetonitrile
+261	A0A2Z6FCE3	H2O
+262	V5RFK1	indole-3-acetonitrile
+263	V5RFK1	H2O
+264	V5RFK1	succinonitrile
+265	V5RFK1	H2O
+266	V5RFK1	acetonitrile
+267	V5RFK1	H2O
+268	V5RFK1	acetonitrile
+269	V5RFK1	H2O
+270	V5RFK1	acetonitrile
+271	V5RFK1	H2O
+272	V5RFK1	isobutyronitrile
+273	V5RFK1	H2O
+274	V5RFK1	benzonitrile
+275	V5RFK1	H2O
+276	V5RFK1	benzonitrile
+277	V5RFK1	H2O
+278	V5RFK1	3-cyanopyridine
+279	V5RFK1	H2O
+280	V5RFK1	acetamiprid
+281	V5RFK1	H2O
+282	V5RFK1	hexanedinitrile
+283	V5RFK1	H2O
+284	V5RFK1	thiacloprid
+285	V5RFK1	H2O
+286	P21219	3-cyanopyridine
+287	P21219	H2O
+0	Q8NQZ9	2,3-dihydroxy-3-methylbutanoate
+1	Q8NQZ9	more
+2	Q97UB2	2,3-dihydroxy-3-methylbutanoate
+3	Q97UB2	D-Galacturonate
+4	Q97UB2	D-Glucuronate
+5	Q97UB2	D-arabonate
+6	Q97UB2	D-fuconate
+7	Q97UB2	D-gluconate
+8	Q97UB2	D-gluconate
+9	Q97UB2	D-glycerate
+10	Q97UB2	D-xylonate
+11	Q97UB2	2,3-dihydroxyisovalerate
+12	Q97UB2	more
+13	Q0K7F8	2,3-dihydroxyisovalerate
+0	A3LZU6	L-rhamnonate
+1	G3XPU3	L-rhamnonate
+2	G3XPU3	more
+3	G3XPU3	L-mannonate
+4	P77215	L-rhamnonate
+5	P77215	more
+6	P77215	D-gulonate
+7	P77215	L-lyxonate
+8	P77215	L-mannonate
+9	Q8ZNF9	L-rhamnonate
+10	Q8ZNF9	L-lyxonate
+11	Q8ZNF9	L-mannonate
+12	Q1NEI8	L-rhamnonate
+13	Q1NEI8	L-lyxonate
+14	Q1NEI8	L-mannonate
+0	Q01269	prephenate
+1	Q01269	L-arogenate
+2	Q9ZUY3	L-arogenate
+3	Q9ZUY3	more
+4	Q9ZUY3	L-arogenate
+5	Q9SA96	L-arogenate
+6	Q9SA96	more
+7	Q9SA96	prephenate
+8	Q9SA96	L-arogenate
+9	Q9SSE7	L-arogenate
+10	Q9SSE7	more
+11	Q9SSE7	prephenate
+12	Q9SSE7	L-arogenate
+13	Q9SGD6	L-arogenate
+14	Q9SGD6	more
+15	Q9SGD6	prephenate
+16	Q9SGD6	L-arogenate
+17	O22241	L-arogenate
+18	O22241	more
+19	O22241	L-arogenate
+20	Q9FNJ8	L-arogenate
+21	Q9FNJ8	more
+22	Q9FNJ8	L-arogenate
+23	A8CF65	L-arogenate
+24	D3U715	L-arogenate
+25	D3U716	L-arogenate
+26	D3U716	prephenate
+27	D3U717	L-arogenate
+28	D3U717	prephenate
+0	Q8X151	(13R)-hydroperoxylinolenic acid
+1	Q8X151	heptadecatrienoic acid
+2	Q8X151	linoleic acid
+3	Q8X151	linolenic acid
+4	Q8X151	more
+5	Q96242	(13S)-hydroperoxy-(9Z,11E)-octadecadienoic acid
+6	Q96242	more
+7	A7XY79	(13S)-hydroperoxy-(9Z,11E)-octadecadienoic acid
+8	A7XY79	more
+9	A9SNA2	(13S)-hydroperoxy-(9Z,11Z,15Z)-octadecatrienoic acid
+10	B2J5P3	(8E,10S,12Z)-10-hydroperoxyoctadeca-8,12-dienoic acid
+11	B2J5P3	more
+12	F9F4K7	(9S)-hydroperoxy-(10E,12Z)-octadecadienoic acid
+13	F9F4K7	(9S)-hydroperoxy-(10E,12Z)-octadecadienoic acid
+14	F9F4K7	(9S)-hydroperoxy-(10E,12Z,15Z)-octadecatrienoic acid
+15	F9F4K7	(9Z,11E,13R)-13-hydroperoxyoctadeca-9,11-dienoic acid
+16	F9F4K7	13-hydroperoxy-(10E,12Z)-octadecadienoic acid
+17	F9F4K7	more
+18	Q0CW98	(9R,10E,12Z)-9-hydroperoxy-10,12-octadecadienoic acid
+19	Q0CW98	more
+20	I1REW2	(13S)-hydroperoxy-(9Z,11E)-octadecadienoic acid
+21	I1REW2	more
+22	U5YTM6	(9S,10E,12Z)-9-hydroperoxy-10,12-octadecadienoic acid
+23	U5YTM6	(9Z,11E,13S)-13-hydroperoxy-9,11-octadecadienoic acid
+24	U5YTM6	(9Z,11E,13S,15Z)-13-hydroperoxy-9,11,15-octadecatrienoic acid
+25	U5YTM6	(9S,10E,12Z,15Z)-9-hydroperoxy-10,12,15-octadecatrienoic acid
+26	U5YTM6	more
+27	M4WFN0	(9S,10E,12Z)-9-hydroperoxy-10,12-octadecadienoic acid
+28	M4WFN0	(9Z,11E,13S)-13-hydroperoxy-9,11-octadecadienoic acid
+29	M4WFN0	(9Z,11E,13S,15Z)-13-hydroperoxy-9,11,15-octadecatrienoic acid
+30	M4WFN0	(9S,10E,12Z,15Z)-9-hydroperoxy-10,12,15-octadecatrienoic acid
+31	M4WFN0	more
+32	C7ENW3	(9S,10E,12Z)-9-hydroperoxy-10,12-octadecadienoic acid
+33	C7ENW3	(9Z,11E,13S)-13-hydroperoxy-9,11-octadecadienoic acid
+34	C7ENW3	(9S,10E,12Z,15Z)-9-hydroperoxy-10,12,15-octadecatrienoic acid
+35	C7ENW3	more
+36	A0A0A0K2U8	(9Z,11E,13S)-13-hydroperoxy-9,11-octadecadienoic acid
+37	A0A0A0K2U8	(9Z,11E,13S,15Z)-13-hydroperoxy-9,11,15-octadecatrienoic acid
+38	A0A0A0K2U8	(9S,10E,12Z,15Z)-9-hydroperoxy-10,12,15-octadecatrienoic acid
+39	A0A0A0K2U8	(9S,10E,12Z)-9-hydroperoxy-10,12-octadecadienoic acid
+40	A0A0A0K2U8	more
+41	Q93XR3	(9Z,11E,13S)-13-hydroperoxy-9,11-octadecadienoic acid
+42	Q93XR3	(9Z,11E,13S,15Z)-13-hydroperoxy-9,11,15-octadecatrienoic acid
+43	Q93XR3	(9S,10E,12Z,15Z)-9-hydroperoxy-10,12,15-octadecatrienoic acid
+44	Q93XR3	(9S,10E,12Z)-9-hydroperoxy-10,12-octadecadienoic acid
+45	Q93XR3	more
+46	Q39443	(9Z,11E,13S)-13-hydroperoxy-9,11-octadecadienoic acid
+47	G8XQN2	(9Z,11E,13S)-13-hydroperoxy-9,11-octadecadienoic acid
+48	G8XQN2	(9Z,11E,13S,15Z)-13-hydroperoxy-9,11,15-octadecatrienoic acid
+49	G8XQN2	more
+50	Q7X9B3	(9S,10E,12Z)-9-hydroperoxy-10,12-octadecadienoic acid
+51	Q7X9B3	(9Z,11E,13S)-13-hydroperoxy-9,11-octadecadienoic acid
+52	Q7X9B3	(9Z,11E,13S,15Z)-13-hydroperoxy-9,11,15-octadecatrienoic acid
+53	Q7X9B3	(9S,10E,12Z,15Z)-9-hydroperoxy-10,12,15-octadecatrienoic acid
+54	Q7X9B3	more
+55	Q9XGI8	(9Z,11E,13S)-13-hydroperoxy-9,11-octadecadienoic acid
+56	Q9XGI8	(9Z,11E,13S,15Z)-13-hydroperoxy-9,11,15-octadecatrienoic acid
+57	Q9XGI8	more
+58	B3LF83	(9Z,11E,15Z)-(13S)-hydroperoxyoctadeca-9,11,15-trienoate
+59	B3LF83	(9Z,11E,13S,15Z)-13-hydroperoxy-9,11,15-octadecatrienoic acid
+60	B3LF83	more
+61	G4VV60	(9Z,11E,13S)-13-hydroperoxy-9,11-octadecadienoic acid
+62	G4VV60	(9Z,11E,13S,15Z)-13-hydroperoxy-9,11,15-octadecatrienoic acid
+63	G4VV60	more
+0	Q94AF2	ATP
+1	Q94AF2	(6S)-6beta-hydroxy-1,4,5,6-tetrahydronicotinamide-adenine dinucleotide
+2	Q94AF2	ATP
+3	Q94AF2	(6S)-6beta-hydroxy-1,4,5,6-tetrahydronicotinamide-adenine dinucleotide
+4	Q94AF2	more
+5	Q94AF2	ATP
+6	Q94AF2	(6S)-6beta-hydroxy-1,4,5,6-tetrahydronicotinamide-adenine dinucleotide phosphate
+7	A0A3L6F337	ATP
+8	A0A3L6F337	(6S)-6beta-hydroxy-1,4,5,6-tetrahydronicotinamide-adenine dinucleotide
+9	A0A3L6F337	ATP
+10	A0A3L6F337	(6S)-6beta-hydroxy-1,4,5,6-tetrahydronicotinamide-adenine dinucleotide
+11	A0A3L6F337	ATP
+12	A0A3L6F337	(6S)-6beta-hydroxy-1,4,5,6-tetrahydronicotinamide-adenine dinucleotide phosphate
+13	Q8IW45	ATP
+14	Q8IW45	(6S)-6beta-hydroxy-1,4,5,6-tetrahydronicotinamide-adenine dinucleotide
+15	Q8IW45	ATP
+16	Q8IW45	(6S)-6beta-hydroxy-1,4,5,6-tetrahydronicotinamide-adenine dinucleotide
+17	Q8IW45	ATP
+18	Q8IW45	(6S)-6beta-hydroxy-1,4,5,6-tetrahydronicotinamide-adenine dinucleotide phosphate
+19	P36059	ATP
+20	P36059	(6S)-6beta-hydroxy-1,4,5,6-tetrahydronicotinamide-adenine dinucleotide
+21	P36059	ATP
+22	P36059	(6S)-6beta-hydroxy-1,4,5,6-tetrahydronicotinamide-adenine dinucleotide
+23	P36059	ATP
+24	P36059	(6S)-6beta-hydroxy-1,4,5,6-tetrahydronicotinamide-adenine dinucleotide phosphate
+25	Q9CZ42	ATP
+26	Q9CZ42	(6S)-6beta-hydroxy-1,4,5,6-tetrahydronicotinamide-adenine dinucleotide
+27	Q9CZ42	ATP
+28	Q9CZ42	(6S)-6beta-hydroxy-1,4,5,6-tetrahydronicotinamide-adenine dinucleotide
+29	Q9CZ42	more
+30	Q9CZ42	ATP
+31	Q9CZ42	(6S)-6beta-hydroxy-1,4,5,6-tetrahydronicotinamide-adenine dinucleotide phosphate
+32	D4AAT7	ATP
+33	D4AAT7	(6S)-6beta-hydroxy-1,4,5,6-tetrahydronicotinamide-adenine dinucleotide
+34	D4AAT7	ATP
+35	D4AAT7	(6S)-6beta-hydroxy-1,4,5,6-tetrahydronicotinamide-adenine dinucleotide
+36	D4AAT7	more
+37	D4AAT7	ATP
+38	D4AAT7	(6S)-6beta-hydroxy-1,4,5,6-tetrahydronicotinamide-adenine dinucleotide phosphate
+0	P56221	scytalone
+1	P56221	scytalone
+2	A7F6T4	scytalone
+3	A7F6T4	scytalone
+4	A7F6T4	more
+0	C7ZKN4	kievitone
+1	C7ZKN4	H2O
+2	C7ZKN4	kievitone
+3	C7ZKN4	H2O
+4	C7ZKN4	more
+5	C7ZKN4	8-prenylnaringenin
+6	C7ZKN4	H2O
+7	C7ZKN4	8-prenylnaringenin hydrate
+8	C7ZKN4	isoxanthohumol
+9	C7ZKN4	H2O
+10	C7ZKN4	isoxanthohumol hydrate
+11	C7ZKN4	xanthohumol
+12	C7ZKN4	H2O
+13	C7ZKN4	xanthohumol hydrate
+14	C7ZKN4	kievitone hydrate
+15	Q00870	more
+16	Q00870	kievitone hydrate
+17	Q00870	xanthohumol
+0	Q9H0N5	more
+1	Q9H0N5	(6R)-6-(L-erythro-1,2-dihydroxypropyl)-5,6,7 8-tetrahydro-4a-hydroxypterin
+2	P61459	4a-Hydroxy-6(S)-methyltetrahydropterin
+3	P61459	4a(R)-hydroxy-6(S)-methyltetrahydropterin
+4	P61459	4a(S)-hydroxy-6(R)-methyltetrahydropterin
+0	Q59801	more
+1	Q59801	hyaluronate
+2	Q54873	hyaluronate
+3	Q54873	chondroitin sulfate
+4	Q54873	chondroitin sulfate
+5	Q54873	hyaluronic acid
+6	Q54873	more
+7	Q54873	chondroitin
+8	Q54873	unsulfated chondroitin
+9	Q54873	hyaluronan
+10	Q54873	hyaluronan
+11	Q54873	hyaluronan
+12	Q54873	hyaluronan
+13	Q54873	hyaluronate
+14	O86478	more
+15	O86478	hyaluronate
+16	P26831	more
+17	P26831	hyaluronate
+18	P0CZ01	more
+19	P0CZ01	hyaluronate
+20	Q9WXL3	more
+21	Q9WXL3	hyaluronate
+22	Q53591	chondroitin sulfate
+23	Q53591	chondroitin sulfate
+24	Q53591	hyaluronic acid
+25	Q53591	more
+26	Q53591	unsulfated chondroitin
+27	Q53591	hyaluronan
+28	Q53591	hyaluronate hexasaccharide
+29	Q53591	hyaluronan
+30	Q53591	hyaluronan
+31	Q6H8Y2	more
+32	Q6H8Y3	more
+33	Q6H8Y4	more
+34	Q6H8W8	more
+35	Q6H8X8	more
+36	Q6H8X7	more
+37	Q6H8X6	more
+38	Q6H8X5	more
+39	Q6H8X4	more
+40	Q6H8X1	more
+41	Q6H8X2	more
+42	Q6H8X0	more
+43	Q6H8W9	more
+44	Q8VLQ8	hyaluronic acid
+45	Q8VLQ8	more
+46	Q8VLQ7	more
+47	Q6H8Y0	more
+48	Q6H8Y1	more
+49	C0M9W4	hyaluronic acid
+50	P15316	hyaluronic acid
+51	W6E7E9	hyaluronan
+52	W6E7E9	hyaluronan
+53	X5I0R2	chondroitin sulfate A
+54	X5I0R2	more
+55	X5I0R2	hyaluronan
+56	X5I0R2	chondroitin sulfate C
+0	Q01172	more
+1	Q01172	pectin
+2	Q01172	partially methyl-esterified pectin
+3	R9XVW6	citrus pectin
+4	R9XVW6	more
+0	Q9RB42	more
+1	Q9RB42	poly-alpha-L-guluronic acid
+2	Q9RB42	poly-alpha-L-guluronic acid
+3	Q9RB42	poly-alpha-L-guluronic acid
+4	Q9Z6D6	alpha-L-guluronosyl linkage in alginate
+5	Q9Z6D6	more
+6	Q9Z6D6	poly-beta1,4-D-mannuronan
+7	Q9Z6D6	poly-alpha-L-guluronic acid
+8	Q9Z6D6	poly-alpha-L-guluronic acid
+9	A9CEJ9	alpha-L-guluronosyl linkage in alginate
+10	C4TJD4	alpha-L-guluronosyl linkage in alginate
+11	C4TJD2	alpha-L-guluronosyl linkage in alginate
+12	C4TJD2	more
+13	C4TJD3	alpha-L-guluronosyl linkage in alginate
+14	G1EH67	alpha-L-guluronosyl linkage in alginate
+15	G1EH67	poly(beta-(1->4)-D-mannuronic acid/alpha-(1->4)-L-guluronic acid)
+16	G1EH67	poly(alpha-(1->4)-L-guluronic acid)
+17	L8B3Z6	alginate
+18	G9J5R3	alginate
+19	G9CHX6	more
+20	G9CHX6	sodium alginate
+21	G9CHX6	poly-(alpha-L-guluronate)
+22	G9CHX6	alginate
+23	G9CHX6	poly-(beta-(1->4)-D-mannuronan)
+24	G9CHX6	poly(alpha-(1->4)-L-guluronic acid)
+25	G3LI08	poly(beta-(1->4)-D-mannuronic acid)
+26	G3LI08	alginate
+27	G3LI08	poly(alpha-(1->4)-L-guluronic acid)
+28	G0KZG8	more
+29	G0KZG8	sodium alginate
+30	G0KZG8	poly(alpha-L-guluronate)
+31	G0L2Y1	more
+32	G0L2Y1	sodium alginate
+33	G0L2Y1	poly(alpha-L-guluronate)
+34	I6P4V6	more
+35	Q21FJ0	more
+36	Q21FJ0	sodium alginate
+37	A0A1Z2QRD5	alginate
+38	A0A1Z2QRD5	poly(alpha-(1,4)-L-guluronate)
+39	A0A1Z2QRD5	poly(beta-(1,4)-D-mannuronate)
+40	A0A0H3WC39	alginate
+41	A0A0H3WC39	acetylated alginate
+42	A0A346FH09	alginate
+43	A0A346FH09	poly(alpha-(1,4)-L-guluronate)
+44	A0A346FH09	poly(beta-(1,4)-D-mannuronate)
+45	Q75WP3	more
+46	Q75WP3	alginate
+47	Q75WP3	poly(alpha-(1,4)-L-guluronate)
+48	Q75WP3	poly(beta-(1,4)-D-mannuronate)
+49	G9CHX6	more
+50	G9CHX6	alginate
+51	G9CHX6	poly(alpha-(1,4)-L-guluronate)
+52	G9CHX6	poly(beta-(1,4)-D-mannuronate)
+53	A0A0F7KQI4	alginate
+54	A0A0F7KQI4	poly(alpha-(1,4)-L-guluronate)
+55	A0A0F7KQI4	poly(beta-(1,4)-D-mannuronate)
+56	A0A0F7KQI4	alginate
+57	A3UR44	more
+58	A3UR44	alginate
+59	A3UT33	more
+60	A3UT33	alginate
+61	A0A1B1FUW4	more
+62	A0A1B1FUW4	alginate
+63	A0A1B1FUW4	poly(alpha-L-1,4-guluronate)
+64	A0A1B1FUW4	poly(beta-D-mannuronate)
+65	A0A1Z2QRE2	more
+66	A0A1Z2QRE2	poly(alpha-(1,4)-L-guluronate)
+67	A0A1Z2QRE2	poly(beta-(1,4)-D-mannuronate)
+68	A0A1Z2QRE2	alginate
+69	A0A0A1DYR7	more
+70	A0A0A1DYR7	poly(alpha-(1,4)-L-guluronate)
+71	A0A0A1DYR7	poly(beta-(1,4)-D-mannuronate)
+72	A0A0A1DYR7	alginate
+73	A0A0A1DYR7	poly(beta-(1,4)-D-mannuronate/alpha-(1,4)-L-guluronate)
+74	A0A1B1Y7V0	poly(alpha-(1,4)-L-guluronate)
+75	A0A1B1Y7V0	poly(beta-(1,4)-D-mannuronate)
+76	A0A1B1Y7V0	alginate
+77	A0A3B6UEP6	poly(alpha-(1,4)-L-guluronate)
+78	A0A3B6UEP6	poly(beta-(1,4)-D-mannuronate)
+79	A0A3B6UEP6	alginate
+80	A0A0M4N5N7	alginate
+81	A0A0M4N5N7	saturated hexa((1-4)-alpha-L-guluronan)
+82	A0A0M4N5N7	saturated penta((1-4)-alpha-L-guluronan)
+0	B6F143	cellouronate
+0	Q9EVQ9	levan
+1	Q9EVQ9	more
+0	A0A1J4N453	nystose
+1	A0A1J4N453	beta-D-fructofuranosyl-(2->1)-beta-D-fructofuranosyl-(2->1)-beta-D fructofuranosyl-(2->1)-beta-D-fructofuranosyl-(2->1)-alpha-D glucopyranoside
+2	A0A1J4N453	inulin
+3	A1SCS9	nystose
+4	A1SCS9	beta-D-fructofuranosyl-(2->1)-beta-D-fructofuranosyl-(2->1)-beta-D fructofuranosyl-(2->1)-beta-D-fructofuranosyl-(2->1)-alpha-D glucopyranoside
+5	A1SCS9	inulin
+6	E9URP8	nystose
+7	E9URP8	beta-D-fructofuranosyl-(2->1)-beta-D-fructofuranosyl-(2->1)-beta-D fructofuranosyl-(2->1)-beta-D-fructofuranosyl-(2->1)-alpha-D glucopyranoside
+8	E9URP8	inulin
+0	Q3SAG3	inulin
+1	Q9FA01	inulin
+2	X5I0M9	inulin
+3	F8QV43	inulin
+4	F8QV43	inulin
+5	B8HEC1	inulin
+6	B8HEC1	nystose
+0	Q46079	dermatan sulfate
+1	Q46079	dermatan sulfate
+2	Q46079	dermatan sulfate
+3	Q46079	dermatan sulfate
+0	D8X181	more
+1	D8WN00	pectate
+2	D8X180	more
+3	D8X179	more
+4	D3JTC1	more
+5	D3JTC2	more
+6	B2ZFM0	polygalacturonic acid
+7	Q9C2Z0	polygalacturonic acid
+8	S5UBI8	polygalacturonic acid
+9	S5UBI8	more
+10	S5UBI8	pectin
+11	B9MKT4	more
+12	W8CR80	polygalacturonic acid
+13	W8CR80	more
+14	W8CR80	pectin
+15	E4SDD0	polygalacturonate
+16	E4SDD0	methylated pectin
+17	E4SDD0	pectic biomass
+18	I0BWH3	polygalacturonate
+19	I0BWH3	citrus pectin
+20	A0A286K338	polygalacturonate
+21	A0A286K338	citrus pectin
+22	G2X8L4	polygalacturonate
+23	A0A1B1LZ58	more
+24	A0A1B1LZ58	apple pectin
+25	A0A1B1LZ58	citrus pectin
+26	A0A1B1LZ58	methylated pectin
+27	A0A1B1LZ58	polygalacturonate
+28	D0VP31	ramie fiber
+29	D0VP31	polygalacturonic acid
+30	W8CR80	polygalacturonate
+31	W8CR80	ramie fiber
+32	A0A097PUC5	polygalacturonic acid
+33	Q7X0P2	polygalacturonic acid
+34	Q7X0P2	pectin
+35	Q7X0P2	esterified pectin
+36	Q9WYR4	more
+37	Q9XDT1	polygalacturonic acid
+38	Q9XDT1	pectin
+39	Q9RHW0	polygalacturonic acid
+40	Q9XDT2	pectin
+41	Q9XDT2	polygalacturonic acid
+42	Q9X6Z2	pectin
+43	Q9X6Z2	polygalacturonate
+44	O68975	polygalacturonic acid
+45	Q8J254	more
+46	Q33CQ4	polygalacturonic acid
+47	Q33CQ4	more
+48	Q76EC9	polygalacturonic acid
+49	Q76EC9	pectin
+50	P39116	more
+51	P39116	pectin
+52	P39116	polygalacturonate
+53	P39116	polygalacturonic
+54	P39116	tetragalacturonate
+55	P39116	trigalacturonate
+56	B3SXR0	polygalacturonic acid
+57	Q8PCR8	polygalacturonic acid
+58	Q8PCR8	citrus pectin
+59	Q8P6Z9	polygalacturonic acid
+60	Q8P6Z9	citrus pectin
+61	Q93RU6	polygalacturonic acid
+62	Q93J76	polygalacturonic acid
+63	O50325	pectin
+64	B1B6T1	polygalacturonic acid
+65	B1B6T1	polygalacturonic acid
+66	C6L867	polygalacturonate
+67	D0VP31	more
+68	D0VP31	citrus pectin
+69	D0VP31	polygalacturonate
+70	Q4JLV6	polygalacturonate
+71	Q4JLV6	de-esterified pectin
+72	P0C1A2	pectin
+73	P0C1A2	polygalacturonate
+74	P0C1A2	galacturonan
+75	P04959	pectin
+76	P04959	polygalacturonate
+77	P11073	pectin
+78	P11073	polygalacturonate
+79	P18209	pectin
+80	P18209	polygalacturonate
+0	P59807	chondroitin 4-sulfate
+1	P59807	dermatan sulfate
+2	P59807	chondroitin 6-sulfate
+3	P59807	chondroitin sulfate A
+0	Q8A2I1	chondroitin 4-sulfate
+1	Q8A2I1	chondroitin sulfate D
+2	Q8A2I1	chondroitin sulfate E
+3	Q8A2I1	dermatan sulfate
+4	Q8A2I1	chondroitin sulfate A
+5	Q8A2I1	chondroitin sulfate C
+6	Q8A2I1	high molecular weight hyaluronic acid D
+7	Q8A2I1	low molecular weight hyaluronic acid D
+8	A0A077ERI8	more
+9	A0A077ERI8	2-aminobenzamide-labeled chondroitin sulfate-C hexasaccharide
+10	A0A077ERI8	2-aminobenzamide-labeled chondroitin sulfate-C tetrasaccharide
+11	A0A077ERI8	chondroitin sulfate A
+12	A0A077ERI8	chondroitin sulfate C
+13	A0A077ERI8	chondroitin sulfate D
+14	A0A077ERI8	chondroitin sulfate E
+15	A0A077ERI8	dermatan sulfate
+16	A0A077ERI8	hyaluronan
+0	Q9WYR4	polygalacturonic acid
+1	Q9AQF3	polygalacturonic acid
+2	Q8GCB2	polygalacturonic acid
+3	A4L7I1	more
+4	A4L7I1	pectin
+5	A4L7I1	rhamnogalacturonan
+0	A3DC06	pectic galactan
+1	A3DC06	pectin
+2	A3DC06	potato galactan
+3	A3DC06	potato rhamnogalacturonan I
+4	A3DC06	soybean rhamnogalacturonan I
+5	O31526	rhamnogalacturonan I
+6	Q00019	rhamnogalacturonan I
+7	Q8RJP2	rhamnogalacturonan I
+8	Q8RJP2	more
+9	Q9AF09	rhamnogalacturonan I
+10	Q9AF09	potato pectic galactan
+11	W8VJU1	more
+12	W8VJU1	azurine-crosslinked rhamnogalacturonan
+13	W8VJU1	degalactosylated rhamnogalacturonan
+14	W8VJU1	rhamnogalacturonan
+0	O31527	rhamnogalacturonan I
+1	O31527	rhamnogalacturonan I oligosaccharide
+2	O31527	rhamnogalacturonan I oligosaccharide
+3	A0A0C6EFY4	alpha-L-Rha-(1,4)-beta-D-GalA-(1,2)-alpha-L-Rha-(1,4)-beta-D-GalA
+4	A0A0C6EFY4	beta-D-GalA-(1,2)-alpha-L-Rha-(1,4)-beta-D-GalA
+5	A0A0C6EFY4	beta-D-GalA-(1,2)-alpha-L-Rha-(1,4)-beta-D-GalA-(1,2)-alpha-L-Rha
+6	A0A0C6EFY4	beta-D-GalA-(1,2)-alpha-L-Rha-(1,4)-beta-D-GalA-(1,2)-alpha-L-Rha-(1 4)-beta-D-GalA
+7	A0A0C6EFY4	more
+8	A0A0C6EFY4	unsaturated beta-D-4-deoxy-DELTA4,5-GalA-(1,2)-alpha-L-Rha-(1,4)-beta-D-GalA-(1 2)-alpha-L-Rha
+9	A0A0C6EFY4	unsaturated rhamnogalacturan oligosaccarides
+0	O82833	gellan
+1	O82833	[beta-D-GlcAp-(1->4)-beta-D-Glcp-(1->4)-alpha-L-Rhap-(1->3)-beta-D-Glcp (1->4)-beta-D-GlcAp-(1->4)-beta-D-Glcp-(1->4)-alpha-L-Rhap-(1->3)-beta D-Glcp-(1->4)-]n
+2	P85513	gellan
+0	G1EH67	alginate
+1	A0A088CA41	alginate
+2	A0A088CA41	H2O
+3	A0A088CA41	poly(beta-(1->4)guluronate)
+4	A0A088CA41	H2O
+5	A0A088CA41	poly(beta-(1->4)mannuronate)
+6	A0A088CA41	H2O
+7	T1RPY0	more
+8	T1RPY0	alginate
+9	T1RPY0	oligoalginate
+10	T1RPY0	poly(beta-(1->4)-D-mannuronate)
+11	A0A345ANR9	alginate
+12	A0A345ANR9	poly(alpha-1,4-L-guluronate)
+13	A0A345ANR9	poly(beta-1,4-D-mannuronate)
+14	A0A345ANS0	alginate
+15	A0A345ANS0	poly(alpha-1,4-L-guluronate)
+16	A0A345ANS0	poly(beta-1,4-D-mannuronate)
+17	B2FSW8	alginate
+18	B2FSW8	poly(beta-(1,4)-D-mannuronate)
+19	B2FSW8	poly(beta-(1,4)-D-mannuronic acid/alpha-(1,4)-L-guluronic acid)
+20	B2FSW8	poly(beta-(1,4)glucuronate)
+21	B2FSW8	poly(beta-(1,4)guluronate)
+0	A0A346FH09	poly(alpha-(1,4)-L-guluronic acid)
+1	A0A346FH09	poly(beta-(1,4)-D-mannuronic acid)
+2	A0A346FH09	alginate
+3	Q75WP3	more
+4	Q75WP3	alginate
+5	Q75WP3	poly(alpha-(1,4)-L-guluronate)
+6	Q75WP3	poly(beta-(1,4)-D-mannuronate)
+7	G9CHX6	poly(beta-1,4-D-mannuronate)
+8	G9CHX6	poly(alpha-1,4-L-guluronate)
+9	G9CHX6	more
+10	G9CHX6	alginate
+11	A0A0F7KQI4	alginate
+12	A0A0F7KQI4	poly(alpha-(1,4)-L-guluronate)
+13	A0A0F7KQI4	poly(beta-(1,4)-D-mannuronate)
+14	A0A1B1FUW4	poly(alpha-L-(1,4)-guluronate)
+15	A0A1B1FUW4	poly(beta-D-mannuronate)
+16	A0A1B1FUW4	more
+17	A0A1B1FUW4	alginate
+18	A0A1Z2QRE2	more
+19	A0A1Z2QRE2	alginate
+20	A0A1Z2QRE2	poly(alpha-(1,4)-L-guluronate)
+21	A0A1Z2QRE2	poly(beta-(1,4)-D-mannuronate)
+22	A0A0A1DYR7	more
+23	A0A0A1DYR7	alginate
+24	A0A0A1DYR7	poly(beta-(1,4)-D-mannuronate/alpha-(1,4)-L-guluronate)
+25	A0A0A1DYR7	poly(alpha-(1,4)-L-guluronate)
+26	A0A0A1DYR7	poly(beta-(1,4)-D-mannuronate)
+27	A0A1B1Y7V0	alginate
+28	A0A1B1Y7V0	poly(alpha-(1,4)-L-guluronate)
+29	A0A1B1Y7V0	poly(beta-(1,4)-D-mannuronate)
+30	A0A0H3W5S4	poly(beta-1,4-D-mannuronate)
+31	A0A0H3W5S4	more
+32	A0A0H3W5S4	alginate
+33	A3UR40	more
+34	A3UR40	alginate
+35	A3UR41	more
+36	A3UR41	alginate
+37	A0A0A1DZ36	more
+38	A0A0A1DZ36	alginate
+39	A0A0A1DZ36	poly(alpha-(1,4)-L-guluronate)
+40	A0A0A1DZ36	poly(beta-(1,4)-D-mannuronate)
+41	B2LME8	alginate
+42	B2LME8	poly(alpha-(1,4)-L-guluronate)
+43	B2LME8	poly(beta-(1,4)-D-mannuronate)
+44	A0A1B1FUS6	poly(alpha-(1,4)-L-guluronate)
+45	A0A1B1FUS6	poly(beta-(1,4)-D-mannuronate)
+46	A0A1B1FUS6	alginate
+47	A6Q1E0	alginate
+48	A6Q1E0	poly(alpha-1,4-L-guluronate)
+49	A6Q1E0	poly(beta-1,4-D-mannuronate)
+50	A6Q1E0	poly(beta-1,4-D-mannuronate/alpha-1,4-L-guluronate)
+51	Q9Z6D6	more
+52	Q9Z6D6	alginate
+53	Q9Z6D6	poly-alpha1,4-L-guluronic acid
+54	Q9Z6D6	poly-beta1,4-D-mannuronic acid
+55	Q06749	more
+56	Q06749	alginate
+57	O52195	more
+58	O52195	alginate
+59	O52195	poly-beta1,4-D-mannuronic acid
+60	O52195	poly-acetyl-beta1,4-D-mannuronic acid
+61	O50660	alginate
+62	O50660	poly-beta1,4-D-mannuronic acid
+63	O50660	alginic acid
+64	Q9QT64	more
+65	Q9QT64	alginate
+66	Q9QT64	poly-beta1,4-D-mannuronic acid
+67	Q9QT64	alginate
+68	Q59639	more
+69	Q59639	alginate
+70	Q59639	poly-beta1,4-D-mannuronic acid
+71	P39049	more
+72	P39049	alginate
+73	P39049	acetylated poly-beta1,4-D-mannuronic acid
+74	Q9ZNB7	more
+75	Q9ZNB7	alginate
+76	Q9ZNB7	poly-beta1,4-D-mannuronic acid
+77	Q9ZFG9	more
+78	Q9ZFG9	alginate
+79	Q9ZFG9	alginate
+80	Q9ZFG9	poly-alpha1,4-L-guluronic acid
+81	Q9L7P2	more
+82	Q9L7P2	deacetylated polymannuronic acid
+83	Q75WP3	sodium alginate
+84	Q75WP3	more
+85	Q75WP3	4-deoxy-L-erythro-hex-4-ene-pyranosyluronate-(mannuronate)2-mannuronic acid
+86	Q53EJ1	alginate
+87	Q5DWP2	poly-beta-D-mannuronate
+88	Q5DWP2	more
+89	Q5DWP2	alginate
+90	Q5DWP2	poly-alpha-L-guluronate
+91	A7LFP7	alginate
+92	A9CEJ9	alginate
+93	A9CEJ9	alginate
+94	C4TJD4	alginate
+95	C4TIN8	poly(beta-D-mannuronate)
+96	C4TIN8	alginate
+97	C4TIN8	alginate
+98	C4TJD2	more
+99	C4TJD2	alginate
+100	C4TJD2	beta-D-mannuronyl linkage in alginate
+101	C4TJD3	alginate
+102	B5BSV2	alginate
+103	G1EH67	more
+104	G1EH67	beta-D-mannuronyl linkage in alginate
+105	G1EH67	poly(beta-(1->4)-D-mannuronic acid)
+106	G1EH67	poly(beta-(1->4)-D-mannuronic acid/alpha-(1->4)-L-guluronic acid)
+107	Q9KWU1	alginate
+108	E7FLQ2	more
+109	E7FLQ2	alginate
+110	E7FLQ2	poly(beta-(1,4)-D-mannuronate/alpha-(1,4)-L-guluronate)
+111	E7FLQ2	poly(alpha-(1,4)-L-guluronate)
+112	E7FLQ2	poly(beta-(1,4)-D-mannuronate)
+113	Q597B8	alginate
+114	G0L2Y1	sodium alginate
+115	G0L2Y1	more
+116	G0L2Y1	poly(beta-D-manuronate)
+117	I6P4V6	more
+118	Q21FJ0	sodium alginate
+119	Q21FJ0	more
+120	G9MBE4	poly(beta-D-mannuronate)
+121	G9MBE4	more
+122	Q59478	sodium alginate
+123	Q59478	poly(beta-D-manuronate)
+124	Q25C77	poly(beta-(1->4)-D-mannuronic acid/alpha-(1->4)-L-guluronic acid)
+125	Q25C77	alginate
+126	Q25C77	H2O
+127	Q25C77	poly(beta-(1->4)-D-mannuronate)
+128	A0A1Z2QRD5	alginate
+129	A0A1Z2QRD5	poly(alpha-(1,4)-L-guluronate)
+130	A0A1Z2QRD5	poly(beta-(1,4)-D-mannuronate)
+131	A0A0H3WC39	alginate
+132	A0A0H3WC39	acetylated alginate
+0	A9Y5J0	more
+1	A9Y5J0	chondroitin sulfate A
+2	A9Y5J0	chondroitin sulfate C
+3	A9Y5J0	hyaluronic acid
+4	F0S764	chondroitin 4-sulfate
+5	F0S764	hyaluronic acid
+6	F0S764	chondroitin 4-sulfate
+7	F0S764	chondroitin 6-sulfate
+8	I6QML9	hyaluronic acid
+9	I6QML9	chondroitin 4-sulfate
+10	I6QML9	chondroitin 6-sulfate
+11	Q59288	more
+12	Q59288	chondroitin sulfate A
+13	Q59288	chondroitin sulfate C
+14	Q59288	hyaluronic acid
+15	Q59288	dermatan sulfate
+16	Q59288	heparan sulfate
+0	A1JMA5	4-(4-deoxy-alpha-D-gluc-4-enuronosyl)-D-galacturonate
+0	Q8KKH9	heparan sulfate
+1	Q8KKH9	heparin
+2	Q8KKH9	more
+3	C0JBW5	heparan sulfate
+4	C0JBW5	acharan sulfate
+5	C0JBW5	heparin
+6	B3U3D9	heparin
+7	F0S8P2	heparin
+8	E5X103	more
+9	E5X103	fondaparinux
+0	C7EXL6	heparan sulfate
+1	C7EXL6	heparin
+2	C7EXL6	hyaluronic acid
+3	Q89YS4	N-desulfated, N-acetylated heparin
+4	Q89YS4	N-sulfoheparosan
+5	Q89YS4	desulfated N-sulfated heparosan
+6	Q89YS4	heparan sulfate
+7	Q89YS4	heparin
+8	Q89YS4	heparosan
+9	Q05819	4-nitrophenyl beta-D-GlcA-(1->4)-alpha-D-GlcN-(1->4)-beta-D-GlcA
+10	Q05819	4-nitrophenyl beta-D-GlcA-(1->4)-alpha-D-GlcNAc-(1->4)-beta-D-GlcA
+11	Q05819	4-nitrophenyl beta-D-GlcA-(1->4)-alpha-D-GlcNAc6S-(1->4)-beta-D-GlcA
+12	Q05819	4-nitrophenyl beta-D-GlcA-(1->4)-alpha-D-GlcNS-(1->4)-beta-D-GlcA
+13	Q05819	4-nitrophenyl beta-D-GlcA-(1->4)-alpha-D-GlcNS6S-(1->4)-beta-D-GlcA
+14	Q05819	more
+15	Q05819	4-nitrophenyl beta-D-GlcA-(1->4>)-alpha-D-GlcNS-(1->4)-beta-IdoA2S-(1->4)-alpha-D GlcNS-(1->4)-beta-D-GlcA
+0	Q9Z5P8	polygalacturonate
+1	Q9Z5P8	trigalacturonic acid
+2	Q9Z5P8	tetragalacturonic acid
+3	Q9Z5P8	more
+4	Q9Z5P8	heptagalacturonate
+5	Q9Z5P8	hexagalacturonic acid
+6	Q9Z5P8	pentagalacturonic acid
+0	P9WG59	O-phospho-L-homoserine
+1	P9WG59	H2O
+2	P9WG59	O-phospho-L-homoserine
+3	P9WG59	H2O
+4	Q5SL02	O-phospho-L-homoserine
+5	Q5SL02	H2O
+6	Q5SL02	O-phospho-L-homoserine
+7	Q5SL02	H2O
+8	Q5SL02	L-vinylglycine
+9	Q5SL02	phosphate
+10	Q5SL02	H2O
+11	Q9S7B5	O-phospho-L-homoserine
+12	Q9S7B5	H2O
+13	Q9S7B5	O-phospho-L-homoserine
+14	Q9S7B5	H2O
+15	P00934	O-phospho-L-homoserine
+16	P00934	H2O
+17	P00934	O-phospho-L-homoserine
+18	P00934	H2O
+19	P83823	O-phospho-L-homoserine
+20	P83823	H2O
+21	P83823	O-phospho-L-homoserine
+22	P83823	H2O
+23	O66740	O-phospho-L-homoserine
+24	O66740	H2O
+25	O66740	O-phospho-L-homoserine
+26	O66740	H2O
+27	Q2SWH9	O-phospho-L-homoserine
+28	Q2SWH9	H2O
+29	Q2SWH9	O-phospho-L-homoserine
+30	Q2SWH9	H2O
+31	P16120	O-phospho-L-homoserine
+32	P16120	H2O
+33	P16120	O-phospho-L-homoserine
+34	P16120	H2O
+35	Q8YFS0	O-phospho-L-homoserine
+36	Q8YFS0	H2O
+37	Q8YFS0	O-phospho-L-homoserine
+38	Q8YFS0	H2O
+0	T1RR72	more
+1	T1RR72	geranyl diphosphate
+2	T1RR72	H2O
+3	T1RRR9	more
+4	T1RRR9	geranyl diphosphate
+5	T1RRR9	H2O
+0	A0A1L5JYS1	(2E,6E)-farnesyl diphosphate
+0	A4KAG8	ent-copalyl diphosphate
+1	A4KAG7	ent-copalyl diphosphate
+2	A4KAG7	more
+3	A4KAG7	ent-copalyl diphosphate
+0	A0A142F308	(2E,6E)-farnesyl diphosphate
+1	A0A142F308	more
+2	A0A142F309	(2E,6E)-farnesyl diphosphate
+3	A0A142F309	more
+4	A0A142F310	(2E,6E)-farnesyl diphosphate
+5	A0A142F310	more
+6	B1B1U3	(2E,6E)-farnesyl diphosphate
+7	B1B1U3	more
+8	B1B1U3	(2E)-geranyl diphosphate
+9	B1B1U3	H2O
+10	B1B1U3	(2Z)-neryl diphosphate
+11	D5KXD2	2 (2E,6E)-farnesyl diphosphate
+12	G8H5M8	(2E,6E)-farnesyl diphosphate
+13	K7PRF2	(2E,6E)-farnesyl diphosphate
+14	U5N1F1	4 (2E,6E)-farnesyl diphosphate
+0	G1JUH1	geranyl diphosphate
+0	Q9ZUH4	geranyl diphosphate
+1	A0A1V0QSH1	geranyl diphosphate
+2	A0A1V0QSH1	more
+3	W6A3F2	geranyl diphosphate
+4	W6A3F2	more
+5	A4FVP2	geranyl diphosphate
+6	A4FVP2	(2E,6E)-farnesyl diphosphate
+7	A4FVP2	more
+8	Q84NC8	geranyl diphosphate
+9	Q672F7	geranyl diphosphate
+10	Q672F7	more
+11	Q5UB07	geranyl diphosphate
+12	Q5UB07	more
+13	Q5CD81	geranyl diphosphate
+14	Q5CD81	more
+15	G0Y7D1	geranyl diphosphate
+16	A0A1B0WVE7	geranyl diphosphate
+17	A0A1B0WVE7	more
+0	Q84SM8	geranyl diphosphate
+1	Q84SM8	more
+2	Q8L5J7	geranyl diphosphate
+3	F1CKI8	geranyl diphosphate
+4	F1CKI8	more
+5	F1CKI9	geranyl diphosphate
+6	F1CKI9	more
+7	F1CKI6	geranyl diphosphate
+8	F1CKI6	more
+9	A0A1V0D8Y5	geranyl diphosphate
+10	A0A1V0D8Y5	more
+11	A0A1V0D8Y5	neryl diphosphate

@@ -1,0 +1,1761 @@
+	uniprot_ids	substrates
+0	B3VA59	UDP-2,3-diacetamido-2,3-dideoxy-alpha-D-glucuronate
+1	B3VA59	dolichyl N-acetyl-alpha-D-glucosaminyl phosphate
+0	P74165	UDP-alpha-D-glucose
+1	P74165	1,2-dipalmitoyl-sn-glycerol
+2	P74165	UDP-alpha-D-glucose
+3	P74165	1-oleoyl-2-palmitoyl-sn-glycerol
+4	P74165	more
+5	P74165	UDP-glucose
+6	P74165	1,2-diacyl-sn-glycerol
+7	Q93P60	UDP-glucose
+8	Q93P60	1,2-diacyl-sn-glycerol
+0	Q93P60	UDP-alpha-D-glucose
+1	Q93P60	1,2-dioleoyl-sn-glycerol
+2	Q93P60	UDP-alpha-D-glucose
+3	Q93P60	1,2-dipalmitoyl-sn-glycerol
+4	Q93P60	more
+5	Q7CXE5	more
+6	Q7CXE5	UDP-alpha-D-glucose
+7	Q7CXE5	a 1,2-diacyl-sn-glycerol
+8	Q7CXE5	UDP-alpha-D-glucuronic acid
+9	Q7CXE5	a 1,2-diacyl-sn-glycerol
+0	Q15JG1	UDP-alpha-D-glucose
+1	Q15JG1	validoxylamine A
+0	Q92DF6	beta-D-mannopyranosyl-(1->2)-D-mannopyranose
+1	Q92DF6	phosphate
+2	Q92DF6	D-fructose
+3	Q92DF6	alpha-D-mannose 1-phosphate
+4	Q92DF6	D-mannopyranose
+5	Q92DF6	alpha-D-mannose 1-phosphate
+6	Q92DF6	beta-D-mannopyranosyl-(1->2)-D-mannopyranose
+7	Q92DF6	alpha-D-mannose 1-phosphate
+8	Q92DF6	beta-D-mannopyranosyl-(1->2)-beta-D-mannopyranosyl-(1->2)-D mannopyranose
+9	Q92DF6	phosphate
+0	O74475	more
+1	Q7S0A7	UDP-glucose
+2	Q7S0A7	[(1->3)-beta-D-glucosyl]n
+3	A0A076VIT3	UDP-glucose
+4	A0A076VIT3	[(1->3)-beta-D-glucosyl]n
+5	E3QI14	UDP-glucose
+6	E3QI14	[(1->3)-beta-D-glucosyl]n
+7	P40989	more
+8	P40989	UDP-glucose
+9	P40989	[(1-3)-beta-D-glucosyl]n
+0	B0K2C2	D-fructose
+1	B0K2C2	alpha-D-mannose 1-phosphate
+2	B0K2C2	[(1->2)-beta-D-mannosyl]2
+3	B0K2C2	alpha-D-mannose 1-phosphate
+4	B0K2C2	[(1->2)-beta-D-mannosyl]2
+5	B0K2C2	phosphate
+6	B0K2C2	[(1->2)-beta-D-mannosyl]3
+7	B0K2C2	alpha-D-mannose 1-phosphate
+8	B0K2C2	[(1->2)-beta-D-mannosyl]3
+9	B0K2C2	phosphate
+10	B0K2C2	[(1->2)-beta-D-mannosyl]4
+11	B0K2C2	alpha-D-mannose 1-phosphate
+12	B0K2C2	[(1->2)-beta-D-mannosyl]4
+13	B0K2C2	phosphate
+14	B0K2C2	[(1->2)-beta-D-mannosyl]n
+15	B0K2C2	phosphate
+16	B0K2C2	alpha-D-mannose
+17	B0K2C2	alpha-D-mannose 1-phosphate
+0	P9WMZ1	ADP-alpha-D-glucose
+1	P9WMZ1	alpha-D-glucose-1-phosphate
+0	B5T072	UDP-alpha-D-galactose
+1	B5T072	N-acetyl-alpha-D-glucosaminyl-diphospho-ditrans,octacis-undecaprenol
+2	B5T072	more
+0	Q10980	GDP-beta-L-fucose
+1	Q10980	phenyl beta-D-galactopyranoside
+2	Q10980	GDP-beta-L-fucose
+3	Q10980	beta-D-galactosyl-(1->3)-N-acetyl-beta-D-galactosamine
+4	Q10980	GDP-beta-L-fucose
+5	Q10980	beta-D-galactosyl-(1->3)-N-acetyl-beta-D-glucosamine
+6	Q10980	GDP-beta-L-fucose
+7	Q10980	beta-D-galactosyl-(1->4)-N-acetyl-beta-D-glucosamine
+8	Q10984	GDP-beta-L-fucose
+9	Q10984	phenyl beta-D-galactopyranoside
+10	Q10984	GDP-beta-L-fucose
+11	Q10984	beta-D-galactosyl-(1->3)-N-acetyl-beta-D-glucosamine
+12	Q10984	GDP-beta-L-fucose
+13	Q10984	beta-D-galactosyl-(1->4)-N-acetyl-beta-D-glucosamine
+14	Q10984	GDP-beta-L-fucose
+15	Q10984	beta-D-galactosyl-(1->3)-N-acetyl-beta-D-galactosamine
+16	Q10982	GDP-beta-L-fucose
+17	Q10982	phenyl beta-D-galactopyranoside
+0	A0QWG6	more
+1	A0QWG6	GDP-mannose
+2	A0QWG6	1-phosphatidyl-myo-inositol
+3	A0QWG6	GDP-alpha-D-mannose
+4	A0QWG6	1-phosphatidyl-1D-myo-inositol
+5	P9WMZ5	GDP-alpha-D-mannose
+6	P9WMZ5	1-phosphatidyl-1D-myo-inositol
+7	P9WMZ5	GDP-alpha-D-mannose
+8	P9WMZ5	1-phosphatidyl-myo-inositol
+0	A0R043	GDP-Man
+1	A0R043	phosphatidyl-myo-inositol
+2	A0R043	more
+3	A0R043	GDP-alpha-D-mannose
+4	A0R043	2-O-alpha-D-mannosyl-1-phosphatidyl-1D-myo-inositol
+5	Q8NNK8	more
+6	Q8NNK8	GDP-alpha-D-mannose
+7	Q8NNK8	2-O-alpha-D-mannosyl-1-phosphatidyl-1D-myo-inositol
+8	Q8NNK8	GDP-alpha-D-mannose
+9	Q8NNK8	2-O-(6-O-acyl-alpha-D-mannosyl)-1-phosphatidyl-1D-myo-inositol
+10	P9WMY5	more
+11	P9WMY5	GDP-alpha-D-mannose
+12	P9WMY5	2-O-alpha-D-mannosyl-1-phosphatidyl-1D-myo-inositol
+13	P9WMY5	GDP-alpha-D-mannose
+14	P9WMY5	2-O-(6-O-acyl-alpha-D-mannosyl)-1-phosphatidyl-1D-myo-inositol
+15	P9WMZ3	GDP-alpha-D-mannose
+16	P9WMZ3	2-O-alpha-D-mannosyl-1-phosphatidyl-1D-myo-inositol
+17	P9WMZ3	GDP-alpha-D-mannose
+18	P9WMZ3	2-O-(6-O-acyl-alpha-D-mannosyl)-1-phosphatidyl-1D-myo-inositol
+0	B8R7Q2	GDP-alpha-D-glucose
+1	B8R7Q2	D-glucose 6-phosphate
+2	P9WN11	ADP-alpha-D-glucose
+3	P9WN11	D-glucose 6-phosphate
+4	P9WN11	UDP-alpha-D-glucose
+5	P9WN11	D-glucose 6-phosphate
+6	P9WN11	GDP-alpha-D-glucose
+7	P9WN11	D-glucose 6-phosphate
+8	P9WN11	TDP-alpha-D-glucose
+9	P9WN11	D-glucose 6-phosphate
+10	P9WN11	CDP-alpha-D-glucose
+11	P9WN11	D-glucose 6-phosphate
+0	A0A125QVX1	more
+1	A0A125QVX1	UDP-galalctose
+2	A0A125QVX1	sinapic acid
+3	A0A125QVX1	UDP-glucose
+4	A0A125QVX1	4-hydroxybenzoic acid
+5	A0A125QVX1	UDP-glucose
+6	A0A125QVX1	benzoic acid
+7	A0A125QVX1	UDP-glucose
+8	A0A125QVX1	cinnamic acid
+9	A0A125QVX1	UDP-glucose
+10	A0A125QVX1	ferulic acid
+11	A0A125QVX1	UDP-glucose
+12	A0A125QVX1	gallic acid
+13	A0A125QVX1	UDP-glucose
+14	A0A125QVX1	p-coumaric acid
+15	A0A125QVX1	UDP-glucose
+16	A0A125QVX1	syringic acid
+17	A0A125QVX1	UDP-glucose
+18	A0A125QVX1	caffeic acid
+0	D7BAR0	2-O-(alpha-D-glucopyranosyl)-D-glycerate
+1	D7BAR0	phosphate
+2	D7BAR0	alpha-D-glucopyranose 1-phosphate
+3	D7BAR0	D-glycerate
+0	A0A1B4XBH6	ADP-6-deoxy-alpha-D-altrose
+1	A0A1B4XBH6	sordaricin
+2	A0A1B4XBH6	GDP-6-deoxy-alpha-D-altrose
+3	A0A1B4XBH6	sordaricin
+4	A0A1B4XBH6	GDP-alpha-D-mannose
+5	A0A1B4XBH6	sordaricin
+6	A0A1B4XBH6	more
+0	A0A0H3JPC6	UDP-N-acetyl-D-glucosamine
+1	A0A0H3JPC6	polyribitol phosphate
+0	D4GYH3	UDP-alpha-D-glucuronate
+1	D4GYH3	an archaeal dolichyl beta-D-glucosyl phosphate
+0	B3TKC8	UDP-alpha-D-glucose
+1	B3TKC8	phloretin
+2	D3UAG5	UDP-alpha-D-glucose
+3	D3UAG5	phloretin
+4	D3UAG5	ADP-alpha-D-glucose
+5	D3UAG5	phloretin
+6	D3UAG5	ADP-alpha-D-glucose
+7	D3UAG5	quercetin
+8	D3UAG5	UDP-alpha-D-galactose
+9	D3UAG5	quercetin
+10	D3UAG5	UDP-alpha-D-glucose
+11	D3UAG5	isoliquiritigenin
+12	D3UAG5	UDP-alpha-D-glucose
+13	D3UAG5	kaempferol
+14	D3UAG5	UDP-alpha-D-glucose
+15	D3UAG5	luteolin
+16	D3UAG5	UDP-alpha-D-glucose
+17	D3UAG5	quercetin
+0	A0A387IZV4	UDP-alpha-D-glucose
+1	A0A387IZV4	4-hydroxy-2,5-dimethyl-3(2H)-furanone
+2	A0A387IZV4	UDP-alpha-D-glucose
+3	A0A387IZV4	5-ethyl-4-hydroxy-2-methyl-3(2H)-furanone
+4	A0A387IZV4	UDP-alpha-D-glucose
+5	A0A387IZV4	benzoic acid
+0	E4PMA5	2-O-(alpha-D-glucopyranosyl)glycerol
+1	E4PMA5	phosphate
+2	E4PMA5	alpha-D-glucose 1-phosphate
+3	E4PMA5	1,2-propanediol
+4	E4PMA5	alpha-D-glucose 1-phosphate
+5	E4PMA5	glycerol
+6	E4PMA5	more
+0	F2RH01	GDP-glucose
+1	F2RH01	glucose 6-phosphate
+2	F2RH01	ADP-glucose
+3	F2RH01	glucose 6-phosphate
+0	C3W7B0	2 UDP-alpha-D-glucose
+1	C3W7B0	2 2,5,7-trihydroxyflavanone
+2	C3W7B0	2 UDP-alpha-D-glucose
+3	C3W7B0	2 2-hydroxyeriodictyol
+4	C3W7B0	2 UDP-alpha-D-glucose
+5	C3W7B0	2 2-hydroxynaringenin
+6	C3W7B0	UDP-alpha-D-glucose
+7	C3W7B0	2',4',6'-trihydroxydihydrochalcone
+8	C3W7B0	UDP-alpha-D-glucose
+9	C3W7B0	2,4,6-trihydroxybenzophenone
+10	C3W7B0	UDP-alpha-D-glucose
+11	C3W7B0	benzyl 2,4,6-trihydroxybenzoate
+12	C3W7B0	UDP-alpha-D-glucose
+13	C3W7B0	phloretin
+14	A0A0A1HA03	2 UDP-alpha-D-glucose
+15	A0A0A1HA03	2-hydroxynaringenin
+16	A0A0A1H7N4	more
+17	A0A0A1H7N4	2 UDP-alpha-D-glucose
+18	A0A0A1H7N4	2-hydroxynaringenin
+19	A0A0A1H7N4	2 UDP-alpha-D-glucose
+20	A0A0A1H7N4	2-hydroxyeriodictyol
+21	A0A0A1H7N4	2 UDP-alpha-D-glucose
+22	A0A0A1H7N4	2-hydroxypinocembrin
+23	A0A0A1H7N4	2 UDP-alpha-D-glucose
+24	A0A0A1H7N4	2-phenyl-2',4',6'-trihydroxyacetophenone
+25	A0A0A1H7N4	2 UDP-alpha-D-glucose
+26	A0A0A1H7N4	phloretin
+27	I1L3T1	UDP-alpha-D-glucose
+28	I1L3T1	2-hydroxynaringenin
+29	I1L3T1	UDP-alpha-D-glucose
+30	I1L3T1	2-hydroxynaringenin
+31	Q5VMI0	UDP-alpha-D-glucose
+32	Q5VMI0	2-hydroxynaringenin
+33	Q5VMI0	UDP-alpha-D-glucose
+34	Q5VMI0	2-hydroxynaringenin
+35	Q5VMI0	UDP-alpha-D-glucose
+36	Q5VMI0	2,5,7-trihydroxy-2-(3,4,5-trihydroxyphenyl)-2 3-dihydro-4H-1-benzopyran-4-one
+37	Q5VMI0	UDP-alpha-D-glucose
+38	Q5VMI0	2,5,7-trihydroxy-2-(3,4,5-trihydroxyphenyl)-2 3-dihydro-4H-1-benzopyran-4-one
+39	Q5VMI0	UDP-alpha-D-glucose
+40	Q5VMI0	2,5,7-trihydroxy-2-(3-hydroxyphenyl)-2,3-dihydro-4H-1-benzopyran-4-one
+41	Q5VMI0	UDP-alpha-D-glucose
+42	Q5VMI0	2,5,7-trihydroxy-2-(4-hydroxy-3,5-dimethoxyphenyl)-2 3-dihydro-4H-1-benzopyran-4-one
+43	Q5VMI0	H+
+44	Q5VMI0	UDP-alpha-D-glucose
+45	Q5VMI0	2,5,7-trihydroxy-2-(4-hydroxy-3,5-dimethoxyphenyl)-2 3-dihydro-4H-1-benzopyran-4-one
+46	Q5VMI0	UDP-alpha-D-glucose
+47	Q5VMI0	2,5,7-trihydroxy-2-(4-hydroxy-3-methoxyphenyl)-2 3-dihydro-4H-1-benzopyran-4-one
+48	Q5VMI0	UDP-alpha-D-glucose
+49	Q5VMI0	2,5,7-trihydroxy-2-(4-hydroxy-3-methoxyphenyl)-2 3-dihydro-4H-1-benzopyran-4-one
+50	Q5VMI0	UDP-alpha-D-glucose
+51	Q5VMI0	2,5,7-trihydroxy-2-(4-methoxyphenyl)-2,3-dihydro-4H-1-benzopyran-4-one
+52	Q5VMI0	UDP-alpha-D-glucose
+53	Q5VMI0	2,5,7-trihydroxy-2-(4-methoxyphenyl)-2,3-dihydro-4H-1-benzopyran-4-one
+54	Q5VMI0	UDP-alpha-D-glucose
+55	Q5VMI0	2,5,7-trihydroxy-2-[4-(trifluoromethyl)phenyl]-2 3-dihydro-4H-1-benzopyran-4-one
+56	Q5VMI0	UDP-alpha-D-glucose
+57	Q5VMI0	2,5,7-trihydroxy-2-phenyl-2,3-dihydro-4H-1-benzopyran-4-one
+58	Q5VMI0	UDP-alpha-D-glucose
+59	Q5VMI0	2,5,7-trihydroxy-2-phenyl-2,3-dihydro-4H-1-benzopyran-4-one
+60	Q5VMI0	UDP-alpha-D-glucose
+61	Q5VMI0	2-(3,5-dihydroxyphenyl)-2,5,7-trihydroxy-2 3-dihydro-4H-1-benzopyran-4-one
+62	Q5VMI0	UDP-alpha-D-glucose
+63	Q5VMI0	2-(3-fluoro-4-hydroxyphenyl)-2,5,7-trihydroxy-2 3-dihydro-4H-1-benzopyran-4-one
+64	Q5VMI0	UDP-alpha-D-glucose
+65	Q5VMI0	2-(4-ethoxyphenyl)-2,5,7-trihydroxy-2,3-dihydro-4H-1-benzopyran-4-one
+66	Q5VMI0	UDP-alpha-D-glucose
+67	Q5VMI0	2-(4-fluorophenyl)-2,5,7-trihydroxy-2,3-dihydro-4H-1-benzopyran-4-one
+68	Q5VMI0	UDP-alpha-D-glucose
+69	Q5VMI0	2-hydroxyeriodictyol
+70	Q5VMI0	UDP-alpha-D-glucose
+71	Q5VMI0	2-hydroxyeriodictyol
+0	Q9WYJ4	GDP-alpha-D-mannose
+1	Q9WYJ4	2-O-beta-D-mannosyl-di-myo-inositol-1,3'-phosphate
+2	Q9WYJ4	GDP-alpha-D-mannose
+3	Q9WYJ4	di-myo-inositol-1,3'-phosphate
+0	A0A0A6ZFR4	UDP-alpha-D-glucose
+1	A0A0A6ZFR4	(20S)-protopanaxadiol
+2	A0A0A6ZFR4	UDP-alpha-D-glucose
+3	A0A0A6ZFR4	ginsenoside C-K
+4	A0A0A6ZFR4	more
+0	A0A0A6ZFY4	UDP-alpha-D-glucose
+1	A0A0A6ZFY4	(20S)-ginsenoside Rh2
+2	A0A0A6ZFY4	UDP-alpha-D-glucose
+3	A0A0A6ZFY4	ginsenoside F2
+4	A0A0A6ZFY4	more
+0	A0A0K0PVW1	UDP-alpha-D-glucose
+1	A0A0K0PVW1	(20S)-protopanaxatriol
+2	A0A0K0PVW1	UDP-alpha-D-glucose
+3	A0A0K0PVW1	ginsenoside F1
+4	A0A0K0PVW1	UDP-alpha-D-glucose
+5	A0A0K0PVW1	protopanaxatriol
+0	K4GKX2	UDP-alpha-D-glucose
+1	K4GKX2	oleanolate
+2	K4GKX2	more
+3	K4GGT4	more
+4	K4GGT4	UDP-alpha-D-glucose
+5	K4GGT4	glycyrrhetinic acid
+0	A0A0H2V630	UDP-alpha-D-glucose
+1	A0A0H2V630	diglucosyl-enterobactin
+2	A0A0H2V630	UDP-alpha-D-glucose
+3	A0A0H2V630	enterobactin
+4	A0A0H2V630	UDP-alpha-D-glucose
+5	A0A0H2V630	monoglucosyl-enterobactin
+6	A0A0H2V630	more
+0	A5X6H5	UDP-galactose
+1	A5X6H5	alpha-L-fucosyl-(1,2)-D-galactosyl-R
+2	A5X6H7	UDP-galactose
+3	A5X6H7	alpha-L-fucosyl-(1,2)-D-galactosyl-R
+4	A5X6H8	UDP-galactose
+5	A5X6H8	alpha-L-fucosyl-(1,2)-D-galactosyl-R
+6	Q6L638	UDP-galactose
+7	Q6L638	alpha-L-fucosyl-(1,2)-D-galactosyl-R
+8	A5X6H3	UDP-galactose
+9	A5X6H3	alpha-L-fucosyl-(1,2)-D-galactosyl-R
+10	P16442	UDP-alpha-D-galactose
+11	P16442	alpha-L-fucosyl-(1,2)-D-galactosyl-R
+12	P16442	UDP-galactose
+13	P16442	L-fucosyl-alpha-1,2-beta-D-galactosyl-O(CH2)7CH3
+14	P16442	more
+15	P16442	UDP-galactose
+16	P16442	glycoprotein alpha-L-fucosyl-1,2-D-galactose
+17	P16442	UDP-D-galactose
+18	P16442	alpha-L-Fucp-(1,2)-beta-D-Galp-(1,3)-beta-DGlcNAcp-O(CH2)7CH3
+19	P16442	UDP-D-galactose
+20	P16442	alpha-L-Fucp-(1,2)-beta-D-Galp-(1,4)-beta-D-GlcNAcp-O-(CH2)8CO2CH3
+21	P16442	UDP-D-galactose
+22	P16442	alpha-L-Fucp-(1,2)-beta-D-Galp-O(CH2)7CH3
+23	P16442	UDP-galactose
+24	P16442	alpha-L-Fuc-(1,2)-beta-D-Gal-O-octyl
+25	P16442	UDP-galactose
+26	P16442	alpha-L-fucosyl-(1,2)-D-galactosyl-R
+27	P16442	UDP-galactose
+28	P16442	alpha-L-fucosyl-(1-2)-D-galactosyl-O-R
+29	P16442	UDP-glucose
+30	P16442	Fucalpha1-2Galbeta-O(CH2)7CH3
+31	P16442	UDP-alpha-D-galactose
+32	P16442	alpha-Fuc-(1->2)-beta-D-Gal-(CH2)7CH3
+33	P38649	UDP-galactose
+34	P38649	glycoprotein alpha-L-fucosyl-1,2-D-galactose
+35	P38649	more
+36	P16422	UDP-alpha-D-galactose
+37	P16422	alpha-Fuc-(1->2)-beta-D-Gal-(CH2)7CH3
+38	Q8CFC4	UDP-D-galactose
+39	Q8CFC4	2'-fucosyllactose
+40	Q8CFC4	UDP-D-galactose
+41	Q8CFC4	H type 3-Sp-biotin
+42	Q8CFC4	UDP-N-acetyl-D-galactosamine
+43	Q8CFC4	2'-fucosyllactose
+44	Q8CFC4	UDP-N-acetyl-D-galactosamine
+45	Q8CFC4	H type 3-Sp-biotin
+46	A5X6H4	UDP-galactose
+47	A5X6H4	alpha-L-fucosyl-(1,2)-D-galactosyl-R
+0	Q00600	sucrose
+1	Q00600	[(1->3)-alpha-D-glucosyl]n
+2	Q00600	more
+0	Q8G9Q2	more
+1	Q8G9Q2	sucrose
+2	Q8G9Q2	a (1->6)-alpha-D-glucan
+3	Q8G9Q2	sucrose
+4	Q8G9Q2	alpha-1,6-dextran
+5	Q8G9Q2	sucrose
+6	Q8G9Q2	alpha-D-Glc-(1->6)-[alpha-D-Glc-(1->2)]-alpha-D-Glc-(1->6)-alpha-D-Glc (1->4)-alpha-D-Glc
+7	Q8G9Q2	sucrose
+8	Q8G9Q2	alpha-D-Glc-(1->6)-alpha-D-Glc-(1->6)-alpha-D-Glc-(1->4)-alpha-D-Glc
+9	Q8G9Q2	sucrose
+10	Q8G9Q2	luteolin
+11	Q8G9Q2	sucrose
+12	Q8G9Q2	maltose
+13	Q8G9Q2	sucrose
+14	Q8G9Q2	morin
+15	Q8G9Q2	sucrose
+16	Q8G9Q2	naringenin
+17	Q8G9Q2	sucrose
+18	Q8G9Q2	quercetin
+0	Q8NBL1	UDP-alpha-D-glucose
+1	Q8NBL1	[Notch1 protein with EGF-like domain 12]-L-serine
+2	Q8NBL1	UDP-alpha-D-glucose
+3	Q8NBL1	[factor VII protein with EGF-like domain 1]-L-serine
+4	Q8NBL1	UDP-alpha-D-glucose
+5	Q8NBL1	[protein with EGF-like domain]-L-serine
+0	Q99PC2	more
+1	Q99PC2	UDP-galactose
+2	Q99PC2	N-acetyl-beta-D-glucosaminylglycopeptide
+3	P15291	more
+4	P15291	UDP-galactose
+5	P15291	Glc-NAcbeta1-3Galbeta-O-naphthalenemethanol
+6	P15291	UDP-galactose
+7	P15291	GlcNAcbeta1,2-Manalpha1,3-Manbeta-OR
+8	P15291	UDP-galactose
+9	P15291	GlcNAcbeta1,2-Manalpha1,6 (GlcNAcbeta1,2-Manalpha1,3)Man
+10	P15291	UDP-galactose
+11	P15291	GlcNAcbeta1,2-Manalpha1,6-Manbeta-OR
+12	P15291	UDP-galactose
+13	P15291	GlcNAcbeta1,4-Manalpha1,3-Manbeta-OR
+14	P15291	UDP-galactose
+15	P15291	N-acetyl-beta-D-glucosamine
+16	P15291	UDP-galactose
+17	P15291	N-acetyl-beta-D-glucosaminyl-1,4-N-acetyl-beta-D-glucosamine
+18	P15291	UDP-galactose
+19	P15291	chitotriose
+20	P15291	UDP-alpha-D-galactose
+21	P15291	N-acetyl-beta-D-glucosaminylglycopeptide
+22	P15291	UDP-galactose
+23	P15291	N-acetyl-beta-D-glucosaminylglycopeptide
+24	P80225	more
+25	A9XBL4	UDP-galactose
+26	A9XBL4	p-nitrophenyl-beta-D-N-acetylglucosaminide
+27	O60909	UDP-galactose
+28	O60909	TTTVTP-(GlcNAcbeta1-6[Galbeta1-3]GalNAcalpha1-)TG
+29	O60909	UDP-galactose
+30	O60909	benzyl 2-(acetylamino)-2-deoxy-beta-D-glucopyranoside
+31	Q9UBV7	UDP-alpha-D-galactose
+32	Q9UBV7	4-methylumbelliferyl-beta-D-xylopyranoside
+33	Q9UBV7	UDP-alpha-D-galactose
+34	Q9UBV7	N-acetyl-beta-D-glucosaminylglycopeptide
+35	P08037	UDP-alpha-D-galactose
+36	P08037	N-acetyl-beta-D-glucosaminylglycopeptide
+37	O43286	UDPgalactose
+38	O43286	N-acetylglucosamine
+39	O43286	UDPgalactose
+40	O43286	glucose
+41	O43286	UDPgalactose
+42	O43286	GlcNAcbeta-S-p-NP
+43	O43286	UDPgalactose
+44	O43286	GlcNAcbeta1-6(GlcNAcbeta1-2)Manalpha1-3Manbeta1-O(CH2)8COOCH2-mNP
+45	C1KH59	UDP-alpha-D-galactose
+46	C1KH59	N-acetyl-beta-D-glucosaminylglycopeptide
+47	Q92074	UDP-alpha-D-galactose
+48	Q92074	N-acetyl-beta-D-glucosaminylglycopeptide
+49	Q2TIJ3	UDP-alpha-D-galactose
+50	Q2TIJ3	N-acetyl-beta-D-glucosaminylglycopeptide
+51	Q2TIJ3	UDP-alpha-D-galactose
+52	Q2TIJ3	Glc-ITag
+53	Q2TIJ3	UDP-alpha-D-galactose
+54	Q2TIJ3	GlcNac-ITag
+55	P57033	UDP-alpha-D-galactose
+56	P57033	N-acetyl-beta-D-glucosaminylglycopeptide
+57	P57033	UDP-alpha-D-galactose
+58	P57033	Glc-ITag
+59	P57033	UDP-alpha-D-galactose
+60	P57033	GlcNac-ITag
+61	Q51116	UDP-alpha-D-galactose
+62	Q51116	N-acetyl-beta-D-glucosaminylglycopeptide
+63	Q51116	UDP-alpha-D-galactose
+64	Q51116	Glc-ITag
+65	Q51116	UDP-alpha-D-galactose
+66	Q51116	GlcNac-ITag
+0	Q9ZEU2	sucrose
+1	Q9ZEU2	(+)-taxifolin
+2	Q9ZEU2	sucrose
+3	Q9ZEU2	(-)-epicatechin
+4	Q9ZEU2	sucrose
+5	Q9ZEU2	(-)-epicatechin
+6	Q9ZEU2	sucrose
+7	Q9ZEU2	(-)-epicatechin-3'-O-alpha-D-glucopyranoside
+8	Q9ZEU2	sucrose
+9	Q9ZEU2	aesculin 4-alpha-glucoside
+10	Q9ZEU2	sucrose
+11	Q9ZEU2	aesculin
+12	Q9ZEU2	sucrose
+13	Q9ZEU2	amylopectin
+14	Q9ZEU2	sucrose
+15	Q9ZEU2	aseculetin 7-alpha-D-glucopyranoside
+16	Q9ZEU2	sucrose
+17	Q9ZEU2	aseculetin 7-alpha-D-maltoside
+18	Q9ZEU2	sucrose
+19	Q9ZEU2	aseculetin
+20	Q9ZEU2	sucrose
+21	Q9ZEU2	phloretin
+22	Q9ZEU2	sucrose
+23	Q9ZEU2	phloretin
+24	Q9ZEU2	sucrose
+25	Q9ZEU2	phloretin
+26	Q9ZEU2	sucrose
+27	Q9ZEU2	phloretin-4'-O-alpha-D-glucopyranoside
+28	Q9ZEU2	sucrose
+29	Q9ZEU2	phloretin-4'-O-alpha-D-maltoside
+30	Q9ZEU2	sucrose
+31	Q9ZEU2	salicin
+32	Q9ZEU2	sucrose
+33	Q9ZEU2	vanillin
+34	Q9ZEU2	sucrose
+35	Q9ZEU2	zingerone
+36	Q9ZEU2	sucrose
+37	Q9ZEU2	sucrose
+38	Q9ZEU2	sucrose
+39	Q9ZEU2	alpha-D-glucopyranosyl-(1->4)-salicin
+40	Q9ZEU2	sucrose
+41	Q9ZEU2	daidzin
+42	Q9ZEU2	sucrose
+43	Q9ZEU2	luteolin
+44	Q9ZEU2	sucrose
+45	Q9ZEU2	salicin
+46	Q9ZEU2	n sucrose
+47	Q9ZEU2	sucrose
+48	Q9ZEU2	[(1->4)-alpha-D-glucosyl]n
+49	Q9ZEU2	more
+50	Q1J0W0	sucrose
+51	Q1J0W0	alpha-D-glucopyranosyl-(1->4)-salicin
+52	Q1J0W0	sucrose
+53	Q1J0W0	daidzin
+54	Q1J0W0	sucrose
+55	Q1J0W0	luteolin
+56	Q1J0W0	sucrose
+57	Q1J0W0	salicin
+58	Q1J0W0	n sucrose
+59	Q1J0W0	sucrose
+60	Q1J0W0	(+)-catechin
+61	Q1J0W0	sucrose
+62	Q1J0W0	(+)-catechin-3'-O-alpha-D-glucopyranoside
+63	Q1J0W0	sucrose
+64	Q1J0W0	4'-hydroxyflavanone
+65	Q1J0W0	sucrose
+66	Q1J0W0	6,7-dihydroxyflavone
+67	Q1J0W0	sucrose
+68	Q1J0W0	6-hydroxyflavanone
+69	Q1J0W0	sucrose
+70	Q1J0W0	apigenin
+71	Q1J0W0	sucrose
+72	Q1J0W0	arbutin
+73	Q1J0W0	sucrose
+74	Q1J0W0	baicalein
+75	Q1J0W0	sucrose
+76	Q1J0W0	baicalein
+77	Q1J0W0	sucrose
+78	Q1J0W0	catechol
+79	Q1J0W0	sucrose
+80	Q1J0W0	daidzein diglucoside
+81	Q1J0W0	sucrose
+82	Q1J0W0	homoorientin
+83	Q1J0W0	sucrose
+84	Q1J0W0	hydroquinone
+85	Q1J0W0	sucrose
+86	Q1J0W0	isoquercetin
+87	Q1J0W0	sucrose
+88	Q1J0W0	isoquercitrin
+89	Q1J0W0	sucrose
+90	Q1J0W0	isoquercitrin diglucoside
+91	Q1J0W0	sucrose
+92	Q1J0W0	isoquercitrin glucoside
+93	Q1J0W0	sucrose
+94	Q1J0W0	isoquercitrin-diglucoside
+95	Q1J0W0	sucrose
+96	Q1J0W0	isoquercitrin-glucoside
+97	Q1J0W0	sucrose
+98	Q1J0W0	isorhoifolin
+99	Q1J0W0	sucrose
+100	Q1J0W0	maltose
+101	Q1J0W0	sucrose
+102	Q1J0W0	quercetin
+103	Q1J0W0	sucrose
+104	Q1J0W0	resorcinol
+105	Q1J0W0	sucrose
+106	Q1J0W0	hydroquinone
+107	Q1J0W0	sucrose
+108	Q1J0W0	[(1->4)-alpha-D-glucosyl]n
+109	Q1J0W0	more
+110	B1XIU7	sucrose
+111	B1XIU7	[(1->4)-alpha-D-glucosyl]n
+112	B1XIU7	more
+113	G4T024	n sucrose
+114	G4T024	sucrose
+115	G4T024	[(1->4)-alpha-D-glucosyl]n
+116	D3A730	n sucrose
+117	D3A730	sucrose
+118	D7CVD0	sucrose
+119	A0A0A0BUC7	n sucrose
+120	A0A0A0BUC7	sucrose
+121	A0A0A0BUC7	hydroquinone
+122	A0A0A0BUC7	sucrose
+123	A0A0H2X5U3	sucrose
+124	A0A0H2X5U3	hydroquinone
+125	B8H6N5	n sucrose
+126	B6F2H1	n sucrose
+127	B6F2H1	sucrose
+128	B6F2H1	piceid
+129	Q9RVT9	n sucrose
+130	Q1GY12	n sucrose
+131	Q1GY12	sucrose
+132	Q1GY12	glycerol
+133	Q1GY12	sucrose
+134	Q1GY12	glycerol
+0	P16442	UDP-N-acetyl-D-galactosamine
+1	P16442	L-fucosyl-alpha-1,2-beta-galactosyl-O(CH2)7CH3
+2	P16442	UDP-N-acetyl-D-glucosamine
+3	P16442	L-fucosyl-alpha-1,2-beta-glucosyl-O(CH2)7CH3
+4	P16442	more
+5	P16442	UDP-N-acetyl-D-galactosamine
+6	P16442	alpha-L-Fucp-(1,2)-beta-D-Galp-(1,3)-beta-DGlcNAcp-O(CH2)7CH3
+7	P16442	UDP-N-acetyl-D-galactosamine
+8	P16442	alpha-L-Fucp-(1,2)-beta-D-Galp-(1,4)-beta-D-GlcNAcp-O-(CH2)8CO2CH3
+9	P16442	UDP-N-acetyl-D-galactosamine
+10	P16442	alpha-L-Fucp-(1,2)-beta-D-Galp-O(CH2)7CH3
+11	P16442	UDP-N-acetyl-D-galactosamine
+12	P16442	alpha-L-fucosyl-1-2-D-galactosyl-O-R
+13	P16442	UDP-N-acetyl-alpha-D-galactosamine
+14	P16442	alpha-Fuc-(1->2)-beta-D-Gal-(CH2)7CH3
+15	P38649	more
+16	P16422	UDP-N-acetyl-alpha-D-galactose
+17	P16422	alpha-Fuc-(1->2)-beta-D-Gal-(CH2)7CH3
+18	Q9ET32	UDP-N-acetyl-D-galactosamine
+19	Q9ET32	2'-fucosyllactose
+20	Q9ET32	UDP-N-acetyl-D-galactosamine
+21	Q9ET32	H type 3-Sp-biotin
+22	Q9ET32	UDP-N-acetyl-alpha-D-galactosamine
+23	Q9ET32	2'-fucosyllactose
+0	Q8MM26	UDP-N-acetyl-D-galactosamine
+1	Q8MM26	polypeptide
+2	Q6WV16	UDP-N-acetyl-D-galactosamine
+3	Q6WV16	mucin MUC5AC-3
+4	Q6WV16	UDP-N-acetyl-D-galactosamine
+5	Q6WV16	mucin MUC5AC-3/13
+6	Q6WV16	UDP-N-acetyl-D-galactosamine
+7	Q6WV16	mucin MUC5AX-13
+8	Q6WV16	UDP-N-acetyl-D-galactosamine
+9	Q6WV16	PDTRPAPGSTAPPAC
+10	Q6WV16	UDP-N-acetyl-D-galactosamine
+11	Q6WV16	GTTPSPVPTTSTTSAP
+12	Q6WV16	UDP-N-acetyl-D-galactosamine
+13	Q6WV16	PTTDSTTPAPTTK
+14	Q6WV16	UDP-N-acetyl-D-galactosamine
+15	Q6WV16	SPTTSTPISSTPQPTS
+16	Q8MV48	UDP-N-acetyl-D-galactosamine
+17	Q8MV48	mucin MUC5AC-3
+18	Q8MV48	UDP-N-acetyl-D-galactosamine
+19	Q8MV48	mucin MUC5AC-3/13
+20	Q8MV48	UDP-N-acetyl-D-galactosamine
+21	Q8MV48	mucin MUC5AX-13
+22	Q9HCQ5	UDP-N-acetyl-D-galactosamine
+23	Q9HCQ5	polypeptide
+24	Q6YBY0	UDP-N-acetyl-D-galactosamine
+25	Q6YBY0	GTTPSPVPTTSTTSAP
+26	Q6YBY0	UDP-N-acetyl-D-galactosamine
+27	Q6YBY0	PTTDSTTPAPTTK
+28	Q6YBY0	UDP-N-acetyl-D-galactosamine
+29	Q6YBY0	P-(O-GalNAc)T-TDSTTPAPTTK
+30	Q6YBY0	UDP-N-acetyl-D-galactosamine
+31	Q6YBY0	VESDRSTTTTQAP
+32	Q6YBY0	UDP-N-acetyl-D-galactosamine
+33	Q6YBY0	GTTPSPVPTTS-(O-GalNAc)T-SAP
+34	Q6YBY0	UDP-N-acetyl-D-galactosamine
+35	Q6YBY0	PTTDS-(O-GalNAc)T-TPAPTTK
+36	Q7Z4T8	UDP-N-acetyl-D-galactosamine
+37	Q7Z4T8	AHGVVTSAPDTR
+38	Q7Z4T8	UDP-N-acetyl-D-galactosamine
+39	Q7Z4T8	ANTPSFPTATSPAPPI
+40	Q7Z4T8	UDP-N-acetyl-D-galactosamine
+41	Q7Z4T8	GTTPSPVPTTSTTSAk
+42	Q7Z4T8	UDP-N-acetyl-D-galactosamine
+43	Q7Z4T8	PTTDSTTPAPTT
+44	Q7Z4T8	UDP-N-acetyl-D-galactosamine
+45	Q7Z4T8	PTTTPITTTTTVTPTPTPTGTQT
+46	Q07537	UDP-N-acetyl-D-galactosamine
+47	Q07537	polypeptide
+48	Q07537	UDP-GalNAc
+49	Q07537	GAGA(X)3T(X)3AGAGK
+50	Q07537	UDP-GalNAc
+51	Q07537	GAGA(X)5T(X)5AGAGK
+52	Q07537	UDP-GalNAc
+53	Q07537	GAGA(X)nT(X)nAGAGK
+54	Q10473	UDP-N-acetyl-D-galactosamine
+55	Q10473	polypeptide
+56	Q10473	UDP-GalNAc
+57	Q10473	GVVPTVVPG
+58	Q10473	UDP-GalNAc
+59	Q10473	PPDAATAAPL
+60	Q10473	UDP-GalNAc
+61	Q10473	apomucin
+62	Q10471	UDP-N-acetyl-D-galactosamine
+63	Q10471	polypeptide
+64	Q10471	UDP-N-acetyl-D-galactosamine
+65	Q10471	AHGVVTSAPDTR
+66	Q10471	UDP-N-acetyl-D-galactosamine
+67	Q10471	ANTPSFPTATSPAPPI
+68	Q10471	UDP-N-acetyl-D-galactosamine
+69	Q10471	GTTPSPVPTTSTTSAk
+70	Q10471	UDP-N-acetyl-D-galactosamine
+71	Q10471	PTTDSTTPAPTT
+72	Q10471	UDP-N-acetyl-D-galactosamine
+73	Q10471	PTTTPITTTTTVTPTPTPTGTQT
+74	Q10471	UDP-GalNAc
+75	Q10471	GAGA(X)3T(X)3AGAGK
+76	Q10471	UDP-GalNAc
+77	Q10471	GAGA(X)5T(X)5AGAGK
+78	Q10471	UDP-GalNAc
+79	Q10471	GAGA(X)nT(X)nAGAGK
+80	Q10471	5 UDP-N-acetyl-alpha-D-galactosamine
+81	Q10471	beta1-adrenergic receptor
+82	Q10471	IgA hinge-4GalNAc
+83	Q10471	UDP-GalNAc
+84	Q10471	MUC2-6GalNAc
+85	Q10471	UDP-GalNAc
+86	Q10471	UDP-N-((2S)-2-azidopropanoyl)-alpha-D-galactosamine
+87	Q10471	peptide EA2-biotin
+88	Q10471	UDP-N-acetyl-D-galactosamine
+89	Q10471	PRFQDSSSSKAPPPSLPSPSRL
+90	Q10471	UDP-N-acetyl-alpha-D-galactosamine
+91	Q10471	peptide EA2-biotin
+92	Q10471	UDP-N-acetyl-alpha-D-galactosamine +delta-opioid receptor
+93	Q10471	UDP-N-hex-5-ynoyl-alpha-D-galactosamine
+94	Q10471	peptide EA2-biotin
+95	Q10471	hCG-beta
+96	Q10471	UDP-Gal
+97	Q10471	UDP-N-acetyl-D-galactosamine
+98	Q10471	AHGVTSAPDTR
+99	Q10471	UDP-N-acetyl-D-galactosamine
+100	Q10471	Ac-CIRIQRGPGRAFVTIGKIGNMR
+101	Q10471	UDP-N-acetyl-D-galactosamine
+102	Q10471	Ac-PFVTHPGYD
+103	Q10471	UDP-N-acetyl-D-galactosamine
+104	Q10471	PRFQDSSSSKAPPPSLPSPSRLPG
+105	Q10471	UDP-N-acetyl-D-galactosamine
+106	Q10471	PTTTPISTTTMVTPTPTPTC
+107	Q10471	UDP-N-acetyl-D-galactosamine
+108	Q10471	QATEYEYLDYDFLPEC
+109	Q10471	UDP-N-acetyl-D-galactosamine
+110	Q10471	RPAPGSTAPPA
+111	Q10471	MUC1
+112	Q10471	UDP-GalNAc
+113	Q10471	5 UDP-N-acetyl-D-galactosamine
+114	Q10471	DSTTPAPTTK
+115	Q10471	UDP-N-acetyl-D-galactosamine
+116	Q10471	Ac-QATEYEYLDYDFLPETEPPEM
+117	Q10471	UDP-N-acetyl-D-galactosamine
+118	Q10471	CPPTPSATTPAPPSSSAPPETTAA
+119	Q10471	UDP-N-acetyl-D-galactosamine
+120	Q10471	TAPPAHGVTSAPDTRPAPGSTAPP
+121	Q10471	MUC1b'
+122	Q10471	UDP-GalNAc
+123	Q10471	IgA hinge
+124	Q10471	UDP-Gal
+125	Q10471	IgA hinge
+126	Q10471	UDP-GalNAc
+127	Q10471	MUC1a'
+128	Q10471	UDP-GalNAc
+129	Q10471	MUC2
+130	Q10471	UDP-GalNAc
+131	Q10471	MUC7
+132	Q10471	UDP-GalNAc
+133	Q10471	erythropoietin T
+134	Q10471	UDP-Gal
+135	Q10471	MUC1-2GalNAc
+136	Q10471	UDP-GalNAc
+137	Q10471	UDP-N-acetyl-D-galactosamine
+138	Q10471	PTTTPISTTMVTPTPTPTC
+139	Q10471	UDP-GalNAc
+140	Q10471	EA2
+141	Q10471	more
+142	Q10471	UDP-N-acetyl-alpha-D-galactosamine
+143	Q10471	polypeptide EA2
+144	Q14435	UDP-N-acetyl-D-galactosamine
+145	Q14435	polypeptide
+146	P70419	UDP-N-acetyl-alpha-D-galactosamine
+147	P70419	polypeptide Muc10
+148	Q8N4A0	UDP-N-acetyl-D-galactosamine
+149	Q8N4A0	polypeptide
+150	Q8N4A0	UDP-N-acetyl-D-galactosamine
+151	Q8N4A0	AHGVTSAPDTR
+152	Q8N4A0	UDP-N-acetyl-D-galactosamine
+153	Q8N4A0	Ac-CIRIQRGPGRAFVTIGKIGNMR
+154	Q8N4A0	UDP-N-acetyl-D-galactosamine
+155	Q8N4A0	Ac-PFVTHPGYD
+156	Q8N4A0	UDP-N-acetyl-D-galactosamine
+157	Q8N4A0	PRFQDSSSSKAPPPSLPSPSRLPG
+158	Q8N4A0	UDP-N-acetyl-D-galactosamine
+159	Q8N4A0	PTTTPISTTTMVTPTPTPTC
+160	Q8N4A0	UDP-N-acetyl-D-galactosamine
+161	Q8N4A0	QATEYEYLDYDFLPEC
+162	Q8N4A0	UDP-N-acetyl-D-galactosamine
+163	Q8N4A0	RPAPGSTAPPA
+164	Q8N4A0	MUC1
+165	Q8N4A0	UDP-GalNAc
+166	Q8N4A0	5 UDP-N-acetyl-D-galactosamine
+167	Q8N4A0	DSTTPAPTTK
+168	Q8N4A0	UDP-N-acetyl-D-galactosamine
+169	Q8N4A0	Ac-QATEYEYLDYDFLPETEPPEM
+170	Q8N4A0	UDP-N-acetyl-D-galactosamine
+171	Q8N4A0	CPPTPSATTPAPPSSSAPPETTAA
+172	Q8N4A0	UDP-N-acetyl-D-galactosamine
+173	Q8N4A0	TAPPAHGVTSAPDTRPAPGSTAPP
+174	O88422	UDP-N-acetyl-D-galactosamine
+175	O88422	PTTDSTTPAPTTK
+176	Q6WV20	UDP-N-acetyl-D-galactosamine
+177	Q6WV20	mucin MUC5AC-3
+178	Q6WV20	UDP-N-acetyl-D-galactosamine
+179	Q6WV20	PTTDSTTPAPTTK
+180	Q8NCL4	UDP-N-acetyl-D-galactosamine
+181	Q8NCL4	polypeptide
+182	Q8NCW6	UDP-N-acetyl-D-galactosamine
+183	Q8NCW6	polypeptide
+184	Q8NCW6	MUC1
+185	Q8NCW6	UDP-GalNAc
+186	Q8NCW6	MUC1b'
+187	Q8NCW6	UDP-GalNAc
+188	Q8NCW6	IgA hinge
+189	Q8NCW6	UDP-Gal
+190	Q8NCW6	IgA hinge
+191	Q8NCW6	UDP-GalNAc
+192	Q8NCW6	MUC1a'
+193	Q8NCW6	UDP-GalNAc
+194	Q8NCW6	MUC2
+195	Q8NCW6	UDP-GalNAc
+196	Q8NCW6	MUC7
+197	Q8NCW6	UDP-GalNAc
+198	Q8NCW6	erythropoietin T
+199	Q8NCW6	UDP-Gal
+200	Q8NCW6	more
+201	Q8IXK2	UDP-N-acetyl-D-galactosamine
+202	Q8IXK2	GTTPSPVPTTSTTSA
+203	Q8IUC8	more
+204	Q6WV19	UDP-N-acetyl-D-galactosamine
+205	Q6WV19	mucin MUC5AC-3
+206	Q6WV19	UDP-N-acetyl-D-galactosamine
+207	Q6WV19	mucin MUC5AC-3/13
+208	Q6WV19	UDP-N-acetyl-D-galactosamine
+209	Q6WV19	PDTRPAPGSTAPPAC
+210	Q6WV19	UDP-N-acetyl-D-galactosamine
+211	Q6WV19	PTTDSTTPAPTTK
+212	Q6WV19	UDP-N-acetyl-D-galactosamine
+213	Q6WV19	PSTPPTPSPSTPPTPSPS
+214	Q6WV19	UDP-N-acetyl-D-galactosamine
+215	Q6WV19	SPTTSTPISSTPQPTS
+216	Q6WV19	UDP-N-acetyl-D-galactosamine
+217	Q6WV19	polypeptide
+218	Q6WV19	UDP-GalNAc
+219	Q6WV19	GAGA(X)nT(X)nAGAGK
+220	Q6WV19	UDP-N-acetyl-D-galactosamine
+221	Q6WV19	mucin MUC4AC-13
+222	Q6WV19	UDP-GalNAc
+223	Q6WV19	GAGA(X)3T(X)3AGAGK
+224	Q6WV19	UDP-GalNAc
+225	Q6WV19	GAGA(X)5T(X)5AGAGK
+226	Q9Y117	UDP-N-acetyl-D-galactosamine
+227	Q9Y117	mucin MUC5AC-3
+228	Q9Y117	UDP-N-acetyl-D-galactosamine
+229	Q9Y117	GTTPSPVPTTSTTSAP
+230	Q9Y117	UDP-N-acetyl-D-galactosamine
+231	Q9Y117	PTTDSTTPAPTTK
+232	Q9Y117	UDP-N-acetyl-D-galactosamine
+233	Q9Y117	PSTPPTPSPSTPPTPSPS
+234	Q8IA42	UDP-N-acetyl-D-galactosamine
+235	Q8IA42	mucin MUC5AC-3
+236	Q8IA42	UDP-N-acetyl-D-galactosamine
+237	Q8IA42	mucin MUC5AC-3/13
+238	Q8IA42	UDP-N-acetyl-D-galactosamine
+239	Q8IA42	mucin MUC5AX-13
+240	Q8IA42	UDP-N-acetyl-D-galactosamine
+241	Q8IA42	PDTRPAPGSTAPPAC
+242	Q8IA42	UDP-N-acetyl-D-galactosamine
+243	Q8IA42	GTTPSPVPTTSTTSAP
+244	Q8IA42	UDP-N-acetyl-D-galactosamine
+245	Q8IA42	PTTDSTTPAPTTK
+246	Q8IA42	UDP-N-acetyl-D-galactosamine
+247	Q8IA42	SPTTSTPISSTPQPTS
+248	Q6WV17	UDP-N-acetyl-D-galactosamine
+249	Q6WV17	mucin MUC5AC-3
+250	Q6WV17	UDP-N-acetyl-D-galactosamine
+251	Q6WV17	mucin MUC5AC-3/13
+252	Q6WV17	UDP-N-acetyl-D-galactosamine
+253	Q6WV17	mucin MUC5AX-13
+254	Q6WV17	UDP-N-acetyl-D-galactosamine
+255	Q6WV17	PDTRPAPGSTAPPAC
+256	Q6WV17	UDP-N-acetyl-D-galactosamine
+257	Q6WV17	GTTPSPVPTTSTTSAP
+258	Q6WV17	UDP-N-acetyl-D-galactosamine
+259	Q6WV17	PTTDSTTPAPTTK
+260	Q6WV17	UDP-N-acetyl-D-galactosamine
+261	Q6WV17	PSTPPTPSPSTPPTPSPS
+262	Q6WV17	UDP-N-acetyl-D-galactosamine
+263	Q6WV17	SPTTSTPISSTPQPTS
+264	Q6WV17	UDP-N-acetyl-D-galactosamine
+265	Q6WV17	polypeptide
+266	Q6WV17	UDP-GalNAc
+267	Q6WV17	GAGA(X)nT(X)nAGAGK
+268	Q6WV17	UDP-GalNAc
+269	Q6WV17	GAGA(X)3T(X)3AGAGK
+270	Q6WV17	UDP-GalNAc
+271	Q6WV17	GAGA(X)5T(X)5AGAGK
+272	Q96FL9	UDP-N-acetyl-D-galactosamine
+273	Q96FL9	polypeptide
+274	Q8MVS5	UDP-N-acetyl-D-galactosamine
+275	Q8MVS5	polypeptide
+276	Q8MVS5	more
+277	Q8MVS5	UDP-N-acetyl-D-galactosamine
+278	Q8MVS5	GalNAc-glycosylated peptide
+279	Q8MVS5	UDP-N-acetyl-alpha-D-galactosamine
+280	Q8MVS5	EA2 peptide
+281	Q8MVS5	UDP-alpha-GalNAc
+282	Q8MVS5	polypeptide
+283	Q10472	UDP-N-acetyl-D-galactosamine
+284	Q10472	polypeptide
+285	Q10472	MUC1
+286	Q10472	UDP-GalNAc
+287	Q10472	5 UDP-N-acetyl-D-galactosamine
+288	Q10472	DSTTPAPTTK
+289	Q10472	UDP-N-acetyl-D-galactosamine
+290	Q10472	Ac-QATEYEYLDYDFLPETEPPEM
+291	Q10472	UDP-N-acetyl-D-galactosamine
+292	Q10472	CPPTPSATTPAPPSSSAPPETTAA
+293	Q10472	UDP-N-acetyl-D-galactosamine
+294	Q10472	TAPPAHGVTSAPDTRPAPGSTAPP
+295	Q10472	IgA hinge
+296	Q10472	UDP-Gal
+297	Q10472	IgA hinge
+298	Q10472	UDP-GalNAc
+299	Q10472	MUC1a'
+300	Q10472	UDP-GalNAc
+301	Q10472	MUC2
+302	Q10472	UDP-GalNAc
+303	Q10472	MUC7
+304	Q10472	UDP-GalNAc
+305	Q10472	erythropoietin T
+306	Q10472	UDP-Gal
+307	Q10472	MUC1-2GalNAc
+308	Q10472	UDP-GalNAc
+309	Q10472	UDP-N-acetyl-D-galactosamine
+310	Q10472	PTTTPISTTMVTPTPTPTC
+311	Q10472	more
+312	Q10472	OSM fragment
+313	Q10472	UDP-Gal
+314	Q9R0C5	UDP-N-acetyl-D-galactosamine
+315	Q9R0C5	polypeptide
+316	Q9R0C5	more
+317	Q9R0C5	UDP-N-acetyl-D-galactosamine
+318	Q9R0C5	GalNAc-glycosylated peptide
+319	Q86SF2	UDP-N-acetyl-D-galactosamine
+320	Q86SF2	polypeptide
+321	Q86SF2	more
+322	Q86SF2	UDP-N-acetyl-D-galactosamine
+323	Q86SF2	GalNAc-glycosylated peptide
+324	Q925R7	UDP-N-acetyl-D-galactosamine
+325	Q925R7	polypeptide
+326	Q925R7	more
+327	Q925R7	UDP-N-acetyl-D-galactosamine
+328	Q925R7	GalNAc-glycosylated peptide
+329	O08912	UDP-N-acetyl-D-galactosamine
+330	O08912	polypeptide
+331	Q58A54	more
+332	Q8CF93	UDP-N-acetyl-alpha-D-galactosamine
+333	Q8CF93	mucin-type O-glycoprotein podoplanin
+334	Q6TBQ8	more
+335	Q6TBQ8	UDP-N-acetyl-alpha-D-galactosamine
+336	Q6TBQ8	EA2 peptide
+337	Q6TBQ8	UDP-N-acetyl-alpha-D-galactosamine
+338	Q6TBQ8	gp40-derived peptide
+339	H9JHA7	UDP-N-acetyl-alpha-D-galactosamine
+340	H9JHA7	human proteoglycan 4
+341	H9JHA7	UDP-N-acetyl-alpha-D-galactosamine
+342	H9JHA7	peptide EA2
+0	Q9LE59	UDP-D-galacturonate
+1	Q9LE59	homogalacturonan
+0	O81770	UDP-galactose
+1	O81770	1,2-dioleoylglycerol
+2	O81770	UDP-galactose
+3	O81770	1,2-dilinoleoylglycerol
+4	O81770	UDPgalactose
+5	O81770	1,2-diacylglycerol
+6	O81770	UDP-galactose
+7	O81770	1,2-diacylglycerol
+8	O81770	more
+9	Q9SI93	UDP-galactose
+10	Q9SI93	1,2-dilinoleoylglycerol
+11	Q9SI93	UDPgalactose
+12	Q9SI93	1,2-diacylglycerol
+13	Q9SI93	UDP-galactose
+14	Q9SI93	1,2-diacylglycerol
+15	O82730	UDP-galactose
+16	O82730	1,2-dilinoleoylglycerol
+17	O82730	UDPgalactose
+18	O82730	1,2-diacylglycerol
+19	O82730	UDP-galactose
+20	O82730	1,2-diacylglycerol
+21	O82730	UDP-galactose
+22	O82730	1,2-diacyl-sn-glycerol
+23	Q8KFI2	UDP-galactose
+24	Q8KFI2	sn-1,2-dioleoylglycerol
+25	Q8KFI2	UDP-galactose
+26	Q8KFI2	sn-1-oleoyl-sn-2-palmitoyl-glycerol
+27	S6BK49	UDP-alpha-D-galactose
+28	S6BK49	1,2-diacyl-sn-glycerol
+29	S6BK49	UDP-alpha-D-galactose
+30	S6BK49	1,2-diacyl-sn-glycerol
+31	S6B542	UDP-alpha-D-galactose
+32	S6B542	1,2-diacyl-sn-glycerol
+33	S6B542	UDP-alpha-D-galactose
+34	S6B542	1,2-diacyl-sn-glycerol
+35	Q7XZR6	UDP-alpha-D-galactose
+36	Q7XZR6	1,2-diacyl-sn-glycerol
+37	Q7XZR6	UDP-alpha-D-galactose
+38	Q7XZR6	1,2-diacyl-sn-glycerol
+39	Q9SM44	UDP-galactose
+40	Q9SM44	1,2-diacylglycerol
+0	Q93HT8	8-aminopyrene-1,3,6-trisulfonic acid-labelled cellobiose
+1	Q93HT8	alpha-D-glucose 1-phosphate
+2	Q93HT8	8-aminopyrene-1,3,6-trisulfonic acid-labelled cellohexaose
+3	Q93HT8	alpha-D-glucose 1-phosphate
+4	Q93HT8	8-aminopyrene-1,3,6-trisulfonic acid-labelled cellotriose
+5	Q93HT8	alpha-D-glucose 1-phosphate
+6	Q93HT8	[(1->4)-beta-D-glucosyl]2
+7	Q93HT8	alpha-D-glucose 1-phosphate
+8	Q93HT8	[(1->4)-beta-D-glucosyl]3
+9	Q93HT8	alpha-D-glucose 1-phosphate
+10	Q93HT8	[(1->4)-beta-D-glucosyl]4
+11	Q93HT8	alpha-D-glucose 1-phosphate
+12	Q93HT8	[(1->4)-beta-D-glucosyl]5
+13	Q93HT8	alpha-D-glucose 1-phosphate
+14	Q93HT8	[(1->4)-beta-D-glucosyl]6
+15	Q93HT8	alpha-D-glucose 1-phosphate
+16	Q93HT8	[(1->4)-beta-D-glucosyl]n
+17	Q93HT8	phosphate
+18	Q93HT8	[(1->4)-beta-D-glucosyl]n-1
+19	Q93HT8	alpha-D-glucose 1-phosphate
+20	Q93HT8	[(1->4)-beta-D-xylosyl]3
+21	Q93HT8	alpha-D-glucose 1-phosphate
+22	Q93HT8	phenyl beta-D-glucopyranoside
+23	Q93HT8	alpha-D-glucose 1-phosphate
+24	Q93HT8	more
+25	P77846	cellobiose
+26	P77846	alpha-D-glucose 1-phosphate
+27	P77846	cellobiose
+28	P77846	alpha-D-glucose 1-phosphate
+29	P77846	(1,4-beta-D-glucosyl)n
+30	P77846	phosphate
+31	P77846	(1,4-beta-D-glucosyl)n
+32	P77846	phosphate
+33	P77846	phosphate
+34	P77846	cellohexaose
+35	P77846	phosphate
+36	P77846	cellohexaose
+37	P77846	phosphate
+38	P77846	cellopentaose
+39	P77846	phosphate
+40	P77846	cellopentaose
+41	P77846	phosphate
+42	P77846	cellotetraose
+43	P77846	phosphate
+44	P77846	cellotetraose
+45	P77846	phosphate
+46	P77846	cellotriose
+47	P77846	phosphate
+48	P77846	cellotriose
+49	P77846	more
+50	P77846	4-nitrophenyl beta-D-glucoside
+51	P77846	alpha-D-glucose 1-phosphate
+52	P77846	4-nitrophenyl beta-D-xyloside
+53	P77846	alpha-D-glucose 1-phosphate
+54	P77846	4-nitrophenyl beta-cellobioside
+55	P77846	alpha-D-glucose 1-phosphate
+56	P77846	hexyl beta-D-glucoside
+57	P77846	alpha-D-glucose 1-phosphate
+58	P77846	methyl beta-D-glucoside
+59	P77846	alpha-D-glucose 1-phosphate
+60	P77846	octyl beta-D-glucoside
+61	P77846	alpha-D-glucose 1-phosphate
+62	A3DJQ6	cellobiose
+63	A3DJQ6	alpha-D-glucose 1-phosphate
+64	A3DJQ6	cellobiose
+65	A3DJQ6	alpha-D-glucose 1-phosphate
+66	A3DJQ6	cellobiose
+67	A3DJQ6	alpha-D-glucosyl-1-fluoride
+68	B7IED6	more
+69	B7IED6	alpha-D-glucose 1-phosphate
+70	B7IED6	cellobiose
+71	B7IED6	alpha-D-glucose 1-phosphate
+72	B7IED6	cellobiose
+73	B7IED6	alpha-D-glucose 1-phosphate
+74	B7IED6	cellotetraose
+75	B7IED6	alpha-D-glucose 1-phosphate
+76	B7IED6	cellotetraose
+77	B7IED6	alpha-D-glucose 1-phosphate
+78	B7IED6	cellotriose
+79	B7IED6	alpha-D-glucose 1-phosphate
+80	B7IED6	cellotriose
+81	B7IED6	alpha-D-glucose 1-phosphate
+82	B7IED6	alpha-D-glucose
+83	B7IED6	alpha-D-glucose 1-phosphate
+84	B7IED6	alpha-D-xylose
+85	B7IED6	alpha-D-glucose 1-phosphate
+86	B7IED6	cellopentaose
+87	B7IED6	beta-D-Xyl-(1->4)-beta-D-Glc-(1->4)-D-Glc
+88	B7IED6	alpha-D-xylose 1-phosphate
+89	B7IED6	cellobiose
+90	B7IED6	phosphate
+91	B7IED6	cellopentaose
+92	B7IED6	phosphate
+93	B7IED6	cellotetraose
+94	B7IED6	phosphate
+95	B7IED6	cellotriose
+96	B7IED6	phosphate
+97	B8I1W7	cellopentaose
+98	B8I1W7	phosphate
+99	B8I1W7	cellopentaose
+100	B8I1W7	phosphate
+101	B8I1W7	cellotetraose
+102	B8I1W7	phosphate
+103	B8I1W7	cellotetraose
+104	B8I1W7	phosphate
+105	B8I1W7	cellotriose
+106	B8I1W7	phosphate
+107	B8I5F2	cellopentaose
+108	B8I5F2	phosphate
+109	B8I5F2	cellopentaose
+110	B8I5F2	phosphate
+111	B8I5F2	cellotetraose
+112	B8I5F2	phosphate
+113	B8I5F2	cellotetraose
+114	B8I5F2	phosphate
+115	B8I5F2	cellotriose
+116	B8I5F2	phosphate
+117	B8I1R5	cellopentaose
+118	B8I1R5	phosphate
+119	B8I1R5	cellopentaose
+120	B8I1R5	phosphate
+121	B8I1R5	cellotetraose
+122	B8I1R5	phosphate
+123	B8I1R5	cellotetraose
+124	B8I1R5	phosphate
+125	B8I1R5	cellotriose
+126	B8I1R5	phosphate
+0	Q9L3Z9	sucrose
+1	Q9L3Z9	[(1->6)-alpha-D-glucosyl]n
+2	Q2I2N5	sucrose
+3	Q2I2N5	cellobiose
+4	Q2I2N5	sucrose
+5	Q2I2N5	maltose
+6	Q2I2N5	sucrose
+7	Q2I2N5	raffinose
+8	Q2I2N5	sucrose
+9	Q2I2N5	stachyose tetrahydrate
+10	Q2I2N5	sucrose
+11	Q2I2N5	more
+12	Q2I2N5	sucrose
+13	C7DT60	sucrose
+14	C7DT60	L-ascorbic acid
+15	C7DT60	sucrose
+16	C7DT60	[(1,6)-alpha-D-glucosyl]n
+17	B9UNL6	sucrose
+18	B9UNL6	[(1,6)-alpha-D-glucosyl]n
+19	B9UNL6	sucrose
+20	B9UNL6	[(1->6)-alpha-D-glucosyl]n
+21	B9UNL6	more
+22	A9ZRX3	more
+23	O52224	more
+24	O52224	sucrose
+25	O52224	(1,6-alpha-D-glucosyl)n
+26	O52224	sucrose
+27	O52224	(1,6-alpha-D-glucosyl)n
+28	Q8G9Q2	more
+29	A0A5E8F621	sucrose
+30	A0A5E8F621	[(1->6)-alpha-D-glucosyl]n
+31	D5FS20	sucrose
+32	D5FS20	[(1->6)-alpha-D-glucosyl]n
+33	D5FS20	more
+34	B1N0B6	sucrose
+35	B1N0B6	[(1->6)-alpha-D-glucosyl]n
+36	B1N0B6	more
+37	P85080	sucrose
+38	P85080	dextran
+39	P85080	sucrose
+40	P85080	[(1->6)-alpha-D-glucosyl]n
+41	P85089	sucrose
+42	P85089	dextran
+43	P85089	sucrose
+44	P85089	[(1->6)-alpha-D-glucosyl]n
+45	B2MUU6	sucrose
+46	B2MUU6	dextran
+47	B2MUU6	sucrose
+48	B2MUU6	[(1->6)-alpha-D-glucosyl]n
+49	B2MUU6	more
+50	X4QKX0	sucrose
+51	X4QKX0	[(1->6)-alpha-D-glucosyl]n
+52	X4QKX0	more
+53	G8XR50	sucrose
+54	G8XR50	[(1->6)-alpha-D-glucosyl]n
+55	G8XR50	more
+56	G8XR50	sucrose
+57	G8XR50	D-glucose
+58	G8XR50	sucrose
+59	G8XR50	isomaltose
+60	G8XR50	sucrose
+61	G8XR50	maltose
+62	A0A0F6TP16	sucrose
+63	A0A0F6TP16	[(1->6)-alpha-D-glucosyl]n
+64	A0A0F6TP16	more
+65	A0A0F6TP16	sucrose
+66	A0A0F6TP16	maltose
+67	A0A0R2GUC5	sucrose
+0	O00469	UDP-alpha-D-galactose
+1	O00469	procollagen 5-hydroxy-L-lysine
+2	Q8NBJ5	denatured collagen type I
+3	Q8NBJ5	UDP-alpha-D-galactose
+4	Q8NBJ5	UDP-galactose
+5	Q8NBJ5	bovine collagen type I (deglycosylated)
+6	Q8IYK4	UDP-galactose
+7	Q8IYK4	bovine collagen type I (deglycosylated)
+0	O96024	more
+1	O96024	UDP-galactose
+2	O96024	N-acetyl-D-galactosaminyl-(N-acetylneuraminyl)-D-galactosyl-1 4-beta-D-glucosyl-N-acylsphingosine
+3	O96024	UDP-galactose
+4	O96024	N-acetyl-Gal-glycosylphosphatidylinositol
+5	O96024	UDP-galactose
+6	O96024	ganglioside GA2
+7	O43825	UDP-galactose
+8	O43825	N-acetyl-D-galactosaminyl-(N-acetylneuraminyl)-D-galactosyl-1 4-beta-D-glucosyl-N-acylsphingosine
+9	O75752	UDP-galactose
+10	O75752	N-acetyl-D-galactosaminyl-(N-acetylneuraminyl)-D-galactosyl-1 4-beta-D-glucosyl-N-acylsphingosine
+11	Q9Z0F0	UDP-galactose
+12	Q9Z0F0	N-acetyl-D-galactosaminyl-(N-acetylneuraminyl)-D-galactosyl-1 4-beta-D-glucosyl-N-acylsphingosine
+13	Q9Z0F0	UDP-galactose
+14	Q9Z0F0	ganglioside GA2
+15	Q9Z0F0	UDP-galactose
+16	Q9Z0F0	GD2
+17	Q9Z0F0	UDPgalactose
+18	Q9Z0F0	N-acetyl-D-galactosaminyl-(N-acetylneuraminyl)-D-galactosyl-1 4-beta-D-glucosyl-N-acylsphingosine
+19	Q9K2V8	UDP-Gal
+20	Q9K2V8	IFNalpha2b-[Tn]-FCHASE
+21	Q9K2V8	UDP-Gal
+22	Q9K2V8	GA2-FCHASE
+23	Q9K2V8	UDP-Gal
+24	Q9K2V8	GM2-FCHASE
+25	Q9K2V8	UDP-Gal
+26	Q9K2V8	GalNAcalpha-FCHASE
+27	Q9K2V8	UDP-Gal
+28	Q9K2V8	GalNAcbeta-FCHASE
+29	Q9K2V8	UDP-Gal
+30	Q9K2V8	lyso-GM2-FCHASE
+31	Q0P9B5	UDP-Gal
+32	Q0P9B5	GA2-FCHASE
+33	Q0P9B5	UDP-Gal
+34	Q0P9B5	GM2-FCHASE
+35	Q0P9B5	UDP-Gal
+36	Q0P9B5	GalNAcalpha-FCHASE
+37	Q0P9B5	UDP-Gal
+38	Q0P9B5	GalNAcbeta-FCHASE
+39	Q0P9B5	UDP-Gal
+40	Q0P9B5	lyso-GM2-FCHASE
+41	Q93MQ1	UDP-Gal
+42	Q93MQ1	GA2-FCHASE
+43	Q93MQ1	UDP-Gal
+44	Q93MQ1	GM2-FCHASE
+45	Q93MQ1	UDP-Gal
+46	Q93MQ1	GalNAcalpha-FCHASE
+47	Q93MQ1	UDP-Gal
+48	Q93MQ1	GalNAcbeta-FCHASE
+49	Q93MQ1	UDP-Gal
+50	Q93MQ1	lyso-GM2-FCHASE
+0	Q8L164	more
+1	Q8L164	beta-D-glucose 1-phosphate
+2	Q8L164	D-galactose
+3	Q8L164	D-glucose
+4	Q8L164	beta-D-glucose 1-phosphate
+5	D6XSD4	alpha,alpha-trehalose
+6	D6XSD4	phosphate
+7	D6XSD4	alpha,alpha-trehalose
+8	D6XSD4	phosphate
+9	D6XSD4	D-glucose
+10	D6XSD4	beta-D-glucose 1-phosphate
+0	P21217	more
+1	P21217	GDP-fucose
+2	P21217	Fuc-alpha-1,2Gal-beta-1,4GlcNAc-sp-biotin
+3	P21217	GDP-fucose
+4	P21217	Fuc-alpha-1,2Gal-beta-1,3GlcNAc-sp-biotin
+5	P21217	GDP-L-fucose
+6	P21217	1,3-beta-D-galactosyl-N-acetyl-D-glucosaminyl-R
+7	Q11128	GDP-fucose
+8	Q11128	Fuc-alpha-1,2Gal-beta-1,4GlcNAc-sp-biotin
+9	Q11128	GDP-fucose
+10	Q11128	Fuc-alpha-1,2Gal-beta-1,3GlcNAc-sp-biotin
+11	Q11128	GDP-fucose
+12	Q11128	GlcNAc-beta-1,4GlcNAc-beta-1,4GlcNAc
+13	Q11128	GDP-fucose
+14	Q11128	GlcNAc-beta-1,4GlcNAc-beta-1,4GlcNAc-beta-1,4GlcNAc
+15	Q11128	GDP-fucose
+16	Q11128	2-O-MeGal-beta-1,3GlcNAc
+17	Q11128	GDP-fucose
+18	Q11128	2-O-MeGal-beta-1,4GlcNAc
+19	Q11128	GDP-fucose
+20	Q11128	Fetuin triantennary asialo agalacto glycoprotein
+21	Q11128	GDP-fucose
+22	Q11128	Fetuin triantennary asialo glycoprotein
+23	Q11128	GDP-fucose
+24	Q11128	GalNAc-beta-1,4GlcNAc-beta-O-Bn
+25	Q11128	GDP-fucose
+26	Q11128	GlcNAc-beta-1,4GlcNAc-beta-O-Bn
+27	P51993	more
+28	P51993	GDP-fucose
+29	P51993	Fuc-alpha-1,2Gal-beta-1,4GlcNAc-sp-biotin
+30	P51993	GDP-fucose
+31	P51993	2-O-MeGal-beta-1,3GlcNAc
+32	P51993	GDP-fucose
+33	P51993	2-O-MeGal-beta-1,4GlcNAc
+34	P51993	GDP-fucose
+35	P51993	Fetuin triantennary asialo agalacto glycoprotein
+36	P51993	GDP-fucose
+37	P51993	Fetuin triantennary asialo glycoprotein
+38	P51993	GDP-fucose
+39	P51993	GalNAc-beta-1,4GlcNAc-beta-O-Bn
+40	P51993	GDP-fucose
+41	P51993	GlcNAc-beta-1,4GlcNAc-beta-O-Bn
+42	P51993	GDP-fucose
+43	P51993	GlcNAc-beta-1,4GlcNAc-beta-1,4GlcNAc
+44	P51993	GDP-fucose
+45	P51993	GlcNAc-beta-1,4GlcNAc-beta-1,4GlcNAc-beta-1,4GlcNAc
+46	Q9L8S4	GDP-fucose
+47	Q9L8S4	Gal-beta-1,3-GlcNAc-O-(CH2)8CO2CH3
+48	Q9L8S4	GDP-fucose
+49	Q9L8S4	Gal-beta-1,4-GlcNAc-O-(CH2)8CO2CH3
+50	Q8HYJ6	GDP-fucose
+51	Q8HYJ6	Fuc-alpha-1,2Gal-beta-1,4GlcNAc-sp-biotin
+52	Q8HYJ5	GDP-fucose
+53	Q8HYJ5	Fuc-alpha-1,2Gal-beta-1,4GlcNAc-sp-biotin
+54	Q8HYJ5	GDP-fucose
+55	Q8HYJ5	Fuc-alpha-1,2Gal-beta-1,3GlcNAc-sp-biotin
+56	Q8HYJ4	GDP-fucose
+57	Q8HYJ4	Fuc-alpha-1,2Gal-beta-1,4GlcNAc-sp-biotin
+58	Q8HYJ4	GDP-fucose
+59	Q8HYJ4	Fuc-alpha-1,2Gal-beta-1,3GlcNAc-sp-biotin
+60	Q8HYJ3	GDP-fucose
+61	Q8HYJ3	Fuc-alpha-1,2Gal-beta-1,4GlcNAc-sp-biotin
+62	Q8HYJ3	GDP-fucose
+63	Q8HYJ3	Fuc-alpha-1,2Gal-beta-1,3GlcNAc-sp-biotin
+64	Q8HYJ7	GDP-fucose
+65	Q8HYJ7	Fuc-alpha-1,2Gal-beta-1,4GlcNAc-sp-biotin
+66	Q8HYJ7	GDP-fucose
+67	Q8HYJ7	Fuc-alpha-1,2Gal-beta-1,3GlcNAc-sp-biotin
+68	Q495W5	GlcNAcbeta(1-2)Manalpha(1-6)[GlcNAcbeta(1-2)Manalpha(1-3)]Manbeta(1 4)GlcNAcbeta(1-4)GlcNAcbeta(1-)(CH2)3-NHCO-(CH2)5-NH-biotin
+69	Q495W5	GDP-L-fucose
+70	Q495W5	GlcNAcbeta(1-2)Manalpha(1-6)[GlcNAcbeta(1-2)Manalpha(1-3)]Manbeta(1 4)GlcNAcbeta(1-4)GlcNAcbeta(1-)AspNHCO-biotin
+71	Q495W5	GDP-L-fucose
+72	Q6ST35	GDP-beta-L-fucose
+73	Q6ST35	Gal-beta-(1->3)-GlcNAc-beta-O-(CH2)8COOCH3
+74	Q6ST35	GDP-beta-L-fucose
+75	Q6ST35	Galbeta-1,3GlcNAc-R
+76	Q6ST35	GDP-beta-L-fucose
+77	Q6ST35	NeuAcalpha1-3Galbeta1-3GlcNAc-beta-O-(CH2)8COOCH3
+78	Q6ST35	GDP-beta-L-fucose
+79	Q6ST35	Siaalpha-2,3Galbeta-1,3GlcNAc-R
+80	Q6ST35	GDP-beta-L-fucose
+81	Q6ST35	Galbeta1,3GlcNAc-O(CH2)8CO2CH3
+82	Q6P4F1	GlcNAcbeta(1-2)Manalpha(1-6)[GlcNAcbeta(1-2)Manalpha(1-3)]Manbeta(1 4)GlcNAcbeta(1-4)GlcNAcbeta(1-)(CH2)3-NHCO-(CH2)5-NH-biotin
+83	Q6P4F1	GDP-L-fucose
+84	Q6P4F1	GlcNAcbeta(1-2)Manalpha(1-6)[GlcNAcbeta(1-2)Manalpha(1-3)]Manbeta(1 4)GlcNAcbeta(1-4)GlcNAcbeta(1-)AspNHCO-biotin
+85	Q6P4F1	GDP-L-fucose
+86	O32631	GDP-L-fucose
+87	O32631	1,3-beta-D-galactosyl-N-acetyl-D-glucosaminyl-R
+88	O32631	GDP-L-fucose
+89	O32631	1,3-beta-D-galactosyl-N-acetyl-D-glucosaminyl-R
+90	A0A292GKJ7	more
+91	A0A292GKJ7	GDP-fucose
+92	A0A292GKJ7	2-aminopyridino-lacto-N-tetraose
+93	A0A292GLL9	more
+94	A0A292GLL9	GDP-fucose
+95	A0A292GLL9	2-aminopyridino-lacto-N-tetraose
+96	O19058	GDP-L-fucose
+97	O19058	1,3-beta-D-galactosyl-N-acetyl-D-glucosaminyl-R
+0	Q9R0E1	more
+0	Q9SBZ0	1-alpha-D-galactosyl-myo-inositol
+1	Q9SBZ0	raffinose
+2	Q9SBZ0	1-alpha-D-galactosyl-myo-inositol
+3	Q9SBZ0	raffinose
+4	Q9SBZ0	1-alpha-D-galactosyl-myo-inositol
+5	Q9SBZ0	D-ononitol
+6	Q9SBZ0	1-alpha-D-galactosyl-myo-inositol
+7	Q9SBZ0	D-ononitol
+8	Q9SBZ0	alpha-D-galactosyl-D-ononitol
+9	Q9SBZ0	raffinose
+10	Q93XK2	more
+11	Q93XK2	1-alpha-D-galactosyl-myo-inositol
+12	Q93XK2	raffinose
+13	Q93XK2	1-alpha-D-galactosyl-myo-inositol
+14	Q93XK2	raffinose
+15	Q93XK2	1-alpha-D-galactosyl-myo-inositol
+16	Q93XK2	stachyose
+17	Q93XK2	1-alpha-D-galactosyl-myo-inositol
+18	Q93XK2	verbascose
+19	Q93XK2	alpha-D-galactosyl-D-ononitol
+20	Q93XK2	stachyose
+21	Q93XK2	stachyose
+22	Q93XK2	stachyose
+23	Q93XK2	1-alpha-D-galactosyl-myo-inositol
+24	Q93XK2	D-pinitol
+25	Q93XK2	1-alpha-D-galactosyl-myo-inositol
+26	Q93XK2	D-pinitol
+27	Q93XK2	1-alpha-D-galactosyl-myo-inositol
+28	Q93XK2	D-ononitol
+29	Q93XK2	1-alpha-D-galactosyl-myo-inositol
+30	Q93XK2	D-ononitol
+31	Q93XK2	1-alpha-D-galactosyl-myo-inositol
+32	Q93XK2	sequoyitol
+33	Q93XK2	1-alpha-D-galactosyl-myo-inositol
+34	Q93XK2	H2O
+35	Q93XK2	alpha-D-galactosyl-D-ononitol
+36	Q93XK2	raffinose
+0	Q9BYC5	GDP-L-fucose
+1	Q9BYC5	N4-[N-acetyl-beta-D-glucosaminyl-(1-2)-alpha-D-mannosyl-(1-3)-[N-acetyl beta-D-glucosaminyl-(1-2)-alpha-D-mannosyl-(1-6)]-beta-D-mannosyl-(1-4) N-acetyl-beta-D-glucosaminyl-(1-4)-N-acetyl-beta-D glucosaminyl]asparagine
+2	Q9BYC5	GDP-L-fucose
+3	Q9BYC5	N4-[N-acetyl-beta-D-glucosaminyl-(1-2)-alpha-D-mannosyl-(1-3)-[N-acetyl beta-D-glucosaminyl-(1-2)-alpha-D-mannosyl-(1-6)]-beta-D-mannosyl-(1-4) N-acetyl-beta-D-glucosaminyl-(1-4)-N-acetyl-beta-D glucosaminyl]asparagine
+4	Q9BYC5	GDP-L-fucose
+5	Q9BYC5	N4-[N-acetyl-beta-D-glucosaminyl-(1,2)-alpha-D-mannosyl-(1 3)-[N-acetyl-beta-D-glucosaminyl-(1,2)-alpha-D-mannosyl-(1 6)]-beta-D-mannosyl-(1,4)-N-acetyl-beta-D-glucosaminyl-(1 4)-N-acetyl-beta-D-glucosaminyl]asparagine
+6	Q9BYC5	GDP-beta-L-fucose
+7	Q9BYC5	Gal-N-acetylglucosaminyl-Man5-GlcNAc2-HIV-1 V3 glycopeptide
+8	Q9BYC5	GDP-beta-L-fucose
+9	Q9BYC5	Man5-GlcNAc2-HIV-1 V3 glycopeptide
+10	Q9BYC5	GDP-beta-L-fucose
+11	Q9BYC5	Man5-GlcNAc2-erythropoietin
+12	Q9BYC5	GDP-beta-fucose
+13	Q9BYC5	Gal-N-acetylglucosaminyl-Man5-GlcNAc2-(N-(9 fluorenyl)methoxycarbonyl)asparagine
+14	Q9BYC5	GDP-beta-fucose
+15	Q9BYC5	Gal-N-acetylglucosaminyl-Man5-erythropoietin
+16	Q9BYC5	GDP-beta-fucose
+17	Q9BYC5	Man5-GlcNAc2-(N-(9-fluorenyl)methoxycarbonyl)asparagine
+18	Q9BYC5	GDP-beta-L-fucose
+19	Q9BYC5	N4-[N-acetyl-beta-D-glucosaminyl-(1->2)-alpha-D-mannosyl-(1->3)-[N acetyl-beta-D-glucosaminyl-(1->2)-alpha-D-mannosyl-(1->6)]-beta-D mannosyl-(1->4)-N-acetyl-beta-D-glucosaminyl-(1->4)-N-acetyl-beta-D glucosaminyl]asparagine
+20	Q9BYC5	more
+21	Q9BYC5	GDP-L-fucose
+22	Q9BYC5	N4-[N-acetyl-beta-D-glucosaminyl-(1-2)-alpha-D-mannosyl-(1-3)-[N-acetyl beta-D-glucosaminyl-(1-2)-alpha-D-mannosyl-(1-6)]-beta-D-mannosyl-(1-4) N-acetyl-beta-D-glucosaminyl-(1-4)-N-acetyl-beta-D glucosaminyl]asparagine-bi-(4-(2-pyridylamino)butylamine
+23	Q9BYC5	GDP-L-fucose
+24	Q9BYC5	N4-[N-acetyl-beta-D-glucosaminyl-(1-2)-alpha-D-mannosyl-(1-3)-[N-acetyl beta-D-glucosaminyl-(1-2)-alpha-D-mannosyl-(1-6)]-beta-D-mannosyl-(1-4) N-acetyl-beta-D-glucosaminyl-(1-4)-N-acetyl-beta-D glucosaminyl]asparagine-bi-(4-(2-pyridylamino)butylamine)
+25	Q9AQ17	GDP-L-fucose
+26	Q9AQ17	N4-[N-acetyl-beta-D-glucosaminyl-(1-2)-alpha-D-mannosyl-(1-3)-[N-acetyl beta-D-glucosaminyl-(1-2)-alpha-D-mannosyl-(1-6)]-beta-D-mannosyl-(1-4) N-acetyl-beta-D-glucosaminyl-(1-4)-N-acetyl-beta-D glucosaminyl]asparagine
+27	Q9AQ17	GDP-L-fucose
+28	Q9AQ17	N4-[N-acetyl-beta-D-glucosaminyl-(1-2)-alpha-D-mannosyl-(1-3)-[N-acetyl beta-D-glucosaminyl-(1-2)-alpha-D-mannosyl-(1-6)]-beta-D-mannosyl-(1-4) N-acetyl-beta-D-glucosaminyl-(1-4)-N-acetyl-beta-D glucosaminyl]asparagine
+29	A0A060PLD2	GDP-beta-L-fucose
+30	A0A060PLD2	N4-[N-acetyl-beta-D-glucosaminyl-(1->2)-alpha-D-mannosyl-(1->3)-[N acetyl-beta-D-glucosaminyl-(1->2)-alpha-D-mannosyl-(1->6)]-beta-D mannosyl-(1->4)-N-acetyl-beta-D-glucosaminyl-(1->4)-N-acetyl-beta-D glucosaminyl]asparagine
+31	Q9WTS2	GDP-beta-L-fucose
+32	Q9WTS2	N4-[N-acetyl-beta-D-glucosaminyl-(1->2)-alpha-D-mannosyl-(1->3)-[N acetyl-beta-D-glucosaminyl-(1->2)-alpha-D-mannosyl-(1->6)]-beta-D mannosyl-(1->4)-N-acetyl-beta-D-glucosaminyl-(1->4)-N-acetyl-beta-D glucosaminyl]asparagine
+33	Q9WTS2	GDP-L-Fuc
+34	Q9WTS2	asparagine-linked N-acetyl-beta-D-glucosamine of asialo-agalacto-bi-antennary N-glycan
+35	Q9WTS2	GDP-L-Gal
+36	Q9WTS2	asparagine-linked N-acetyl-beta-D-glucosamine of asialo-agalacto-bi-antennary N-glycan
+0	P97327	more
+1	P19526	GDP-beta-L-fucose
+2	P19526	beta-D-galactosyl-(1->3)-N-acetyl-beta-D-glucosaminyl-(1->3)-beta-D galactosyl-(1->4)-beta-D-glucosyl-(1<->1)-ceramide
+3	P19526	more
+4	Q9JL27	more
+5	Q6XQ53	GDP-L-fucose
+6	Q6XQ53	D-galactose
+7	Q28113	GDP-L-fucose
+8	Q28113	beta-D-galactosyl-R
+9	Q28113	GDP-L-fucose
+10	Q28113	Galbeta(1-3)GalNAcbeta(1-4)(NeuAcalpha(2-3))Galbeta(1-4)Glcbeta1 ceramide
+11	Q28113	GDP-L-fucose
+12	Q28113	galacto-N-biose
+13	Q10980	GDP-beta-L-fucose
+14	Q10980	beta-D-galactosyl-(1->3)-N-acetyl-beta-D-galactosamine
+15	Q10980	GDP-beta-L-fucose
+16	Q10980	beta-D-galactosyl-(1->3)-N-acetyl-beta-D-glucosamine
+17	Q10984	GDP-L-fucose
+18	Q10984	beta-D-galactosyl-R
+19	Q10984	more
+20	Q10984	GDP-beta-L-fucose
+21	Q10984	beta-D-galactosyl-(1->3)-N-acetyl-beta-D-glucosamine
+22	Q10984	GDP-beta-L-fucose
+23	Q10984	beta-D-galactosyl-(1->3)-N-acetyl-beta-D-galactosamine
+24	Q10984	GDP-beta-L-fucose
+25	Q10984	beta-D-galactosyl-(1->4)-N-acetyl-beta-D-glucosamine
+26	Q10984	GDP-beta-L-fucose
+27	Q10984	phenyl beta-D-galactopyranoside
+28	Q5JBG3	GDP-beta-L-fucose
+29	Q5JBG3	Gal-beta-OR
+30	Q5JBG3	GDP-beta-L-fucose
+31	Q5JBG3	Galbeta(1-3)GalNAcalpha-OMe
+32	Q5J7C6	more
+33	Q5J7C6	GDP-L-fucose
+34	Q5J7C6	Galbeta(1->3)-GalNAcalpha-OH
+35	Q5J7C6	GDP-L-fucose
+36	Q5J7C6	Galbeta(1->3)-GalNAcalpha-OMe
+37	A6M9C2	GDP-beta-L-fucose
+38	A6M9C2	beta-D-galactosyl-(1->3)-N-acetyl-beta-D-glucosaminyl-(1->3)-beta-D galactosyl-(1->4)-beta-D-glucosyl-(1<->1)-ceramide
+39	A6M9C2	more
+40	A6M9C2	GDP-beta-L-fucose
+41	A6M9C2	D-galactose
+42	A6M9C2	GDP-beta-L-fucose
+43	A6M9C2	D-lactose
+44	A6M9C2	GDP-beta-L-fucose
+45	A6M9C2	D-lactulose
+46	A6M9C2	GDP-beta-L-fucose
+47	A6M9C2	Gal(beta1-3)GlcNAc
+48	A6M9C2	GDP-beta-L-fucose
+49	A6M9C2	Gal(beta1-4)GlcNAc
+50	A6M9C2	GDP-beta-L-fucose
+51	A6M9C2	Galbeta-4-nitrophenyl
+52	Q9SWH5	more
+53	Q9SWH5	GDP-L-Fuc
+54	Q9SWH5	XLLGXLLG-2-aminopyridine
+55	Q9SWH5	GDP-L-Gal
+56	Q9SWH5	xyloglucan oligosaccharide
+0	Q59495	sucrose
+1	Q59495	phosphate
+2	Q59495	sucrose
+3	Q59495	phosphate
+4	Q59495	alpha-D-glucose 1-phosphate
+5	Q59495	D-arabitol
+6	Q59495	alpha-D-glucose 1-phosphate
+7	Q59495	L-arabitol
+8	B0F411	more
+9	B0F411	sucrose
+10	B0F411	phosphate
+11	B8Y3Y0	more
+12	B8Y3Y0	sucrose
+13	B8Y3Y0	phosphate
+14	B8Y3Y0	sucrose
+15	B8Y3Y0	phosphate
+16	B8Y3Y0	sucrose
+17	B8Y3Y0	L-arabinose
+18	B8Y3Y0	sucrose
+19	B8Y3Y0	L-sorbose
+20	M9ZS93	sucrose
+21	M9ZS93	phosphate
+22	M9ZS93	sucrose
+23	M9ZS93	phosphate
+24	A0A1Y3Q6Q6	sucrose
+25	A0A1Y3Q6Q6	phosphate
+26	A0A1Y3Q6Q6	sucrose
+27	A0A1Y3Q6Q6	phosphate
+28	A0A1Y3Q6Q6	sucrose
+29	A0A1Y3Q6Q6	L-ascorbic acid
+30	E2IHA5	more
+31	E2IHA5	sucrose
+32	E2IHA5	benzoic acid
+33	E2IHA5	sucrose
+34	E2IHA5	kojic acid
+35	Q84HQ2	more
+36	Q84HQ2	sucrose
+37	Q84HQ2	phosphate
+38	Q84HQ2	sucrose
+39	Q84HQ2	phosphate
+40	Q84HQ2	sucrose
+41	Q84HQ2	arsenate
+42	Q84HQ2	sucrose
+43	Q84HQ2	phosphate
+44	Q84HQ2	sucrose
+45	Q84HQ2	phosphate
+46	Q84HQ2	D-arabinose
+47	Q84HQ2	alpha-D-glucose 1-phosphate
+48	Q84HQ2	D-arabitol
+49	Q84HQ2	alpha-D-glucose 1-phosphate
+50	Q84HQ2	D-fructose
+51	Q84HQ2	alpha-D-glucose 1-phosphate
+52	Q84HQ2	D-fucose
+53	Q84HQ2	alpha-D-glucose 1-phosphate
+54	Q84HQ2	D-galactose
+55	Q84HQ2	alpha-D-glucose 1-phosphate
+56	Q84HQ2	D-glucose
+57	Q84HQ2	alpha-D-glucose 1-phosphate
+58	Q84HQ2	D-sorbitol
+59	Q84HQ2	alpha-D-glucose 1-phosphate
+60	Q84HQ2	D-xylitol
+61	Q84HQ2	alpha-D-glucose 1-phosphate
+62	Q84HQ2	D-xylose
+63	Q84HQ2	alpha-D-glucose 1-phosphate
+64	Q84HQ2	L-arabinose
+65	Q84HQ2	alpha-D-glucose 1-phosphate
+66	Q84HQ2	L-arabitol
+67	Q84HQ2	alpha-D-glucose 1-phosphate
+68	Q84HQ2	L-fucose
+69	Q84HQ2	alpha-D-glucose 1-phosphate
+70	Q84HQ2	L-sorbose
+71	Q84HQ2	alpha-D-glucose 1-phosphate
+72	Q84HQ2	L-xylose
+73	Q84HQ2	alpha-D-glucose 1-phosphate
+74	Q84HQ2	resveratrol
+75	Q84HQ2	alpha-D-glucose 1-phosphate
+76	Q84HQ2	sucrose
+77	Q84HQ2	(+)-catechin
+78	Q84HQ2	sucrose
+79	Q84HQ2	(-)-epicatechin
+80	Q84HQ2	sucrose
+81	Q84HQ2	D-arabitol
+82	Q84HQ2	sucrose
+83	Q84HQ2	resveratrol
+84	Q14EH6	sucrose
+85	Q14EH6	D-arabinose
+86	Q14EH6	sucrose
+87	Q14EH6	D-fructose
+88	Q14EH6	sucrose
+89	Q14EH6	D-glucose
+90	Q14EH6	sucrose
+91	Q14EH6	acarbose
+92	Q14EH6	sucrose
+93	Q14EH6	cellobiose
+94	Q14EH6	sucrose
+95	Q14EH6	erythritol
+96	Q14EH6	sucrose
+97	Q14EH6	galactose
+98	Q14EH6	sucrose
+99	Q14EH6	isomaltotriose
+100	Q14EH6	sucrose
+101	Q14EH6	lactose
+102	Q14EH6	sucrose
+103	Q14EH6	maltose
+104	Q14EH6	sucrose
+105	Q14EH6	maltotriose
+106	Q14EH6	sucrose
+107	Q14EH6	palatinose
+108	Q14EH6	sucrose
+109	Q14EH6	rhamnose
+110	Q14EH6	sucrose
+111	Q14EH6	salicin
+112	Q14EH6	sucrose
+113	Q14EH6	sorbitol
+114	Q14EH6	sucrose
+115	Q14EH6	xylitol
+116	Q14EH6	sucrose
+117	Q14EH6	xylose
+0	O75752	UDP-N-acetyl-D-galactosamine
+1	O75752	D-galactosyl-1,4-D-galactosyl-1,4-D-glucosylceramide
+0	Q50LH0	maltose
+1	Q50LH0	phosphate
+2	Q50LH0	maltose
+3	Q50LH0	phosphate
+4	Q50LH0	more
+5	Q5FI04	maltose
+6	Q5FI04	phosphate
+7	Q5FI04	maltose
+8	Q5FI04	phosphate
+9	Q5FI04	more
+10	D6XUS4	maltose
+11	D6XUS4	phosphate
+12	D6XUS4	maltose
+13	D6XUS4	phosphate
+14	D6XUS4	2-acetamido-2-deoxy-D-glucose
+15	D6XUS4	beta-D-glucose 1-phosphate
+16	D6XUS4	2-amino-2-deoxy-D-glucose
+17	D6XUS4	beta-D-glucose 1-phosphate
+18	D6XUS4	2-deoxy-D-arabino-hexose
+19	D6XUS4	beta-D-glucose 1-phosphate
+20	D6XUS4	D-mannose
+21	D6XUS4	beta-D-glucose 1-phosphate
+22	D6XUS4	sophorose
+23	D6XUS4	beta-D-glucose 1-phosphate
+24	D6XUS4	kojibiose
+25	D6XUS4	beta-D-glucose 1-phosphate
+26	D6XUS4	more
+0	Q16739	UDP-glucose
+1	Q16739	N-acylsphingosine
+2	Q16739	UDP
+3	Q16739	N-{6-[(7-nitro-2,1,3-benzoxadiazol-4-yl)amino]hexanoyl}sphingosine
+4	Q16739	UDP-glucose
+5	Q16739	6-(((N-7-nitrobenz-2-oxa-1,3-diazol-4yl)amino)caproyl)sphingosine
+6	Q16739	UDP-glucose
+7	Q16739	an N-acylsphingosine
+8	Q16739	UDP-glucose
+9	Q16739	N-octanoyl sphingosine
+10	Q9R0E0	UDP-glucose
+11	Q9R0E0	N-acylsphingosine
+12	Q9R0E0	UDP-glucose
+13	Q9R0E0	N-[7-(4-nitrobenzo-2-oxa-1 3-diazole)]-6-aminocaproyl-D-erythro-sphingosine
+14	Q58FH5	UDP-glucose
+15	Q58FH5	N-acylsphingosine
+0	Q8VZE9	UDP-alpha-D-glucose
+1	Q8VZE9	apigenin
+2	Q8VZE9	UDP-alpha-D-glucose
+3	Q8VZE9	kaempferol
+4	Q8VZE9	UDP-alpha-D-glucose
+5	Q8VZE9	quercetin
+6	Q8VZE9	UDP-glucose
+7	Q8VZE9	eriodictyol
+8	Q8VZE9	UDP-glucose
+9	Q8VZE9	luteolin
+10	Q8VZE9	UDP-glucose
+11	Q8VZE9	naringenin
+12	Q65JC2	2 UDP-D-glucose
+13	Q65JC2	corylifol A
+14	Q65JC2	ADP-glucose
+15	Q65JC2	7,8-dihydroxyflavone
+16	Q65JC2	CDP-glucose
+17	Q65JC2	4',7-dihydroxyflavone
+18	Q65JC2	TDP-glucose
+19	Q65JC2	curcumin
+20	Q65JC2	UDP-D-glucose
+21	Q65JC2	corylifol A
+22	Q65JC2	UDP-glucose
+23	Q65JC2	7-hydroxyflavone
+24	Q65JC2	UDP-glucose
+25	Q65JC2	apigenin
+26	Q65JC2	UDP-glucose
+27	Q65JC2	apigenin
+28	Q65JC2	UDP-glucose
+29	Q65JC2	apigenin
+30	Q65JC2	UDP-glucose
+31	Q65JC2	genistein
+32	Q65JC2	dTD-2-deoxy alpha-D-glucose
+33	Q65JC2	genistein
+34	Q65JC2	more
+35	Q9LNE6	more
+36	Q9LNE6	UDP-glucose
+37	Q9LNE6	genistein
+38	Q9LNE6	dTDP-beta-L-rhamnose
+39	Q9LNE6	genistein
+0	Q8VWN6	1-alpha-D-galactosyl-myo-inositol
+1	Q8VWN6	sucrose
+2	Q8VWN6	1-alpha-D-galactosyl-myo-inositol
+3	Q8VWN6	sucrose
+4	Q8VWN6	1-alpha-D-galactosyl-myo-inositol
+5	Q8VWN6	D-ononitol
+6	Q8VWN6	1-alpha-D-galactosyl-myo-inositol
+7	Q8VWN6	D-pinitol
+8	Q8VWN6	alpha-D-galactosyl-D-ononitol
+9	Q8VWN6	sucrose
+10	Q8VWN6	alpha-D-galactosyl-(1->3)-1D-myo-inositol
+11	Q8VWN6	sucrose
+12	Q8VWN6	1-alpha-D-galactosyl-myo-inositol
+13	Q8VWN6	H2O
+14	Q8VWN6	4-nitrophenol-alpha-D-galactopyranoside
+15	Q8VWN6	sucrose
+16	Q8VWN6	4-nitrophenol-alpha-D-galactopyranoside
+17	Q8VWN6	sucrose
+18	Q8VWN6	more
+19	Q6ZLJ9	alpha-D-galactosyl-(1->3)-1D-myo-inositol
+20	Q6ZLJ9	sucrose
+21	Q94A08	galactinol
+22	Q94A08	sucrose
+23	Q94A08	galactinol
+24	Q94A08	sucrose
+25	Q84VX0	galactinol
+26	Q84VX0	sucrose
+27	Q84VX0	galactinol
+28	Q84VX0	sucrose
+29	Q9SYJ4	alpha-D-galactosyl-(1->3)-1D-myo-inositol
+30	Q9SYJ4	sucrose
+31	Q9SYJ4	more
+32	Q9SYJ4	galactinol
+33	Q9SYJ4	sucrose
+34	Q9SYJ4	galactinol
+35	Q9SYJ4	sucrose
+36	Q8RX87	galactinol
+37	Q8RX87	sucrose
+38	Q8RX87	galactinol
+39	Q8RX87	sucrose
+40	Q9FND9	alpha-D-galactosyl-(1->3)-1D-myo-inositol
+41	Q9FND9	sucrose
+42	Q9FND9	galactinol
+43	Q9FND9	sucrose
+44	Q9FND9	galactinol
+45	Q9FND9	sucrose
+46	B5G4T9	galactinol
+47	B5G4T9	sucrose
+48	A0A1S7IYZ8	galactinol
+49	A0A1S7IYZ8	sucrose
+0	O60762	GDPmannose
+1	O60762	dolichyl phosphate
+2	O60762	GDPmannose
+3	O60762	dolichyl phosphate
+4	P14020	GDP-mannose
+5	P14020	dolichyl phosphate
+0	Q9SBL1	UDPglucose
+1	Q9SBL1	(S)-4-hydroxymandelonitrile
+2	Q9SBL1	UDPglucose
+3	Q9SBL1	(S)-mandelonitrile
+4	Q9SBL1	more
+5	Q9SBL1	more
+6	Q9SBL1	UDP-D-glucose
+7	Q9SBL1	(S)-4-hydroxymandelonitrile
+8	Q9SBL1	UDP-glucose
+9	Q9SBL1	mandelonitrile
+10	Q9SBL1	UDPalpha-D-glucose
+11	Q9SBL1	benzoic acid
+12	Q9SBL1	UDPglucose
+13	Q9SBL1	benzyl alcohol
+14	Q9SBL1	UDPglucose
+15	Q9SBL1	geraniol
+16	B2XBQ5	UDP-glucose
+17	B2XBQ5	(R,S)-mandelonitrile
+18	B2XBQ5	UDP-glucose
+19	B2XBQ5	benzyl alcohol

@@ -1,0 +1,592 @@
+	CID	CanonicalSMILES	IUPACName	Fingerprint2D	Title
+0	44263858	C(C1C(C(C(C(O1)OCC2C(C(C(C(O2)O)O)O)O)O)O)O)O	(3S,4S,5S,6R)-6-[[(2S,3S,4S,5S,6R)-3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl]oxymethyl]oxane-2,3,4,5-tetrol	"AAADceBwPAAAAAAAAAAAAAAAAAAAAAAAAAAkSAAAAAAAAAAAAAAAGgAACAAACBSwgAMACAAABgAA
+AAAAAAAAAAAAAAAAAAAAAAAREAIAAAAiQAAFAAAHAAHAYAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AA=="	6-O-alpha-D-Mannopyranosyl-D-mannopyranose
+0	152109	C(C1C(C(C(C(O1)OC2C(OC(C(C2O)O)O)CO)O)O)O)O	(2R,3S,4S,5S,6S)-2-(hydroxymethyl)-6-[(2R,3S,4R,5S)-4,5,6-trihydroxy-2-(hydroxymethyl)oxan-3-yl]oxyoxane-3,4,5-triol	"AAADceBwPAAAAAAAAAAAAAAAAAAAAAAAAAAkSAAAAAAAAAAAAAAAGgAACAAACBSwgAMACAAABgAA
+AAAAAAAAAAAAAAAAAAAAAAAREAIAAAAiQAAFAAAHAAHAYAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AA=="	4-O-beta-D-Mannopyranosyl-D-mannopyranose
+1	448165	C(C1C(C(C(C(O1)OC2C(OC(C(C2O)O)O)CO)O)O)O)O	(2R,3S,4S,5S,6S)-2-(hydroxymethyl)-6-[(2R,3S,4R,5S,6R)-4,5,6-trihydroxy-2-(hydroxymethyl)oxan-3-yl]oxyoxane-3,4,5-triol	"AAADceBwPAAAAAAAAAAAAAAAAAAAAAAAAAAkSAAAAAAAAAAAAAAAGgAACAAACBSwgAMACAAABgAA
+AAAAAAAAAAAAAAAAAAAAAAAREAIAAAAiQAAFAAAHAAHAYAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AA=="	Mannobiose
+2	129630288	C(C1C(C(C(C(O1)OC2C(OC(C(C2O)O)O)CO)O)O)O)O	(2R)-2-(hydroxymethyl)-6-[(2R,3S,4R,5S)-4,5,6-trihydroxy-2-(hydroxymethyl)oxan-3-yl]oxyoxane-3,4,5-triol	"AAADceBwPAAAAAAAAAAAAAAAAAAAAAAAAAAkSAAAAAAAAAAAAAAAGgAACAAACBSwgAMACAAABgAA
+AAAAAAAAAAAAAAAAAAAAAAAREAIAAAAiQAAFAAAHAAHAYAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AA=="	Hex(?1-4)Man
+0	53477669	C(C1C(C(C(C(O1)OC2C(OC(C(C2O)O)OC3C(OC(C(C3O)O)OC4C(OC(C(C4O)O)O)CO)CO)CO)O)O)O)O	(2S,3S,4S,5S,6R)-2-[(2R,3S,4R,5S,6S)-6-[(2R,3S,4R,5S,6S)-4,5-dihydroxy-2-(hydroxymethyl)-6-[(2R,3S,4R,5S)-4,5,6-trihydroxy-2-(hydroxymethyl)oxan-3-yl]oxyoxan-3-yl]oxy-4,5-dihydroxy-2-(hydroxymethyl)oxan-3-yl]oxy-6-(hydroxymethyl)oxane-3,4,5-triol	"AAADcfB4PgAAAAAAAAAAAAAAAAAAAAAAAAAkSJEgAAAAAAAAAAAAGgAACAAACBSwgAMACAAABgAA
+AAAAAAAAAAAAAAAAAAAAAAAREAIAAAAiQAAFAAAHAAHAYAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AA=="	Mannotetraose
+0	22833608	C(C1C(C(C(O1)(CO)OCC2C(C(C(O2)(CO)COC3C(C(C(O3)(CO)O)O)O)O)O)O)O)O	(2R,3S,4S,5S)-5-[[(2S,3S,4S,5R)-5-[[(2R,3S,4S,5R)-3,4-dihydroxy-2,5-bis(hydroxymethyl)oxolan-2-yl]oxymethyl]-3,4-dihydroxy-2-(hydroxymethyl)oxolan-2-yl]methoxy]-2-(hydroxymethyl)oxolane-2,3,4-triol	"AAADcfB4PgAAAAAAAAAAAAAAAAAAASJEgAAAAAAAAAAAAAAAAAAAGgAACAAADFSwgAMACAAABgAA
+AAAAAAAAAAAAAAAAAAAAAAAREAIAAAAiQAAFAAAHAAHAYBwMAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AA=="	(2R,3S,4S,5S)-5-{[(2S,3S,4S,5R)-5-({[(2R,3S,4S,5R)-3,4-dihydroxy-2,5-bis(hydroxymethyl)oxolan-2-yl]oxy}methyl)-3,4-dihydroxy-2-(hydroxymethyl)oxolan-2-yl]methoxy}-2-(hydroxymethyl)oxolane-2,3,4-triol
+0	24763	C(C1C(C(C(C(O1)OC2(C(C(C(O2)CO)O)O)COC3(C(C(C(O3)CO)O)O)COC4(C(C(C(O4)CO)O)O)COC5(C(C(C(O5)CO)O)O)COC6(C(C(C(O6)CO)O)O)COC7(C(C(C(O7)CO)O)O)COC8(C(C(C(O8)CO)O)O)COC9(C(C(C(O9)CO)O)O)COC1(C(C(C(O1)CO)O)O)COC1(C(C(C(O1)CO)O)O)COC1(C(C(C(O1)CO)O)O)COC1(C(C(C(O1)CO)O)O)COC1(C(C(C(O1)CO)O)O)COC1(C(C(C(O1)CO)O)O)COC1(C(C(C(O1)CO)O)O)COC1(C(C(C(O1)CO)O)O)COC1(C(C(C(O1)CO)O)O)COC1(C(C(C(O1)CO)O)O)COC1(C(C(C(O1)CO)O)O)COC1(C(C(C(O1)CO)O)O)COC1(C(C(C(O1)CO)O)O)COC1(C(C(C(O1)CO)O)O)COC1(C(C(C(O1)CO)O)O)COC1(C(C(C(O1)CO)O)O)COC1(C(C(C(O1)CO)O)O)COC1(C(C(C(O1)CO)O)O)COC1(C(C(C(O1)CO)O)O)COC1(C(C(C(O1)CO)O)O)COC1(C(C(C(O1)CO)O)O)COC1(C(C(C(O1)CO)O)O)COC1(C(C(C(O1)CO)O)O)COC1(C(C(C(O1)CO)O)O)COC1(C(C(C(O1)CO)O)O)COC1(C(C(C(O1)CO)O)O)COC1(C(C(C(O1)CO)O)O)COC1(C(C(C(O1)CO)O)O)COC1(C(C(C(O1)CO)O)O)CO)O)O)O)O	(2R,3R,4S,5S,6R)-2-[(2S,3S,4S,5R)-2-[[(2R,3S,4S,5R)-2-[[(2R,3S,4S,5R)-2-[[(2R,3S,4S,5R)-2-[[(2R,3S,4S,5R)-2-[[(2R,3S,4S,5R)-2-[[(2R,3S,4S,5R)-2-[[(2R,3S,4S,5R)-2-[[(2R,3S,4S,5R)-2-[[(2R,3S,4S,5R)-2-[[(2R,3S,4S,5R)-2-[[(2R,3S,4S,5R)-2-[[(2R,3S,4S,5R)-2-[[(2R,3S,4S,5R)-2-[[(2R,3S,4S,5R)-2-[[(2R,3S,4S,5R)-2-[[(2R,3S,4S,5R)-2-[[(2R,3S,4S,5R)-2-[[(2R,3S,4S,5R)-2-[[(2R,3S,4S,5R)-2-[[(2R,3S,4S,5R)-2-[[(2R,3S,4S,5R)-2-[[(2R,3S,4S,5R)-2-[[(2R,3S,4S,5R)-2-[[(2R,3S,4S,5R)-2-[[(2R,3S,4S,5R)-2-[[(2R,3S,4S,5R)-2-[[(2R,3S,4S,5R)-2-[[(2R,3S,4S,5R)-2-[[(2R,3S,4S,5R)-2-[[(2R,3S,4S,5R)-2-[[(2R,3S,4S,5R)-2-[[(2R,3S,4S,5R)-2-[[(2R,3S,4S,5R)-2-[[(2R,3S,4S,5R)-2-[[(2R,3S,4S,5R)-2-[[(2R,3S,4S,5R)-3,4-dihydroxy-2,5-bis(hydroxymethyl)oxolan-2-yl]oxymethyl]-3,4-dihydroxy-5-(hydroxymethyl)oxolan-2-yl]oxymethyl]-3,4-dihydroxy-5-(hydroxymethyl)oxolan-2-yl]oxymethyl]-3,4-dihydroxy-5-(hydroxymethyl)oxolan-2-yl]oxymethyl]-3,4-dihydroxy-5-(hydroxymethyl)oxolan-2-yl]oxymethyl]-3,4-dihydroxy-5-(hydroxymethyl)oxolan-2-yl]oxymethyl]-3,4-dihydroxy-5-(hydroxymethyl)oxolan-2-yl]oxymethyl]-3,4-dihydroxy-5-(hydroxymethyl)oxolan-2-yl]oxymethyl]-3,4-dihydroxy-5-(hydroxymethyl)oxolan-2-yl]oxymethyl]-3,4-dihydroxy-5-(hydroxymethyl)oxolan-2-yl]oxymethyl]-3,4-dihydroxy-5-(hydroxymethyl)oxolan-2-yl]oxymethyl]-3,4-dihydroxy-5-(hydroxymethyl)oxolan-2-yl]oxymethyl]-3,4-dihydroxy-5-(hydroxymethyl)oxolan-2-yl]oxymethyl]-3,4-dihydroxy-5-(hydroxymethyl)oxolan-2-yl]oxymethyl]-3,4-dihydroxy-5-(hydroxymethyl)oxolan-2-yl]oxymethyl]-3,4-dihydroxy-5-(hydroxymethyl)oxolan-2-yl]oxymethyl]-3,4-dihydroxy-5-(hydroxymethyl)oxolan-2-yl]oxymethyl]-3,4-dihydroxy-5-(hydroxymethyl)oxolan-2-yl]oxymethyl]-3,4-dihydroxy-5-(hydroxymethyl)oxolan-2-yl]oxymethyl]-3,4-dihydroxy-5-(hydroxymethyl)oxolan-2-yl]oxymethyl]-3,4-dihydroxy-5-(hydroxymethyl)oxolan-2-yl]oxymethyl]-3,4-dihydroxy-5-(hydroxymethyl)oxolan-2-yl]oxymethyl]-3,4-dihydroxy-5-(hydroxymethyl)oxolan-2-yl]oxymethyl]-3,4-dihydroxy-5-(hydroxymethyl)oxolan-2-yl]oxymethyl]-3,4-dihydroxy-5-(hydroxymethyl)oxolan-2-yl]oxymethyl]-3,4-dihydroxy-5-(hydroxymethyl)oxolan-2-yl]oxymethyl]-3,4-dihydroxy-5-(hydroxymethyl)oxolan-2-yl]oxymethyl]-3,4-dihydroxy-5-(hydroxymethyl)oxolan-2-yl]oxymethyl]-3,4-dihydroxy-5-(hydroxymethyl)oxolan-2-yl]oxymethyl]-3,4-dihydroxy-5-(hydroxymethyl)oxolan-2-yl]oxymethyl]-3,4-dihydroxy-5-(hydroxymethyl)oxolan-2-yl]oxymethyl]-3,4-dihydroxy-5-(hydroxymethyl)oxolan-2-yl]oxymethyl]-3,4-dihydroxy-5-(hydroxymethyl)oxolan-2-yl]oxymethyl]-3,4-dihydroxy-5-(hydroxymethyl)oxolan-2-yl]oxymethyl]-3,4-dihydroxy-5-(hydroxymethyl)oxolan-2-yl]oxymethyl]-3,4-dihydroxy-5-(hydroxymethyl)oxolan-2-yl]oxymethyl]-3,4-dihydroxy-5-(hydroxymethyl)oxolan-2-yl]oxy-6-(hydroxymethyl)oxane-3,4,5-triol	"AAADcfB8PgAAAAAAAAAAAAAAAAAAASJEiRIkAAAAAAAAAAAAAAAAGgAACAAACBSwgAMACAAABgAA
+AAAAAAAAAAAAAAAAAAAAAAAREAIAAAAiQAAFAAAHAAHAYAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AA=="	Inulin
+0	166775	C(C1C(C(C(C(O1)OC2(C(C(C(O2)CO)O)O)COC3(C(C(C(O3)CO)O)O)COC4(C(C(C(O4)CO)O)O)CO)O)O)O)O	(2R,3R,4S,5S,6R)-2-[(2S,3S,4S,5R)-2-[[(2R,3S,4S,5R)-2-[[(2R,3S,4S,5R)-3,4-dihydroxy-2,5-bis(hydroxymethyl)oxolan-2-yl]oxymethyl]-3,4-dihydroxy-5-(hydroxymethyl)oxolan-2-yl]oxymethyl]-3,4-dihydroxy-5-(hydroxymethyl)oxolan-2-yl]oxy-6-(hydroxymethyl)oxane-3,4,5-triol	"AAADcfB4PgAAAAAAAAAAAAAAAAAAASJEgAAkAAAAAAAAAAAAAAAAGgAACAAACBSwgAMACAAABgAA
+AAAAAAAAAAAAAAAAAAAAAAAREAIAAAAiQAAFAAAHAAHAYAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AA=="	Nystose
+0	440080	C(C1C(C(C(C(O1)OC2(C(C(C(O2)CO)O)O)COC3(C(C(C(O3)CO)O)O)CO)O)O)O)O	(2R,3R,4S,5S,6R)-2-[(2S,3S,4S,5R)-2-[[(2R,3S,4S,5R)-3,4-dihydroxy-2,5-bis(hydroxymethyl)oxolan-2-yl]oxymethyl]-3,4-dihydroxy-5-(hydroxymethyl)oxolan-2-yl]oxy-6-(hydroxymethyl)oxane-3,4,5-triol	"AAADcfB4PgAAAAAAAAAAAAAAAAAAASJAAAAkAAAAAAAAAAAAAAAAGgAACAAACBSwgAMACAAABgAA
+AAAAAAAAAAAAAAAAAAAAAAAREAIAAAAiQAAFAAAHAAHAYAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AA=="	1-Kestose
+0	7427	C(C1C(C(C(C(O1)OC2C(C(C(C(O2)CO)O)O)O)O)O)O)O	(2R,3S,4S,5R,6R)-2-(hydroxymethyl)-6-[(2R,3R,4S,5S,6R)-3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl]oxyoxane-3,4,5-triol	"AAADceBwPAAAAAAAAAAAAAAAAAAAAAAAAAAkSAAAAAAAAAAAAAAAGgAACAAACBSwgAMACAAABgAA
+AAAAAAAAAAAAAAAAAAAAAAAREAIAAAAiQAAFAAAHAAHAYAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AA=="	Trehalose
+0	92969	C1=CC(=CC=C1[N+](=O)[O-])OC2C(C(C(C(O2)CO)O)O)O	(2R,3S,4S,5R,6R)-2-(hydroxymethyl)-6-(4-nitrophenoxy)oxane-3,4,5-triol	"AAADccByPAAAAAAAAAAAAAAAAAAAAAAAAAA0QAAAAAAAAAABAAAAHgAECAAACByxkAMwzoAQRgCB
+ACRCQwCCCAAgIgAoiAAGbIodNiKEsZuieCDlwBEP6AfwYAwAAEAAAAAAAAAAgAAAAAAAAAAAAAAA
+AA=="	4-Nitrophenyl alpha-D-glucopyranoside
+0	139143962	C1CCC(CC1)[O-].C1=CC(=NC(=C1)C(=O)[O-])C(=O)[O-].O.[O-2].[V]	cyclohexanolate;oxygen(2-);pyridine-2,6-dicarboxylate;vanadium;hydrate	"AAADceByOAAAAAEAAAAAAAAAAAAAAWLAAAA8QAAAAAAWAFgBgAAAHgAACAAACByhlgIwiJIIEACo
+ASTyTASCgCAnAiAImCGwbNgKJvLAlbGEMQhkwAHYyYeYyCCAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AA=="	Cyclohexanolate;oxygen(2-);pyridine-2,6-dicarboxylate;vanadium;hydrate
+0	439586	C(C1C(C(C(C(O1)OC2C(OC(C(C2O)O)OC3C(OC(C(C3O)O)O)CO)CO)O)O)O)O	(2R,3R,4S,5S,6R)-2-[(2R,3S,4R,5R,6R)-4,5-dihydroxy-2-(hydroxymethyl)-6-[(2R,3S,4R,5R)-4,5,6-trihydroxy-2-(hydroxymethyl)oxan-3-yl]oxyoxan-3-yl]oxy-6-(hydroxymethyl)oxane-3,4,5-triol	"AAADcfB4PgAAAAAAAAAAAAAAAAAAAAAAAAAkSJAAAAAAAAAAAAAAGgAACAAACBSwgAMACAAABgAA
+AAAAAAAAAAAAAAAAAAAAAAAREAIAAAAiQAAFAAAHAAHAYAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AA=="	Amylotriose
+0	4125253	C(C1C(C(C(C(O1)OCC2C(C(C(C(O2)OCC(C(C(C(C=O)O)O)O)O)O)O)O)O)O)O)O	2,3,4,5-tetrahydroxy-6-[3,4,5-trihydroxy-6-[[3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl]oxymethyl]oxan-2-yl]oxyhexanal	"AAADcfB4PgAAAAAAAAAAAAAAAAAAAAAAAAAkSAAAAAAAAAAAAAAAGgAACAAACBSwgAMACAAABgAI
+AAgQgAIAAAAAAAAAAAFAAAAREBYAAAAiQAAFIAAHAAHKbAxAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AA=="	Dextran
+0	444913	C(C1C2C(C(C(O1)OC3C(OC(C(C3O)O)OC4C(OC(C(C4O)O)OC5C(OC(C(C5O)O)OC6C(OC(C(C6O)O)OC7C(OC(O2)C(C7O)O)CO)CO)CO)CO)CO)O)O)O	(1S,3R,5R,6S,8R,10R,11S,13R,15R,16S,18R,20R,21S,23R,25R,26S,28R,30R,31R,32R,33R,34R,35R,36R,37R,38R,39R,40R,41R,42R)-5,10,15,20,25,30-hexakis(hydroxymethyl)-2,4,7,9,12,14,17,19,22,24,27,29-dodecaoxaheptacyclo[26.2.2.23,6.28,11.213,16.218,21.223,26]dotetracontane-31,32,33,34,35,36,37,38,39,40,41,42-dodecol	"AAADcfB8PgAAAAAAAAAAAAAAAAAAAAAAAAAkSJEiQAAAAAAAAAAAGgAACAAACBSwgAMACAAABgAA
+AAAAAAAAAAAAAAAAAAAAAAAREAIAAAAiQAAFAAAHAAHAYAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AA=="	alpha-CYCLODEXTRIN
+0	3291162	C1=CC(=CC=C1[N+](=O)[O-])OC2C(C(C(C(O2)C(=O)O)O)O)O	3,4,5-trihydroxy-6-(4-nitrophenoxy)oxane-2-carboxylic acid	"AAADccByPAAAAAAAAAAAAAAAAAAAAAAAAAA0QAAAAAAAAAABAAAAHgAECAAACByxkAMwzoAQRgCJ
+ACTSSwKCCAAgIgAoiAFGbIodNjaEsZ+ieCDl4BEP6Af6bAxAAEAAAAAAAAAAgAAAAAAAAAAAAAAA
+AA=="	p-Nitrophenyl-beta-D-glucuronide
+1	82565	C1=CC(=CC=C1[N+](=O)[O-])OC2C(C(C(C(O2)C(=O)O)O)O)O	(2S,3S,4S,5R,6S)-3,4,5-trihydroxy-6-(4-nitrophenoxy)oxane-2-carboxylic acid	"AAADccByPAAAAAAAAAAAAAAAAAAAAAAAAAA0QAAAAAAAAAABAAAAHgAECAAACByxkAMwzoAQRgCJ
+ACTSSwKCCAAgIgAoiAFGbIodNjaEsZ+ieCDl4BEP6Af6bAxAAEAAAAAAAAAAgAAAAAAAAAAAAAAA
+AA=="	4-Nitrophenyl beta-D-glucopyranosiduronic acid
+0	82565	C1=CC(=CC=C1[N+](=O)[O-])OC2C(C(C(C(O2)C(=O)O)O)O)O	(2S,3S,4S,5R,6S)-3,4,5-trihydroxy-6-(4-nitrophenoxy)oxane-2-carboxylic acid	"AAADccByPAAAAAAAAAAAAAAAAAAAAAAAAAA0QAAAAAAAAAABAAAAHgAECAAACByxkAMwzoAQRgCJ
+ACTSSwKCCAAgIgAoiAFGbIodNjaEsZ+ieCDl4BEP6Af6bAxAAEAAAAAAAAAAgAAAAAAAAAAAAAAA
+AA=="	4-Nitrophenyl beta-D-glucopyranosiduronic acid
+0	24802394	C1=CC(=CC=C1[N+](=O)[O-])OC2C(C(C(C(O2)C(=O)O)O)O)O	(3S,4R,6S)-3,4,5-trihydroxy-6-(4-nitrophenoxy)oxane-2-carboxylic acid	"AAADccByPAAAAAAAAAAAAAAAAAAAAAAAAAA0QAAAAAAAAAABAAAAHgAECAAACByxkAMwzoAQRgCJ
+ACTSSwKCCAAgIgAoiAFGbIodNjaEsZ+ieCDl4BEP6Af6bAxAAEAAAAAAAAAAgAAAAAAAAAAAAAAA
+AA=="	4-Nitrophenyl-beta-d-glucuronic acid
+0	14982	CC1(C2CCC3(C(C2(CCC1OC4C(C(C(C(O4)C(=O)O)O)O)OC5C(C(C(C(O5)C(=O)O)O)O)O)C)C(=O)C=C6C3(CCC7(C6CC(CC7)(C)C(=O)O)C)C)C)C	(2S,3S,4S,5R,6R)-6-[(2S,3R,4S,5S,6S)-2-[[(3S,4aR,6aR,6bS,8aS,11S,12aR,14aR,14bS)-11-carboxy-4,4,6a,6b,8a,11,14b-heptamethyl-14-oxo-2,3,4a,5,6,7,8,9,10,12,12a,14a-dodecahydro-1H-picen-3-yl]oxy]-6-carboxy-4,5-dihydroxyoxan-3-yl]oxy-3,4,5-trihydroxyoxane-2-carboxylic acid	"AAADcfB8PgAAAAAAAAAAAAAAAAAAAAAAAAA0aMGCAAAAAADAAAAAGgAACAAADxSwgAMCCAAABgCI
+AqDSCAIAAAAgAAAACAFAAEgREBYAAQQiQAAFoAAPAQPK7PzPgAAAAAAAAADAAAYAADAAAAAAAAAA
+AA=="	Glycyrrhizic acid
+1	3495	CC1(C2CCC3(C(C2(CCC1OC4C(C(C(C(O4)C(=O)O)O)O)OC5C(C(C(C(O5)C(=O)O)O)O)O)C)C(=O)C=C6C3(CCC7(C6CC(CC7)(C)C(=O)O)C)C)C)C	6-[6-carboxy-2-[(11-carboxy-4,4,6a,6b,8a,11,14b-heptamethyl-14-oxo-2,3,4a,5,6,7,8,9,10,12,12a,14a-dodecahydro-1H-picen-3-yl)oxy]-4,5-dihydroxyoxan-3-yl]oxy-3,4,5-trihydroxyoxane-2-carboxylic acid	"AAADcfB8PgAAAAAAAAAAAAAAAAAAAAAAAAA0aMGCAAAAAADAAAAAGgAACAAADxSwgAMCCAAABgCI
+AqDSCAIAAAAgAAAACAFAAEgREBYAAQQiQAAFoAAPAQPK7PzPgAAAAAAAAADAAAYAADAAAAAAAAAA
+AA=="	Liquorice
+2	128229	CC1(C2CCC3(C(C2(CCC1OC4C(C(C(C(O4)C(=O)O)O)O)OC5C(C(C(C(O5)C(=O)O)O)O)O)C)C(=O)C=C6C3(CCC7(C6CC(CC7)(C)C(=O)O)C)C)C)C	(2S,3S,4S,5R,6R)-6-[(2R,3R,4S,5S,6S)-2-[[(3S,4aR,6aR,6bS,8aS,11S,12aR,14aR,14bS)-11-carboxy-4,4,6a,6b,8a,11,14b-heptamethyl-14-oxo-2,3,4a,5,6,7,8,9,10,12,12a,14a-dodecahydro-1H-picen-3-yl]oxy]-6-carboxy-4,5-dihydroxyoxan-3-yl]oxy-3,4,5-trihydroxyoxane-2-carboxylic acid	"AAADcfB8PgAAAAAAAAAAAAAAAAAAAAAAAAA0aMGCAAAAAADAAAAAGgAACAAADxSwgAMCCAAABgCI
+AqDSCAIAAAAgAAAACAFAAEgREBYAAQQiQAAFoAAPAQPK7PzPgAAAAAAAAADAAAYAADAAAAAAAAAA
+AA=="	Glycyrrhizin
+3	45358130	CC1(C2CCC3(C(C2(CCC1OC4C(C(C(C(O4)C(=O)O)O)O)OC5C(C(C(C(O5)C(=O)O)O)O)O)C)C(=O)C=C6C3(CCC7(C6CC(CC7)(C)C(=O)O)C)C)C)C	(2S,3S,4S,5R)-6-[(3R,4S,5S,6S)-2-[[(3S,4aR,6aR,6bS,8aS,11S,12aR,14aR,14bS)-11-carboxy-4,4,6a,6b,8a,11,14b-heptamethyl-14-oxo-2,3,4a,5,6,7,8,9,10,12,12a,14a-dodecahydro-1H-picen-3-yl]oxy]-6-carboxy-4,5-dihydroxyoxan-3-yl]oxy-3,4,5-trihydroxyoxane-2-carboxylic acid	"AAADcfB8PgAAAAAAAAAAAAAAAAAAAAAAAAA0aMGCAAAAAADAAAAAGgAACAAADxSwgAMCCAAABgCI
+AqDSCAIAAAAgAAAACAFAAEgREBYAAQQiQAAFoAAPAQPK7PzPgAAAAAAAAADAAAYAADAAAAAAAAAA
+AA=="	(2S,3S,4S,5R)-6-[(3R,4S,5S,6S)-2-[[(3S,4aR,6aR,6bS,8aS,11S,12aR,14aR,14bS)-11-carboxy-4,4,6a,6b,8a,11,14b-heptamethyl-14-oxo-2,3,4a,5,6,7,8,9,10,12,12a,14a-dodecahydro-1H-picen-3-yl]oxy]-6-carboxy-4,5-dihydroxyoxan-3-yl]oxy-3,4,5-trihydroxyoxane-2-carboxylic acid
+4	46783814	CC1(C2CCC3(C(C2(CCC1OC4C(C(C(C(O4)C(=O)O)O)O)OC5C(C(C(C(O5)C(=O)O)O)O)O)C)C(=O)C=C6C3(CCC7(C6CC(CC7)(C)C(=O)O)C)C)C)C	(2S,3S,4S,5R,6R)-6-[(2S,3R,4S,5S,6S)-2-[[(3S,4aS,6aR,6bS,8aS,11R,12aR,14aR,14bS)-11-carboxy-4,4,6a,6b,8a,11,14b-heptamethyl-14-oxo-2,3,4a,5,6,7,8,9,10,12,12a,14a-dodecahydro-1H-picen-3-yl]oxy]-6-carboxy-4,5-dihydroxyoxan-3-yl]oxy-3,4,5-trihydroxyoxane-2-carboxylic acid	"AAADcfB8PgAAAAAAAAAAAAAAAAAAAAAAAAA0aMGCAAAAAADAAAAAGgAACAAADxSwgAMCCAAABgCI
+AqDSCAIAAAAgAAAACAFAAEgREBYAAQQiQAAFoAAPAQPK7PzPgAAAAAAAAADAAAYAADAAAAAAAAAA
+AA=="	(2S,3S,4S,5R,6R)-6-[(2S,3R,4S,5S,6S)-2-[[(3S,4aS,6aR,6bS,8aS,11R,12aR,14aR,14bS)-11-carboxy-4,4,6a,6b,8a,11,14b-heptamethyl-14-oxo-2,3,4a,5,6,7,8,9,10,12,12a,14a-dodecahydro-1H-picen-3-yl]oxy]-6-carboxy-4,5-dihydroxyoxan-3-yl]oxy-3,4,5-trihydroxyoxane-2-carboxylic acid
+5	16213698	CC1(C2CCC3(C(C2(CCC1OC4C(C(C(C(O4)C(=O)O)O)O)OC5C(C(C(C(O5)C(=O)O)O)O)O)C)C(=O)C=C6C3(CCC7(C6CC(CC7)(C)C(=O)O)C)C)C)C	(2S,3S,4S,5R,6R)-6-[(2S,3R,4S,5S,6S)-2-[[(3S,6aR,6bS,8aS,11S,12aR,14aR,14bS)-11-carboxy-4,4,6a,6b,8a,11,14b-heptamethyl-14-oxo-2,3,4a,5,6,7,8,9,10,12,12a,14a-dodecahydro-1H-picen-3-yl]oxy]-6-carboxy-4,5-dihydroxyoxan-3-yl]oxy-3,4,5-trihydroxyoxane-2-carboxylic acid	"AAADcfB8PgAAAAAAAAAAAAAAAAAAAAAAAAA0aMGCAAAAAADAAAAAGgAACAAADxSwgAMCCAAABgCI
+AqDSCAIAAAAgAAAACAFAAEgREBYAAQQiQAAFoAAPAQPK7PzPgAAAAAAAAADAAAYAADAAAAAAAAAA
+AA=="	(2S,3S,4S,5R,6R)-6-[(2S,3R,4S,5S,6S)-2-[[(3S,6Ar,6bS,8aS,11S,12aR,14aR,14bS)-11-carboxy-4,4,6a,6b,8a,11,14b-heptamethyl-14-oxo-2,3,4a,5,6,7,8,9,10,12,12a,14a-dodecahydro-1H-picen-3-yl]oxy]-6-carboxy-4,5-dihydroxyoxan-3-yl]oxy-3,4,5-trihydroxyoxane-2-carboxylic acid
+6	16395512	CC1(C2CCC3(C(C2(CCC1OC4C(C(C(C(O4)C(=O)O)O)O)OC5C(C(C(C(O5)C(=O)O)O)O)O)C)C(=O)C=C6C3(CCC7(C6CC(CC7)(C)C(=O)O)C)C)C)C	6-[2-[[(6aR,6bS,8aS,11S,14bS)-11-carboxy-4,4,6a,6b,8a,11,14b-heptamethyl-14-oxo-2,3,4a,5,6,7,8,9,10,12,12a,14a-dodecahydro-1H-picen-3-yl]oxy]-6-carboxy-4,5-dihydroxyoxan-3-yl]oxy-3,4,5-trihydroxyoxane-2-carboxylic acid	"AAADcfB8PgAAAAAAAAAAAAAAAAAAAAAAAAA0aMGCAAAAAADAAAAAGgAACAAADxSwgAMCCAAABgCI
+AqDSCAIAAAAgAAAACAFAAEgREBYAAQQiQAAFoAAPAQPK7PzPgAAAAAAAAADAAAYAADAAAAAAAAAA
+AA=="	(20beta)-29-hydroxy-11,29-dioxoolean-12-en-3-yl 2-O-hexopyranuronosylhexopyranosiduronic acid
+7	44260118	CC1(C2CCC3(C(C2(CCC1OC4C(C(C(C(O4)C(=O)O)O)O)OC5C(C(C(C(O5)C(=O)O)O)O)O)C)C(=O)C=C6C3(CCC7(C6CC(CC7)(C)C(=O)O)C)C)C)C	(3S,4S,6R)-6-[(2R,4S,5S)-2-[[(3S,4aR,6aR,6bS,8aS,11S,12aR,14aR,14bS)-11-carboxy-4,4,6a,6b,8a,11,14b-heptamethyl-14-oxo-2,3,4a,5,6,7,8,9,10,12,12a,14a-dodecahydro-1H-picen-3-yl]oxy]-6-carboxy-4,5-dihydroxyoxan-3-yl]oxy-3,4,5-trihydroxyoxane-2-carboxylic acid	"AAADcfB8PgAAAAAAAAAAAAAAAAAAAAAAAAA0aMGCAAAAAADAAAAAGgAACAAADxSwgAMCCAAABgCI
+AqDSCAIAAAAgAAAACAFAAEgREBYAAQQiQAAFoAAPAQPK7PzPgAAAAAAAAADAAAYAADAAAAAAAAAA
+AA=="	30-hydroxy-11,30-dioxoolean-12-en-3beta-yl 2-O-beta-D-glucopyranuronosyl-beta-D-glucopyranosiduronic acid
+0	91553	CC1=CC(=O)OC2=C1C=CC(=C2)OC3C(C(C(C(O3)C(=O)O)O)O)O	(2S,3S,4S,5R,6S)-3,4,5-trihydroxy-6-(4-methyl-2-oxochromen-7-yl)oxyoxane-2-carboxylic acid	"AAADceB4PAAAAAAAAAAAAAAAAAAAAAAAAAA0QIAAAAAAAACBAAAAGgAACAAADBSwmAMyDoAABgCI
+AiDSCAICCAAgIAAIiAFGCMgdNzaEMR6ieiCl4BUPqQfK7KxOIAAACAAIAABAAAAQABAAAAAAAAAA
+AA=="	4-Methylumbelliferyl glucuronide
+0	71315012	COC1=C(C=CC(=C1)C=CC(=O)CC(=O)C=CC2=CC(=C(C=C2)OC3C(C(C(C(O3)C(=O)O)O)O)O)OC)O	(2S,3S,4S,5R,6S)-3,4,5-trihydroxy-6-[4-[(1E,6E)-7-(4-hydroxy-3-methoxyphenyl)-3,5-dioxohepta-1,6-dienyl]-2-methoxyphenoxy]oxane-2-carboxylic acid	"AAADceB4PAAAAAAAAAAAAAAAAAAAAAAAAAA0YIAAAAAAAAABQAAAGgAACAAADBSwmAMyDoAABgCI
+AqDSCAICCAAgIAAIiAFGiMgdNjaOMR6ieCOl4BEPuYfK7BxOIAABAAAAQABAAAIAAACAAAAAAAAA
+AA=="	Curcumin glucuronide
+0	71315012	COC1=C(C=CC(=C1)C=CC(=O)CC(=O)C=CC2=CC(=C(C=C2)OC3C(C(C(C(O3)C(=O)O)O)O)O)OC)O	(2S,3S,4S,5R,6S)-3,4,5-trihydroxy-6-[4-[(1E,6E)-7-(4-hydroxy-3-methoxyphenyl)-3,5-dioxohepta-1,6-dienyl]-2-methoxyphenoxy]oxane-2-carboxylic acid	"AAADceB4PAAAAAAAAAAAAAAAAAAAAAAAAAA0YIAAAAAAAAABQAAAGgAACAAADBSwmAMyDoAABgCI
+AqDSCAICCAAgIAAIiAFGiMgdNjaOMR6ieCOl4BEPuYfK7BxOIAABAAAAQABAAAIAAACAAAAAAAAA
+AA=="	Curcumin glucuronide
+0	161800	CC1(C2CCC3(C(C2(CCC1OC4C(C(C(C(O4)C(=O)O)O)O)O)C)C(=O)C=C5C3(CCC6(C5CC(CC6)(C)C(=O)O)C)C)C)C	(2S,3S,4S,5R,6R)-6-[[(3S,4aR,6aR,6bS,8aS,11S,12aR,14aR,14bS)-11-carboxy-4,4,6a,6b,8a,11,14b-heptamethyl-14-oxo-2,3,4a,5,6,7,8,9,10,12,12a,14a-dodecahydro-1H-picen-3-yl]oxy]-3,4,5-trihydroxyoxane-2-carboxylic acid	"AAADcfB8PAAAAAAAAAAAAAAAAAAAAAAAAAA0YMGCAAAAAADAAAAAGgAACAAADxSwgAMCCAAABgCI
+AqDSCAIAAAAgAAAACAFAAEgREBYAAQQiQAAFoAAPAQPK7PzPgAAAAAAAAADAAAYAADAAAAAAAAAA
+AA=="	Glycyrrhetic Acid 3-O-Glucuronide
+0	78357834	C(C1C(C(C(C(O1)OC2C(OC(C(C2O)O)OCC3C4C(C(C(O3)OC5C(OC(C(C5O)O)OC6C(OC(C(C6O)O)OC7C(OC(C(C7O)O)OC8C(OC(C(C8O)O)OC9C(OC(C(C9O)O)OC1C(OC(O4)C(C1O)O)CO)CO)CO)CO)CO)CO)O)O)CO)O)O)O)O	(1S,3R,5R,6S,8R,10R,11S,13R,15R,16S,18R,20R,21S,23R,25R,26S,30R,31S,33R,35R,36R,37R,38R,39R,40R,41R,42R,43R,44R,45R,46R,47R,48R,49R)-10-[[(2S,3R,4R,5S,6R)-3,4-dihydroxy-6-(hydroxymethyl)-5-[(2R,3R,4S,5S,6R)-3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl]oxyoxan-2-yl]oxymethyl]-5,15,20,25,30,35-hexakis(hydroxymethyl)-2,4,7,9,12,14,17,19,22,24,27,29,32,34-tetradecaoxaoctacyclo[31.2.2.23,6.28,11.213,16.218,21.223,26.228,31]nonatetracontane-36,37,38,39,40,41,42,43,44,45,46,47,48,49-tetradecol	"AAADcfB8PgAAAAAAAAAAAAAAAAAAAAAAAAAkSJEiQAAAAAAAAAAAGgAACAAACBSwgAMACAAABgAA
+AAAAAAAAAAAAAAAAAAAAAAAREAIAAAAiQAAFAAAHAAHAYAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AA=="	6-O-alpha-Maltosyl-beta-cyclodextrin
+0	24759	CC(=O)NC1C(C(C(OC1O)CO)O)OC2C(C(C(C(O2)C(=O)O)OC3C(C(C(C(O3)CO)O)OC4C(C(C(C(O4)C(=O)O)O)O)O)NC(=O)C)O)O	(2S,3S,4S,5R,6R)-6-[(2S,3R,5S,6R)-3-acetamido-2-[(2S,3S,4R,5R,6R)-6-[(2R,3R,5S,6R)-3-acetamido-2,5-dihydroxy-6-(hydroxymethyl)oxan-4-yl]oxy-2-carboxy-4,5-dihydroxyoxan-3-yl]oxy-5-hydroxy-6-(hydroxymethyl)oxan-4-yl]oxy-3,4,5-trihydroxyoxane-2-carboxylic acid	"AAADcfB7PgAAAAAAAAAAAAAAAAAAAAAAAAAkSJEgAAAAAAAAAAAAHgAQCAAACDzxgAcCCALABgAI
+AAGQGAIAAAAAAAAAAIFIAAATEBYAgAQnQAAHNgCXAAH6fA9AAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AA=="	Hyaluronan
+1	453618	CC(=O)NC1C(C(C(OC1O)CO)O)OC2C(C(C(C(O2)C(=O)O)OC3C(C(C(C(O3)CO)O)OC4C(C(C(C(O4)C(=O)O)O)O)O)NC(=O)C)O)O	6-[3-acetamido-2-[6-[3-acetamido-2,5-dihydroxy-6-(hydroxymethyl)oxan-4-yl]oxy-2-carboxy-4,5-dihydroxyoxan-3-yl]oxy-5-hydroxy-6-(hydroxymethyl)oxan-4-yl]oxy-3,4,5-trihydroxyoxane-2-carboxylic acid	"AAADcfB7PgAAAAAAAAAAAAAAAAAAAAAAAAAkSJEgAAAAAAAAAAAAHgAQCAAACDzxgAcCCALABgAI
+AAGQGAIAAAAAAAAAAIFIAAATEBYAgAQnQAAHNgCXAAH6fA9AAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AA=="	CID 453618
+0	70678540	CC(=O)NC1C(C(C(OC1O)CO)OS(=O)(=O)O)OC2C(C(C(C(O2)C(=O)O)O)O)O	(2S,3S,4S,5R,6R)-6-[(2R,3R,4R,5R,6R)-3-acetamido-2-hydroxy-6-(hydroxymethyl)-5-sulfooxyoxan-4-yl]oxy-3,4,5-trihydroxyoxane-2-carboxylic acid	"AAADceByPABAAAAAAAAAAAAAAAAAAAAAAAAkSAAAAAAAAAAAAAAAHgAQCAAACDzxgAcCCALABoAI
+AAGQGDIAAAAAAAAAAIFIAAATEBYAgAQnQAAHNgCXAAH6fA9AAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AA=="	Chondroitin A sulfate
+0	32756	CC(=O)NC1C(C(C(OC1O)CO)OS(=O)(=O)[O-])OC2C(C(C(C(O2)C(=O)[O-])O)O)O	(2R,3S,4S,5R,6R)-6-[(2R,3R,4R,5R,6R)-3-acetamido-2-hydroxy-6-(hydroxymethyl)-5-sulfonatooxyoxan-4-yl]oxy-3,4,5-trihydroxyoxane-2-carboxylate	"AAADceByPABAAAAAAAAAAAAAAAAAAAAAAAAkSAAAAAAAAAAAAAAAHgAQCAAACDzxgAcCCALABgAI
+AAGQGDIAAAAAAAAAAIFIAAATEBYAgAQnQAAHNgCXAAH6fA9AAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AA=="	Dermatan, 4-(hydrogen sulfate)
+1	3032806	CC(=O)NC1C(C(C(OC1O)CO)OS(=O)(=O)O)OC2C(C(C(C(O2)C(=O)O)O)O)O	(2R,3S,4S,5R,6R)-6-[(2R,3R,4R,5R,6R)-3-acetamido-2-hydroxy-6-(hydroxymethyl)-5-sulfooxyoxan-4-yl]oxy-3,4,5-trihydroxyoxane-2-carboxylic acid	"AAADceByPABAAAAAAAAAAAAAAAAAAAAAAAAkSAAAAAAAAAAAAAAAHgAQCAAACDzxgAcCCALABoAI
+AAGQGDIAAAAAAAAAAIFIAAATEBYAgAQnQAAHNgCXAAH6fA9AAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AA=="	Dermatan sulfate
+0	24766	CC(=O)NC1C(C(C(OC1O)OS(=O)(=O)O)O)OC2C(C(C(C(O2)C(=O)O)O)O)O	(2S,3S,4S,5R,6R)-6-[(2R,3R,4R,5R,6R)-3-acetamido-2,5-dihydroxy-6-sulfooxyoxan-4-yl]oxy-3,4,5-trihydroxyoxane-2-carboxylic acid	"AAADceByPABAAAAAAAAAAAAAAAAAAAAAAAAkSAAAAAAAAAAAAAAAHgAQCAAACDzxgAcCCALABoAI
+AAGQGDIAAAAAAAAAAIFIAAATEBYAgAQnQAAHNgCXAAHqbAxAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AA=="	Chondroitin sulfate
+1	21873177	CC(=O)NC1C(C(C(OC1O)OS(=O)(=O)O)O)OC2C(C(C(C(O2)C(=O)O)O)O)O	6-(3-acetamido-2,5-dihydroxy-6-sulfooxyoxan-4-yl)oxy-3,4,5-trihydroxyoxane-2-carboxylic acid	"AAADceByPABAAAAAAAAAAAAAAAAAAAAAAAAkSAAAAAAAAAAAAAAAHgAQCAAACDzxgAcCCALABoAI
+AAGQGDIAAAAAAAAAAIFIAAATEBYAgAQnQAAHNgCXAAHqbAxAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AA=="	Chondroitin 4-sulfate
+0	24766	CC(=O)NC1C(C(C(OC1O)OS(=O)(=O)O)O)OC2C(C(C(C(O2)C(=O)O)O)O)O	(2S,3S,4S,5R,6R)-6-[(2R,3R,4R,5R,6R)-3-acetamido-2,5-dihydroxy-6-sulfooxyoxan-4-yl]oxy-3,4,5-trihydroxyoxane-2-carboxylic acid	"AAADceByPABAAAAAAAAAAAAAAAAAAAAAAAAkSAAAAAAAAAAAAAAAHgAQCAAACDzxgAcCCALABoAI
+AAGQGDIAAAAAAAAAAIFIAAATEBYAgAQnQAAHNgCXAAHqbAxAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AA=="	Chondroitin sulfate
+1	21873177	CC(=O)NC1C(C(C(OC1O)OS(=O)(=O)O)O)OC2C(C(C(C(O2)C(=O)O)O)O)O	6-(3-acetamido-2,5-dihydroxy-6-sulfooxyoxan-4-yl)oxy-3,4,5-trihydroxyoxane-2-carboxylic acid	"AAADceByPABAAAAAAAAAAAAAAAAAAAAAAAAkSAAAAAAAAAAAAAAAHgAQCAAACDzxgAcCCALABoAI
+AAGQGDIAAAAAAAAAAIFIAAATEBYAgAQnQAAHNgCXAAHqbAxAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AA=="	Chondroitin 4-sulfate
+0	101656439	C1C(C(C(C(O1)OC2COC(C(C2O)O)OC3COC(C(C3O)O)OC4COC(C(C4O)O)OC(CO)C(C(C=O)O)O)O)O)O	(2R,3R,4R)-4-[(2S,3R,4R,5R)-5-[(2S,3R,4R,5R)-5-[(2S,3R,4R,5R)-3,4-dihydroxy-5-[(2S,3R,4S,5R)-3,4,5-trihydroxyoxan-2-yl]oxyoxan-2-yl]oxy-3,4-dihydroxyoxan-2-yl]oxy-3,4-dihydroxyoxan-2-yl]oxy-2,3,5-trihydroxypentanal	"AAADcfB4PgAAAAAAAAAAAAAAAAAAAAAAAAAkSJEgAAAAAAAAAAAAGgAACAAACBSwgAMACAAABgAI
+AAgQgAIAAAAAAAAAAAFAAAAREBYAAAAiQAAFIAAHAADKJAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AA=="	Xylopentaose
+0	91873341	C1C(C(C(C(O1)OC2COC(C(C2O)O)OC3COC(C(C3O)O)O)O)O)O	(3R,4S,5R)-2-[(4S,5S,6R)-4,5-dihydroxy-6-[(3R,4R,5R)-4,5,6-trihydroxyoxan-3-yl]oxyoxan-3-yl]oxyoxane-3,4,5-triol	"AAADceBwPAAAAAAAAAAAAAAAAAAAAAAAAAAkSJAAAAAAAAAAAAAAGgAACAAACBSwgAMACAAABgAA
+AAAAAAAAAAAAAAAAAAAAAAAREAIAAAAiQAAFAAAHAADAIAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AA=="	CID 91873341
+1	10201852	C1C(C(C(C(O1)OC2COC(C(C2O)O)OC3COC(C(C3O)O)O)O)O)O	(2S,3R,4S,5R)-2-[(3R,4R,5R,6S)-4,5-dihydroxy-6-[(3R,4R,5R)-4,5,6-trihydroxyoxan-3-yl]oxyoxan-3-yl]oxyoxane-3,4,5-triol	"AAADceBwPAAAAAAAAAAAAAAAAAAAAAAAAAAkSJAAAAAAAAAAAAAAGgAACAAACBSwgAMACAAABgAA
+AAAAAAAAAAAAAAAAAAAAAAAREAIAAAAiQAAFAAAHAADAIAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AA=="	Xylotriose
+2	12444993	C1C(C(C(C(O1)OC2COC(C(C2O)O)OC3COC(C(C3O)O)O)O)O)O	2-[4,5-dihydroxy-6-(4,5,6-trihydroxyoxan-3-yl)oxyoxan-3-yl]oxyoxane-3,4,5-triol	"AAADceBwPAAAAAAAAAAAAAAAAAAAAAAAAAAkSJAAAAAAAAAAAAAAGgAACAAACBSwgAMACAAABgAA
+AAAAAAAAAAAAAAAAAAAAAAAREAIAAAAiQAAFAAAHAADAIAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AA=="	2-[4,5-Dihydroxy-6-(4,5,6-trihydroxyoxan-3-yl)oxyoxan-3-yl]oxyoxane-3,4,5-triol
+0	439538	C1C(C(C(C(O1)OC2COC(C(C2O)O)O)O)O)O	(2S,3R,4S,5R)-2-[(3R,4R,5R)-4,5,6-trihydroxyoxan-3-yl]oxyoxane-3,4,5-triol	"AAADceBwPAAAAAAAAAAAAAAAAAAAAAAAAAAkSAAAAAAAAAAAAAAAGgAACAAACBSwgAMACAAABgAA
+AAAAAAAAAAAAAAAAAAAAAAAREAIAAAAiQAAFAAAHAADAIAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AA=="	Xylobiose
+1	552964	C1C(C(C(C(O1)OC2COC(C(C2O)O)O)O)O)O	2-(4,5,6-trihydroxyoxan-3-yl)oxyoxane-3,4,5-triol	"AAADceBwPAAAAAAAAAAAAAAAAAAAAAAAAAAkSAAAAAAAAAAAAAAAGgAACAAACBSwgAMACAAABgAA
+AAAAAAAAAAAAAAAAAAAAAAAREAIAAAAiQAAFAAAHAADAIAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AA=="	1,4-beta-D-Xylobiose;1,4-D-Xylobiose
+2	5289595	C1C(C(C(C(O1)OC2COC(C(C2O)O)O)O)O)O	(2S,3R,4S,5R)-2-[(3R,4R,5R,6R)-4,5,6-trihydroxyoxan-3-yl]oxyoxane-3,4,5-triol	"AAADceBwPAAAAAAAAAAAAAAAAAAAAAAAAAAkSAAAAAAAAAAAAAAAGgAACAAACBSwgAMACAAABgAA
+AAAAAAAAAAAAAAAAAAAAAAAREAIAAAAiQAAFAAAHAADAIAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AA=="	4-O-Beta-D-Xylopyranosyl-Beta-D-Xylopyranose
+3	5289596	C1C(C(C(C(O1)OC2COC(C(C2O)O)O)O)O)O	(2S,3R,4S,5R)-2-[(3R,4R,5R,6S)-4,5,6-trihydroxyoxan-3-yl]oxyoxane-3,4,5-triol	"AAADceBwPAAAAAAAAAAAAAAAAAAAAAAAAAAkSAAAAAAAAAAAAAAAGgAACAAACBSwgAMACAAABgAA
+AAAAAAAAAAAAAAAAAAAAAAAREAIAAAAiQAAFAAAHAADAIAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AA=="	(2S,3R,4S,5R)-2-[(3R,4R,5R,6S)-4,5,6-trihydroxyoxan-3-yl]oxyoxane-3,4,5-triol
+4	70702335	C1C(C(C(C(O1)OC2COC(C(C2O)O)O)O)O)O	(2S,3S,5R)-2-[(3R,5S,6R)-4,5,6-trihydroxyoxan-3-yl]oxyoxane-3,4,5-triol	"AAADceBwPAAAAAAAAAAAAAAAAAAAAAAAAAAkSAAAAAAAAAAAAAAAGgAACAAACBSwgAMACAAABgAA
+AAAAAAAAAAAAAAAAAAAAAAAREAIAAAAiQAAFAAAHAADAIAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AA=="	(2S,3S,5R)-2-[(3R,5S,6R)-4,5,6-trihydroxyoxan-3-yl]oxyoxane-3,4,5-triol
+5	131750922	C1C(C(C(C(O1)OC2COC(C(C2O)O)O)O)O)O	(2S,3R,4S,5R)-2-[(3S,4R,5R)-4,5,6-trihydroxyoxan-3-yl]oxyoxane-3,4,5-triol	"AAADceBwPAAAAAAAAAAAAAAAAAAAAAAAAAAkSAAAAAAAAAAAAAAAGgAACAAACBSwgAMACAAABgAA
+AAAAAAAAAAAAAAAAAAAAAAAREAIAAAAiQAAFAAAHAADAIAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AA=="	4-O-beta-D-Xylopyranosyl-D-xylose
+0	10230811	C1C(C(C(C(O1)OC2COC(C(C2O)O)OC3COC(C(C3O)O)OC4COC(C(C4O)O)O)O)O)O	(2S,3R,4S,5R)-2-[(3R,4R,5R,6S)-6-[(3R,4R,5R,6S)-4,5-dihydroxy-6-[(3R,4R,5R)-4,5,6-trihydroxyoxan-3-yl]oxyoxan-3-yl]oxy-4,5-dihydroxyoxan-3-yl]oxyoxane-3,4,5-triol	"AAADcfB4PgAAAAAAAAAAAAAAAAAAAAAAAAAkSJEgAAAAAAAAAAAAGgAACAAACBSwgAMACAAABgAA
+AAAAAAAAAAAAAAAAAAAAAAAREAIAAAAiQAAFAAAHAADAIAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AA=="	Xylotetraose
+0	101656440	C1C(C(C(C(O1)OC2COC(C(C2O)O)OC3COC(C(C3O)O)OC4COC(C(C4O)O)OC5COC(C(C5O)O)OC(CO)C(C(C=O)O)O)O)O)O	(2R,3R,4R)-4-[(2S,3R,4R,5R)-5-[(2S,3R,4R,5R)-5-[(2S,3R,4R,5R)-5-[(2S,3R,4R,5R)-3,4-dihydroxy-5-[(2S,3R,4S,5R)-3,4,5-trihydroxyoxan-2-yl]oxyoxan-2-yl]oxy-3,4-dihydroxyoxan-2-yl]oxy-3,4-dihydroxyoxan-2-yl]oxy-3,4-dihydroxyoxan-2-yl]oxy-2,3,5-trihydroxypentanal	"AAADcfB4PgAAAAAAAAAAAAAAAAAAAAAAAAAkSJEiQAAAAAAAAAAAGgAACAAACBSwgAMACAAABgAI
+AAgQgAIAAAAAAAAAAAFAAAAREBYAAAAiQAAFIAAHAADKJAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AA=="	(2R,3R,4R)-4-[(2S,3R,4R,5R)-5-[(2S,3R,4R,5R)-5-[(2S,3R,4R,5R)-5-[(2S,3R,4R,5R)-3,4-dihydroxy-5-[(2S,3R,4S,5R)-3,4,5-trihydroxyoxan-2-yl]oxyoxan-2-yl]oxy-3,4-dihydroxyoxan-2-yl]oxy-3,4-dihydroxyoxan-2-yl]oxy-3,4-dihydroxyoxan-2-yl]oxy-2,3,5-trihydroxypentanal
+0	66660784	C1=CC(=CC=C1[N+](=O)[O-])OC2C(C(C(O2)CO)O)O	(2R,3S,4S,5S)-2-(hydroxymethyl)-5-(4-nitrophenoxy)oxolane-3,4-diol	"AAADccByOAAAAAAAAAAAAAAAAAAAASAAAAAwAAAAAAAAAAABAAAAHgAECAAACByxkAMwzoAQRgCB
+ACRCQwCCCAAgIgAoiAAGbIodNiKEsZuieCDlwBEP6AfwYAgAAEAAAAAAAAAAgAAAAAAAAAAAAAAA
+AA=="	p-Nitrophenyl beta-d-arabinofuranoside
+0	101207194	C1C(C(C(C(O1)OC2=CC(=C(C=C2)[N+](=O)[O-])[N+](=O)[O-])O)O)O	(2S,3R,4S,5R)-2-(3,4-dinitrophenoxy)oxane-3,4,5-triol	"AAADccBzPAAAAAAAAAAAAAAAAAAAAAAAAAA0QAAAAAAAAAABAAAAHgAECAAACByxkAMwzoAQRgCB
+ACRCQwCCCAAgIgAoiAAGfIoddiKEsZuieCDnwJkP6AfwcAkAAEAAAgAAACAAgAAEAAAAQAAAAAAA
+AA=="	3,4-Dinitrophenyl beta-D-xylopyranoside
+0	101207195	C1C(C(C(C(O1)OC2=C(C=CC(=C2)[N+](=O)[O-])[N+](=O)[O-])O)O)O	(2S,3R,4S,5R)-2-(2,5-dinitrophenoxy)oxane-3,4,5-triol	"AAADccBzPAAAAAAAAAAAAAAAAAAAAAAAAAA0QAAAAAAAAAABAAAAHgAECAAACByxkAMwzoAQRgCB
+ACRCQwCCCAAgIgAoiAAHbIofNiKEsZujeCDnwFkP6AfQcAkAAACAAgAAEAAAAQAEAAAgAAAAAAAA
+AA=="	2,5-Dinitrophenyl beta-D-xylopyranoside
+0	3945662	CC1=CC(=O)OC2=C1C=CC(=C2)OC3C(C(C(O3)CO)O)O	7-[3,4-dihydroxy-5-(hydroxymethyl)oxolan-2-yl]oxy-4-methylchromen-2-one	"AAADceBwOAAAAAAAAAAAAAAAAAAAASAAAAAwQAAAAAAAAACBAAAAGgAACAAADBSwmAMyDoAABgCI
+AiDSCAACCAAgIAAIiAAGCMgdNyKEMRqieiClwBUPqQfA4KwOIAAACAAIAABAAAAQABAAAAAAAAAA
+AA=="	4-Methylumbelliferylalpha-L-arabinofuranoside
+1	14161014	CC1=CC(=O)OC2=C1C=CC(=C2)OC3C(C(C(O3)CO)O)O	7-[(2S,3R,4R,5S)-3,4-dihydroxy-5-(hydroxymethyl)oxolan-2-yl]oxy-4-methylchromen-2-one	"AAADceBwOAAAAAAAAAAAAAAAAAAAASAAAAAwQAAAAAAAAACBAAAAGgAACAAADBSwmAMyDoAABgCI
+AiDSCAACCAAgIAAIiAAGCMgdNyKEMRqieiClwBUPqQfA4KwOIAAACAAIAABAAAAQABAAAAAAAAAA
+AA=="	4-Methylumbelliferyl alpha-L-arabinofuranoside
+2	24802318	CC1=CC(=O)OC2=C1C=CC(=C2)OC3C(C(C(O3)CO)O)O	7-[(2S,4S,5S)-3,4-dihydroxy-5-(hydroxymethyl)oxolan-2-yl]oxy-4-methylchromen-2-one	"AAADceBwOAAAAAAAAAAAAAAAAAAAASAAAAAwQAAAAAAAAACBAAAAGgAACAAADBSwmAMyDoAABgCI
+AiDSCAACCAAgIAAIiAAGCMgdNyKEMRqieiClwBUPqQfA4KwOIAAACAAIAABAAAAQABAAAAAAAAAA
+AA=="	4-Methylumbelliferyl-alpha-l-arabinofuranoside
+0	100941542	CC(=CCCC(C)(C1CCC2(C1C(CC3C2(CCC4C3(CCC(C4(C)C)OC5C(C(C(C(O5)CO)O)O)OC6C(C(C(C(O6)CO)O)O)O)C)C)O)C)OC7C(C(C(C(O7)COC8C(C(C(CO8)OC9C(C(C(CO9)O)O)O)O)O)O)O)O)C	(2S,3R,4S,5S,6R)-2-[(2R,3R,4S,5S,6R)-2-[[(3S,5R,8R,9R,10R,12R,13R,14R,17S)-17-[(2S)-2-[(2S,3R,4S,5S,6R)-6-[[(2S,3R,4R,5S)-3,4-dihydroxy-5-[(2S,3R,4S,5R)-3,4,5-trihydroxyoxan-2-yl]oxyoxan-2-yl]oxymethyl]-3,4,5-trihydroxyoxan-2-yl]oxy-6-methylhept-5-en-2-yl]-12-hydroxy-4,4,8,10,14-pentamethyl-2,3,5,6,7,9,11,12,13,15,16,17-dodecahydro-1H-cyclopenta[a]phenanthren-3-yl]oxy]-4,5-dihydroxy-6-(hydroxymethyl)oxan-3-yl]oxy-6-(hydroxymethyl)oxane-3,4,5-triol	"AAADcfB8PgAAAAAAAAAAAAAAAAAAAYAAAAA0aNEiQAAAAGDAAAAAGgAACAAAD1SwgAMCCAAABgCA
+AiBCAAAAAAAgAAAACAAAAAgREAIAAQAiQAAFgAAPAAPA4PwPgAAAAAAAAADAAAYAADAAAQAACAAA
+AA=="	Ginsenoside Ra1
+0	100941543	CC(=CCCC(C)(C1CCC2(C1C(CC3C2(CCC4C3(CCC(C4(C)C)OC5C(C(C(C(O5)CO)O)O)OC6C(C(C(C(O6)CO)O)O)O)C)C)O)C)OC7C(C(C(C(O7)COC8C(C(C(O8)CO)O)OC9C(C(C(CO9)O)O)O)O)O)O)C	(2S,3R,4S,5S,6R)-2-[(2R,3R,4S,5S,6R)-4,5-dihydroxy-6-(hydroxymethyl)-2-[[(3S,5R,8R,9R,10R,12R,13R,14R,17S)-12-hydroxy-4,4,8,10,14-pentamethyl-17-[(2S)-6-methyl-2-[(2S,3R,4S,5S,6R)-3,4,5-trihydroxy-6-[[(2R,3R,4S,5S)-4-hydroxy-5-(hydroxymethyl)-3-[(2S,3R,4S,5R)-3,4,5-trihydroxyoxan-2-yl]oxyoxolan-2-yl]oxymethyl]oxan-2-yl]oxyhept-5-en-2-yl]-2,3,5,6,7,9,11,12,13,15,16,17-dodecahydro-1H-cyclopenta[a]phenanthren-3-yl]oxy]oxan-3-yl]oxy-6-(hydroxymethyl)oxane-3,4,5-triol	"AAADcfB8PgAAAAAAAAAAAAAAAAAAAaIAAAA0aNEiAAAAAGDAAAAAGgAACAAAD1SwgAMCCAAABgCA
+AiBCAAAAAAAgAAAACAAAAAgREAIAAQAiQAAFgAAPAAPA4PwPgAAAAAAAAADAAAYAADAAAQAACAAA
+AA=="	Ginsenoside Ra2
+0	5490351	COC1=CC=C(C=C1)C2=COC3=CC(=C(C(=C3C2=O)O)OC)OC4C(C(C(C(O4)COC5C(C(C(CO5)O)O)O)O)O)O	5-hydroxy-6-methoxy-3-(4-methoxyphenyl)-7-[(2S,3R,4S,5S,6R)-3,4,5-trihydroxy-6-[[(2S,3R,4S,5R)-3,4,5-trihydroxyoxan-2-yl]oxymethyl]oxan-2-yl]oxychromen-4-one	"AAADcfB4PAAAAAAAAAAAAAAAAAAAAAAAAAA0aIECAAAAAACBQAAAGgAACAAADBSwmAMyDoAABgCI
+AqBSAAACCAAkIAAIiAEGiMgdNzaGNRqieWOl4BUPuYfK7PzOIQABCAAIQABCAAIQABCAAAAAAAAA
+AA=="	Kakkalide
+1	14037245	COC1=CC=C(C=C1)C2=COC3=CC(=C(C(=C3C2=O)O)OC)OC4C(C(C(C(O4)COC5C(C(C(CO5)O)O)O)O)O)O	5-hydroxy-6-methoxy-3-(4-methoxyphenyl)-7-[3,4,5-trihydroxy-6-[(3,4,5-trihydroxyoxan-2-yl)oxymethyl]oxan-2-yl]oxychromen-4-one	"AAADcfB4PAAAAAAAAAAAAAAAAAAAAAAAAAA0aIECAAAAAACBQAAAGgAACAAADBSwmAMyDoAABgCI
+AqBSAAACCAAkIAAIiAEGiMgdNzaGNRqieWOl4BUPuYfK7PzOIQABCAAIQABCAAIQABCAAAAAAAAA
+AA=="	5-Hydroxy-6-methoxy-3-(4-methoxyphenyl)-7-[3,4,5-trihydroxy-6-[(3,4,5-trihydroxyoxan-2-yl)oxymethyl]oxan-2-yl]oxychromen-4-one
+2	44452420	COC1=CC=C(C=C1)C2=COC3=CC(=C(C(=C3C2=O)O)OC)OC4C(C(C(C(O4)COC5C(C(C(CO5)O)O)O)O)O)O	5-hydroxy-6-methoxy-3-(4-methoxyphenyl)-7-[(2S,3R,4S,5S,6R)-3,4,5-trihydroxy-6-[[(3R,4S,5R)-3,4,5-trihydroxyoxan-2-yl]oxymethyl]oxan-2-yl]oxychromen-4-one	"AAADcfB4PAAAAAAAAAAAAAAAAAAAAAAAAAA0aIECAAAAAACBQAAAGgAACAAADBSwmAMyDoAABgCI
+AqBSAAACCAAkIAAIiAEGiMgdNzaGNRqieWOl4BUPuYfK7PzOIQABCAAIQABCAAIQABCAAAAAAAAA
+AA=="	5-hydroxy-6-methoxy-3-(4-methoxyphenyl)-7-[(2S,3R,4S,5S,6R)-3,4,5-trihydroxy-6-[[(3R,4S,5R)-3,4,5-trihydroxyoxan-2-yl]oxymethyl]oxan-2-yl]oxychromen-4-one
+0	6912	C(C(C(C(CO)O)O)O)O	(2S,4R)-pentane-1,2,3,4,5-pentol	"AAADccBgOAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGgAACAAACBSggAIAAAAAAgAA
+AAAAAAAAAAAAAAAAAAAAAAABEAIAAAAAQAAFAAABAADAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AA=="	Xylitol
+0	439262	C(C1C(C(C(C(O1)OC2C(OC(C(C2O)O)OC3C(OC(C(C3O)O)O)CO)CO)O)O)O)O	(2S,3R,4S,5S,6R)-2-[(2R,4R,5R,6S)-4,5-dihydroxy-2-(hydroxymethyl)-6-[(2R,4R,5R,6S)-4,5,6-trihydroxy-2-(hydroxymethyl)oxan-3-yl]oxyoxan-3-yl]oxy-6-(hydroxymethyl)oxane-3,4,5-triol	"AAADcfB4PgAAAAAAAAAAAAAAAAAAAAAAAAAkSJAAAAAAAAAAAAAAGgAACAAACBSwgAMACAAABgAA
+AAAAAAAAAAAAAAAAAAAAAAAREAIAAAAiQAAFAAAHAAHAYAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AA=="	beta-Glucan
+0	37723	C(C1C(C(C(C(O1)OCC2C(C(C(C(O2)O)O)OC3C(C(C(C(O3)CO)O)OC4C(C(C(C(O4)CO)O)OC5C(C(C(C(O5)COC6C(C(C(C(O6)CO)O)O)O)O)OC7C(C(C(C(O7)CO)O)O)O)O)O)O)O)O)O)O)O	(2R,3R,4S,5S,6R)-2-[[(2R,3R,4S,5R,6R)-4-[(2S,3R,4S,5R,6R)-4-[(2S,3R,4S,5R,6R)-4-[(2S,3R,4S,5R,6R)-3,5-dihydroxy-4-[(2R,3R,4S,5S,6R)-3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl]oxy-6-[[(2R,3R,4S,5S,6R)-3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl]oxymethyl]oxan-2-yl]oxy-3,5-dihydroxy-6-(hydroxymethyl)oxan-2-yl]oxy-3,5-dihydroxy-6-(hydroxymethyl)oxan-2-yl]oxy-3,5,6-trihydroxyoxan-2-yl]methoxy]-6-(hydroxymethyl)oxane-3,4,5-triol	"AAADcfB8PgAAAAAAAAAAAAAAAAAAAAAAAAAkSJEiQAAAAAAAAAAAGgAACAAACBSwgAMACAAABgAA
+AAAAAAAAAAAAAAAAAAAAAAAREAIAAAAiQAAFAAAHAAHAYAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AA=="	Lentinan
+1	21868678	C(C1C(C(C(C(O1)OCC2C(C(C(C(O2)O)O)OC3C(C(C(C(O3)CO)O)OC4C(C(C(C(O4)CO)O)OC5C(C(C(C(O5)COC6C(C(C(C(O6)CO)O)O)O)O)OC7C(C(C(C(O7)CO)O)O)O)O)O)O)O)O)O)O)O	2-[[4-[4-[4-[3,5-dihydroxy-4-[3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl]oxy-6-[[3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl]oxymethyl]oxan-2-yl]oxy-3,5-dihydroxy-6-(hydroxymethyl)oxan-2-yl]oxy-3,5-dihydroxy-6-(hydroxymethyl)oxan-2-yl]oxy-3,5,6-trihydroxyoxan-2-yl]methoxy]-6-(hydroxymethyl)oxane-3,4,5-triol	"AAADcfB8PgAAAAAAAAAAAAAAAAAAAAAAAAAkSJEiQAAAAAAAAAAAGgAACAAACBSwgAMACAAABgAA
+AAAAAAAAAAAAAAAAAAAAAAAREAIAAAAiQAAFAAAHAAHAYAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AA=="	Hex(?1-3)[Hex(?1-6)]Hex(?1-3)Hex(?1-3)Hex(?1-3)[Hex(?1-6)]Hex
+0	64689	C(C1C(C(C(C(O1)O)O)O)O)O	(2R,3R,4S,5S,6R)-6-(hydroxymethyl)oxane-2,3,4,5-tetrol	"AAADccBgOAAAAAAAAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAAAGgAACAAACBSwgAMACAAABgAA
+AAAAAAAAAAAAAAAAAAAAAAAREAIAAAACQAAFAAAHAAHAYAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AA=="	beta-D-Glucose
+0	871	C(C1C(C(C(C(O1)OC2C(OC(C(C2O)O)OC3C(OC(C(C3O)O)O)CO)CO)O)O)O)O	2-[4,5-dihydroxy-2-(hydroxymethyl)-6-[4,5,6-trihydroxy-2-(hydroxymethyl)oxan-3-yl]oxyoxan-3-yl]oxy-6-(hydroxymethyl)oxane-3,4,5-triol	"AAADcfB4PgAAAAAAAAAAAAAAAAAAAAAAAAAkSJAAAAAAAAAAAAAAGgAACAAACBSwgAMACAAABgAA
+AAAAAAAAAAAAAAAAAAAAAAAREAIAAAAiQAAFAAAHAAHAYAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AA=="	Globotriose
+1	439262	C(C1C(C(C(C(O1)OC2C(OC(C(C2O)O)OC3C(OC(C(C3O)O)O)CO)CO)O)O)O)O	(2S,3R,4S,5S,6R)-2-[(2R,4R,5R,6S)-4,5-dihydroxy-2-(hydroxymethyl)-6-[(2R,4R,5R,6S)-4,5,6-trihydroxy-2-(hydroxymethyl)oxan-3-yl]oxyoxan-3-yl]oxy-6-(hydroxymethyl)oxane-3,4,5-triol	"AAADcfB4PgAAAAAAAAAAAAAAAAAAAAAAAAAkSJAAAAAAAAAAAAAAGgAACAAACBSwgAMACAAABgAA
+AAAAAAAAAAAAAAAAAAAAAAAREAIAAAAiQAAFAAAHAAHAYAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AA=="	beta-Glucan
+2	46173706	C(C1C(C(C(C(O1)OC2C(OC(C(C2O)O)OC3C(OC(C(C3O)O)O)CO)CO)O)O)O)O	(2S,3R,4S,5S,6R)-2-[(2R,4R,5R,6S)-4,5-dihydroxy-2-(hydroxymethyl)-6-[(2R,3S,4R,5R,6S)-4,5,6-trihydroxy-2-(hydroxymethyl)oxan-3-yl]oxyoxan-3-yl]oxy-6-(hydroxymethyl)oxane-3,4,5-triol	"AAADcfB4PgAAAAAAAAAAAAAAAAAAAAAAAAAkSJAAAAAAAAAAAAAAGgAACAAACBSwgAMACAAABgAA
+AAAAAAAAAAAAAAAAAAAAAAAREAIAAAAiQAAFAAAHAAHAYAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AA=="	beta-D-Glucan
+0	74539953	C(C1C(C(C(C(O1)O)O)OC2C(C(C(C(O2)CO)O)OC3C(C(C(C(O3)CO)O)OC4C(C(C(C(O4)CO)O)OC5C(C(C(C(O5)CO)O)O)O)O)O)O)O)O	(3R,4S,5R,6R)-4-[(2S,3R,4S,5R,6R)-4-[(2S,3R,4S,5R,6R)-4-[(2S,3R,4S,5R,6R)-3,5-dihydroxy-6-(hydroxymethyl)-4-[(2S,3R,4S,5S,6R)-3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl]oxyoxan-2-yl]oxy-3,5-dihydroxy-6-(hydroxymethyl)oxan-2-yl]oxy-3,5-dihydroxy-6-(hydroxymethyl)oxan-2-yl]oxy-6-(hydroxymethyl)oxane-2,3,5-triol	"AAADcfB4PgAAAAAAAAAAAAAAAAAAAAAAAAAkSJEiQAAAAAAAAAAAGgAACAAACBSwgAMACAAABgAA
+AAAAAAAAAAAAAAAAAAAAAAAREAIAAAAiQAAFAAAHAAHAYAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AA=="	Laminaripentaose
+0	74539954	C(C1C(C(C(C(O1)O)O)OC2C(C(C(C(O2)CO)O)OC3C(C(C(C(O3)CO)O)OC4C(C(C(C(O4)CO)O)OC5C(C(C(C(O5)CO)O)OC6C(C(C(C(O6)CO)O)O)O)O)O)O)O)O)O	(3R,4S,5R,6R)-4-[(2S,3R,4S,5R,6R)-4-[(2S,3R,4S,5R,6R)-4-[(2S,3R,4S,5R,6R)-4-[(2S,3R,4S,5R,6R)-3,5-dihydroxy-6-(hydroxymethyl)-4-[(2S,3R,4S,5S,6R)-3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl]oxyoxan-2-yl]oxy-3,5-dihydroxy-6-(hydroxymethyl)oxan-2-yl]oxy-3,5-dihydroxy-6-(hydroxymethyl)oxan-2-yl]oxy-3,5-dihydroxy-6-(hydroxymethyl)oxan-2-yl]oxy-6-(hydroxymethyl)oxane-2,3,5-triol	"AAADcfB8PgAAAAAAAAAAAAAAAAAAAAAAAAAkSJEiQAAAAAAAAAAAGgAACAAACBSwgAMACAAABgAA
+AAAAAAAAAAAAAAAAAAAAAAAREAIAAAAiQAAFAAAHAAHAYAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AA=="	Laminarihexaose
+1	100920606	C(C1C(C(C(C(O1)[O-])O)OC2C(C(C(C(O2)CO)O)OC3C(C(C(C(O3)CO)O)OC4C(C(C(C(O4)CO)O)OC5C(C(C(C(O5)CO)O)OC6C(C(C(C(O6)CO)O)O)O)O)O)O)O)O)O	(2R,3R,4S,5R,6R)-4-[(2S,3R,4S,5R,6R)-4-[(2S,3R,4S,5R,6R)-4-[(2S,3R,4S,5R,6R)-4-[(2S,3R,4S,5R,6R)-3,5-dihydroxy-6-(hydroxymethyl)-4-[(2S,3R,4S,5S,6R)-3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl]oxyoxan-2-yl]oxy-3,5-dihydroxy-6-(hydroxymethyl)oxan-2-yl]oxy-3,5-dihydroxy-6-(hydroxymethyl)oxan-2-yl]oxy-3,5-dihydroxy-6-(hydroxymethyl)oxan-2-yl]oxy-3,5-dihydroxy-6-(hydroxymethyl)oxan-2-olate	"AAADcfB8PgAAAAAAAAAAAAAAAAAAAAAAAAAkSJEiQAAAAAAAAAAAGgAACAAACBSwgAMACAAABgAA
+AAAAAAAAAAAAAAAAAAAAAAAREAIAAAAiQAAFAAAHAAHAYAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AA=="	(2R,3R,4S,5R,6R)-4-[(2S,3R,4S,5R,6R)-4-[(2S,3R,4S,5R,6R)-4-[(2S,3R,4S,5R,6R)-4-[(2S,3R,4S,5R,6R)-3,5-dihydroxy-6-(hydroxymethyl)-4-[(2S,3R,4S,5S,6R)-3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl]oxyoxan-2-yl]oxy-3,5-dihydroxy-6-(hydroxymethyl)oxan-2-yl]oxy-3,5-dihydroxy-6-(hydroxymethyl)oxan-2-yl]oxy-3,5-dihydroxy-6-(hydroxymethyl)oxan-2-yl]oxy-3,5-dihydroxy-6-(hydroxymethyl)oxan-2-olate
+0	64689	C(C1C(C(C(C(O1)O)O)O)O)O	(2R,3R,4S,5S,6R)-6-(hydroxymethyl)oxane-2,3,4,5-tetrol	"AAADccBgOAAAAAAAAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAAAGgAACAAACBSwgAMACAAABgAA
+AAAAAAAAAAAAAAAAAAAAAAAREAIAAAACQAAFAAAHAAHAYAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AA=="	beta-D-Glucose
+0	64689	C(C1C(C(C(C(O1)O)O)O)O)O	(2R,3R,4S,5S,6R)-6-(hydroxymethyl)oxane-2,3,4,5-tetrol	"AAADccBgOAAAAAAAAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAAAGgAACAAACBSwgAMACAAABgAA
+AAAAAAAAAAAAAAAAAAAAAAAREAIAAAACQAAFAAAHAAHAYAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AA=="	beta-D-Glucose
+0	52940172	C1=CC(=CC=C1[N+](=O)[O-])OC2C(C(C(C(O2)CO)OC3C(C(C(C(O3)CO)OC4C(C(C(C(O4)CO)OC5C(C(C(C(O5)CO)OC6C(C(C(C(O6)CO)O)O)O)O)O)O)O)O)O)O)O	(2S,3R,4S,5S,6R)-2-[(2R,3S,4R,5R,6S)-6-[(2R,3S,4R,5R,6S)-6-[(2R,3S,4R,5R,6S)-6-[(2R,3S,4R,5R,6S)-4,5-dihydroxy-2-(hydroxymethyl)-6-(4-nitrophenoxy)oxan-3-yl]oxy-4,5-dihydroxy-2-(hydroxymethyl)oxan-3-yl]oxy-4,5-dihydroxy-2-(hydroxymethyl)oxan-3-yl]oxy-4,5-dihydroxy-2-(hydroxymethyl)oxan-3-yl]oxy-6-(hydroxymethyl)oxane-3,4,5-triol	"AAADcfB+PgAAAAAAAAAAAAAAAAAAAAAAAAA0SJEiQAAAAAABAAAAHgAECAAACByxkAMwzoAQRgCB
+ACRCQwCCCAAgIgAoiAAGbIodNiKEsZuieCDlwBEP6AfwYAwAAEAAAAAAAAAAgAAAAAAAAAAAAAAA
+AA=="	p-nitrophenyl-beta-D-cellopentaoside
+0	52940099	C1=CC(=CC=C1[N+](=O)[O-])OC2C(C(C(C(O2)CO)OC3C(C(C(C(O3)CO)OC4C(C(C(C(O4)CO)OC5C(C(C(C(O5)CO)O)O)O)O)O)O)O)O)O	(2S,3R,4S,5S,6R)-2-[(2R,3S,4R,5R,6S)-6-[(2R,3S,4R,5R,6S)-6-[(2R,3S,4R,5R,6S)-4,5-dihydroxy-2-(hydroxymethyl)-6-(4-nitrophenoxy)oxan-3-yl]oxy-4,5-dihydroxy-2-(hydroxymethyl)oxan-3-yl]oxy-4,5-dihydroxy-2-(hydroxymethyl)oxan-3-yl]oxy-6-(hydroxymethyl)oxane-3,4,5-triol	"AAADcfB6PgAAAAAAAAAAAAAAAAAAAAAAAAA0SJEiAAAAAAABAAAAHgAECAAACByxkAMwzoAQRgCB
+ACRCQwCCCAAgIgAoiAAGbIodNiKEsZuieCDlwBEP6AfwYAwAAEAAAAAAAAAAgAAAAAAAAAAAAAAA
+AA=="	4-Nitrophenyl b-D-cellotetraoside
+0	440948	C(C1C(C(C(C(O1)OC2C(OC(C(C2O)O)OC3C(OC(C(C3O)O)OC4C(OC(C(C4O)O)OC5C(OC(C(C5O)O)OC6C(OC(C(C6O)O)O)CO)CO)CO)CO)CO)O)O)O)O	(2S,3R,4S,5S,6R)-2-[(2R,3S,4R,5R,6S)-6-[(2R,3S,4R,5R,6S)-6-[(2R,3S,4R,5R,6S)-6-[(2R,3S,4R,5R,6S)-4,5-dihydroxy-2-(hydroxymethyl)-6-[(2R,3S,4R,5R,6R)-4,5,6-trihydroxy-2-(hydroxymethyl)oxan-3-yl]oxyoxan-3-yl]oxy-4,5-dihydroxy-2-(hydroxymethyl)oxan-3-yl]oxy-4,5-dihydroxy-2-(hydroxymethyl)oxan-3-yl]oxy-4,5-dihydroxy-2-(hydroxymethyl)oxan-3-yl]oxy-6-(hydroxymethyl)oxane-3,4,5-triol	"AAADcfB8PgAAAAAAAAAAAAAAAAAAAAAAAAAkSJEiQAAAAAAAAAAAGgAACAAACBSwgAMACAAABgAA
+AAAAAAAAAAAAAAAAAAAAAAAREAIAAAAiQAAFAAAHAAHAYAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AA=="	Cellohexaose
+1	4071695	C(C1C(C(C(C(O1)OC2C(OC(C(C2O)O)OC3C(OC(C(C3O)O)OC4C(OC(C(C4O)O)OC5C(OC(C(C5O)O)OC6C(OC(C(C6O)O)O)CO)CO)CO)CO)CO)O)O)O)O	2-[6-[6-[6-[4,5-dihydroxy-2-(hydroxymethyl)-6-[4,5,6-trihydroxy-2-(hydroxymethyl)oxan-3-yl]oxyoxan-3-yl]oxy-4,5-dihydroxy-2-(hydroxymethyl)oxan-3-yl]oxy-4,5-dihydroxy-2-(hydroxymethyl)oxan-3-yl]oxy-4,5-dihydroxy-2-(hydroxymethyl)oxan-3-yl]oxy-6-(hydroxymethyl)oxane-3,4,5-triol	"AAADcfB8PgAAAAAAAAAAAAAAAAAAAAAAAAAkSJEiQAAAAAAAAAAAGgAACAAACBSwgAMACAAABgAA
+AAAAAAAAAAAAAAAAAAAAAAAREAIAAAAiQAAFAAAHAAHAYAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AA=="	Amylohexaose
+0	24892726	C(C1C(C(C(C(O1)OC2C(OC(C(C2O)O)OC3C(OC(C(C3O)O)OC4C(OC(C(C4O)O)O)CO)CO)CO)O)O)O)O	(2S,3S,4S,5S,6R)-2-[(2R,3S,4R,5R,6S)-6-[(2R,3S,4R,5S,6S)-4,5-dihydroxy-2-(hydroxymethyl)-6-[(2R,4R,5S,6R)-4,5,6-trihydroxy-2-(hydroxymethyl)oxan-3-yl]oxyoxan-3-yl]oxy-4,5-dihydroxy-2-(hydroxymethyl)oxan-3-yl]oxy-6-(hydroxymethyl)oxane-3,4,5-triol	"AAADcfB4PgAAAAAAAAAAAAAAAAAAAAAAAAAkSJEgAAAAAAAAAAAAGgAACAAACBSwgAMACAAABgAA
+AAAAAAAAAAAAAAAAAAAAAAAREAIAAAAiQAAFAAAHAAHAYAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AA=="	Glucomannan
+0	156595897	CCC1C(C(C(O1)OCC2C(C(C(O2)OCC3C(C(C(O3)OCC4C(C(C(O4)OCC5C(C(C(O5)OCC6C(C(C(O6)C)O)C)O)OC7C(C(C(O7)CO)O)O)O)O)O)OC8C(C(C(O8)CO)O)O)O)OC9C(C(C(O9)CO)O)O)O)O	(2R,4S,5S)-2-[[(2S,3S,5R)-3-[(2S,4S,5S)-3,4-dihydroxy-5-(hydroxymethyl)oxolan-2-yl]oxy-5-[[(2S,3S,5R)-3-[(2S,4S,5S)-3,4-dihydroxy-5-(hydroxymethyl)oxolan-2-yl]oxy-5-[[(2S,3S,5R)-5-[[(2S,3S,5R)-3-[(2S,4S,5S)-3,4-dihydroxy-5-(hydroxymethyl)oxolan-2-yl]oxy-4-hydroxy-5-[[(2R,3S,5S)-4-hydroxy-3,5-dimethyloxolan-2-yl]methoxy]oxolan-2-yl]methoxy]-3,4-dihydroxyoxolan-2-yl]methoxy]-4-hydroxyoxolan-2-yl]methoxy]-4-hydroxyoxolan-2-yl]methoxy]-5-ethyloxolane-3,4-diol	"AAADcfB8PgAAAAAAAAAAAAAAAAAAASJEiRIAAAAAAAAAAAAAAAAAGgAACAAADRSwgAMCCAAABgAA
+AAAAAAAAAAAAAAAAAAAAAAAREAIAAAAiQAAFAAAHAAHAYAwOAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AA=="	Arabinan
+0	4327536	CC(COCC1C(C(C(C(O1)OC2C(OC(C(C2OCC(C)O)OCC(C)O)OCC(C)O)COCC(C)O)OCC(C)O)OCC(C)O)OCC(C)O)O	1-[[3,4,5-tris(2-hydroxypropoxy)-6-[4,5,6-tris(2-hydroxypropoxy)-2-(2-hydroxypropoxymethyl)oxan-3-yl]oxyoxan-2-yl]methoxy]propan-2-ol	"AAADcfB8PgAAAAAAAAAAAAAAAAAAAAAAAAAkSAAAAAAAAAAAAAAAGgAACAAACBSwgAMCCAAABgAA
+AAAAAAAAAAAAAAAAAAAAAAAREAIAAAAiAAAFAAAHAAHAYAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AA=="	Cellulose hydroxyethylate
+0	11670553	CC1=CC(=O)OC2=C1C=CC(=C2)OC3C(C(C(C(O3)CO)OC4C(C(C(C(O4)CO)O)O)O)O)O	7-[(2S,3R,4R,5S,6R)-3,4-dihydroxy-6-(hydroxymethyl)-5-[(2S,3R,4S,5R,6R)-3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl]oxyoxan-2-yl]oxy-4-methylchromen-2-one	"AAADceB4PAAAAAAAAAAAAAAAAAAAAAAAAAA0SIEAAAAAAACBAAAAGgAACAAADBSwmAMyDoAABgCI
+AiDSCAACCAAgIAAIiAAGCMgdNyKEMRqieiClwBUPqQfA4KwOIAAACAAIAABAAAAQABAAAAAAAAAA
+AA=="	4-Methylumbelliferyl-beta-D-lactoside
+0	11670553	CC1=CC(=O)OC2=C1C=CC(=C2)OC3C(C(C(C(O3)CO)OC4C(C(C(C(O4)CO)O)O)O)O)O	7-[(2S,3R,4R,5S,6R)-3,4-dihydroxy-6-(hydroxymethyl)-5-[(2S,3R,4S,5R,6R)-3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl]oxyoxan-2-yl]oxy-4-methylchromen-2-one	"AAADceB4PAAAAAAAAAAAAAAAAAAAAAAAAAA0SIEAAAAAAACBAAAAGgAACAAADBSwmAMyDoAABgCI
+AiDSCAACCAAgIAAIiAAGCMgdNyKEMRqieiClwBUPqQfA4KwOIAAACAAIAABAAAAQABAAAAAAAAAA
+AA=="	4-Methylumbelliferyl-beta-D-lactoside
+0	24846132	CC1C(C(C(C(O1)CO)OC2C(C(C(C(O2)COC3C(C(C(C(O3)CO)OC)O)O)OC4C(C(C(C(O4)CO)OC)O)OCCO)O)O)O)O	5-[6-[[3,4-dihydroxy-6-(hydroxymethyl)-5-methoxyoxan-2-yl]oxymethyl]-3,4-dihydroxy-5-[4-hydroxy-3-(2-hydroxyethoxy)-6-(hydroxymethyl)-5-methoxyoxan-2-yl]oxyoxan-2-yl]oxy-6-(hydroxymethyl)-2-methyloxane-3,4-diol	"AAADcfB4PgAAAAAAAAAAAAAAAAAAAAAAAAAkSJEgAAAAAAAAAAAAGgAACAAACBSwgAMCCAAABgAA
+AAAAAAAAAAAAAAAAAAAAAAAREAIAAAAiQAAFAAAHAAHA4CwAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AA=="	Hydroxyethyl cellulose
+0	441476	C1(C(C(OC(C1O)O)C(=O)O)O)O	(2S,3R,4S,5R,6R)-3,4,5,6-tetrahydroxyoxane-2-carboxylic acid	"AAADccBgOAAAAAAAAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAAAGgAACAAACBSwgAMACAAABgAI
+AACQCAIAAAAAAAAAAAFAAAAREBYAAAQCQAAFIAAHAAHKbARAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AA=="	Pectin
+1	445929	C1(C(C(OC(C1O)O)C(=O)O)O)O	(2S,3R,4S,5R,6S)-3,4,5,6-tetrahydroxyoxane-2-carboxylic acid	"AAADccBgOAAAAAAAAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAAAGgAACAAACBSwgAMACAAABgAI
+AACQCAIAAAAAAAAAAAFAAAAREBYAAAQCQAAFIAAHAAHKbARAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AA=="	alpha-D-galactopyranuronic acid
+0	439241	C1=C(C(C(C(O1)CO)O)O)O	(2S,3R,4R)-2-(hydroxymethyl)-3,4-dihydro-2H-pyran-3,4,5-triol	"AAADccBgOAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAGgAACAAACBSggAIAAAAABgCA
+AABCAAAACAAgIAAAAAAAAAgBFAIAAQAAQAAFwAADEADAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AA=="	Lichenin
+0	3082141	CC1C(C(C(C(O1)OC2=CC=C(C=C2)[N+](=O)[O-])O)O)O	(2S,3R,4R,5R,6S)-2-methyl-6-(4-nitrophenoxy)oxane-3,4,5-triol	"AAADccByOAAAAAAAAAAAAAAAAAAAAAAAAAA0QAAAAAAAAAABAAAAHgAECAAACByxkAMyzoAQRgCB
+ACRCQwCCCAAgIgAoiAAGbIodNiKEsZuieCDlwBEP6AfwYAwAAEAAAAAAAAAAgAAAAAAAAAAAAAAA
+AA=="	4-Nitrophenylrhamnoside
+0	10621	CC1C(C(C(C(O1)OCC2C(C(C(C(O2)OC3=CC(=C4C(=O)CC(OC4=C3)C5=CC(=C(C=C5)OC)O)O)O)O)O)O)O)O	(2S)-5-hydroxy-2-(3-hydroxy-4-methoxyphenyl)-7-[(2S,3R,4S,5S,6R)-3,4,5-trihydroxy-6-[[(2R,3R,4R,5R,6S)-3,4,5-trihydroxy-6-methyloxan-2-yl]oxymethyl]oxan-2-yl]oxy-2,3-dihydrochromen-4-one	"AAADcfB4PAAAAAAAAAAAAAAAAAAAAAAAAAA0aJECAAAAAACRQAAAGgAACAAADBSwmAMyDoAABgCI
+AqBSAAACCAAkIAAIiAEGiMgdNzaGNRqieWOl4BUPuQfI7PzOIAABCAAIQABAAAIQABCAAAAAAAAA
+AA=="	Hesperidin
+0	442428	CC1C(C(C(C(O1)OC2C(C(C(OC2OC3=CC(=C4C(=O)CC(OC4=C3)C5=CC=C(C=C5)O)O)CO)O)O)O)O)O	(2S)-7-[(2S,3R,4S,5S,6R)-4,5-dihydroxy-6-(hydroxymethyl)-3-[(2S,3R,4R,5R,6S)-3,4,5-trihydroxy-6-methyloxan-2-yl]oxyoxan-2-yl]oxy-5-hydroxy-2-(4-hydroxyphenyl)-2,3-dihydrochromen-4-one	"AAADcfB4PAAAAAAAAAAAAAAAAAAAAAAAAAA0aJECAAAAAACRQAAAGgAACAAADBSwmAMyDoAABgCI
+AqBSAAACCAAkIAAIiAEGCMgdNzaGNRqieWCl4BUPuQfI7OzOIAAACAAIAABAAAAQABAAAAAAAAAA
+AA=="	Naringin
+0	3388422	CC1C(C(C(C(O1)OC2=CC=C(C=C2)[N+](=O)[O-])O)O)O	2-methyl-6-(4-nitrophenoxy)oxane-3,4,5-triol	"AAADccByOAAAAAAAAAAAAAAAAAAAAAAAAAA0QAAAAAAAAAABAAAAHgAECAAACByxkAMyzoAQRgCB
+ACRCQwCCCAAgIgAoiAAGbIodNiKEsZuieCDlwBEP6AfwYAwAAEAAAAAAAAAAgAAAAAAAAAAAAAAA
+AA=="	4-Nitrophenyl-alpha-l-rhamnopyranoside
+0	5284613	CC1C(C(C(C(O1)OC2CCC3(C4CCC5(C(CCC5(C4CCC3=C2)O)C6=COC(=O)C=C6)C)C)O)O)O	5-[(3S,8R,9S,10R,13R,14S,17R)-14-hydroxy-10,13-dimethyl-3-[(2R,3R,4R,5R,6S)-3,4,5-trihydroxy-6-methyloxan-2-yl]oxy-1,2,3,6,7,8,9,11,12,15,16,17-dodecahydrocyclopenta[a]phenanthren-17-yl]pyran-2-one	"AAADcfB4PAAAAAAAAAAAAAAAAAAAAYAAAAA0YIECAAAAAGDAAAAAGgAACAAAD1SwgAMCCAAABgCI
+AiDSCAAACAAgIAAICAAAAEgZFAIAIQAiUAAFgAAPoYPA4PwPgAAAAAAAAACAAAYAADAAAYAADAAA
+AA=="	Proscillaridin
+1	4951	CC1C(C(C(C(O1)OC2CCC3(C4CCC5(C(CCC5(C4CCC3=C2)O)C6=COC(=O)C=C6)C)C)O)O)O	5-[14-hydroxy-10,13-dimethyl-3-(3,4,5-trihydroxy-6-methyloxan-2-yl)oxy-1,2,3,6,7,8,9,11,12,15,16,17-dodecahydrocyclopenta[a]phenanthren-17-yl]pyran-2-one	"AAADcfB4PAAAAAAAAAAAAAAAAAAAAYAAAAA0YIECAAAAAGDAAAAAGgAACAAAD1SwgAMCCAAABgCI
+AiDSCAAACAAgIAAICAAAAEgZFAIAIQAiUAAFgAAPoYPA4PwPgAAAAAAAAACAAAYAADAAAYAADAAA
+AA=="	Caradrin
+2	222154	CC1C(C(C(C(O1)OC2CCC3(C4CCC5(C(CCC5(C4CCC3=C2)O)C6=COC(=O)C=C6)C)C)O)O)O	5-[(3S,8R,9S,10R,13R,14S,17R)-14-hydroxy-10,13-dimethyl-3-(3,4,5-trihydroxy-6-methyloxan-2-yl)oxy-1,2,3,6,7,8,9,11,12,15,16,17-dodecahydrocyclopenta[a]phenanthren-17-yl]pyran-2-one	"AAADcfB4PAAAAAAAAAAAAAAAAAAAAYAAAAA0YIECAAAAAGDAAAAAGgAACAAAD1SwgAMCCAAABgCI
+AiDSCAAACAAgIAAICAAAAEgZFAIAIQAiUAAFgAAPoYPA4PwPgAAAAAAAAACAAAYAADAAAYAADAAA
+AA=="	Proscillaridin A
+3	52931497	CC1C(C(C(C(O1)OC2CCC3(C4CCC5(C(CCC5(C4CCC3=C2)O)C6=COC(=O)C=C6)C)C)O)O)O	5-[(3S,8R,9S,10R,13R,14S,17R)-14-hydroxy-10,13-dimethyl-3-[(2R,4S,5R)-3,4,5-trihydroxy-6-methyloxan-2-yl]oxy-1,2,3,6,7,8,9,11,12,15,16,17-dodecahydrocyclopenta[a]phenanthren-17-yl]pyran-2-one	"AAADcfB4PAAAAAAAAAAAAAAAAAAAAYAAAAA0YIECAAAAAGDAAAAAGgAACAAAD1SwgAMCCAAABgCI
+AiDSCAAACAAgIAAICAAAAEgZFAIAIQAiUAAFgAAPoYPA4PwPgAAAAAAAAACAAAYAADAAAYAADAAA
+AA=="	Scillarenin 3-O-rhamnoside
+4	73759795	CC1C(C(C(C(O1)OC2CCC3(C4CCC5(C(CCC5(C4CCC3=C2)O)C6=COC(=O)C=C6)C)C)O)O)O	5-[(10R,13R,14S)-14-hydroxy-10,13-dimethyl-3-(3,4,5-trihydroxy-6-methyloxan-2-yl)oxy-1,2,3,6,7,8,9,11,12,15,16,17-dodecahydrocyclopenta[a]phenanthren-17-yl]pyran-2-one	"AAADcfB4PAAAAAAAAAAAAAAAAAAAAYAAAAA0YIECAAAAAGDAAAAAGgAACAAAD1SwgAMCCAAABgCI
+AiDSCAAACAAgIAAICAAAAEgZFAIAIQAiUAAFgAAPoYPA4PwPgAAAAAAAAACAAAYAADAAAYAADAAA
+AA=="	5-[(10R,13R,14S)-14-hydroxy-10,13-dimethyl-3-(3,4,5-trihydroxy-6-methyloxan-2-yl)oxy-1,2,3,6,7,8,9,11,12,15,16,17-dodecahydrocyclopenta[a]phenanthren-17-yl]pyran-2-one
+5	6713988	CC1C(C(C(C(O1)OC2CCC3(C4CCC5(C(CCC5(C4CCC3=C2)O)C6=COC(=O)C=C6)C)C)O)O)O	5-[(3S,10R,13R,14S,17R)-14-hydroxy-10,13-dimethyl-3-[(2R,4S,5R)-3,4,5-trihydroxy-6-methyloxan-2-yl]oxy-1,2,3,6,7,8,9,11,12,15,16,17-dodecahydrocyclopenta[a]phenanthren-17-yl]pyran-2-one	"AAADcfB4PAAAAAAAAAAAAAAAAAAAAYAAAAA0YIECAAAAAGDAAAAAGgAACAAAD1SwgAMCCAAABgCI
+AiDSCAAACAAgIAAICAAAAEgZFAIAIQAiUAAFgAAPoYPA4PwPgAAAAAAAAACAAAYAADAAAYAADAAA
+AA=="	5-[(3S,10R,13R,14S,17R)-14-hydroxy-10,13-dimethyl-3-[(2R,4S,5R)-3,4,5-trihydroxy-6-methyloxan-2-yl]oxy-1,2,3,6,7,8,9,11,12,15,16,17-dodecahydrocyclopenta[a]phenanthren-17-yl]pyran-2-one
+6	9828429	CC1C(C(C(C(O1)OC2CCC3(C4CCC5(C(CCC5(C4CCC3=C2)O)C6=COC(=O)C=C6)C)C)O)O)O	5-[(3S,10R,13R,14S,17R)-14-hydroxy-10,13-dimethyl-3-[(2R,3R,4R,5R,6S)-3,4,5-trihydroxy-6-methyloxan-2-yl]oxy-1,2,3,6,7,8,9,11,12,15,16,17-dodecahydrocyclopenta[a]phenanthren-17-yl]pyran-2-one	"AAADcfB4PAAAAAAAAAAAAAAAAAAAAYAAAAA0YIECAAAAAGDAAAAAGgAACAAAD1SwgAMCCAAABgCI
+AiDSCAAACAAgIAAICAAAAEgZFAIAIQAiUAAFgAAPoYPA4PwPgAAAAAAAAACAAAYAADAAAYAADAAA
+AA=="	5-[(3S,10R,13R,14S,17R)-14-hydroxy-10,13-dimethyl-3-[(2R,3R,4R,5R,6S)-3,4,5-trihydroxy-6-methyloxan-2-yl]oxy-1,2,3,6,7,8,9,11,12,15,16,17-dodecahydrocyclopenta[a]phenanthren-17-yl]pyran-2-one
+7	124328164	CC1C(C(C(C(O1)OC2CCC3(C4CCC5(C(CCC5(C4CCC3=C2)O)C6=COC(=O)C=C6)C)C)O)O)O	5-[(3S,8R,9R,10R,13R,14S,17R)-14-hydroxy-10,13-dimethyl-3-[(2R,3R,4R,5R,6S)-3,4,5-trihydroxy-6-methyloxan-2-yl]oxy-1,2,3,6,7,8,9,11,12,15,16,17-dodecahydrocyclopenta[a]phenanthren-17-yl]pyran-2-one	"AAADcfB4PAAAAAAAAAAAAAAAAAAAAYAAAAA0YIECAAAAAGDAAAAAGgAACAAAD1SwgAMCCAAABgCI
+AiDSCAAACAAgIAAICAAAAEgZFAIAIQAiUAAFgAAPoYPA4PwPgAAAAAAAAACAAAYAADAAAYAADAAA
+AA=="	5-((3S,8R,9S,10R,13R,14S,17R)-14-hydroxy-10,13-dimethyl-3-((2R,3R,4R,5R,6S)-3,4,5-trihydroxy-6-methyltetrahydro-2H-pyran-2-yloxy)-2,3,6,7,8,9,10,11,12,13,14,15,16,17-tetradecahydro-1H-cyclopenta[a]phenanthren-17-yl)-2H-pyran-2-one
+0	72941582	CC1C(C(C(C(O1)OC2C(C(C(OC2OC34CCC5C6(CCCC(C6CCC5(C3)CC4=C)(C)C(=O)OC7C(C(C(C(O7)CO)O)O)O)C)CO)O)O)O)O)O	[(2S,3R,4S,5S,6R)-3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl] (1R,4S,5R,9S,10R,13S)-13-[(2S,3R,4S,5S,6R)-4,5-dihydroxy-6-(hydroxymethyl)-3-[(2S,3R,4R,5R,6S)-3,4,5-trihydroxy-6-methyloxan-2-yl]oxyoxan-2-yl]oxy-5,9-dimethyl-14-methylidenetetracyclo[11.2.1.01,10.04,9]hexadecane-5-carboxylate	"AAADcfB8PgAAAAAAAAAAAAAAAAAAAYAAAAA0aNECBgAAAADAAAAAGgAACAAAD1SwgAMCCAAABgCI
+AgDSCAAAAAAgAAAAAAEAAAgRFBIAIQAiQAAFgAAHIAHI6PyPgAAAAAAAAADAAAYAACAAAYAAAAAA
+AA=="	Dulcoside A
+0	5280459	CC1C(C(C(C(O1)OC2=C(OC3=CC(=CC(=C3C2=O)O)O)C4=CC(=C(C=C4)O)O)O)O)O	2-(3,4-dihydroxyphenyl)-5,7-dihydroxy-3-[(2S,3R,4R,5R,6S)-3,4,5-trihydroxy-6-methyloxan-2-yl]oxychromen-4-one	"AAADceB4PAAAAAAAAAAAAAAAAAAAAAAAAAA0YIEAAAAAAACBQAAAGgAACAAADBSwmAMyDoAABgCI
+AqBSAAICCAAkIAAIiAFGiMgdNzaGNR6ieWGl4BUPuQfI7LzOIAABCAAIQABAAAIQABCAAAAAAAAA
+AA=="	Quercitrin
+0	30231	CC1C(C(C(C(O1)OC2C(C(C(OC2OC3=CC(=C(C(=C3)O)C(=O)CCC4=CC(=C(C=C4)OC)O)O)CO)O)O)O)O)O	1-[4-[(2S,3R,4S,5S,6R)-4,5-dihydroxy-6-(hydroxymethyl)-3-[(2S,3R,4R,5R,6S)-3,4,5-trihydroxy-6-methyloxan-2-yl]oxyoxan-2-yl]oxy-2,6-dihydroxyphenyl]-3-(3-hydroxy-4-methoxyphenyl)propan-1-one	"AAADcfB4PAAAAAAAAAAAAAAAAAAAAAAAAAA0aIEAAAAAAAABQAAAGgAACAAADBSwmAMyDoAABgCI
+AqBSAAACCAAkIAAIiAEGiMgdNzaGNRqieWOl4BUPuQfI7PzOIAABCAAIQABAAAIQABCAAAAAAAAA
+AA=="	Neohesperidin dihydrochalcone
+0	5748394	CC1C(C(C(C(O1)OC2C(C(C(OC2OC3=C(OC4=C(C3=O)C(=CC(=C4CC=C(C)C)OC5C(C(C(C(O5)CO)O)O)O)O)C6=CC=C(C=C6)OC)C)O)O)O)O)O	3-[(2S,3R,4R,5R,6S)-4,5-dihydroxy-6-methyl-3-[(2S,3R,4R,5R,6S)-3,4,5-trihydroxy-6-methyloxan-2-yl]oxyoxan-2-yl]oxy-5-hydroxy-2-(4-methoxyphenyl)-8-(3-methylbut-2-enyl)-7-[(2S,3R,4S,5S,6R)-3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl]oxychromen-4-one	"AAADcfB8PgAAAAAAAAAAAAAAAAAAAAAAAAA0aJECAAAAAACBQAAAGgAACAAADBSwmAMyDoAABgCI
+AqBSAAICCAAkIAAIiAFGCMgdNzaGNR6ieWCl4BUPuQfI7PzOIAACCAAIAABAAAQQABAAAAAAAAAA
+AA=="	Epimedin C
+0	5281673	CC1C(C(C(C(O1)OC2=C(OC3=CC(=CC(=C3C2=O)O)O)C4=CC(=C(C(=C4)O)O)O)O)O)O	5,7-dihydroxy-3-[(2S,3R,4R,5R,6S)-3,4,5-trihydroxy-6-methyloxan-2-yl]oxy-2-(3,4,5-trihydroxyphenyl)chromen-4-one	"AAADceB4PAAAAAAAAAAAAAAAAAAAAAAAAAA0YIEAAAAAAACBQAAAGgAACAAADBSwmAMyDoAABgCI
+AqBSAAICCAAkIAAAiAFGiMgdNzaGNR6ieWGl4BUPuQfI7LzOIAABCAAIQABAAAIQABCAAAAAAAAA
+AA=="	Myricitrin
+0	5281673	CC1C(C(C(C(O1)OC2=C(OC3=CC(=CC(=C3C2=O)O)O)C4=CC(=C(C(=C4)O)O)O)O)O)O	5,7-dihydroxy-3-[(2S,3R,4R,5R,6S)-3,4,5-trihydroxy-6-methyloxan-2-yl]oxy-2-(3,4,5-trihydroxyphenyl)chromen-4-one	"AAADceB4PAAAAAAAAAAAAAAAAAAAAAAAAAA0YIEAAAAAAACBQAAAGgAACAAADBSwmAMyDoAABgCI
+AqBSAAICCAAkIAAAiAFGiMgdNzaGNR6ieWGl4BUPuQfI7LzOIAABCAAIQABAAAIQABCAAAAAAAAA
+AA=="	Myricitrin
+0	9894584	CC1C(C(C(C(O1)OC2C(C(C(OC2OC3=CC(=C(C(=C3)O)C(=O)CCC4=CC=C(C=C4)O)O)CO)O)O)O)O)O	1-[4-[(2S,3R,4S,5S,6R)-4,5-dihydroxy-6-(hydroxymethyl)-3-[(2S,3R,4R,5R,6S)-3,4,5-trihydroxy-6-methyloxan-2-yl]oxyoxan-2-yl]oxy-2,6-dihydroxyphenyl]-3-(4-hydroxyphenyl)propan-1-one	"AAADcfB4PAAAAAAAAAAAAAAAAAAAAAAAAAA0aIEAAAAAAAABQAAAGgAACAAADBSwmAMyDoAABgCI
+AqBSAAACCAAkIAAIiAEGCMgdNzaGNRqieWCl4BUPuQfI7OzOIAAACAAIAABAAAAQABAAAAAAAAAA
+AA=="	Naringin dihydrochalcone
+1	46783824	CC1C(C(C(C(O1)OC2C(C(C(OC2OC3=CC(=C(C(=C3)O)C(=O)CCC4=CC=C(C=C4)O)O)CO)O)O)O)O)O.Cl.Cl	1-[4-[(2S,3R,4S,5S,6R)-4,5-dihydroxy-6-(hydroxymethyl)-3-[(2S,3R,4R,5R,6S)-3,4,5-trihydroxy-6-methyloxan-2-yl]oxyoxan-2-yl]oxy-2,6-dihydroxyphenyl]-3-(4-hydroxyphenyl)propan-1-one;dihydrochloride	"AAADcfB4PAAGAAAAAAAAAAAAAAAAAAAAAAA0aIEAAAAAAAABQAAAGgAACAAADBSwmAMyDoAABgCI
+AqBSAAACCAAkIAAIiAEGCMgdNzaGNRqieWCl4BUPuQfI7OzOIAAACAAIAABAAAAQABAAAAAAAAAA
+AA=="	1-[4-[(2S,3R,4S,5S,6R)-4,5-dihydroxy-6-(hydroxymethyl)-3-[(2S,3R,4R,5R,6S)-3,4,5-trihydroxy-6-methyloxan-2-yl]oxyoxan-2-yl]oxy-2,6-dihydroxyphenyl]-3-(4-hydroxyphenyl)propan-1-one;dihydrochloride
+0	131801344	CC1C(C(C(C(O1)OC2C(OC(C(C2O)O)OCC3C(C(C(C(O3)OC4CCC5(C(C4(C)CO)CCC6(C5C=CC78C6(CC(C9(C7CC(CC9)(C)C)CO8)O)C)C)C)O)O)O)CO)O)O)O	(3R,4R,5R,6S)-2-[(2R,3S,4R,5R,6R)-4,5-dihydroxy-2-(hydroxymethyl)-6-[[(2R,3S,4S,5R,6R)-3,4,5-trihydroxy-6-[[(2S,9R,10S)-2-hydroxy-9-(hydroxymethyl)-4,5,9,13,20,20-hexamethyl-24-oxahexacyclo[15.5.2.01,18.04,17.05,14.08,13]tetracos-15-en-10-yl]oxy]oxan-2-yl]methoxy]oxan-3-yl]oxy-6-methyloxane-3,4,5-triol	"AAADcfB8PgAAAAAAAAAAAAAAAAAAASAAAAA0aNGCBIAAAEjAAAAAGgAACAAAD1SwgAMCCAAABgCA
+ACBCAAAAAAAgAAAICAAAAAgRFAIAIQAiUAAFgAAPIAPA4PwPgAAAAAAAAADCAAYAADAAAAAAAAAA
+AA=="	(3R,4R,5R,6S)-2-[(2R,3S,4R,5R,6R)-4,5-dihydroxy-2-(hydroxymethyl)-6-[[(2R,3S,4S,5R,6R)-3,4,5-trihydroxy-6-[[(2S,9R,10S)-2-hydroxy-9-(hydroxymethyl)-4,5,9,13,20,20-hexamethyl-24-oxahexacyclo[15.5.2.01,18.04,17.05,14.08,13]tetracos-15-en-10-yl]oxy]oxan-2-yl]methoxy]oxan-3-yl]oxy-6-methyloxane-3,4,5-triol
+0	439177	C(C1C(C(C(C(O1)OCC2C(C(C(C(O2)OC3C(OC(C(C3O)O)O)CO)O)O)OC4C(C(C(C(O4)CO)O)O)O)O)O)O)O	(2S,3R,4S,5S,6R)-2-[[(2R,3S,4R,5R,6R)-4,5-dihydroxy-3-[(2R,3R,4S,5S,6R)-3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl]oxy-6-[(2R,3S,4R,5R,6S)-4,5,6-trihydroxy-2-(hydroxymethyl)oxan-3-yl]oxyoxan-2-yl]methoxy]-6-(hydroxymethyl)oxane-3,4,5-triol	"AAADcfB4PgAAAAAAAAAAAAAAAAAAAAAAAAAkSJEgAAAAAAAAAAAAGgAACAAACBSwgAMACAAABgAA
+AAAAAAAAAAAAAAAAAAAAAAAREAIAAAAiQAAFAAAHAAHAYAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AA=="	Glycogen
+0	444041	C(C1C2C(C(C(O1)OC3C(OC(C(C3O)O)OC4C(OC(C(C4O)O)OC5C(OC(C(C5O)O)OC6C(OC(C(C6O)O)OC7C(OC(C(C7O)O)OC8C(OC(O2)C(C8O)O)CO)CO)CO)CO)CO)CO)O)O)O	(1S,3R,5R,6S,8R,10R,11S,13R,15R,16S,18R,20R,21S,23R,25R,26S,28R,30R,31S,33R,35R,36R,37R,38R,39R,40R,41R,42R,43R,44R,45R,46R,47R,48R,49R)-5,10,15,20,25,30,35-heptakis(hydroxymethyl)-2,4,7,9,12,14,17,19,22,24,27,29,32,34-tetradecaoxaoctacyclo[31.2.2.23,6.28,11.213,16.218,21.223,26.228,31]nonatetracontane-36,37,38,39,40,41,42,43,44,45,46,47,48,49-tetradecol	"AAADcfB8PgAAAAAAAAAAAAAAAAAAAAAAAAAkSJEiQAAAAAAAAAAAGgAACAAACBSwgAMACAAABgAA
+AAAAAAAAAAAAAAAAAAAAAAAREAIAAAAiQAAFAAAHAAHAYAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AA=="	beta-CYCLODEXTRIN
+1	320761	C(C1C2C(C(C(O1)OC3C(OC(C(C3O)O)OC4C(OC(C(C4O)O)OC5C(OC(C(C5O)O)OC6C(OC(C(C6O)O)OC7C(OC(C(C7O)O)OC8C(OC(O2)C(C8O)O)CO)CO)CO)CO)CO)CO)O)O)O	5,10,15,20,25,30,35-heptakis(hydroxymethyl)-2,4,7,9,12,14,17,19,22,24,27,29,32,34-tetradecaoxaoctacyclo[31.2.2.23,6.28,11.213,16.218,21.223,26.228,31]nonatetracontane-36,37,38,39,40,41,42,43,44,45,46,47,48,49-tetradecol	"AAADcfB8PgAAAAAAAAAAAAAAAAAAAAAAAAAkSJEiQAAAAAAAAAAAGgAACAAACBSwgAMACAAABgAA
+AAAAAAAAAAAAAAAAAAAAAAAREAIAAAAiQAAFAAAHAAHAYAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AA=="	Caraway
+2	24238	C(C1C2C(C(C(O1)OC3C(OC(C(C3O)O)OC4C(OC(C(C4O)O)OC5C(OC(C(C5O)O)OC6C(OC(C(C6O)O)OC7C(OC(C(C7O)O)OC8C(OC(O2)C(C8O)O)CO)CO)CO)CO)CO)CO)O)O)O	(1S,3R,5R,6S,8R,10R,11S,13R,15R,16S,18R,20R,21S,23R,25R,26S,28R,30R,31S,33R,35R,37R,38R,39R,40R,41R,42R,43R,44R,45R,46R,47R,48R,49R)-5,10,15,20,25,30,35-heptakis(hydroxymethyl)-2,4,7,9,12,14,17,19,22,24,27,29,32,34-tetradecaoxaoctacyclo[31.2.2.23,6.28,11.213,16.218,21.223,26.228,31]nonatetracontane-36,37,38,39,40,41,42,43,44,45,46,47,48,49-tetradecol	"AAADcfB8PgAAAAAAAAAAAAAAAAAAAAAAAAAkSJEiQAAAAAAAAAAAGgAACAAACBSwgAMACAAABgAA
+AAAAAAAAAAAAAAAAAAAAAAAREAIAAAAiQAAFAAAHAAHAYAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AA=="	(1S,3R,5R,6S,8R,10R,11S,13R,15R,16S,18R,20R,21S,23R,25R,26S,28R,30R,31S,33R,35R,37R,38R,39R,40R,41R,42R,43R,44R,45R,46R,47R,48R,49R)-5,10,15,20,25,30,35-heptakis(hydroxymethyl)-2,4,7,9,12,14,17,19,22,24,27,29,32,34-tetradecaoxaoctacyclo[31.2.2.23,6.28,11.213,16.218,21.223,26.228,31]nonatetracontane-36,37,38,39,40,41,42,43,44,45,46,47,48,49-tetradecol
+3	71306822	C(C1C2C(C(C(O1)OC3C(OC(C(C3O)O)OC4C(OC(C(C4O)O)OC5C(OC(C(C5O)O)OC6C(OC(C(C6O)O)OC7C(OC(C(C7O)O)OC8C(OC(O2)C(C8O)O)CO)CO)CO)CO)CO)CO)O)O)O	(1S,3R,5R,6S,8R,10R,11S,13R,15R,16S,18R,20R,21S,23R,25R,26S,28S,30S,31R,33S,35R,36R,37R,38S,39S,40R,41R,42R,43R,44R,45R,46R,47R,48R,49R)-5,10,15,20,25,30,35-heptakis(hydroxymethyl)-2,4,7,9,12,14,17,19,22,24,27,29,32,34-tetradecaoxaoctacyclo[31.2.2.23,6.28,11.213,16.218,21.223,26.228,31]nonatetracontane-36,37,38,39,40,41,42,43,44,45,46,47,48,49-tetradecol	"AAADcfB8PgAAAAAAAAAAAAAAAAAAAAAAAAAkSJEiQAAAAAAAAAAAGgAACAAACBSwgAMACAAABgAA
+AAAAAAAAAAAAAAAAAAAAAAAREAIAAAAiQAAFAAAHAAHAYAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AA=="	(1S,3R,5R,6S,8R,10R,11S,13R,15R,16S,18R,20R,21S,23R,25R,26S,28S,30S,31R,33S,35R,36R,37R,38S,39S,40R,41R,42R,43R,44R,45R,46R,47R,48R,49R)-5,10,15,20,25,30,35-heptakis(hydroxymethyl)-2,4,7,9,12,14,17,19,22,24,27,29,32,34-tetradecaoxaoctacyclo[31.2.2.23,6.28,11.213,16.218,21.223,26.228,31]nonatetracontane-36,37,38,39,40,41,42,43,44,45,46,47,48,49-tetradecol
+4	6518168	C(C1C2C(C(C(O1)OC3C(OC(C(C3O)O)OC4C(OC(C(C4O)O)OC5C(OC(C(C5O)O)OC6C(OC(C(C6O)O)OC7C(OC(C(C7O)O)OC8C(OC(O2)C(C8O)O)CO)CO)CO)CO)CO)CO)O)O)O	(1S,3S,5R,6S,8S,10R,11S,13S,15R,16S,18S,20R,21S,23S,25R,26S,28S,30R,31S,33S,35R,36R,37R,38R,39R,40R,41R,42R,43R,44R,45R,46R,47R,48R,49R)-5,10,15,20,25,30,35-heptakis(hydroxymethyl)-2,4,7,9,12,14,17,19,22,24,27,29,32,34-tetradecaoxaoctacyclo[31.2.2.23,6.28,11.213,16.218,21.223,26.228,31]nonatetracontane-36,37,38,39,40,41,42,43,44,45,46,47,48,49-tetradecol	"AAADcfB8PgAAAAAAAAAAAAAAAAAAAAAAAAAkSJEiQAAAAAAAAAAAGgAACAAACBSwgAMACAAABgAA
+AAAAAAAAAAAAAAAAAAAAAAAREAIAAAAiQAAFAAAHAAHAYAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AA=="	(1S,3S,5R,6S,8S,10R,11S,13S,15R,16S,18S,20R,21S,23S,25R,26S,28S,30R,31S,33S,35R,36R,37R,38R,39R,40R,41R,42R,43R,44R,45R,46R,47R,48R,49R)-5,10,15,20,25,30,35-heptakis(hydroxymethyl)-2,4,7,9,12,14,17,19,22,24,27,29,32,34-tetradecaoxaoctacyclo[31.2.2.23,6.28,11.213,16.218,21.223,26.228,31]nonatetracontane-36,37,38,39,40,41,42,43,44,45,46,47,48,49-tetradecol
+5	90384115	C(C1C2C(C(C(O1)OC3C(OC(C(C3O)O)OC4C(OC(C(C4O)O)OC5C(OC(C(C5O)O)OC6C(OC(C(C6O)O)OC7C(OC(C(C7O)O)OC8C(OC(O2)C(C8O)O)CO)CO)CO)CO)CO)CO)O)O)O	(1S,5R,6S,10R,11S,15R,16S,20R,21S,25R,26S,30R,31S,35R,36R,37R,38R,39R,40R,41R,42R,43R,44R,45R,46R,47R,48R,49R)-5,10,15,20,25,30,35-heptakis(hydroxymethyl)-2,4,7,9,12,14,17,19,22,24,27,29,32,34-tetradecaoxaoctacyclo[31.2.2.23,6.28,11.213,16.218,21.223,26.228,31]nonatetracontane-36,37,38,39,40,41,42,43,44,45,46,47,48,49-tetradecol	"AAADcfB8PgAAAAAAAAAAAAAAAAAAAAAAAAAkSJEiQAAAAAAAAAAAGgAACAAACBSwgAMACAAABgAA
+AAAAAAAAAAAAAAAAAAAAAAAREAIAAAAiQAAFAAAHAAHAYAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AA=="	(1S,5R,6S,10R,11S,15R,16S,20R,21S,25R,26S,30R,31S,35R,36R,37R,38R,39R,40R,41R,42R,43R,44R,45R,46R,47R,48R,49R)-5,10,15,20,25,30,35-heptakis(hydroxymethyl)-2,4,7,9,12,14,17,19,22,24,27,29,32,34-tetradecaoxaoctacyclo[31.2.2.23,6.28,11.213,16.218,21.223,26.228,31]nonatetracontane-36,37,38,39,40,41,42,43,44,45,46,47,48,49-tetradecol
+6	101136808	C(C1C2C(C(C(O1)OC3C(OC(C(C3O)O)OC4C(OC(C(C4O)O)OC5C(OC(C(C5O)O)OC6C(OC(C(C6O)O)OC7C(OC(C(C7O)O)OC8C(OC(O2)C(C8O)O)CO)CO)CO)CO)CO)CO)O)O)O	(1S,3R,6S,8R,11S,13R,16S,18R,21S,23R,26S,28R,31S,33R,37S,39S,41S,43S,45S,47S,49S)-5,10,15,20,25,30,35-heptakis(hydroxymethyl)-2,4,7,9,12,14,17,19,22,24,27,29,32,34-tetradecaoxaoctacyclo[31.2.2.23,6.28,11.213,16.218,21.223,26.228,31]nonatetracontane-36,37,38,39,40,41,42,43,44,45,46,47,48,49-tetradecol	"AAADcfB8PgAAAAAAAAAAAAAAAAAAAAAAAAAkSJEiQAAAAAAAAAAAGgAACAAACBSwgAMACAAABgAA
+AAAAAAAAAAAAAAAAAAAAAAAREAIAAAAiQAAFAAAHAAHAYAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AA=="	Schardinger beta-dextrin
+7	70702285	C(C1C2C(C(C(O1)OC3C(OC(C(C3O)O)OC4C(OC(C(C4O)O)OC5C(OC(C(C5O)O)OC6C(OC(C(C6O)O)OC7C(OC(C(C7O)O)OC8C(OC(O2)C(C8O)O)CO)CO)CO)CO)CO)CO)O)O)O	(1S,3R,5R,6S,8R,10R,11S,13R,15R,16S,18R,20R,21S,23R,25R,26S,28S,30R,31S,33S,35R,36R,37R,38R,39R,40R,41R,42R,43R,44R,45R,46R,47R,48R,49R)-5,10,15,20,25,30,35-heptakis(hydroxymethyl)-2,4,7,9,12,14,17,19,22,24,27,29,32,34-tetradecaoxaoctacyclo[31.2.2.23,6.28,11.213,16.218,21.223,26.228,31]nonatetracontane-36,37,38,39,40,41,42,43,44,45,46,47,48,49-tetradecol	"AAADcfB8PgAAAAAAAAAAAAAAAAAAAAAAAAAkSJEiQAAAAAAAAAAAGgAACAAACBSwgAMACAAABgAA
+AAAAAAAAAAAAAAAAAAAAAAAREAIAAAAiQAAFAAAHAAHAYAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AA=="	(1S,3R,5R,6S,8R,10R,11S,13R,15R,16S,18R,20R,21S,23R,25R,26S,28S,30R,31S,33S,35R,36R,37R,38R,39R,40R,41R,42R,43R,44R,45R,46R,47R,48R,49R)-5,10,15,20,25,30,35-heptakis(hydroxymethyl)-2,4,7,9,12,14,17,19,22,24,27,29,32,34-tetradecaoxaoctacyclo[31.2.2.23,6.28,11.213,16.218,21.223,26.228,31]nonatetracontane-36,37,38,39,40,41,42,43,44,45,46,47,48,49-tetradecol
+0	5287407	C(C1C2C(C(C(O1)OC3C(OC(C(C3O)O)OC4C(OC(C(C4O)O)OC5C(OC(C(C5O)O)OC6C(OC(C(C6O)O)OC7C(OC(C(C7O)O)OC8C(OC(C(C8O)O)OC9C(OC(O2)C(C9O)O)CO)CO)CO)CO)CO)CO)CO)O)O)O	(1S,3R,5R,6S,8R,10R,11S,13R,15R,16S,18R,20R,21S,23R,25R,26S,28R,30R,31S,33R,35R,36S,38R,40R,41R,42R,43R,44R,45R,46R,47R,48R,49R,50R,51R,52R,53R,54R,55R,56R)-5,10,15,20,25,30,35,40-octakis(hydroxymethyl)-2,4,7,9,12,14,17,19,22,24,27,29,32,34,37,39-hexadecaoxanonacyclo[36.2.2.23,6.28,11.213,16.218,21.223,26.228,31.233,36]hexapentacontane-41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56-hexadecol	"AAADcfB8PgAAAAAAAAAAAAAAAAAAAAAAAAAkSJEiQAAAAAAAAAAAGgAACAAACBSwgAMACAAABgAA
+AAAAAAAAAAAAAAAAAAAAAAAREAIAAAAiQAAFAAAHAAHAYAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AA=="	gamma-Cyclodextrin
+0	439341	C(C1C(C(C(C(O1)OC2C(OC(C(C2O)O)O)CO)O)O)O)O	(2R,3S,4S,5R,6R)-2-(hydroxymethyl)-6-[(2R,3S,4R,5R,6S)-4,5,6-trihydroxy-2-(hydroxymethyl)oxan-3-yl]oxyoxane-3,4,5-triol	"AAADceBwPAAAAAAAAAAAAAAAAAAAAAAAAAAkSAAAAAAAAAAAAAAAGgAACAAACBSwgAMACAAABgAA
+AAAAAAAAAAAAAAAAAAAAAAAREAIAAAAiQAAFAAAHAAHAYAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AA=="	Maltose
+0	129532628	CC1C(C(C(C(O1)C)OS(=O)(=O)O)O)OC	[(2S,3S,4S,5S,6R)-4-hydroxy-5-methoxy-2,6-dimethyloxan-3-yl] hydrogen sulfate	"AAADceBwOABAAAAAAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAAAGgAACAAACBSggAICAAAABoAA
+AAAAADAAAAAAAAAAAAAAAAABEAIAAAACQAAFAAADAAHAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AA=="	Fucoidan
+0	5280570	CCCCCCCCCCCCCC=CC(C(COC1C(C(C(C(O1)CO)O)O)O)N)O	(2R,3R,4S,5S,6R)-2-[(E,2S,3R)-2-amino-3-hydroxyoctadec-4-enoxy]-6-(hydroxymethyl)oxane-3,4,5-triol	"AAADcfB6OAAAAAAAAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAAAHgAQCAAACDzxgAcCCABABgCA
+ACBCAAAAAAAgAAAICIAAAAgTFAIAAQAjUAAFkAAPEAPA4IwAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AA=="	D-Glucosylsphingosine
+0	5460026	C(C1C(C(C(C(O1)OCC2C(C(C(C(O2)O)O)O)O)O)O)O)O	(3R,4S,5S,6R)-6-[[(2R,3R,4S,5S,6R)-3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl]oxymethyl]oxane-2,3,4,5-tetrol	"AAADceBwPAAAAAAAAAAAAAAAAAAAAAAAAAAkSAAAAAAAAAAAAAAAGgAACAAACBSwgAMACAAABgAA
+AAAAAAAAAAAAAAAAAAAAAAAREAIAAAAiQAAFAAAHAAHAYAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AA=="	6-O-beta-D-glucopyranosyl-D-glucose
+0	445238	COC1C(C(C(C(O1)CO)O)O)O	(2R,3S,4S,5R,6R)-2-(hydroxymethyl)-6-methoxyoxane-3,4,5-triol	"AAADccBgOAAAAAAAAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAAAGgAACAAACBSwgAMCCAAABgAA
+AAAAAAAAAAAAAAAAAAAAAAAREAIAAAAiQAAFAAAHAAHAYAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AA=="	Methyl beta-D-glucopyranoside
+0	448173	CCCCCCCOC1C(C(C(C(O1)CO)O)O)O	(2R,3R,4S,5S,6R)-2-heptoxy-6-(hydroxymethyl)oxane-3,4,5-triol	"AAADceBwOAAAAAAAAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAAAGgAACAAACBSwgAMCCAAABgAA
+AAAAAAAAAAAAAAAAAAAAAAAREAIAAAAiQAAFAAAHAAHA4CwAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AA=="	Heptyl-beta-D-glucopyranoside
+0	62852	CCCCCCCCOC1C(C(C(C(O1)CO)O)O)O	(2R,3S,4S,5R,6R)-2-(hydroxymethyl)-6-octoxyoxane-3,4,5-triol	"AAADceBwOAAAAAAAAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAAAGgAACAAACBSwgAMCCAAABgAA
+AAAAAAAAAAAAAAAAAAAAAAAREAIAAAAiQAAFAAAHAAHA4KwAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AA=="	Octyl beta-D-glucopyranoside
+0	102416	CC(=O)NC1C(C(C(OC1OC2=CC=C(C=C2)[N+](=O)[O-])CO)O)O	N-[(2S,3R,4R,5S,6R)-4,5-dihydroxy-6-(hydroxymethyl)-2-(4-nitrophenoxy)oxan-3-yl]acetamide	"AAADceBzPAAAAAAAAAAAAAAAAAAAAAAAAAA0QAAAAAAAAAABAAAAHgAUCAAACDzxkAcyzoLQRgCJ
+ACVSUwCCCAAgIgAoiIAObIofNiKEsZuneCDn1hGf6AfwcA8AAEAAAAAAAAAAgAAAAAAAAAAAAAAA
+AA=="	4'-Nitrophenyl-2-acetamido-2-deoxy-beta-glucopyranoside
+0	2733779	CC1=CC(=O)OC2=C1C=CC(=C2)OC3C(C(C(C(O3)CO)O)O)O	4-methyl-7-[(2S,3R,4S,5S,6R)-3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl]oxychromen-2-one	"AAADceB4PAAAAAAAAAAAAAAAAAAAAAAAAAA0QIAAAAAAAACBAAAAGgAACAAADBSwmAMyDoAABgCI
+AiDSCAACCAAgIAAIiAAGCMgdNyKEMRqieiClwBUPqQfA4KwOIAAACAAIAABAAAAQABAAAAAAAAAA
+AA=="	4-Methylumbelliferyl glucoside
+0	44339430	CCCCCCCCCCCCCC=CC(C(CO)NC(=O)OC1C(C(C(C(O1)CO)O)O)O)O	[(2S,3R,4S,5R,6R)-3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl] N-[(Z)-1,3-dihydroxyoctadec-4-en-2-yl]carbamate	"AAADcfB6PAAAAAAAAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAAAHgAQCAAACDzxgAcCCALABgCI
+ACBCGAAAAAAgAAAICIAIAAkTFAIAAQAuUAAFlgAfEAPA4IwAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AA=="	Galactocerebroside
+0	439559	C(C1C(C(C(C(O1)OCC2C(C(C(O2)(CO)O)O)O)O)O)O)O	(2R,3S,4S,5R,6S)-2-(hydroxymethyl)-6-[[(2R,3S,4S)-3,4,5-trihydroxy-5-(hydroxymethyl)oxolan-2-yl]methoxy]oxane-3,4,5-triol	"AAADceBwPAAAAAAAAAAAAAAAAAAAASAAAAAkAAAAAAAAAAAAAAAAGgAACAAACBSwgAMACAAABgAA
+AAAAAAAAAAAAAAAAAAAAAAAREAIAAAAiQAAFAAAHAAHAYAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AA=="	Palatinose
+1	52994241	C(C1C(C(C(C(O1)OCC2C(C(C(O2)(CO)O)O)O)O)O)O)O.O	(2R,3S,4S,5R,6S)-2-(hydroxymethyl)-6-[[(2R,3S,4S)-3,4,5-trihydroxy-5-(hydroxymethyl)oxolan-2-yl]methoxy]oxane-3,4,5-triol;hydrate	"AAADceBwPAAAAAAAAAAAAAAAAAAAASAAAAAkAAAAAAAAAAAAAAAAGgAACAAACBSwgAMACAAABgAA
+AAAAAAAAAAAAAAAAAAAAAAAREAIAAAAiQAAFAAAHAAHAYAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AA=="	Isomaltulose
+0	2733788	CC1=CC(=O)OC2=C1C=CC(=C2)OC3C(C(C(C(O3)CO)O)O)O	4-methyl-7-[(2R,3R,4S,5R,6R)-3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl]oxychromen-2-one	"AAADceB4PAAAAAAAAAAAAAAAAAAAAAAAAAA0QIAAAAAAAACBAAAAGgAACAAADBSwmAMyDoAABgCI
+AiDSCAACCAAgIAAIiAAGCMgdNyKEMRqieiClwBUPqQfA4KwOIAAACAAIAABAAAAQABAAAAAAAAAA
+AA=="	4-Methylumbelliferyl-alpha-D-galactopyranoside
+0	123646	C1=CC=C(C(=C1)[N+](=O)[O-])OC2C(C(C(C(O2)CO)O)O)O	(2R,3R,4S,5R)-2-(hydroxymethyl)-6-(2-nitrophenoxy)oxane-3,4,5-triol	"AAADccByPAAAAAAAAAAAAAAAAAAAAAAAAAA0QAAAAAAAAAABAAAAHgAECAAACByxkAMwzoAQRgCB
+ACRCQwCCCAAgIgAoiAAHbIofNiKEsZujeCDlwFEP6AfQYAwAAAAAAAAAEAAAAAAAAAAgAAAAAAAA
+AA=="	2-Nitrophenylgalactoside
+0	90220	CC(=O)NC1C(C(C(OC1OC2=CC=C(C=C2)[N+](=O)[O-])CO)O)O	N-[(2R,3R,4R,5R,6R)-4,5-dihydroxy-6-(hydroxymethyl)-2-(4-nitrophenoxy)oxan-3-yl]acetamide	"AAADceBzPAAAAAAAAAAAAAAAAAAAAAAAAAA0QAAAAAAAAAABAAAAHgAUCAAACDzxkAcyzoLQRgCJ
+ACVSUwCCCAAgIgAoiIAObIofNiKEsZuneCDn1hGf6AfwcA8AAEAAAAAAAAAAgAAAAAAAAAAAAAAA
+AA=="	p-Nitrophenyl 2-acetamido-2-deoxy-alpha-D-galactopyranoside
+0	82398	CC(=O)NC1C(C(C(OC1OC2=CC=C(C=C2)[N+](=O)[O-])CO)O)O	N-[(2R,3R,4R,5S,6R)-4,5-dihydroxy-6-(hydroxymethyl)-2-(4-nitrophenoxy)oxan-3-yl]acetamide	"AAADceBzPAAAAAAAAAAAAAAAAAAAAAAAAAA0QAAAAAAAAAABAAAAHgAUCAAACDzxkAcyzoLQRgCJ
+ACVSUwCCCAAgIgAoiIAObIofNiKEsZuneCDn1hGf6AfwcA8AAEAAAAAAAAAAgAAAAAAAAAAAAAAA
+AA=="	4'-Nitrophenyl-2-acetamido-2-deoxy-alpha-D-glucopyranoside
+1	24802378	CC(=O)NC1C(C(C(OC1OC2=CC=C(C=C2)[N+](=O)[O-])CO)O)O	N-[(2R,4S,5S)-4,5-dihydroxy-6-(hydroxymethyl)-2-(4-nitrophenoxy)oxan-3-yl]acetamide	"AAADceBzPAAAAAAAAAAAAAAAAAAAAAAAAAA0QAAAAAAAAAABAAAAHgAUCAAACDzxkAcyzoLQRgCJ
+ACVSUwCCCAAgIgAoiIAObIofNiKEsZuneCDn1hGf6AfwcA8AAEAAAAAAAAAAgAAAAAAAAAAAAAAA
+AA=="	4-Nitrophenyl-n-acetyl-alpha-d-glucosaminide
+0	171334	CC1C(C(C(C(O1)OC2=CC3=C(C=C2)C(=CC(=O)O3)C)O)O)O	4-methyl-7-[(2S,3S,4R,5S,6S)-3,4,5-trihydroxy-6-methyloxan-2-yl]oxychromen-2-one	"AAADceB4OAAAAAAAAAAAAAAAAAAAAAAAAAA0QIAAAAAAAACBAAAAGgAACAAADBSwmAMyDoAABgCI
+AiDSCAACCAAgIAAIiAAGCMgdNyKEMRqieiClwBUPqQfA4KwOIAAACAAIAABAAAAQABAAAAAAAAAA
+AA=="	4-Methylumbelliferyl-alpha-L-fucopyranoside
+0	22806751	CC1C(C(C(C(O1)OC2C(OC(C(C2OC3C(C(C(C(O3)CO)O)O)O)NC(=O)C)O)CO)O)O)O	N-[(3R,4R,5S,6R)-2-hydroxy-6-(hydroxymethyl)-4-[(2R,3R,4S,5R,6R)-3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl]oxy-5-[(2S,3S,4R,5S,6S)-3,4,5-trihydroxy-6-methyloxan-2-yl]oxyoxan-3-yl]acetamide	"AAADcfB6PAAAAAAAAAAAAAAAAAAAAAAAAAAkSJAAAAAAAAAAAAAAHgAQCAAACDzxgAcCCALABgAI
+AAEQEAAAAAAAAAAAAIAIAAATEAIAgAAnQAAHFgCXAAHwcA8AAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AA=="	Lewis a Trisaccharide
+0	11813424	CC1C(C(C(C(O1)OC2C(C(OC(C2OC3C(C(C(C(O3)CO)O)O)O)CO)O)NC(=O)C)O)O)O	N-[(3R,4R,5S,6R)-2-hydroxy-6-(hydroxymethyl)-5-[(2S,3R,4S,5R,6R)-3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl]oxy-4-[(2S,3S,4R,5S,6S)-3,4,5-trihydroxy-6-methyloxan-2-yl]oxyoxan-3-yl]acetamide	"AAADcfB6PAAAAAAAAAAAAAAAAAAAAAAAAAAkSJAAAAAAAAAAAAAAHgAQCAAACDzxgAcCCALABgAI
+AAEQEAAAAAAAAAAAAIAIAAATEAIAgAAnQAAHFgCXAAHwcA8AAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AA=="	alpha-L-Fucp-(1->3)-[beta-D-Galp-(1->4)]-D-GlcpNAc
+0	82473	CC1C(C(C(C(O1)OC2=CC=C(C=C2)[N+](=O)[O-])O)O)O	(2S,3S,4R,5S,6S)-2-methyl-6-(4-nitrophenoxy)oxane-3,4,5-triol	"AAADccByOAAAAAAAAAAAAAAAAAAAAAAAAAA0QAAAAAAAAAABAAAAHgAECAAACByxkAMyzoAQRgCB
+ACRCQwCCCAAgIgAoiAAGbIodNiKEsZuieCDlwBEP6AfwYAwAAEAAAAAAAAAAgAAAAAAAAAAAAAAA
+AA=="	p-Nitrophenyl 6-deoxy-alpha-L-galactopyranoside
+0	5288279	CC1C(C(C(C(O1)OC2C(C(OC(C2OC3C(C(C(C(O3)CO)O)O)O)CO)OC)NC(=O)C)O)O)O	N-[(2R,3R,4R,5S,6R)-6-(hydroxymethyl)-2-methoxy-5-[(2S,3R,4S,5R,6R)-3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl]oxy-4-[(2S,3S,4R,5S,6S)-3,4,5-trihydroxy-6-methyloxan-2-yl]oxyoxan-3-yl]acetamide	"AAADcfB6PAAAAAAAAAAAAAAAAAAAAAAAAAAkSJAAAAAAAAAAAAAAHgAQCAAACDzxgAcCCALABgAI
+AAEQEAAAAAAAAAAAAIAIAAATEAIAgAAnQAAHFgCXAAHwcA8AAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AA=="	alpha-L-Fucp-(1->3)-[beta-D-Galp-(1->4)]-beta-D-GlcpNAc-OMe
+0	101199930	CCCOC1C(C(C(C(O1)C)O)O)O	(2S,3S,4R,5S,6R)-2-methyl-6-propoxyoxane-3,4,5-triol	"AAADceBwOAAAAAAAAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAAAGgAACAAACBSwgAMCCAAABgAA
+AAAAAAAAAAAAAAAAAAAAAAAREAIAAAAiQAAFAAAHAAHAYAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AA=="	Propargyl-fucoside
+0	82473	CC1C(C(C(C(O1)OC2=CC=C(C=C2)[N+](=O)[O-])O)O)O	(2S,3S,4R,5S,6S)-2-methyl-6-(4-nitrophenoxy)oxane-3,4,5-triol	"AAADccByOAAAAAAAAAAAAAAAAAAAAAAAAAA0QAAAAAAAAAABAAAAHgAECAAACByxkAMyzoAQRgCB
+ACRCQwCCCAAgIgAoiAAGbIodNiKEsZuieCDlwBEP6AfwYAwAAEAAAAAAAAAAgAAAAAAAAAAAAAAA
+AA=="	p-Nitrophenyl 6-deoxy-alpha-L-galactopyranoside
+0	53477647	CC1C(C(C(C(O1)OC2C(C(C(OC2O)CO)O)O)O)O)O	(2S,3S,4R,5S,6S)-2-methyl-6-[(3R,4S,5R,6R)-2,4,5-trihydroxy-6-(hydroxymethyl)oxan-3-yl]oxyoxane-3,4,5-triol	"AAADceBwPAAAAAAAAAAAAAAAAAAAAAAAAAAkSAAAAAAAAAAAAAAAGgAACAAACBSwgAMCCAAABgAA
+AAAAAAAAAAAAAAAAAAAAAAAREAIAAAAiQAAFAAAHAAHAYAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AA=="	alpha-L-Fucp-(1->2)-D-Galp
+0	82473	CC1C(C(C(C(O1)OC2=CC=C(C=C2)[N+](=O)[O-])O)O)O	(2S,3S,4R,5S,6S)-2-methyl-6-(4-nitrophenoxy)oxane-3,4,5-triol	"AAADccByOAAAAAAAAAAAAAAAAAAAAAAAAAA0QAAAAAAAAAABAAAAHgAECAAACByxkAMyzoAQRgCB
+ACRCQwCCCAAgIgAoiAAGbIodNiKEsZuieCDlwBEP6AfwYAwAAEAAAAAAAAAAgAAAAAAAAAAAAAAA
+AA=="	p-Nitrophenyl 6-deoxy-alpha-L-galactopyranoside
+0	16216990	CC1C(C(C(C(O1)OC2C(C(OC(C2OC3C(C(C(C(O3)CO)O)O)O)CO)O)O)O)O)O	(2S,3S,4R,5S,6S)-2-[(3R,4R,5R,6R)-2,3-dihydroxy-6-(hydroxymethyl)-5-[(2S,3R,4S,5R,6R)-3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl]oxyoxan-4-yl]oxy-6-methyloxane-3,4,5-triol	"AAADcfB4PAAAAAAAAAAAAAAAAAAAAAAAAAAkSJAAAAAAAAAAAAAAGgAACAAACBSwgAMCCAAABgAA
+AAAAAAAAAAAAAAAAAAAAAAAREAIAAAAiQAAFAAAHAAHAYAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AA=="	3-Fucosyllactose
+0	53262301	CC1C(C(C(C(O1)OC2C(OC(C(C2OC3C(C(C(C(O3)CO)O)O)O)NC(=O)C)OC4C(C(OC(C4O)OC5C(OC(C(C5OC6C(C(C(C(O6)C)O)O)O)O)O)CO)CO)O)CO)O)O)O	N-[(2S,3R,4R,5S,6R)-2-[(2S,3R,4S,5S,6R)-2-[(2R,3R,4R,5R)-5,6-dihydroxy-2-(hydroxymethyl)-4-[(2S,3S,4R,5S,6S)-3,4,5-trihydroxy-6-methyloxan-2-yl]oxyoxan-3-yl]oxy-3,5-dihydroxy-6-(hydroxymethyl)oxan-4-yl]oxy-6-(hydroxymethyl)-4-[(2R,3R,4S,5R,6R)-3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl]oxy-5-[(2S,3S,4R,5S,6S)-3,4,5-trihydroxy-6-methyloxan-2-yl]oxyoxan-3-yl]acetamide	"AAADcfB+PgAAAAAAAAAAAAAAAAAAAAAAAAAkSJEiQAAAAAAAAAAAHgAQCAAACDzxgAcCCALABgAI
+AAEQEAAAAAAAAAAAAIAIAAATEAIAgAAnQAAHFgCXAAHwcA8AAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AA=="	Lndfh II
+0	82473	CC1C(C(C(C(O1)OC2=CC=C(C=C2)[N+](=O)[O-])O)O)O	(2S,3S,4R,5S,6S)-2-methyl-6-(4-nitrophenoxy)oxane-3,4,5-triol	"AAADccByOAAAAAAAAAAAAAAAAAAAAAAAAAA0QAAAAAAAAAABAAAAHgAECAAACByxkAMyzoAQRgCB
+ACRCQwCCCAAgIgAoiAAGbIodNiKEsZuieCDlwBEP6AfwYAwAAEAAAAAAAAAAgAAAAAAAAAAAAAAA
+AA=="	p-Nitrophenyl 6-deoxy-alpha-L-galactopyranoside
+0	91501498	CC1C(C(C(C(O1)F)F)O)O	(2S,3S,4R,5S,6S)-5,6-difluoro-2-methyloxane-3,4-diol	"AAADccBgMYAAAAAAAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAAAGwAACAAACBSggAICAAAABgAA
+AAAAAAAAAAAAAAAAAAAAAAABEAIAAAACQAAFAAADAAHAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AA=="	2-Deoxy-2-fluoro-alpha-l-fucosyl fluoride
+0	171334	CC1C(C(C(C(O1)OC2=CC3=C(C=C2)C(=CC(=O)O3)C)O)O)O	4-methyl-7-[(2S,3S,4R,5S,6S)-3,4,5-trihydroxy-6-methyloxan-2-yl]oxychromen-2-one	"AAADceB4OAAAAAAAAAAAAAAAAAAAAAAAAAA0QIAAAAAAAACBAAAAGgAACAAADBSwmAMyDoAABgCI
+AiDSCAACCAAgIAAIiAAGCMgdNyKEMRqieiClwBUPqQfA4KwOIAAACAAIAABAAAAQABAAAAAAAAAA
+AA=="	4-Methylumbelliferyl-alpha-L-fucopyranoside
+0	4525307	CC1C(C(C(C(O1)OC2=C(C=C(C=C2)[N+](=O)[O-])Cl)O)O)O	2-(2-chloro-4-nitrophenoxy)-6-methyloxane-3,4,5-triol	"AAADccByOAAEAAAAAAAAAAAAAAAAAAAAAAA0QAAAAAAAAAABAAAAHgIECAAACB6xkCMyzoAQRgCB
+ACRCQwCCCAAgJ0AoiAAGb4odNiOFs5uieCDlwBEP6AfwYAwAAEAAAAIACAAAgAAABAAQAAAAAAAA
+AA=="	2-(2-Chloro-4-nitrophenoxy)-6-methyloxane-3,4,5-triol
+0	91274049	CC1C(C(C(C(O1)OC2=CC=CC=C2)O)O)O	(2S,3S,4R,5S,6S)-2-methyl-6-phenoxyoxane-3,4,5-triol	"AAADceBwOAAAAAAAAAAAAAAAAAAAAAAAAAA0QAAAAAAAAAABAAAAGgAACAAACBSwkAMyDoAABgCA
+ACBCAAACCAAgIAAIiAAGCIgdNiKEMRqieCClwBEPqAfAYAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AA=="	Phenyl alpha-l-fucopyranoside
+0	2733786	CC1=CC(=O)OC2=C1C=CC(=C2)OC3C(C(C(C(O3)CO)O)O)NC(=O)C	N-[(2S,3R,4R,5R,6R)-4,5-dihydroxy-6-(hydroxymethyl)-2-(4-methyl-2-oxochromen-7-yl)oxyoxan-3-yl]acetamide	"AAADceB6PAAAAAAAAAAAAAAAAAAAAAAAAAA0QIAAAAAAAACBAAAAHgAQCAAADDzxmAcyDoLABgCI
+AiHSGAACCAAgIAAIiIAOCMgfNyKEsRqneiCn1hWfqQfw8K8OIAAACAAIAABAAAAQABAAAAAAAAAA
+AA=="	4-Methylumbelliferyl 2-acetamido-2-deoxy-beta-D-galactopyranoside
+0	84723	CC(=O)NC1C(C(C(OC1OC2=CC=C(C=C2)[N+](=O)[O-])CO)O)O	N-[(2S,3R,4R,5R,6R)-4,5-dihydroxy-6-(hydroxymethyl)-2-(4-nitrophenoxy)oxan-3-yl]acetamide	"AAADceBzPAAAAAAAAAAAAAAAAAAAAAAAAAA0QAAAAAAAAAABAAAAHgAUCAAACDzxkAcyzoLQRgCJ
+ACVSUwCCCAAgIgAoiIAObIofNiKEsZuneCDn1hGf6AfwcA8AAEAAAAAAAAAAgAAAAAAAAAAAAAAA
+AA=="	4-nitrophenyl 2-acetamido-2-deoxy-beta-D-galactopyranoside
+0	102416	CC(=O)NC1C(C(C(OC1OC2=CC=C(C=C2)[N+](=O)[O-])CO)O)O	N-[(2S,3R,4R,5S,6R)-4,5-dihydroxy-6-(hydroxymethyl)-2-(4-nitrophenoxy)oxan-3-yl]acetamide	"AAADceBzPAAAAAAAAAAAAAAAAAAAAAAAAAA0QAAAAAAAAAABAAAAHgAUCAAACDzxkAcyzoLQRgCJ
+ACVSUwCCCAAgIgAoiIAObIofNiKEsZuneCDn1hGf6AfwcA8AAEAAAAAAAAAAgAAAAAAAAAAAAAAA
+AA=="	4'-Nitrophenyl-2-acetamido-2-deoxy-beta-glucopyranoside
+0	2733787	CC1=CC(=O)OC2=C1C=CC(=C2)OC3C(C(C(C(O3)CO)O)O)NC(=O)C	N-[(2S,3R,4R,5S,6R)-4,5-dihydroxy-6-(hydroxymethyl)-2-(4-methyl-2-oxochromen-7-yl)oxyoxan-3-yl]acetamide	"AAADceB6PAAAAAAAAAAAAAAAAAAAAAAAAAA0QIAAAAAAAACBAAAAHgAQCAAADDzxmAcyDoLABgCI
+AiHSGAACCAAgIAAIiIAOCMgfNyKEsRqneiCn1hWfqQfw8K8OIAAACAAIAABAAAAQABAAAAAAAAAA
+AA=="	4-Methylumbelliferyl-N-acetyl-beta-D-glucosaminide
+0	16219671	CC1=CC(=O)OC2=C1C=CC(=C2)OC3C(C(C(C(O3)CO)OC4C(C(C(C(O4)CO)OC5C(C(C(C(O5)CO)O)O)NC(=O)C)O)NC(=O)C)O)NC(=O)C	N-[(2S,3R,4R,5S,6R)-2-[(2R,3S,4R,5R,6S)-5-acetamido-6-[(2R,3S,4R,5R,6S)-5-acetamido-4-hydroxy-2-(hydroxymethyl)-6-(4-methyl-2-oxochromen-7-yl)oxyoxan-3-yl]oxy-4-hydroxy-2-(hydroxymethyl)oxan-3-yl]oxy-4,5-dihydroxy-6-(hydroxymethyl)oxan-3-yl]acetamide	"AAADcfB/PgAAAAAAAAAAAAAAAAAAAAAAAAA0SJECAAAAAACBAAAAHgAQCAAADDzxmAcyDoLABgCI
+AiHSGAACCAAgIAAIiIAOCMgfNyKEsRqneiCn1hWfqQfw8K8OIAAACAAIAABAAAAQABAAAAAAAAAA
+AA=="	N-[(2S,3R,4R,5S,6R)-2-[(2R,3S,4R,5R,6S)-5-acetamido-6-[(2R,3S,4R,5R,6S)-5-acetamido-4-hydroxy-2-(hydroxymethyl)-6-(4-methyl-2-oxochromen-7-yl)oxyoxan-3-yl]oxy-4-hydroxy-2-(hydroxymethyl)oxan-3-yl]oxy-4,5-dihydroxy-6-(hydroxymethyl)oxan-3-yl]acetamide
+0	129851008	CC(=O)NC1C(C(C(OC1(C2=CC=C(C=C2)[N+](=O)[O-])O)CO)O)O	N-[(2R,3R,4R,5R,6R)-2,4,5-trihydroxy-6-(hydroxymethyl)-2-(4-nitrophenyl)oxan-3-yl]acetamide	"AAADceBzPAAAAAAAAAAAAAAAAAAAAAAAAAA0QAAAAAAAAAABAAAAHgAUCAAADDzhmAYyyILQRgCJ
+AiVSUwCCAAAgAgAoiIAIbIobNiKAsZmHcABn1gGf+Afw8PcOCAAAAAAAAAAQAAAAAAAAAAAAAAAA
+AA=="	4-nitrophenyl N-acetyl-beta-d-galactosamine
+0	2733787	CC1=CC(=O)OC2=C1C=CC(=C2)OC3C(C(C(C(O3)CO)O)O)NC(=O)C	N-[(2S,3R,4R,5S,6R)-4,5-dihydroxy-6-(hydroxymethyl)-2-(4-methyl-2-oxochromen-7-yl)oxyoxan-3-yl]acetamide	"AAADceB6PAAAAAAAAAAAAAAAAAAAAAAAAAA0QIAAAAAAAACBAAAAHgAQCAAADDzxmAcyDoLABgCI
+AiHSGAACCAAgIAAIiIAOCMgfNyKEsRqneiCn1hWfqQfw8K8OIAAACAAIAABAAAAQABAAAAAAAAAA
+AA=="	4-Methylumbelliferyl-N-acetyl-beta-D-glucosaminide
+0	6134	C(C1C(C(C(C(O1)OC2C(OC(C(C2O)O)O)CO)O)O)O)O	(2R,3R,4S,5R,6S)-2-(hydroxymethyl)-6-[(2R,3S,4R,5R,6R)-4,5,6-trihydroxy-2-(hydroxymethyl)oxan-3-yl]oxyoxane-3,4,5-triol	"AAADceBwPAAAAAAAAAAAAAAAAAAAAAAAAAAkSAAAAAAAAAAAAAAAGgAACAAACBSwgAMACAAABgAA
+AAAAAAAAAAAAAAAAAAAAAAAREAIAAAAiQAAFAAAHAAHAYAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AA=="	beta-Lactose
+0	84723	CC(=O)NC1C(C(C(OC1OC2=CC=C(C=C2)[N+](=O)[O-])CO)O)O	N-[(2S,3R,4R,5R,6R)-4,5-dihydroxy-6-(hydroxymethyl)-2-(4-nitrophenoxy)oxan-3-yl]acetamide	"AAADceBzPAAAAAAAAAAAAAAAAAAAAAAAAAA0QAAAAAAAAAABAAAAHgAUCAAACDzxkAcyzoLQRgCJ
+ACVSUwCCCAAgIgAoiIAObIofNiKEsZuneCDn1hGf6AfwcA8AAEAAAAAAAAAAgAAAAAAAAAAAAAAA
+AA=="	4-nitrophenyl 2-acetamido-2-deoxy-beta-D-galactopyranoside
+0	10156719	CC(=O)NC1C(C(C(OC1O)CO)OC2C(C(C(C(O2)CO)O)O)N)O	N-[(2R,3R,4R,5S,6R)-5-[(2S,3R,4R,5S,6R)-3-amino-4,5-dihydroxy-6-(hydroxymethyl)oxan-2-yl]oxy-2,4-dihydroxy-6-(hydroxymethyl)oxan-3-yl]acetamide	"AAADceBzPAAAAAAAAAAAAAAAAAAAAAAAAAAkSAAAAAAAAAAAAAAAHgAQCAAACDzxgAcCCALABgAI
+AAEQEAAAAAAAAAAAAIAIAAATEAIAgAAnQAAHFgCXAAHwcA8AAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AA=="	beta-D-glucosaminyl-(1->4)-N-acetyl-beta-D-glucosamine
+1	10959909	CC(=O)NC1C(C(C(OC1O)CO)OC2C(C(C(C(O2)CO)O)O)N)O	N-[(3R,4R,5S,6R)-5-[(2S,3R,4R,5S,6R)-3-amino-4,5-dihydroxy-6-(hydroxymethyl)oxan-2-yl]oxy-2,4-dihydroxy-6-(hydroxymethyl)oxan-3-yl]acetamide	"AAADceBzPAAAAAAAAAAAAAAAAAAAAAAAAAAkSAAAAAAAAAAAAAAAHgAQCAAACDzxgAcCCALABgAI
+AAEQEAAAAAAAAAAAAIAIAAATEAIAgAAnQAAHFgCXAAHwcA8AAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AA=="	N-acetylchitobiose
+0	197182	CC(=O)NC1C(C(C(OC1OC2C(OC(C(C2O)NC(=O)C)OC3C(OC(C(C3O)NC(=O)C)OC4C(OC(C(C4O)NC(=O)C)OC5C(OC(C(C5O)NC(=O)C)OC(C(CO)O)C(C(C=O)NC(=O)C)O)CO)CO)CO)CO)CO)O)O	N-[(2S,3R,4R,5S,6R)-2-[(2R,3S,4R,5R,6S)-5-acetamido-6-[(2R,3S,4R,5R,6S)-5-acetamido-6-[(2R,3S,4R,5R,6S)-5-acetamido-6-[(2R,3S,4R,5R,6S)-5-acetamido-6-[(2R,3S,4R,5R)-5-acetamido-1,2,4-trihydroxy-6-oxohexan-3-yl]oxy-4-hydroxy-2-(hydroxymethyl)oxan-3-yl]oxy-4-hydroxy-2-(hydroxymethyl)oxan-3-yl]oxy-4-hydroxy-2-(hydroxymethyl)oxan-3-yl]oxy-4-hydroxy-2-(hydroxymethyl)oxan-3-yl]oxy-4,5-dihydroxy-6-(hydroxymethyl)oxan-3-yl]acetamide	"AAADcfB/vgAAAAAAAAAAAAAAAAAAAAAAAAAkSJEiQAAAAAAAAAAAHgAQCAAACDzxgAcCCALABgAI
+AAkQkAAAAAAAAAAAAIGIAAATEBYAgCAnQAAHNgCXAAH6fA9AAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AA=="	N-Acetylchitohexaose
+0	123774	CC(=O)NC1C(C(C(OC1OC2C(OC(C(C2O)NC(=O)C)OC(C(CO)O)C(C(C=O)NC(=O)C)O)CO)CO)O)O	N-[(2S,3R,4R,5S,6R)-2-[(2R,3S,4R,5R,6S)-5-acetamido-6-[(2R,3S,4R,5R)-5-acetamido-1,2,4-trihydroxy-6-oxohexan-3-yl]oxy-4-hydroxy-2-(hydroxymethyl)oxan-3-yl]oxy-4,5-dihydroxy-6-(hydroxymethyl)oxan-3-yl]acetamide	"AAADcfB7PgAAAAAAAAAAAAAAAAAAAAAAAAAkSAAAAAAAAAAAAAAAHgAQCAAACDzxgAcCCALABgAI
+AAkQkAAAAAAAAAAAAIGIAAATEBYAgCAnQAAHNgCXAAH6fA9AAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AA=="	N,N',N''-triacetylchitotriose
+0	102416	CC(=O)NC1C(C(C(OC1OC2=CC=C(C=C2)[N+](=O)[O-])CO)O)O	N-[(2S,3R,4R,5S,6R)-4,5-dihydroxy-6-(hydroxymethyl)-2-(4-nitrophenoxy)oxan-3-yl]acetamide	"AAADceBzPAAAAAAAAAAAAAAAAAAAAAAAAAA0QAAAAAAAAAABAAAAHgAUCAAACDzxkAcyzoLQRgCJ
+ACVSUwCCCAAgIgAoiIAObIofNiKEsZuneCDn1hGf6AfwcA8AAEAAAAAAAAAAgAAAAAAAAAAAAAAA
+AA=="	4'-Nitrophenyl-2-acetamido-2-deoxy-beta-glucopyranoside
+0	10887738	C(C1C(C(C(C(O1)OC2C(OC(C(C2O)O)OC3C(OC(C(C3O)O)OC4C(OC(C(C4O)O)OC5C(OC(C(C5O)O)OC6C(OC(C(C6O)O)OC7C(OC(C(C7O)O)OC8C(OC(C(C8O)O)O)CO)CO)CO)CO)CO)CO)CO)O)O)O)O	(2R,3R,4S,5S,6R)-2-[(2R,3S,4R,5R,6R)-6-[(2R,3S,4R,5R,6R)-6-[(2R,3S,4R,5R,6R)-6-[(2R,3S,4R,5R,6R)-6-[(2R,3S,4R,5R,6R)-6-[(2R,3S,4R,5R,6R)-4,5-dihydroxy-2-(hydroxymethyl)-6-[(2R,3S,4R,5R)-4,5,6-trihydroxy-2-(hydroxymethyl)oxan-3-yl]oxyoxan-3-yl]oxy-4,5-dihydroxy-2-(hydroxymethyl)oxan-3-yl]oxy-4,5-dihydroxy-2-(hydroxymethyl)oxan-3-yl]oxy-4,5-dihydroxy-2-(hydroxymethyl)oxan-3-yl]oxy-4,5-dihydroxy-2-(hydroxymethyl)oxan-3-yl]oxy-4,5-dihydroxy-2-(hydroxymethyl)oxan-3-yl]oxy-6-(hydroxymethyl)oxane-3,4,5-triol	"AAADcfB8PgAAAAAAAAAAAAAAAAAAAAAAAAAkSJEiQAAAAAAAAAAAGgAACAAACBSwgAMACAAABgAA
+AAAAAAAAAAAAAAAAAAAAAAAREAIAAAAiQAAFAAAHAAHAYAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AA=="	Glc(a1-4)Glc(a1-4)Glc(a1-4)Glc(a1-4)Glc(a1-4)Glc(a1-4)Glc(a1-4)Glc
+1	13909001	C(C1C(C(C(C(O1)OC2C(OC(C(C2O)O)OC3C(OC(C(C3O)O)OC4C(OC(C(C4O)O)OC5C(OC(C(C5O)O)OC6C(OC(C(C6O)O)OC7C(OC(C(C7O)O)OC8C(OC(C(C8O)O)O)CO)CO)CO)CO)CO)CO)CO)O)O)O)O	2-[6-[6-[6-[6-[6-[4,5-dihydroxy-2-(hydroxymethyl)-6-[4,5,6-trihydroxy-2-(hydroxymethyl)oxan-3-yl]oxyoxan-3-yl]oxy-4,5-dihydroxy-2-(hydroxymethyl)oxan-3-yl]oxy-4,5-dihydroxy-2-(hydroxymethyl)oxan-3-yl]oxy-4,5-dihydroxy-2-(hydroxymethyl)oxan-3-yl]oxy-4,5-dihydroxy-2-(hydroxymethyl)oxan-3-yl]oxy-4,5-dihydroxy-2-(hydroxymethyl)oxan-3-yl]oxy-6-(hydroxymethyl)oxane-3,4,5-triol	"AAADcfB8PgAAAAAAAAAAAAAAAAAAAAAAAAAkSJEiQAAAAAAAAAAAGgAACAAACBSwgAMACAAABgAA
+AAAAAAAAAAAAAAAAAAAAAAAREAIAAAAiQAAFAAAHAAHAYAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AA=="	Maltooctaose
+2	101612180	C(C1C(C(C(C(O1)OC2C(OC(C(C2O)O)OC3C(OC(C(C3O)O)OC4C(OC(C(C4O)O)OC5C(OC(C(C5O)O)OC6C(OC(C(C6O)O)OC7C(OC(C(C7O)O)OC8C(OC(C(C8O)O)O)CO)CO)CO)CO)CO)CO)CO)O)O)O)O	(2R,4S,5S,6S)-2-[(2S,3S,4R,6R)-6-[(2S,3S,4R,6R)-6-[(2S,3S,4R,6R)-6-[(2R,3S,4S,5S,6R)-6-[(2R,3S,4S,5S,6R)-6-[(2R,3S,4S,5S,6R)-4,5-dihydroxy-2-(hydroxymethyl)-6-[(2R,3S,4S,5S,6S)-4,5,6-trihydroxy-2-(hydroxymethyl)oxan-3-yl]oxyoxan-3-yl]oxy-4,5-dihydroxy-2-(hydroxymethyl)oxan-3-yl]oxy-4,5-dihydroxy-2-(hydroxymethyl)oxan-3-yl]oxy-4,5-dihydroxy-2-(hydroxymethyl)oxan-3-yl]oxy-4,5-dihydroxy-2-(hydroxymethyl)oxan-3-yl]oxy-4,5-dihydroxy-2-(hydroxymethyl)oxan-3-yl]oxy-6-(hydroxymethyl)oxane-3,4,5-triol	"AAADcfB8PgAAAAAAAAAAAAAAAAAAAAAAAAAkSJEiQAAAAAAAAAAAGgAACAAACBSwgAMACAAABgAA
+AAAAAAAAAAAAAAAAAAAAAAAREAIAAAAiQAAFAAAHAAHAYAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AA=="	Hex(?1-4)Hex(?1-4)Hex(?1-4)Hex(?1-4)D-Alt(a1-4)D-Alt(a1-4)D-Alt(a1-4)a-D-Alt
+3	131769786	C(C1C(C(C(C(O1)OC2C(OC(C(C2O)O)OC3C(OC(C(C3O)O)OC4C(OC(C(C4O)O)OC5C(OC(C(C5O)O)OC6C(OC(C(C6O)O)OC7C(OC(C(C7O)O)OC8C(OC(C(C8O)O)O)CO)CO)CO)CO)CO)CO)CO)O)O)O)O	(2R,3R,4S,5S,6R)-2-[(2R,3S,4R,5R,6R)-6-[(2R,3S,4R,5R,6R)-6-[(2R,3S,4R,5R,6R)-6-[(2R,3S,4R,5R,6R)-6-[(2R,3S,4R,5R,6R)-6-[(2R,3S,4R,5R,6R)-4,5-dihydroxy-2-(hydroxymethyl)-6-[(2R,3S,4R,5R,6S)-4,5,6-trihydroxy-2-(hydroxymethyl)oxan-3-yl]oxyoxan-3-yl]oxy-4,5-dihydroxy-2-(hydroxymethyl)oxan-3-yl]oxy-4,5-dihydroxy-2-(hydroxymethyl)oxan-3-yl]oxy-4,5-dihydroxy-2-(hydroxymethyl)oxan-3-yl]oxy-4,5-dihydroxy-2-(hydroxymethyl)oxan-3-yl]oxy-4,5-dihydroxy-2-(hydroxymethyl)oxan-3-yl]oxy-6-(hydroxymethyl)oxane-3,4,5-triol	"AAADcfB8PgAAAAAAAAAAAAAAAAAAAAAAAAAkSJEiQAAAAAAAAAAAGgAACAAACBSwgAMACAAABgAA
+AAAAAAAAAAAAAAAAAAAAAAAREAIAAAAiQAAFAAAHAAHAYAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AA=="	Glc(a1-4)Glc(a1-4)Glc(a1-4)Glc(a1-4)Glc(a1-4)Glc(a1-4)Glc(a1-4)a-Glc
+0	101432358	C(C1C2C(C(C(O1)OC3C(OC(C(C3O)O)OC4C(OC(C(C4O)O)OC5C(OC(O2)C(C5O)O)CO)CO)CO)O)O)O	(1S,3R,5R,6S,8R,10R,11S,13R,15R,16S,18R,20R,21R,22R,23R,24R,25R,26R,27R,28R)-5,10,15,20-tetrakis(hydroxymethyl)-2,4,7,9,12,14,17,19-octaoxapentacyclo[16.2.2.23,6.28,11.213,16]octacosane-21,22,23,24,25,26,27,28-octol	"AAADcfB4PgAAAAAAAAAAAAAAAAAAAAAAAAAkSJEgAAAAAAAAAAAAGgAACAAACBSwgAMACAAABgAA
+AAAAAAAAAAAAAAAAAAAAAAAREAIAAAAiQAAFAAAHAAHAYAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AA=="	Cyclomaltodextrin
+0	16218488	C1=CC(=CC=C1[N+](=O)[O-])OC2C(C(C(C(O2)CO)OC3C(C(C(C(O3)CO)OC4C(C(C(C(O4)CO)OC5C(C(C(C(O5)CO)OC6C(C(C(C(O6)CO)OC7C(C(C(C(O7)CO)O)O)O)O)O)O)O)O)O)O)O)O)O	(2R,3R,4S,5S,6R)-2-[(2R,3S,4R,5R,6R)-6-[(2R,3S,4R,5R,6R)-6-[(2R,3S,4R,5R,6R)-6-[(2R,3S,4R,5R,6R)-6-[(2R,3S,4R,5R,6R)-4,5-dihydroxy-2-(hydroxymethyl)-6-(4-nitrophenoxy)oxan-3-yl]oxy-4,5-dihydroxy-2-(hydroxymethyl)oxan-3-yl]oxy-4,5-dihydroxy-2-(hydroxymethyl)oxan-3-yl]oxy-4,5-dihydroxy-2-(hydroxymethyl)oxan-3-yl]oxy-4,5-dihydroxy-2-(hydroxymethyl)oxan-3-yl]oxy-6-(hydroxymethyl)oxane-3,4,5-triol	"AAADcfB+PgAAAAAAAAAAAAAAAAAAAAAAAAA0SJEiQAAAAAABAAAAHgAECAAACByxkAMwzoAQRgCB
+ACRCQwCCCAAgIgAoiAAGbIodNiKEsZuieCDlwBEP6AfwYAwAAEAAAAAAAAAAgAAAAAAAAAAAAAAA
+AA=="	4-Nitrophenyl-alpha-D-maltohexaoside
+1	75409969	C1=CC(=CC=C1[N+](=O)[O-])OC2C(C(C(C(O2)CO)OC3C(C(C(C(O3)CO)OC4C(C(C(C(O4)CO)OC5C(C(C(C(O5)CO)OC6C(C(C(C(O6)CO)OC7C(C(C(C(O7)CO)O)O)O)O)O)O)O)O)O)O)O)O)O	2-[(2R,3S,4R,5R,6R)-6-[(2R,3S,4R,5R,6R)-6-[(2R,3S,4R,5R,6R)-6-[(2R,3S,4R,5R,6R)-6-[(2R,3S,4R,5R,6R)-4,5-dihydroxy-2-(hydroxymethyl)-6-(4-nitrophenoxy)oxan-3-yl]oxy-4,5-dihydroxy-2-(hydroxymethyl)oxan-3-yl]oxy-4,5-dihydroxy-2-(hydroxymethyl)oxan-3-yl]oxy-4,5-dihydroxy-2-(hydroxymethyl)oxan-3-yl]oxy-4,5-dihydroxy-2-(hydroxymethyl)oxan-3-yl]oxy-6-(hydroxymethyl)oxane-3,4,5-triol	"AAADcfB+PgAAAAAAAAAAAAAAAAAAAAAAAAA0SJEiQAAAAAABAAAAHgAECAAACByxkAMwzoAQRgCB
+ACRCQwCCCAAgIgAoiAAGbIodNiKEsZuieCDlwBEP6AfwYAwAAEAAAAAAAAAAgAAAAAAAAAAAAAAA
+AA=="	Hex(?1-4)Glc(a1-4)Glc(a1-4)Glc(a1-4)Glc(a1-4)Glc(a)-O-Ph(4-NO2)
+2	101121378	C1=CC(=CC=C1[N+](=O)[O-])OC2C(C(C(C(O2)CO)OC3C(C(C(C(O3)CO)OC4C(C(C(C(O4)CO)OC5C(C(C(C(O5)CO)OC6C(C(C(C(O6)CO)OC7C(C(C(C(O7)CO)O)O)O)O)O)O)O)O)O)O)O)O)O	(2S,3R,4S,5S,6R)-2-[(2R,3S,4R,5R,6S)-6-[(2R,3S,4R,5R,6S)-6-[(2R,3S,4R,5R,6S)-6-[(2R,3S,4R,5R,6S)-6-[(2R,3S,4R,5R,6S)-4,5-dihydroxy-2-(hydroxymethyl)-6-(4-nitrophenoxy)oxan-3-yl]oxy-4,5-dihydroxy-2-(hydroxymethyl)oxan-3-yl]oxy-4,5-dihydroxy-2-(hydroxymethyl)oxan-3-yl]oxy-4,5-dihydroxy-2-(hydroxymethyl)oxan-3-yl]oxy-4,5-dihydroxy-2-(hydroxymethyl)oxan-3-yl]oxy-6-(hydroxymethyl)oxane-3,4,5-triol	"AAADcfB+PgAAAAAAAAAAAAAAAAAAAAAAAAA0SJEiQAAAAAABAAAAHgAECAAACByxkAMwzoAQRgCB
+ACRCQwCCCAAgIgAoiAAGbIodNiKEsZuieCDlwBEP6AfwYAwAAEAAAAAAAAAAgAAAAAAAAAAAAAAA
+AA=="	4-Nitrophenyl 4-O-[4-O-[4-O-[4-O-(4-O-beta-D-glucopyranosyl-beta-D-glucopyranosyl)-beta-D-glucopyranosyl]-beta-D-glucopyranosyl]-beta-D-glucopyranosyl]-beta-D-glucopyranoside
+0	14017115	C(C1C(C(C(C(O1)OCC2C3C(C(C(O2)OC4C(OC(C(C4O)O)OC5C(OC(C(C5O)O)OC6C(OC(C(C6O)O)OC7C(OC(C(C7O)O)OC8C(OC(O3)C(C8O)O)CO)CO)CO)CO)CO)O)O)O)O)O)O	(1S,3R,5R,6S,8R,10R,11S,13R,15R,16S,18R,20R,21S,23R,25R,26S,28R,30R,31R,32R,33R,34R,35R,36R,37R,38R,39R,40R,41R,42R)-5,10,15,20,25-pentakis(hydroxymethyl)-30-[[(2S,3R,4S,5S,6R)-3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl]oxymethyl]-2,4,7,9,12,14,17,19,22,24,27,29-dodecaoxaheptacyclo[26.2.2.23,6.28,11.213,16.218,21.223,26]dotetracontane-31,32,33,34,35,36,37,38,39,40,41,42-dodecol	"AAADcfB8PgAAAAAAAAAAAAAAAAAAAAAAAAAkSJEiQAAAAAAAAAAAGgAACAAACBSwgAMACAAABgAA
+AAAAAAAAAAAAAAAAAAAAAAAREAIAAAAiQAAFAAAHAAHAYAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AA=="	(1S,3R,5R,6S,8R,10R,11S,13R,15R,16S,18R,20R,21S,23R,25R,26S,28R,30R,31R,32R,33R,34R,35R,36R,37R,38R,39R,40R,41R,42R)-5,10,15,20,25-pentakis(hydroxymethyl)-30-[[(2S,3R,4S,5S,6R)-3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl]oxymethyl]-2,4,7,9,12,14,17,19,22,24,27,29-dodecaoxaheptacyclo[26.2.2.23,6.28,11.213,16.218,21.223,26]dotetracontane-31,32,33,34,35,36,37,38,39,40,41,42-dodecol
+0	15608644	C(C1C(C(C(C(O1)OCC2C3C(C(C(O2)OC4C(OC(C(C4O)O)OC5C(OC(C(C5O)O)OC6C(OC(C(C6O)O)OC7C(OC(C(C7O)O)OC8C(OC(C(C8O)O)OC9C(OC(O3)C(C9O)O)CO)CO)CO)CO)CO)CO)O)O)O)O)O)O	(1S,3R,5R,6S,8R,10R,11S,13R,15R,16S,18R,20R,21S,23R,25R,26S,28R,30R,31S,33R,35R,36R,37R,38R,39R,40R,41R,42R,43R,44R,45R,46R,47R,48R,49R)-5,10,15,20,30,35-hexakis(hydroxymethyl)-25-[[(2S,3R,4S,5S,6R)-3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl]oxymethyl]-2,4,7,9,12,14,17,19,22,24,27,29,32,34-tetradecaoxaoctacyclo[31.2.2.23,6.28,11.213,16.218,21.223,26.228,31]nonatetracontane-36,37,38,39,40,41,42,43,44,45,46,47,48,49-tetradecol	"AAADcfB8PgAAAAAAAAAAAAAAAAAAAAAAAAAkSJEiQAAAAAAAAAAAGgAACAAACBSwgAMACAAABgAA
+AAAAAAAAAAAAAAAAAAAAAAAREAIAAAAiQAAFAAAHAAHAYAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AA=="	6-O-alpha-D-Glucosyl-beta-cyclodextrin
+0	41774	CC1C(C(C(C(O1)OC2C(OC(C(C2O)O)OC3C(OC(C(C3O)O)O)CO)CO)O)O)NC4C=C(C(C(C4O)O)O)CO	(3R,4R,5S,6R)-5-[(2R,3R,4R,5S,6R)-5-[(2R,3R,4S,5S,6R)-3,4-dihydroxy-6-methyl-5-[[(1S,4R,5S,6S)-4,5,6-trihydroxy-3-(hydroxymethyl)cyclohex-2-en-1-yl]amino]oxan-2-yl]oxy-3,4-dihydroxy-6-(hydroxymethyl)oxan-2-yl]oxy-6-(hydroxymethyl)oxane-2,3,4-triol	"AAADcfB6PgAAAAAAAAAAAAAAAAAAAAAAAAAkSJEAAAAAAAAAAAAAHgAQCAAADDzxgAcCCALABgCA
+AiBCAACAAAAgAAAACIAIAAgTFAIAgQAnUAAH0ACfEAPw4CwAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AA=="	Precose
+1	444254	CC1C(C(C(C(O1)OC2C(OC(C(C2O)O)OC3C(OC(C(C3O)O)O)CO)CO)O)O)NC4C=C(C(C(C4O)O)O)CO	(2R,3R,4R,5S,6R)-5-[(2R,3R,4R,5S,6R)-5-[(2R,3R,4S,5S,6R)-3,4-dihydroxy-6-methyl-5-[[(1S,4R,5S,6S)-4,5,6-trihydroxy-3-(hydroxymethyl)cyclohex-2-en-1-yl]amino]oxan-2-yl]oxy-3,4-dihydroxy-6-(hydroxymethyl)oxan-2-yl]oxy-6-(hydroxymethyl)oxane-2,3,4-triol	"AAADcfB6PgAAAAAAAAAAAAAAAAAAAAAAAAAkSJEAAAAAAAAAAAAAHgAQCAAADDzxgAcCCALABgCA
+AiBCAACAAAAgAAAACIAIAAgTFAIAgQAnUAAH0ACfEAPw4CwAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AA=="	Acarbose
+2	4432690	CC1C(C(C(C(O1)OC2C(OC(C(C2O)O)OC3C(OC(C(C3O)O)O)CO)CO)O)O)NC4C=C(C(C(C4O)O)O)CO	5-[5-[3,4-dihydroxy-6-methyl-5-[[4,5,6-trihydroxy-3-(hydroxymethyl)cyclohex-2-en-1-yl]amino]oxan-2-yl]oxy-3,4-dihydroxy-6-(hydroxymethyl)oxan-2-yl]oxy-6-(hydroxymethyl)oxane-2,3,4-triol	"AAADcfB6PgAAAAAAAAAAAAAAAAAAAAAAAAAkSJEAAAAAAAAAAAAAHgAQCAAADDzxgAcCCALABgCA
+AiBCAACAAAAgAAAACIAIAAgTFAIAgQAnUAAH0ACfEAPw4CwAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AA=="	Glucobay
+3	441184	CC1C(C(C(C(O1)OC2C(OC(C(C2O)O)OC3C(OC(C(C3O)O)O)CO)CO)O)O)NC4C=C(C(C(C4O)O)O)CO	(2R,3R,4R,5S,6R)-5-[(2R,3R,4R,5S,6R)-5-[(2R,3R,4S,5S,6R)-3,4-dihydroxy-6-methyl-5-[[(1S,4S,5S,6S)-4,5,6-trihydroxy-3-(hydroxymethyl)cyclohex-2-en-1-yl]amino]oxan-2-yl]oxy-3,4-dihydroxy-6-(hydroxymethyl)oxan-2-yl]oxy-6-(hydroxymethyl)oxane-2,3,4-triol	"AAADcfB6PgAAAAAAAAAAAAAAAAAAAAAAAAAkSJEAAAAAAAAAAAAAHgAQCAAADDzxgAcCCALABgCA
+AiBCAACAAAAgAAAACIAIAAgTFAIAgQAnUAAH0ACfEAPw4CwAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AA=="	Acarbosum
+4	445421	CC1C(C(C(C(O1)OC2C(OC(C(C2O)O)OC3C(OC(C(C3O)O)O)CO)CO)O)O)NC4C=C(C(C(C4O)O)O)CO	(2S,3R,4R,5S,6R)-5-[(2R,3R,4R,5S,6R)-5-[(2R,3R,4S,5S,6R)-3,4-dihydroxy-6-methyl-5-[[(1S,4R,5S,6S)-4,5,6-trihydroxy-3-(hydroxymethyl)cyclohex-2-en-1-yl]amino]oxan-2-yl]oxy-3,4-dihydroxy-6-(hydroxymethyl)oxan-2-yl]oxy-6-(hydroxymethyl)oxane-2,3,4-triol	"AAADcfB6PgAAAAAAAAAAAAAAAAAAAAAAAAAkSJEAAAAAAAAAAAAAHgAQCAAADDzxgAcCCALABgCA
+AiBCAACAAAAgAAAACIAIAAgTFAIAgQAnUAAH0ACfEAPw4CwAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AA=="	Alpha-Acarbose
+5	44891366	CC1C(C(C(C(O1)OC2C(OC(C(C2O)O)OC3C(OC(C(C3O)O)O)CO)CO)O)O)NC4C=C(C(C(C4O)O)O)CO	(3R,4R,6R)-5-[(3R,4R,6R)-5-[(3R,4S,5S,6R)-3,4-dihydroxy-6-methyl-5-[[(1S,4R,5S,6S)-4,5,6-trihydroxy-3-(hydroxymethyl)cyclohex-2-en-1-yl]amino]oxan-2-yl]oxy-3,4-dihydroxy-6-(hydroxymethyl)oxan-2-yl]oxy-6-(hydroxymethyl)oxane-2,3,4-triol	"AAADcfB6PgAAAAAAAAAAAAAAAAAAAAAAAAAkSJEAAAAAAAAAAAAAHgAQCAAADDzxgAcCCALABgCA
+AiBCAACAAAAgAAAACIAIAAgTFAIAgQAnUAAH0ACfEAPw4CwAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AA=="	(3R,4R,6R)-5-[(3R,4R,6R)-5-[(3R,4S,5S,6R)-3,4-dihydroxy-6-methyl-5-[[(1S,4R,5S,6S)-4,5,6-trihydroxy-3-(hydroxymethyl)cyclohex-2-en-1-yl]amino]oxan-2-yl]oxy-3,4-dihydroxy-6-(hydroxymethyl)oxan-2-yl]oxy-6-(hydroxymethyl)oxane-2,3,4-triol
+6	71312704	CC1C(C(C(C(O1)OC2C(OC(C(C2O)O)OC3C(OC(C(C3O)O)O)CO)CO)O)O)NC4C=C(C(C(C4O)O)O)CO	(4R,5S)-5-[(2R,4R,5S)-5-[(2R,4S,5S)-3,4-dihydroxy-6-methyl-5-[[4,5,6-trihydroxy-3-(hydroxymethyl)cyclohex-2-en-1-yl]amino]oxan-2-yl]oxy-3,4-dihydroxy-6-(hydroxymethyl)oxan-2-yl]oxy-6-(hydroxymethyl)oxane-2,3,4-triol	"AAADcfB6PgAAAAAAAAAAAAAAAAAAAAAAAAAkSJEAAAAAAAAAAAAAHgAQCAAADDzxgAcCCALABgCA
+AiBCAACAAAAgAAAACIAIAAgTFAIAgQAnUAAH0ACfEAPw4CwAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AA=="	(4R,5S)-5-[(2R,4R,5S)-5-[(2R,4S,5S)-3,4-dihydroxy-6-methyl-5-[[4,5,6-trihydroxy-3-(hydroxymethyl)cyclohex-2-en-1-yl]amino]oxan-2-yl]oxy-3,4-dihydroxy-6-(hydroxymethyl)oxan-2-yl]oxy-6-(hydroxymethyl)oxane-2,3,4-triol
+7	18397995	CC1C(C(C(C(O1)OC2C(OC(C(C2O)O)OC3C(OC(C(C3O)O)O)CO)CO)O)O)NC4C=C(C(C(C4O)O)O)CO	(3R,4R,6R)-5-[(3R,4R,6R)-5-[(3R,4S,6R)-3,4-dihydroxy-6-methyl-5-[[(1S,4R,5S,6S)-4,5,6-trihydroxy-3-(hydroxymethyl)cyclohex-2-en-1-yl]amino]oxan-2-yl]oxy-3,4-dihydroxy-6-(hydroxymethyl)oxan-2-yl]oxy-6-(hydroxymethyl)oxane-2,3,4-triol	"AAADcfB6PgAAAAAAAAAAAAAAAAAAAAAAAAAkSJEAAAAAAAAAAAAAHgAQCAAADDzxgAcCCALABgCA
+AiBCAACAAAAgAAAACIAIAAgTFAIAgQAnUAAH0ACfEAPw4CwAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AA=="	(3R,4R,6R)-5-[(3R,4R,6R)-5-[(3R,4S,6R)-3,4-Dihydroxy-6-methyl-5-[[(1S,4R,5S,6S)-4,5,6-trihydroxy-3-(hydroxymethyl)cyclohex-2-en-1-yl]amino]oxan-2-yl]oxy-3,4-dihydroxy-6-(hydroxymethyl)oxan-2-yl]oxy-6-(hydroxymethyl)oxane-2,3,4-triol
+8	122172882	CC1C(C(C(C(O1)OC2C(OC(C(C2O)O)OC3C(OC(C(C3O)O)O)CO)CO)O)O)NC4C=C(C(C(C4O)O)O)CO	(3R,4R,6R)-5-[(2R,3R,4R,5S,6R)-5-[(2R,3R,4S,5S,6R)-3,4-dihydroxy-6-methyl-5-[[(1S,4R,5S,6S)-4,5,6-trihydroxy-3-(hydroxymethyl)cyclohex-2-en-1-yl]amino]oxan-2-yl]oxy-3,4-dihydroxy-6-(hydroxymethyl)oxan-2-yl]oxy-6-(hydroxymethyl)oxane-2,3,4-triol	"AAADcfB6PgAAAAAAAAAAAAAAAAAAAAAAAAAkSJEAAAAAAAAAAAAAHgAQCAAADDzxgAcCCALABgCA
+AiBCAACAAAAgAAAACIAIAAgTFAIAgQAnUAAH0ACfEAPw4CwAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AA=="	(3R,4R,6R)-5-[(2R,3R,4R,5S,6R)-5-[(2R,3R,4S,5S,6R)-3,4-dihydroxy-6-methyl-5-[[(1S,4R,5S,6S)-4,5,6-trihydroxy-3-(hydroxymethyl)cyclohex-2-en-1-yl]amino]oxan-2-yl]oxy-3,4-dihydroxy-6-(hydroxymethyl)oxan-2-yl]oxy-6-(hydroxymethyl)oxane-2,3,4-triol
+9	129010024	CC1C(C(C(C(O1)OC2C(OC(C(C2O)O)OC3C(OC(C(C3O)O)O)CO)CO)O)O)NC4C=C(C(C(C4O)O)O)CO	(2R,3R,4R,5S,6S)-5-[(2R,3R,4R,5S,6S)-5-[(2R,3R,4S,5S,6S)-3,4-dihydroxy-6-methyl-5-[[(1S,4R,5S,6R)-4,5,6-trihydroxy-3-(hydroxymethyl)cyclohex-2-en-1-yl]amino]oxan-2-yl]oxy-3,4-dihydroxy-6-(hydroxymethyl)oxan-2-yl]oxy-6-(hydroxymethyl)oxane-2,3,4-triol	"AAADcfB6PgAAAAAAAAAAAAAAAAAAAAAAAAAkSJEAAAAAAAAAAAAAHgAQCAAADDzxgAcCCALABgCA
+AiBCAACAAAAgAAAACIAIAAgTFAIAgQAnUAAH0ACfEAPw4CwAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AA=="	(2R,3R,4R,5S,6S)-5-[(2R,3R,4R,5S,6S)-5-[(2R,3R,4S,5S,6S)-3,4-dihydroxy-6-methyl-5-[[(1S,4R,5S,6R)-4,5,6-trihydroxy-3-(hydroxymethyl)cyclohex-2-en-1-yl]amino]oxan-2-yl]oxy-3,4-dihydroxy-6-(hydroxymethyl)oxan-2-yl]oxy-6-(hydroxymethyl)oxane-2,3,4-triol
+10	134694648	CC1C(C(C(C(O1)OC2C(OC(C(C2O)O)OC3C(OC(C(C3O)O)O)CO)CO)O)O)NC4C=C(C(C(C4O)O)O)CO	(2R,5S,6R)-5-[(5S,6R)-5-[(2R,3R,6R)-3,4-dihydroxy-6-methyl-5-[[(4R)-4,5,6-trihydroxy-3-(hydroxymethyl)cyclohex-2-en-1-yl]amino]oxan-2-yl]oxy-3,4-dihydroxy-6-(hydroxymethyl)oxan-2-yl]oxy-6-(hydroxymethyl)oxane-2,3,4-triol	"AAADcfB6PgAAAAAAAAAAAAAAAAAAAAAAAAAkSJEAAAAAAAAAAAAAHgAQCAAADDzxgAcCCALABgCA
+AiBCAACAAAAgAAAACIAIAAgTFAIAgQAnUAAH0ACfEAPw4CwAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AA=="	(2R,5S,6R)-5-[(5S,6R)-5-[(2R,3R,6R)-3,4-dihydroxy-6-methyl-5-[[(4R)-4,5,6-trihydroxy-3-(hydroxymethyl)cyclohex-2-en-1-yl]amino]oxan-2-yl]oxy-3,4-dihydroxy-6-(hydroxymethyl)oxan-2-yl]oxy-6-(hydroxymethyl)oxane-2,3,4-triol
+0	122402122	C1=CC(=CC(=C1)OC2C(C(C(O2)CO)O)O)[N+](=O)[O-]	(2S,3R,4R,5S)-2-(hydroxymethyl)-5-(3-nitrophenoxy)oxolane-3,4-diol	"AAADccByOAAAAAAAAAAAAAAAAAAAASAAAAAwAAAAAAAAAAABAAAAHgAECAAACByxkAMwzoAQRgCB
+ACRCQwCCCAAgIgAoiAAGbIodNiKEsZuieCDnwBkP6AfQcAkAAAAAAgAAAAAAAAAEAAAAAAAAAAAA
+AA=="	3-Nitrophenyl alpha-L-arabinofuranoside
+0	122402114	C1=CC(=C(C=C1[N+](=O)[O-])OC2C(C(C(O2)CO)O)O)[N+](=O)[O-]	(2S,3R,4R,5S)-2-(2,5-dinitrophenoxy)-5-(hydroxymethyl)oxolane-3,4-diol	"AAADccBzPAAAAAAAAAAAAAAAAAAAASAAAAAwAAAAAAAAAAABAAAAHgAECAAACByxkAMwzoAQRgCB
+ACRCQwCCCAAgIgAoiAAHbIofNiKEsZujeCDnwFkP6AfQcAkAAACAAgAAEAAAAQAEAAAgAAAAAAAA
+AA=="	2,5-Dinitrophenyl alpha-L-arabinofuranoside
+0	151437	C1=CC(=CC=C1[N+](=O)[O-])OC2C(C(C(O2)CO)O)O	(2S,3R,4R,5S)-2-(hydroxymethyl)-5-(4-nitrophenoxy)oxolane-3,4-diol	"AAADccByOAAAAAAAAAAAAAAAAAAAASAAAAAwAAAAAAAAAAABAAAAHgAECAAACByxkAMwzoAQRgCB
+ACRCQwCCCAAgIgAoiAAGbIodNiKEsZuieCDlwBEP6AfwYAgAAEAAAAAAAAAAgAAAAAAAAAAAAAAA
+AA=="	4-Nitrophenyl-ara
+0	72734308	C(C1C(C(C(O1)OCC2C(C(C(O2)OCC3C(C(C(O3)OCC4C(C(C(O4)O)O)O)O)O)O)O)O)O)O	(3R,4R,5S)-5-[[(2R,3R,4R,5S)-5-[[(2R,3R,4R,5S)-5-[[(2R,3R,4R,5S)-3,4-dihydroxy-5-(hydroxymethyl)oxolan-2-yl]oxymethyl]-3,4-dihydroxyoxolan-2-yl]oxymethyl]-3,4-dihydroxyoxolan-2-yl]oxymethyl]oxolane-2,3,4-triol	"AAADcfB4PgAAAAAAAAAAAAAAAAAAASJEiQAAAAAAAAAAAAAAAAAAGgAACAAACBSwgAMACAAABgAA
+AAAAAAAAAAAAAAAAAAAAAAAREAIAAAAiQAAFAAAHAADAIAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AA=="	alpha-1,5-L-Arabinotetraose
+0	53356684	C(C1C(C(C(O1)OCC2C(C(C(O2)OCC3C(C(C(O3)O)O)O)O)O)O)O)O	(3R,4R,5S)-5-[[(2R,3R,4R,5S)-5-[[(2R,3R,4R,5S)-3,4-dihydroxy-5-(hydroxymethyl)oxolan-2-yl]oxymethyl]-3,4-dihydroxyoxolan-2-yl]oxymethyl]oxolane-2,3,4-triol	"AAADceBwPAAAAAAAAAAAAAAAAAAAASJEgAAAAAAAAAAAAAAAAAAAGgAACAAACBSwgAMACAAABgAA
+AAAAAAAAAAAAAAAAAAAAAAAREAIAAAAiQAAFAAAHAADAIAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AA=="	alpha-L-Araf-(1->5)-alpha-L-Araf-(1->5)-L-Araf
+0	151437	C1=CC(=CC=C1[N+](=O)[O-])OC2C(C(C(O2)CO)O)O	(2S,3R,4R,5S)-2-(hydroxymethyl)-5-(4-nitrophenoxy)oxolane-3,4-diol	"AAADccByOAAAAAAAAAAAAAAAAAAAASAAAAAwAAAAAAAAAAABAAAAHgAECAAACByxkAMwzoAQRgCB
+ACRCQwCCCAAgIgAoiAAGbIodNiKEsZuieCDlwBEP6AfwYAgAAEAAAAAAAAAAgAAAAAAAAAAAAAAA
+AA=="	4-Nitrophenyl-ara
+0	82000	C1=CC(=CC=C1[N+](=O)[O-])OC2C(C(C(C(O2)CO)O)O)O	(2R,3R,4S,5R,6R)-2-(hydroxymethyl)-6-(4-nitrophenoxy)oxane-3,4,5-triol	"AAADccByPAAAAAAAAAAAAAAAAAAAAAAAAAA0QAAAAAAAAAABAAAAHgAECAAACByxkAMwzoAQRgCB
+ACRCQwCCCAAgIgAoiAAGbIodNiKEsZuieCDlwBEP6AfwYAwAAEAAAAAAAAAAgAAAAAAAAAAAAAAA
+AA=="	4-nitrophenyl-alpha-D-galactopyranoside
+0	161880	C1=CC(=CC=C1[N+](=O)[O-])OC2C(C(C(C(O2)CO)O)O)O	(2R,3S,4S,5S,6S)-2-(hydroxymethyl)-6-(4-nitrophenoxy)oxane-3,4,5-triol	"AAADccByPAAAAAAAAAAAAAAAAAAAAAAAAAA0QAAAAAAAAAABAAAAHgAECAAACByxkAMwzoAQRgCB
+ACRCQwCCCAAgIgAoiAAGbIodNiKEsZuieCDlwBEP6AfwYAwAAEAAAAAAAAAAgAAAAAAAAAAAAAAA
+AA=="	4-Nitrophenyl-beta-D-mannopyranoside

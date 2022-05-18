@@ -1,0 +1,2507 @@
+	uniprot_ids	substrates
+0	P23336	UDP-galactose
+1	P23336	beta-D-galactosyl-1,4-N-acetyl-D-glucosaminyl-R
+2	P50127	UDP-galactose
+3	P50127	beta-D-galactosyl-1,4-N-acetyl-D-glucosaminyl-R
+4	P14769	more
+5	P14769	UDP-galactose
+6	P14769	lactose
+7	P14769	UDP-2-acetonyl-2-deoxy-galactose
+8	P14769	N-acetyllactosaminyl-chitotriose
+9	P14769	UDP-2-acetonyl-2-deoxy-galactose
+10	P14769	asialofetuin
+11	P14769	UDP-Gal
+12	P14769	Gal-beta-1,4-GlcNAc-(CH2)8CO2CH3
+13	P14769	UDP-N-acetyl-azido-galactosamine
+14	P14769	N-acetyllactosaminyl-chitotriose
+15	P14769	UDP-N-acetylgalactosamine
+16	P14769	N-acetyllactosamine
+17	P14769	UDP-N-acetylgalactosamine
+18	P14769	lactose
+19	P14769	UDP-alpha-D-galactose
+20	P14769	N-acetyllactosamine
+21	P14769	UDP-galactose
+22	P14769	D-galactose
+23	P14769	UDP-galactose
+24	P14769	H2O
+25	P14769	UDP-galactose
+26	P14769	N-acetyllactosamine
+27	P14769	UDP-galactose
+28	P14769	lactose
+29	P14769	UDP-galactose
+30	P14769	p-nitrophenyl-alpha-D-galactoside
+31	P14769	UDP-galactose
+32	P14769	p-nitrophenyl-beta-D-galactoside
+33	P14769	UDP-galactose
+34	P14769	lactose
+35	Q8SQ20	UDP-alpha-D-galactose
+36	Q8SQ20	beta-D-galactosyl-(1->4)-beta-N-acetyl-D-glucosaminyl-R
+37	B5T072	more
+38	B5T072	UDP-alpha-D-galactose
+39	B5T072	N-acetyl-alpha-D-glucosamine-diphospho-O-(CH2)9CH3
+0	P38649	more
+1	O75752	UDP-N-acetyl-D-galactosamine
+2	O75752	N-acetyl-D-galactosaminyl-1,3-D-galactosyl-1,4-D-galactosyl-1 4-D-glucosylceramide
+3	O75752	UDP-N-acetyl-D-galactosamine
+4	O75752	N-acetyl-D-galactosaminyl-1,3-D-galactosyl-1,4-D-galactosyl-1 4-D-glucosylceramide
+5	Q95158	UDP-N-acetyl-D-galactosamine
+6	Q95158	N-acetyl-D-galactosaminyl-1,3-D-galactosyl-1,4-D-galactosyl-1 4-D-glucosylceramide
+7	Q95158	UDP-N-acetyl-D-galactosamine
+8	Q95158	N-acetyl-D-galactosaminyl-1,3-D-galactosyl-1,4-D-galactosyl-1 4-D-glucosylceramide
+9	Q95158	UDP-N-acetyl-D-galactosamine
+10	Q95158	N-acetyl-D-galactosaminyl-1,3-D-galactosyl-R
+11	Q8N5D6	UDP-N-acetyl-D-galactosamine
+12	Q8N5D6	N-acetyl-D-galactosaminyl-1,3-D-galactosyl-1,4-D-galactosyl-1 4-D-glucosylceramide
+13	Q8N5D6	UDP-N-acetyl-D-galactosamine
+14	Q8N5D6	N-acetyl-D-galactosaminyl-1,3-D-galactosyl-1,4-D-galactosyl-1 4-D-glucosylceramide
+15	Q8N5D6	more
+16	Q8N5D6	UDP-N-acetyl-alpha-D-galactosamine
+17	Q8N5D6	N-acetyl-D-galactosaminyl-(1->3)-D-galactosyl-(1->4)-D-galactosyl-(1 >4)-D-glucosylceramide
+0	Q8GP32	sucrose
+1	Q8GP32	(2,1-beta-D-fructosyl)n
+2	Q8GP32	sucrose
+3	Q8GP32	[(2->1)-beta-D-fructosyl]n
+4	Q8GP32	sucrose
+5	Q8GP32	(2,1-beta-D-fructosyl)n
+6	Q8GP32	sucrose
+7	Q8GP32	H2O
+8	Q8GP32	sucrose
+9	Q8GP32	kestose
+10	Q8GP32	sucrose
+11	Q8GP32	raffinose
+12	Q8GP32	sucrose
+13	Q8GP32	sucrose
+14	Q8GP32	sucrose
+15	Q8GP32	sucrose
+16	Q8GP32	sucrose
+17	Q8GP32	sucrose
+18	Q8GP32	sucrose
+19	Q8GP32	[(2->1)-beta-D-fructosyl]n
+20	Q8GP32	more
+21	Q8GP32	sucrose
+22	Q8GP32	H2O
+23	Q7X481	sucrose
+24	Q7X481	[(2->1)-beta-D-fructosyl]n
+25	Q7X481	sucrose
+26	Q7X481	sucrose
+27	Q7X481	sucrose
+28	Q7X481	H2O
+29	Q74K42	sucrose
+30	Q74K42	sucrose
+31	Q74K42	sucrose
+32	Q74K42	[(2->1)-beta-D-fructosyl]n
+33	Q74K42	sucrose
+34	Q74K42	sucrose
+35	Q74K42	sucrose
+36	Q74K42	H2O
+37	Q74K42	sucrose
+38	Q74K42	sucrose
+39	D3WYV9	sucrose
+40	D3WYV9	[(2->1)-beta-D-fructosyl]n
+41	D3WYV9	sucrose
+42	D3WYV9	sucrose
+43	D3WYV9	more
+44	D3WYV9	sucrose
+45	D3WYV9	H2O
+46	D3WYV9	sucrose
+47	D3WYV9	sucrose
+48	A0A2D1CSM2	sucrose
+49	A0A2D1CSM2	[(2->1)-beta-D-fructosyl]n
+50	A0A2D1CSM2	sucrose
+51	A0A2D1CSM2	sucrose
+52	D2WS87	sucrose
+53	D2WS87	[(2->1)-beta-D-fructosyl]n
+54	D2WS87	sucrose
+55	D2WS87	sucrose
+56	Q0VJC5	sucrose
+57	Q0VJC5	[(2->1)-beta-D-fructosyl]n
+58	Q0VJC5	sucrose
+59	Q0VJC5	sucrose
+60	Q0VJC5	sucrose
+61	Q0VJC5	sucrose
+62	D9X8L9	sucrose
+63	D9X8L9	[(2->1)-beta-D-fructosyl]n
+64	D9X8L9	sucrose
+65	D9X8L9	sucrose
+66	Q9P853	sucrose
+67	Q9P853	[(2->1)-beta-D-fructosyl]n
+68	Q9P853	sucrose
+69	Q9P853	sucrose
+0	Q99PC2	more
+1	Q99PC2	UDP-galactose
+2	Q99PC2	N-acetylglucosamine
+3	P15291	UDP-alpha-D-galactose
+4	P15291	N-acetyl-D-glucosamine
+5	A9XBL4	UDP-galactose
+6	A9XBL4	N-acetylglucosamine
+7	O60909	more
+8	P08037	UDP-alpha-D-galactose
+9	P08037	4-methylumbelliferyl-6-sulfo-N-acetyl-beta-D-glucosaminide
+10	P08037	UDP-alpha-D-galactose
+11	P08037	6-sulfo-N-acetyl-beta-D-glucosamine
+12	P08037	UDP-alpha-D-galactose
+13	P08037	N-acetyl-D-glucosamine
+14	O43286	UDPgalactose
+15	O43286	N-acetylglucosamine
+16	O43286	UDPgalactose
+17	O43286	glucose
+18	O43286	UDPgalactose
+19	O43286	GlcNAcbeta-S-p-NP
+20	O43286	UDPgalactose
+21	O43286	GlcNAcbeta1-6(GlcNAcbeta1-2)Manalpha1-3Manbeta1-O(CH2)8COOCH2-mNP
+22	G1UHW5	more
+23	G1UHW5	UDP-alpha-D-galactose
+24	G1UHW5	4-nitrophenyl N-acetyl-beta-D-glucosaminide
+25	G1UHW5	UDP-alpha-D-galactose
+26	G1UHW5	4-nitrophenyl beta-D-glucopyranoside
+27	G1UHW5	UDP-alpha-D-galactose
+28	G1UHW5	GlcNAcbeta(1->2)Manalpha(1->3)GlcNAcbeta(1->2)Manalpha(1->6)Manbeta(1 >4)GlcNAc2-PA
+29	G1UHW5	UDP-alpha-D-galactose
+30	G1UHW5	GlcNAcbeta(1->2)Manalpha(1->3)Manalpha(1->6)Manbeta(1->4)GlcNAc2-PA
+31	G1UHW5	UDP-alpha-D-galactose
+32	G1UHW5	GlcNAcbeta(1->3)GalNAcalpha-pNP
+33	G1UHW5	UDP-alpha-D-galactose
+34	G1UHW5	Manalpha(1->3)GlcNAcbeta(1->2)Manalpha(1->6)Manbeta(1->4)GlcNAc2-PA
+35	G1UHW5	UDP-alpha-D-galactose
+36	G1UHW5	N-acetyl-D-glucosamine
+37	K1QT40	UDP-alpha-D-galactose
+38	K1QT40	4-nitrophenyl xylose
+0	Q60FF2	UDPglucose
+1	Q60FF2	quercetin
+2	Q60FF2	UDPglucose
+3	Q60FF2	quercetin
+4	Q60FF2	UDPglucose
+5	Q60FF2	cyanidin
+6	Q5IFH7	UDP-alpha-D-glucose
+7	Q5IFH7	quercetin
+8	Q5IFH7	UDP-alpha-D-glucose
+9	Q5IFH7	quercetin
+10	C5MR71	UDP-alpha-D-glucose
+11	C5MR71	quercetin
+12	C5MR71	UDP-alpha-D-glucose
+13	C5MR71	quercetin
+14	C5MR71	UDP-glucose
+15	C5MR71	myricetin
+16	C5MR71	more
+17	C5MR71	UDP-alpha-D-glucose
+18	C5MR71	kaempferol
+19	B5BTH5	UDPglucose
+20	B5BTH5	a flavonol
+21	A6N928	UDP-alpha-D-glucose
+22	A6N928	quercetin
+23	A6N928	UDP-alpha-D-glucose
+24	A6N928	quercetin
+25	A6N928	UDP-alpha-D-glucose
+26	A6N928	cyanidin
+27	A6N928	UDP-alpha-D-glucose
+28	A6N928	malvidin
+29	A6N928	UDP-alpha-D-glucose
+30	A6N928	peonidin
+31	A6N928	UDP-alpha-D-glucose
+32	A6N928	dihydroquercetin
+33	A6N928	UDP-alpha-D-glucose
+34	A6N928	delphinidin
+35	A6N928	UDP-alpha-D-glucose
+36	A6N928	isorhamnetin
+37	A6N928	UDP-alpha-D-glucose
+38	A6N928	isorhamnetin
+39	A6N928	UDP-alpha-D-glucose
+40	A6N928	kaempferol
+41	D3Y5N8	UDP-alpha-D-glucose
+42	D3Y5N8	quercetin
+43	D3Y5N8	UDP-alpha-D-glucose
+44	D3Y5N8	quercetin
+45	D3Y5N8	UDP-alpha-D-glucose
+46	D3Y5N8	cyanidin
+47	D3Y5N8	UDP-alpha-D-glucose
+48	D3Y5N8	malvidin
+49	D3Y5N8	UDP-alpha-D-glucose
+50	D3Y5N8	peonidin
+51	D3Y5N8	UDP-alpha-D-glucose
+52	D3Y5N8	myricetin
+53	D3Y5N8	UDP-alpha-D-glucose
+54	D3Y5N8	pelargonidin
+55	D3Y5N8	UDP-alpha-D-glucose
+56	D3Y5N8	petunidin
+57	D3Y5N8	UDP-alpha-D-glucose
+58	D3Y5N8	delphinidin
+59	D3Y5N8	UDP-galactose
+60	D3Y5N8	cyanidin
+61	D3Y5N8	UDP-galactose
+62	D3Y5N8	delphinidin
+63	D3Y5N8	more
+64	D3Y5N8	UDP-alpha-D-glucose
+65	D3Y5N8	isorhamnetin
+66	D3Y5N8	UDP-alpha-D-glucose
+67	D3Y5N8	isorhamnetin
+68	D3Y5N8	UDP-alpha-D-glucose
+69	D3Y5N8	kaempferol
+70	A0A109P632	UDP-glucose
+71	A0A109P632	quercetin
+72	A0A109P632	UDP-glucose
+73	A0A109P632	myricetin
+74	A0A109P632	more
+75	A0A109P632	UDP-glucose
+76	A0A109P632	apigenin
+77	A0A109P632	UDP-glucose
+78	A0A109P632	cyanidin
+79	A0A109P632	UDP-glucose
+80	A0A109P632	epicatechin
+81	A0A109P632	UDP-glucose
+82	A0A109P632	eriodictyol
+83	A0A109P632	UDP-glucose
+84	A0A109P632	kaempferol
+85	A0A109P632	UDP-glucose
+86	A0A109P632	naringenin
+87	A0A109P632	UDP-glucose
+88	A0A109P632	a flavonol
+89	A0A0C4Y8J9	UDP-glucose
+90	A0A0C4Y8J9	a flavonol
+0	Q6J4T9	UDP-N-acetylgalactosamine
+1	Q6J4T9	p-nitrophenyl-GlcNAc
+2	Q6J4T9	UDP-N-acetylglucosamine
+3	Q6J4T9	p-nitrophenyl-GlcNAc
+4	Q6J4T9	UDP-galactose
+5	Q6J4T9	p-nitrophenyl-GlcNAc
+6	Q6J4T9	more
+7	Q76KP1	UDP-N-acetylgalactosamine
+8	Q76KP1	GlcNAcbeta(1-3)GalNAcalpha-p-nitrophenol (core 3-p-nitrophenol)
+9	Q76KP1	UDP-N-acetylgalactosamine
+10	Q76KP1	GlcNAcbeta(1-6)(Galbeta1-3)GalNAcalpha-p-nitrophenol (core 2-p-nitrophenol)
+11	Q76KP1	UDP-N-acetylgalactosamine
+12	Q76KP1	GlcNAcbeta(1-6)GalNAcalpha-p-nitrophenol (core 6-p-nitrophenol)
+13	Q76KP1	UDP-N-acetylgalactosamine
+14	Q76KP1	N-acetylglucosamine-beta-benzyl
+15	Q76KP1	more
+16	Q10468	UDP-N-acetyl-alpha-D-galactosamine
+17	Q10468	ganglioside GD3
+18	Q10468	UDP-N-acetyl-alpha-D-galactosamine
+19	Q10468	ganglioside GM3
+20	Q10468	UDP-N-acetyl-alpha-D-galactosamine
+21	Q10468	ganglioside GM3 amide
+22	Q10468	UDP-N-acetyl-alpha-D-galactosamine
+23	Q10468	ganglioside GM3 methyl ester
+24	Q10468	UDP-N-acetyl-alpha-D-galactosamine
+25	Q10468	ganglioside GM3 methylamide
+26	Q10468	UDP-N-acetyl-alpha-D-galactosamine
+27	Q10468	ganglioside N-acetyl-lyso-GM3
+28	Q10468	UDP-N-acetyl-alpha-D-galactosamine
+29	Q10468	ganglioside N-octanoyl-lyso-GM3
+30	Q10468	UDP-N-acetyl-alpha-D-galactosamine
+31	Q10468	ganglioside N1-pyrenyl-dodecanoyl-lyso-GM3
+32	Q10468	UDP-N-acetyl-alpha-D-galactosamine
+33	Q10468	ganglioside lyso-GM3
+34	Q10468	UDP-N-acetyl-alpha-D-galactosamine
+35	Q10468	lactosylceramide
+36	Q10468	UDP-N-acetyl-alpha-D-galactosamine
+37	Q10468	ganglioside GM3
+38	Q00973	more
+39	Q00973	UDP-N-acetyl-D-galactosamine
+40	Q00973	(N-acetylneuraminyl)-D-galactosyl-D-glucosylceramide
+41	Q00973	UDP-N-acetyl-D-galactosamine
+42	Q00973	GD3-ganglioside
+43	Q00973	UDP-N-acetyl-alpha-D-galactosamine
+44	Q00973	ganglioside GM3
+0	M2Y1U7	UDP-alpha-D-galactose
+1	M2Y1U7	sn-glycerol 3-phosphate
+2	M2Y1U7	more
+3	A0A0A7PA46	UDP-alpha-D-galactose
+4	A0A0A7PA46	sn-glycerol 3-phosphate
+0	A0A2I6SUQ9	laminaritriose
+1	A0A2I6SUQ9	phosphate
+2	A0A2I6SUQ9	laminaritriose
+3	A0A2I6SUQ9	phosphate
+4	A0A2I6SUQ9	more
+5	A0A2I6SUQ9	alpha-D-glucose
+6	A0A2I6SUQ9	glucose 1-phosphate
+7	A0A2I6SUQ9	laminaribiose
+8	A0A2I6SUQ9	glucose 1-phosphate
+9	A0A2I6SUQ9	laminarihexaose
+10	A0A2I6SUQ9	alpha-D-glucose 1-phosphate
+11	A0A2I6SUQ9	laminaripentaose
+12	A0A2I6SUQ9	alpha-D-glucose 1-phosphate
+13	A0A2I6SUQ9	laminaritetraose
+14	A0A2I6SUQ9	alpha-D-glucose 1-phosphate
+15	A0A2I6SUQ9	laminaritriose
+16	A0A2I6SUQ9	alpha-D-glucose 1-phosphate
+0	Q9FSV7	sucrose
+1	Q9FSV7	sucrose
+2	Q9FSV7	sucrose
+3	Q9FSV7	sucrose
+4	Q9FSV7	sucrose
+5	Q9FSV7	sucrose
+6	Q9FSV7	sucrose
+7	Q9FSV7	sucrose
+8	Q9FSV7	more
+9	O24459	sucrose
+10	O24459	sucrose
+11	O24459	sucrose
+12	O24459	sucrose
+13	O81986	sucrose
+14	O81986	sucrose
+15	O81986	sucrose
+16	O81986	sucrose
+17	O81986	sucrose
+18	O81986	sucrose
+19	Q70LF5	1-kestose
+20	Q70LF5	1-kestose
+21	Q70LF5	sucrose
+22	Q70LF5	1-kestose
+23	Q70LF5	sucrose
+24	Q70LF5	sucrose
+25	Q70LF5	more
+26	Q575T1	sucrose
+27	Q575T1	sucrose
+28	Q8W430	sucrose
+29	Q8W430	sucrose
+30	Q8W430	more
+31	A7RDD3	sucrose
+32	A7RDD3	sucrose
+33	A7RDD3	1-kestose
+34	Q84RM0	sucrose
+35	Q84RM0	sucrose
+36	Q84RM0	6-kestose
+37	Q84RM0	neo-kestose
+38	O81082	sucrose
+39	O81082	sucrose
+40	O81082	sucrose
+41	O81082	sucrose
+42	O81082	sucrose
+43	O81082	sucrose
+44	I3RTA4	sucrose
+45	I3RTA4	sucrose
+46	I3RTA4	sucrose
+47	I3RTA4	sucrose
+48	O42801	more
+0	P81989	inosine
+1	P81989	phosphate
+2	P81989	inosine
+3	P81989	phosphate
+4	P81989	7-methylguanosine
+5	P81989	phosphate
+6	P81989	7-methylguanosine
+7	P81989	phosphate
+8	P00491	adenine
+9	P00491	deoxyribose 1-phosphate
+10	P00491	adenine
+11	P00491	deoxyribose 1-phosphate
+12	P00491	inosine
+13	P00491	phosphate
+14	P00491	inosine
+15	P00491	phosphate
+16	P00491	guanosine
+17	P00491	phosphate
+18	P00491	guanosine
+19	P00491	phosphate
+20	P00491	deoxyguanosine
+21	P00491	phosphate
+22	P00491	deoxyinosine
+23	P00491	phosphate
+24	P00491	deoxyinosine
+25	P00491	phosphate
+26	P00491	8-aminoguanine
+27	P00491	alpha-D-ribose 1-phosphate
+28	P00491	methylthioinosine
+29	P00491	phosphate
+30	P00491	more
+31	P00491	2',3'-dideoxyinosine
+32	P00491	phosphate
+33	P00491	7-(beta-D-ribofuranosyl)guanine
+34	P00491	alpha-D-ribose 1-phosphate
+35	P00491	7-(beta-D-ribofuranosyl)hypoxanthine
+36	P00491	alpha-D-ribose 1-phosphate
+37	P00491	nicotinamide riboside
+38	P00491	phosphate
+39	P00491	5'-methylthioinosine
+40	P00491	phosphate
+41	P00491	5'-methylthioinosine
+42	P00491	phosphate
+43	P00491	7-methylguanosine
+44	P00491	phosphate
+45	P00491	7-methylguanosine
+46	P00491	phosphate
+47	P00491	7-methylinosine
+48	P00491	phosphate
+49	P00491	7-methyladenosine
+50	P00491	phosphate
+51	P55859	adenine
+52	P55859	deoxyribose 1-phosphate
+53	P55859	adenine
+54	P55859	deoxyribose 1-phosphate
+55	P55859	inosine
+56	P55859	phosphate
+57	P55859	inosine
+58	P55859	phosphate
+59	P55859	guanosine
+60	P55859	phosphate
+61	P55859	guanosine
+62	P55859	phosphate
+63	P55859	adenosine
+64	P55859	phosphate
+65	P55859	adenosine
+66	P55859	phosphate
+67	P55859	deoxyguanosine
+68	P55859	phosphate
+69	P55859	deoxyinosine
+70	P55859	phosphate
+71	P55859	deoxyinosine
+72	P55859	phosphate
+73	P55859	deoxyadenosine
+74	P55859	phosphate
+75	P55859	8-aminoguanine
+76	P55859	alpha-D-ribose 1-phosphate
+77	P55859	6-thioxanthine
+78	P55859	alpha-D-ribose 1-phosphate
+79	P55859	xanthosine
+80	P55859	arsenate
+81	P55859	8-azaguanine
+82	P55859	alpha-D-ribose 1-phosphate
+83	P55859	8-azaguanine
+84	P55859	alpha-D-ribose 1-phosphate
+85	P55859	2-amino-6-mercapto-7-methylpurine ribonucleoside
+86	P55859	alpha-D-ribose 1-phosphate
+87	P55859	more
+88	P55859	7-(beta-D-ribofuranosyl)guanine
+89	P55859	alpha-D-ribose 1-phosphate
+90	P55859	7-(beta-D-ribofuranosyl)hypoxanthine
+91	P55859	alpha-D-ribose 1-phosphate
+92	P55859	nicotinamide riboside
+93	P55859	phosphate
+94	P55859	8-azahypoxanthine
+95	P55859	alpha-D-ribose 1-phosphate
+96	P55859	xanthosine
+97	P55859	phosphate
+98	P55859	xanthosine
+99	P55859	phosphate
+100	P55859	7-methylguanosine
+101	P55859	phosphate
+102	P55859	7-methylguanosine
+103	P55859	phosphate
+104	P55859	purine deoxyribonucleoside
+105	P55859	phosphate
+106	P55859	purine ribonucleoside
+107	P55859	phosphate
+108	P55859	7-methylinosine
+109	P55859	phosphate
+110	P55859	7-methyladenosine
+111	P55859	phosphate
+112	P55859	3-(beta-D-ribofuranosyl)adenine
+113	P55859	alpha-D-ribose 1-phosphate
+114	P55859	3-(beta-D-ribofuranosyl)hyopxanthine
+115	P55859	alpha-D-ribose 1-phosphate
+116	Q8T9Z7	inosine
+117	Q8T9Z7	phosphate
+118	Q8T9Z7	inosine
+119	Q8T9Z7	phosphate
+120	Q8T9Z7	guanosine
+121	Q8T9Z7	phosphate
+122	Q8T9Z7	guanosine
+123	Q8T9Z7	phosphate
+124	Q8T9Z7	deoxyinosine
+125	Q8T9Z7	phosphate
+126	Q8T9Z7	deoxyinosine
+127	Q8T9Z7	phosphate
+128	Q8T9Z7	5'-methylthioinosine
+129	Q8T9Z7	phosphate
+130	Q8T9Z7	5'-methylthioinosine
+131	Q8T9Z7	phosphate
+132	Q8T9Z7	uridine
+133	Q8T9Z7	phosphate
+134	Q8T9Z7	5'-methylthioadenosine
+135	Q8T9Z7	phosphate
+136	Q8U2I1	inosine
+137	Q8U2I1	phosphate
+138	Q8U2I1	inosine
+139	Q8U2I1	phosphate
+140	Q8U2I1	guanosine
+141	Q8U2I1	phosphate
+142	Q8U2I1	guanosine
+143	Q8U2I1	phosphate
+144	Q2HXR2	inosine
+145	Q2HXR2	phosphate
+146	Q2HXR2	inosine
+147	Q2HXR2	phosphate
+148	Q2HXR2	guanosine
+149	Q2HXR2	phosphate
+150	Q2HXR2	guanosine
+151	Q2HXR2	phosphate
+152	Q2HXR2	deoxyinosine
+153	Q2HXR2	phosphate
+154	Q2HXR2	deoxyinosine
+155	Q2HXR2	phosphate
+156	Q2HXR2	5'-methylthioinosine
+157	Q2HXR2	phosphate
+158	Q2HXR2	5'-methylthioinosine
+159	Q2HXR2	phosphate
+160	Q2HXR2	5'-methylthioadenosine
+161	Q2HXR2	phosphate
+162	Q9BMI9	inosine
+163	Q9BMI9	phosphate
+164	Q9BMI9	inosine
+165	Q9BMI9	phosphate
+166	Q9BMI9	adenosine
+167	Q9BMI9	phosphate
+168	Q9BMI9	adenosine
+169	Q9BMI9	phosphate
+170	B0L7E7	5'-chloro-5'-deoxy-adenosine
+171	B0L7E7	phosphate
+172	P0ABP8	adenine
+173	P0ABP8	deoxyribose 1-phosphate
+174	P0ABP8	adenine
+175	P0ABP8	deoxyribose 1-phosphate
+176	P0ABP8	inosine
+177	P0ABP8	phosphate
+178	P0ABP8	inosine
+179	P0ABP8	phosphate
+180	P0ABP8	guanosine
+181	P0ABP8	phosphate
+182	P0ABP8	guanosine
+183	P0ABP8	phosphate
+184	P0ABP8	adenosine
+185	P0ABP8	phosphate
+186	P0ABP8	adenosine
+187	P0ABP8	phosphate
+188	P0ABP8	deoxyguanosine
+189	P0ABP8	phosphate
+190	P0ABP8	deoxyinosine
+191	P0ABP8	phosphate
+192	P0ABP8	deoxyinosine
+193	P0ABP8	phosphate
+194	P0ABP8	deoxyadenosine
+195	P0ABP8	phosphate
+196	P0ABP8	8-aminoguanine
+197	P0ABP8	alpha-D-ribose 1-phosphate
+198	P0ABP8	2-amino-6-mercapto-7-methylpurine ribonucleoside
+199	P0ABP8	phosphate
+200	P0ABP8	2-amino-6-mercapto-7-methylpurine ribonucleoside
+201	P0ABP8	alpha-D-ribose 1-phosphate
+202	P0ABP8	2-fluoro-2'-deoxyadenosine
+203	P0ABP8	phosphate
+204	P0ABP8	more
+205	P0ABP8	2'-deoxyguanosine
+206	P0ABP8	phosphate
+207	P0ABP8	2'-deoxyadenosine
+208	P0ABP8	phosphate
+209	P0ABP8	2'-deoxyinosine
+210	P0ABP8	phosphate
+211	P0ABP8	7-(beta-D-ribofuranosyl)guanine
+212	P0ABP8	alpha-D-ribose 1-phosphate
+213	P0ABP8	7-(beta-D-ribofuranosyl)hypoxanthine
+214	P0ABP8	alpha-D-ribose 1-phosphate
+215	P0ABP8	nicotinamide riboside
+216	P0ABP8	phosphate
+217	P0ABP8	2-fluoroadenosine
+218	P0ABP8	phosphate
+219	P0ABP8	9-beta-D-(2-deoxyribofuranosyl)-6-methylthiopurine
+220	P0ABP8	phosphate
+221	P0ABP8	9-beta-D-ribofuranosyl-6-methylthiopurine
+222	P0ABP8	phosphate
+223	P0ABP8	7-methylguanosine
+224	P0ABP8	phosphate
+225	P0ABP8	7-methylguanosine
+226	P0ABP8	phosphate
+227	P0ABP8	7-methylinosine
+228	P0ABP8	phosphate
+229	P0ABP8	7-methyladenosine
+230	P0ABP8	phosphate
+231	P0ABP8	3-(beta-D-ribofuranosyl)adenine
+232	P0ABP8	alpha-D-ribose 1-phosphate
+233	P0ABP8	3-(beta-D-ribofuranosyl)hyopxanthine
+234	P0ABP8	alpha-D-ribose 1-phosphate
+235	Q05788	inosine
+236	Q05788	phosphate
+237	Q05788	inosine
+238	Q05788	phosphate
+239	Q05788	guanosine
+240	Q05788	phosphate
+241	Q05788	guanosine
+242	Q05788	phosphate
+243	Q05788	deoxyguanosine
+244	Q05788	phosphate
+245	Q05788	deoxyinosine
+246	Q05788	phosphate
+247	Q05788	deoxyinosine
+248	Q05788	phosphate
+249	P46354	inosine
+250	P46354	phosphate
+251	P46354	inosine
+252	P46354	phosphate
+253	P46354	guanosine
+254	P46354	phosphate
+255	P46354	guanosine
+256	P46354	phosphate
+257	P46354	adenosine
+258	P46354	phosphate
+259	P46354	adenosine
+260	P46354	phosphate
+261	P46354	deoxyguanosine
+262	P46354	phosphate
+263	P46354	deoxyinosine
+264	P46354	phosphate
+265	P46354	deoxyinosine
+266	P46354	phosphate
+267	P46354	deoxyadenosine
+268	P46354	phosphate
+269	A3F8V1	inosine
+270	A3F8V1	phosphate
+271	A3F8V1	inosine
+272	A3F8V1	phosphate
+273	A3F8V1	guanosine
+274	A3F8V1	phosphate
+275	A3F8V1	guanosine
+276	A3F8V1	phosphate
+277	A3F8V1	adenosine
+278	A3F8V1	phosphate
+279	A3F8V1	adenosine
+280	A3F8V1	phosphate
+281	A3F8V1	2'-deoxyguanosine
+282	A3F8V1	phosphate
+283	A3F8V1	2'-deoxyadenosine
+284	A3F8V1	phosphate
+285	A3F8V1	2'-deoxy-6-methylpurine nucleoside
+286	A3F8V1	phosphate
+287	A3F8V1	arabinofuranosyladenine
+288	A3F8V1	phosphate
+289	A4Q998	inosine
+290	A4Q998	phosphate
+291	A4Q998	inosine
+292	A4Q998	phosphate
+293	A4Q998	guanosine
+294	A4Q998	phosphate
+295	A4Q998	guanosine
+296	A4Q998	phosphate
+297	A4Q998	2'-deoxyinosine
+298	A4Q998	phosphate
+299	A4Q998	more
+300	A4Q998	2'-deoxyguanosine
+301	A4Q998	phosphate
+302	C7FLN0	inosine
+303	C7FLN0	phosphate
+304	C7FLN0	inosine
+305	C7FLN0	phosphate
+306	C7FLN0	guanosine
+307	C7FLN0	phosphate
+308	C7FLN0	guanosine
+309	C7FLN0	phosphate
+310	P45563	inosine
+311	P45563	phosphate
+312	P45563	inosine
+313	P45563	phosphate
+314	P45563	guanosine
+315	P45563	phosphate
+316	P45563	guanosine
+317	P45563	phosphate
+318	P45563	xanthosine
+319	P45563	phosphate
+320	P45563	xanthosine
+321	P45563	phosphate
+322	P45563	adenosine
+323	P45563	phosphate
+324	Q97W94	5'-deoxy-5'-methylthioadenosine
+325	Q97W94	phosphate
+326	C8CPR9	inosine
+327	C8CPR9	phosphate
+328	C8CPR9	inosine
+329	C8CPR9	phosphate
+330	C8CPR9	more
+331	Q72IR2	inosine
+332	Q72IR2	phosphate
+333	Q72IR2	inosine
+334	Q72IR2	phosphate
+335	Q72IR2	guanosine
+336	Q72IR2	phosphate
+337	Q72IR2	guanosine
+338	Q72IR2	phosphate
+339	Q72IR2	more
+340	Q72IR2	2'-deoxyguanosine
+341	Q72IR2	phosphate
+342	Q72IR2	2'-deoxyinosine
+343	Q72IR2	phosphate
+344	Q8I3X4	inosine
+345	Q8I3X4	phosphate
+346	Q8I3X4	inosine
+347	Q8I3X4	phosphate
+348	Q8I3X4	uridine
+349	Q8I3X4	phosphate
+350	Q9YDC0	inosine
+351	Q9YDC0	phosphate
+352	Q9YDC0	inosine
+353	Q9YDC0	phosphate
+354	Q9YDC0	guanosine
+355	Q9YDC0	phosphate
+356	Q9YDC0	guanosine
+357	Q9YDC0	phosphate
+358	Q9YDC0	adenosine
+359	Q9YDC0	phosphate
+360	Q9YDC0	adenosine
+361	Q9YDC0	phosphate
+362	Q9YDC0	more
+363	Q9YDC0	2'-deoxyadenosine
+364	Q9YDC0	phosphate
+365	Q9YDC0	2'-deoxyinosine
+366	Q9YDC0	phosphate
+367	Q9YDC0	2'-amino-2'-deoxyadenosine
+368	Q9YDC0	phosphate
+369	Q9YDC0	2'-amino-2'-deoxyinosine
+370	Q9YDC0	phosphate
+371	Q9YDC0	2'-deoxy-2'-fluoroadenosine
+372	Q9YDC0	phosphate
+373	Q9YDC0	2,6-diaminopurine nucleoside
+374	Q9YDC0	phosphate
+375	Q9YDC0	9-(2-deoxy-2-fluoro-alpha-D-arabinofuranosyl)adenine
+376	Q9YDC0	phosphate
+0	Q8T6J6	orotate
+1	Q8T6J6	5-phospho-alpha-D-ribose 1-diphosphate
+2	Q8T6J6	orotate
+3	Q8T6J6	5-phospho-alpha-D-ribose 1-diphosphate
+4	Q8N0R1	orotate
+5	Q8N0R1	5-phospho-alpha-D-ribose 1-diphosphate
+6	Q8N0R1	orotate
+7	Q8N0R1	5-phospho-alpha-D-ribose 1-diphosphate
+8	Q8N0R1	5-fluoroorotate
+9	Q8N0R1	5-phospho-alpha-D-ribose 1-diphosphate
+10	P13298	orotate
+11	P13298	5-phospho-alpha-D-ribose 1-diphosphate
+12	P13298	orotate
+13	P13298	5-phospho-alpha-D-ribose 1-diphosphate
+14	P9WHK9	orotate
+15	P9WHK9	5-phospho-alpha-D-ribose 1-diphosphate
+16	P9WHK9	orotate
+17	P9WHK9	5-phospho-alpha-D-ribose 1-diphosphate
+18	P9WHK9	orotidine 5'-phosphate
+19	P9WHK9	diphosphate
+20	P9WHK9	orotidine 5'-phosphate
+21	P9WHK9	diphosphate
+22	G4MT58	orotate
+23	G4MT58	5-phospho-alpha-D-ribose 1-diphosphate
+24	G4MT58	orotate
+25	G4MT58	5-phospho-alpha-D-ribose 1-diphosphate
+26	Q5SHI8	orotate
+27	Q5SHI8	5-phospho-alpha-D-ribose 1-diphosphate
+28	Q5SHI8	orotate
+29	Q5SHI8	5-phospho-alpha-D-ribose 1-diphosphate
+0	P43490	nicotinamide
+1	P43490	5-phosphoribosyl 1-diphosphate
+2	P43490	nicotinamide
+3	P43490	5-phospho-alpha-D-ribose 1-diphosphate
+4	P43490	nicotinamide
+5	P43490	5-phospho-alpha-D-ribose 1-diphosphate
+6	P43490	ADP
+7	P43490	ATP
+8	P43490	ATP
+9	P43490	H2O
+10	P43490	ATP
+11	P43490	NAMPT
+12	P43490	nicotinamide
+13	P43490	alpha-D-5-phosphoribosyl 1-diphosphate
+14	P43490	ATP
+15	P43490	H2O
+16	P43490	nicotinamide
+17	P43490	alpha-D-5-phosphoribosyl-1-diphosphate
+18	P43490	phospho-NAMPT
+19	P43490	H2O
+20	P43490	more
+21	P43490	nicotinamide
+22	P43490	alpha-D-5-phosphoribosyl 1-diphosphate
+23	Q99KQ4	nicotinamide
+24	Q99KQ4	5-phospho-alpha-D-ribose 1-diphosphate
+25	Q99KQ4	nicotinamide
+26	Q99KQ4	5-phospho-alpha-D-ribose 1-diphosphate
+27	Q99KQ4	more
+28	Q99KQ4	nicotinamide
+29	Q99KQ4	alpha-D-5-phosphoribosyl 1-diphosphate
+30	Q80Z29	nicotinamide
+31	Q80Z29	5-phospho-alpha-D-ribose 1-diphosphate
+32	Q80Z29	nicotinamide
+33	Q80Z29	5-phospho-alpha-D-ribose 1-diphosphate
+34	Q80Z29	more
+35	Q80Z29	nicotinamide
+36	Q80Z29	alpha-D-5-phosphoribosyl-1-diphosphate
+0	Q9STG9	L-glutamine
+1	Q9STG9	5-phospho-alpha-D-ribose 1-diphosphate
+2	Q9STG9	H2O
+3	Q9STG9	L-glutamine
+4	Q9STG9	5-phospho-alpha-D-ribose 1-diphosphate
+5	Q9STG9	H2O
+6	Q9SI61	more
+7	Q9T0J5	L-glutamine
+8	Q9T0J5	5-phospho-alpha-D-ribose 1-diphosphate
+9	Q9T0J5	H2O
+10	Q9T0J5	L-glutamine
+11	Q9T0J5	5-phospho-alpha-D-ribose 1-diphosphate
+12	Q9T0J5	H2O
+13	P0AG16	L-glutamine
+14	P0AG16	5-phospho-alpha-D-ribose 1-diphosphate
+15	P0AG16	H2O
+16	P0AG16	L-glutamine
+17	P0AG16	5-phospho-alpha-D-ribose 1-diphosphate
+18	P0AG16	H2O
+19	P0AG16	phosphoribosylanthranilate
+20	P0AG16	more
+21	Q06203	5-phospho-beta-D-ribosylamine
+22	Q06203	diphosphate
+23	Q06203	L-glutamate
+0	Q56UT3	ATP
+1	Q56UT3	5-phospho-alpha-D-ribose 1-diphosphate
+2	Q56UT3	ATP
+3	Q56UT3	5-phospho-alpha-D-ribose 1-diphosphate
+4	Q56UT2	ATP
+5	Q56UT2	5-phospho-alpha-D-ribose 1-diphosphate
+6	Q56UT2	ATP
+7	Q56UT2	5-phospho-alpha-D-ribose 1-diphosphate
+8	Q56US5	ATP
+9	Q56US5	5-phospho-alpha-D-ribose 1-diphosphate
+10	Q56US5	ATP
+11	Q56US5	5-phospho-alpha-D-ribose 1-diphosphate
+12	P9WMN1	ATP
+13	P9WMN1	5-phospho-alpha-D-ribose 1-diphosphate
+14	P9WMN1	ATP
+15	P9WMN1	5-phospho-alpha-D-ribose 1-diphosphate
+16	P60757	ATP
+17	P60757	5-phospho-alpha-D-ribose 1-diphosphate
+18	P60757	ATP
+19	P60757	5-phospho-alpha-D-ribose 1-diphosphate
+20	Q9Z472	1-(5-phospho-beta-D-ribosyl)-ATP
+21	Q9Z472	diphosphate
+22	Q9Z472	1-(5-phospho-beta-D-ribosyl)-ATP
+23	Q9Z472	diphosphate
+24	Q9Z472	ATP
+25	Q9Z472	5-phospho-alpha-D-ribose 1-diphosphate
+26	Q9Z472	ATP
+27	Q9Z472	5-phospho-alpha-D-ribose 1-diphosphate
+28	Q9PM78	1-(5-phospho-beta-D-ribosyl)-ATP
+29	Q9PM78	diphosphate
+30	Q9PM78	1-(5-phospho-beta-D-ribosyl)-ATP
+31	Q9PM78	diphosphate
+32	Q9PM78	ATP
+33	Q9PM78	5-phospho-alpha-D-ribose 1-diphosphate
+34	Q9S762	ATP
+35	Q9S762	5-phospho-alpha-D-ribose 1-diphosphate
+36	Q9S762	ATP
+37	Q9S762	5-phospho-alpha-D-ribose 1-diphosphate
+38	Q9S762	ATP
+39	Q9S762	5-phospho-alpha-D-ribose 1-diphosphate
+0	P50384	anthranilate
+1	P50384	5-phospho-alpha-D-ribose 1-diphosphate
+2	P50384	anthranilate
+3	P50384	5-phospho-alpha-D-ribose 1-diphosphate
+4	P9WFX5	anthranilate
+5	P9WFX5	5-phospho-alpha-D-ribose 1-diphosphate
+6	P9WFX5	anthranilate
+7	P9WFX5	5-phospho-alpha-D-ribose 1-diphosphate
+8	P9WFX5	more
+9	P9WFX5	2-amino-2-pentenoate
+10	P9WFX5	5-phospho-alpha-D-ribose 1-diphosphate
+11	P9WFX5	2-aminoacrylate
+12	P9WFX5	5-phospho-alpha-D-ribose 1-diphosphate
+13	P9WFX5	2-aminocrotonate
+14	P9WFX5	5-phospho-alpha-D-ribose 1-diphosphate
+15	P9WFX5	N-(5-phospho-D-ribosyl)-anthranilate
+16	P9WFX5	diphosphate
+0	Q9X1X8	pyridine-2,3-dicarboxylate
+1	Q9X1X8	5-phospho-alpha-D-ribose 1-diphosphate
+2	Q9X1X8	pyridine-2,3-dicarboxylate
+3	Q9X1X8	5-phospho-alpha-D-ribose 1-diphosphate
+4	Q15274	pyridine-2,3-dicarboxylate
+5	Q15274	5-phospho-alpha-D-ribose 1-diphosphate
+6	Q15274	pyridine-2,3-dicarboxylate
+7	Q15274	5-phospho-alpha-D-ribose 1-diphosphate
+8	Q15274	quinolinic acid
+9	Q15274	5-phospho-alpha-D-ribose 1-diphosphate
+10	Q15274	quinolinic acid
+11	Q15274	5-phospho-alpha-D-ribose 1-diphosphate
+12	Q15274	more
+13	P43619	quinolinic acid
+14	P43619	5-phospho-alpha-D-ribose 1-diphosphate
+15	P43619	quinolinic acid
+16	P43619	5-phospho-alpha-D-ribose 1-diphosphate
+17	P30011	pyridine-2,3-dicarboxylate
+18	P30011	5-phospho-alpha-D-ribose 1-diphosphate
+19	P30011	pyridine-2,3-dicarboxylate
+20	P30011	5-phospho-alpha-D-ribose 1-diphosphate
+21	O25909	pyridine-2,3-dicarboxylate
+22	O25909	5-phospho-alpha-D-ribose 1-diphosphate
+23	O25909	pyridine-2,3-dicarboxylate
+24	O25909	5-phospho-alpha-D-ribose 1-diphosphate
+25	Q5XBL7	pyridine-2,3-dicarboxylate
+26	Q5XBL7	5-phospho-alpha-D-ribose 1-diphosphate
+27	Q5XBL7	pyridine-2,3-dicarboxylate
+28	Q5XBL7	5-phospho-alpha-D-ribose 1-diphosphate
+29	M1KCW7	beta-nicotinate D-ribonucleotide
+30	M1KCW7	diphosphate
+31	M1KCW7	CO2
+32	P9WJJ7	quinolinic acid
+33	P9WJJ7	5-phospho-alpha-D-ribose 1-diphosphate
+34	P9WJJ7	quinolinic acid
+35	P9WJJ7	5-phospho-alpha-D-ribose 1-diphosphate
+0	Q5SHF9	thymidine
+1	Q5SHF9	phosphate
+2	Q5SHF9	pyrimidine nucleoside
+3	Q5SHF9	phosphate
+4	P39142	more
+5	Q72HS4	uridine
+6	Q72HS4	phosphate
+7	Q72HS4	uridine
+8	Q72HS4	phosphate
+9	Q72HS4	thymidine
+10	Q72HS4	phosphate
+11	Q72HS4	(2'-deoxy-2'-fluoro-beta-D-arabinofuranosyl)uracil
+12	Q72HS4	phosphate
+13	Q72HS4	2'-deoxy-2'-fluorouridine
+14	Q72HS4	phosphate
+15	Q5XA29	uridine
+16	Q5XA29	phosphate
+17	Q5XA29	uridine
+18	Q5XA29	phosphate
+19	Q5XA29	deoxyuridine
+20	Q5XA29	phosphate
+21	Q5XA29	deoxyuridine
+22	Q5XA29	phosphate
+23	Q5XA29	thymidine
+24	Q5XA29	phosphate
+25	Q5XA29	more
+0	P29935	nicotinic acid mononucleotide
+1	P29935	benzimidazole
+2	P29935	nicotinic acid mononucleotide
+3	P29935	benzimidazole
+4	P29935	beta-nicotinate D-ribonucleotide
+5	P29935	5,6-dimethylbenzimidazole
+6	P29935	beta-nicotinate D-ribonucleotide
+7	P29935	5,6-dimethylbenzimidazole
+8	Q05603	beta-nicotinate D-ribonucleotide
+9	Q05603	5,6-dimethylbenzimidazole
+10	Q05603	beta-nicotinate D-ribonucleotide
+11	Q05603	5,6-dimethylbenzimidazole
+12	F6MZ55	more
+13	F6MZ55	5,6-dimethylbenzimidazole
+14	F6MZ55	beta-nicotinate D-ribonucleotide
+15	F6MZ55	p-cresol
+16	F6MZ55	beta-nicotinate D-ribonucleotide
+17	F6MZ55	phenol
+18	F6MZ55	beta-nicotinate D-ribonucleotide
+19	D7GJ95	beta-nicotinate D-ribonucleotide
+20	D7GJ95	5,6-dimethylbenzimidazole
+0	P0A9M5	5-phospho-alpha-D-ribose 1-diphosphate
+1	P0A9M5	xanthine
+2	P0A9M5	5-phospho-alpha-D-ribose 1-diphosphate
+3	P0A9M5	hypoxanthine
+4	P0A9M5	5-phospho-alpha-D-ribose 1-diphosphate
+5	P0A9M5	hypoxanthine
+6	P0A9M5	5-phospho-alpha-D-ribose 1-diphosphate
+7	P0A9M5	guanine
+8	P42085	5-phospho-alpha-D-ribose 1-diphosphate
+9	P42085	xanthine
+10	P42085	5-phospho-alpha-D-ribose 1-diphosphate
+11	P42085	hypoxanthine
+12	P42085	5-phospho-alpha-D-ribose 1-diphosphate
+13	P42085	hypoxanthine
+14	P42085	5-phospho-alpha-D-ribose 1-diphosphate
+15	P42085	guanine
+0	Q9SRW9	UDP-D-xylose
+1	Q9SRW9	(1,4-beta-D-xylan)n
+2	Q9SRW9	UDP-D-galacturonic acid
+3	Q9SRW9	(1,4-beta-D-galacturonic acid)n
+4	Q9ZQC6	UDP-D-xylose
+5	Q9ZQC6	(1,4-beta-D-xylan)n
+6	Q8L707	UDP-D-xylose
+7	Q8L707	(1,4-beta-D-xylan)n
+8	B9IJ10	UDP-D-xylose
+9	B9IJ10	xylotetraose
+10	B9HH87	UDP-D-xylose
+11	B9HH87	xylotetraose
+0	Q965Q8	more
+1	Q965Q8	UDP-D-xylose
+2	Q965Q8	QEEEGSGGGGQR
+3	Q965Q8	UDP-D-xylose
+4	Q965Q8	SIEGSGGR
+5	Q965Q8	UDP-D-xylose
+6	Q965Q8	DDDSIEGSGSGGR
+7	Q9H1B5	more
+8	Q9H1B5	UDP-D-xylose
+9	Q9H1B5	silk fibroin
+10	Q9H1B5	UDP-D-xylose
+11	Q9H1B5	QEEEGSGGGGQR
+12	Q9H1B5	UDP-D-xylose
+13	Q9H1B5	DSISGDDLGSGDLGSGDFQR
+14	Q9H1B5	UDP-D-xylose
+15	Q9H1B5	bikunin
+16	Q9H1B5	UDP-D-xylose
+17	Q9H1B5	biglycan
+18	Q9H1B5	UDP-D-xylose
+19	Q9H1B5	bikunin
+20	Q9H1B5	UDP-D-xylose
+21	Q9H1B5	biotin-NH-QEEEGSGGGQKK(5-fluorescein)-CONH2
+22	Q9H1B5	UDP-D-xylose
+23	Q9H1B5	biotin-NHQEEEGSGGGQKK(5-fluorescein)-CONH2
+24	Q9H1B5	UDP-D-xylose
+25	Q9H1B5	DSISGDDLGSGDLGSGDFQR
+26	Q9H1B5	UDP-D-xylose
+27	Q9H1B5	biotin-NH-QEEEGSGGGQKK(5-fluorescein)-CONH2
+28	Q9H1B5	UDP-D-xylose
+29	Q9H1B5	fibroblast growth factor 2 fragment 1-24
+30	Q9H1B5	UDP-D-xylose
+31	Q9H1B5	proteoglycan core protein
+32	Q9H1B5	UDP-D-xylose
+33	Q9H1B5	silk fibroin
+34	Q9H1B5	UDP-D-xylose
+35	Q9H1B5	DDDSIEGSGGR
+36	Q9H1B5	UDP-D-xylose
+37	Q9H1B5	fibroblast growth factor 2 peptide
+38	Q86Y38	more
+39	Q86Y38	UDP-D-xylose
+40	Q86Y38	silk fibroin
+41	Q86Y38	UDP-D-xylose
+42	Q86Y38	bikunin
+43	Q86Y38	UDP-D-xylose
+44	Q86Y38	DSISGDDLGSGDLGSGDFQR
+45	Q86Y38	UDP-D-xylose
+46	Q86Y38	bikunin
+47	Q86Y38	UDP-D-xylose
+48	Q86Y38	biotin-NHQEEEGSGGGQKK(5-fluorescein)-CONH2
+49	Q86Y38	UDP-D-xylose
+50	Q86Y38	DDDSIEGSGGR
+51	Q86Y38	UDP-D-xylose
+52	Q86Y38	fibroblast growth factor 2 peptide
+53	Q86Y38	UDP-D-xylose
+54	Q86Y38	DDDSIEGSGSGGR
+55	Q86Y38	UDP-D-xylose
+56	Q86Y38	QEEEGSGGGGQR
+57	Q86Y38	UDP-D-xylose
+58	Q86Y38	SIEGSGGR
+59	Q86Y38	UDP-D-xylose
+60	Q86Y38	biglycan
+61	Q86Y38	UDP-D-xylose
+62	Q86Y38	proteoglycan core protein
+0	P50389	5'-methylthioadenosine
+1	P50389	phosphate
+2	P50389	5'-methylthioadenosine
+3	P50389	phosphate
+4	P50389	5'-methylthioadenosine
+5	P50389	phosphate
+6	Q13126	5'-methylthioadenosine
+7	Q13126	phosphate
+8	Q13126	5'-methylthioadenosine
+9	Q13126	phosphate
+10	Q13126	5'-methylthioadenosine
+11	Q13126	phosphate
+12	Q13126	5'-deoxy-5'-methylthioadenosine
+13	Q13126	phosphate
+14	Q13126	5'-deoxy-5'-methylthioadenosine
+15	Q13126	phosphate
+16	Q13126	adenosine
+17	Q13126	phosphate
+18	Q13126	adenosine
+19	Q13126	phosphate
+20	Q13126	S-methyl-5'-thioadenosine
+21	Q13126	phosphate
+22	Q13126	S-methyl-5'-thioadenosine
+23	Q13126	phosphate
+24	Q13126	more
+25	Q9CQ65	5'-methylthioadenosine
+26	Q9CQ65	phosphate
+27	Q9CQ65	5'-methylthioadenosine
+28	Q9CQ65	phosphate
+29	Q9CQ65	5'-methylthioadenosine
+30	Q9CQ65	phosphate
+31	Q9T0I8	5'-methylthioadenosine
+32	Q9T0I8	phosphate
+33	Q9T0I8	5'-methylthioadenosine
+34	Q9T0I8	phosphate
+35	Q9T0I8	5'-methylthioadenosine
+36	Q9T0I8	phosphate
+37	Q9T0I8	5'-isobutylthioadenosine
+38	Q9T0I8	phosphate
+39	Q9T0I8	5'-butylthioadenosine
+40	Q9T0I8	phosphate
+41	Q9T0I8	5'-chloroadenosine
+42	Q9T0I8	phosphate
+43	Q9T0I8	5'-iodoadenosine
+44	Q9T0I8	phosphate
+45	Q9T0I8	5'-phenylthioadenosine
+46	Q9T0I8	phosphate
+47	Q9T0I8	5'-ethylthioadenosine
+48	Q9T0I8	phosphate
+49	Q9T0I8	more
+50	Q7XA67	5'-methylthioadenosine
+51	Q7XA67	phosphate
+52	Q7XA67	5'-methylthioadenosine
+53	Q7XA67	phosphate
+54	Q7XA67	5'-methylthioadenosine
+55	Q7XA67	phosphate
+56	Q7XA67	5'-isobutylthioadenosine
+57	Q7XA67	phosphate
+58	Q7XA67	5'-butylthioadenosine
+59	Q7XA67	phosphate
+60	Q7XA67	5'-chloroadenosine
+61	Q7XA67	phosphate
+62	Q7XA67	5'-iodoadenosine
+63	Q7XA67	phosphate
+64	Q7XA67	5'-phenylthioadenosine
+65	Q7XA67	phosphate
+66	Q7XA67	S-adenosylhomocysteine
+67	Q7XA67	?
+68	Q7XA67	S-adenosylhomocysteine
+69	Q7XA67	phosphate
+70	Q7XA67	adenosine
+71	Q7XA67	phosphate
+72	Q7XA67	adenosine
+73	Q7XA67	phosphate
+74	Q7XA67	5'-ethylthioadenosine
+75	Q7XA67	phosphate
+76	Q97W94	5'-deoxy-5'-methylthioadenosine
+77	Q97W94	phosphate
+78	Q97W94	5'-deoxy-5'-methylthioadenosine
+79	Q97W94	phosphate
+80	O06401	5'-methylthioadenosine
+81	O06401	phosphate
+82	O06401	S-adenosyl-L-homocysteine
+83	O06401	phosphate
+84	O06401	adenosine
+85	O06401	phosphate
+86	O06401	adenosine
+87	O06401	phosphate
+88	Q8U4Q8	more
+89	Q8YBL1	S-methyl-5'-thioadenosine
+90	Q8YBL1	phosphate
+91	Q8YBL1	S-methyl-5'-thioadenosine
+92	Q8YBL1	phosphate
+93	C6KFA4	S-methyl-5'-thioadenosine
+94	C6KFA4	phosphate
+95	C6KFA4	S-methyl-5'-thioadenosine
+96	C6KFA4	phosphate
+0	P28720	[tRNATyr]7-aminomethyl-7-carbaguanine
+1	P28720	guanine
+2	P28720	pre-queuine 0
+3	P28720	tRNA guanine
+4	P28720	7-aminomethyl-7-carbaguanine
+5	P28720	[tRNA]-guanine
+6	P28720	guanine34 in tRNA
+7	P28720	7-aminomethyl-7-carbaguanine
+8	P28720	guanine34 in tRNA
+9	P28720	7-aminomethyl-7-carbaguanine
+10	P28720	guanine34 in tRNA
+11	P28720	queuine
+12	P28720	guanine34 in tRNA
+13	P28720	queuine
+14	P0A847	pre-queuine 1
+15	P0A847	virF mRNA
+16	P0A847	pre-queuine 1
+17	P0A847	virF minihelix RNA
+18	P0A847	guanine34 in tRNA
+19	P0A847	7-aminomethyl-7-carbaguanine
+20	P0A847	guanine34 in tRNA
+21	P0A847	7-aminomethyl-7-carbaguanine
+22	P0A847	guanine34 in tRNA
+23	P0A847	queuine
+24	P0A847	guanine34 in tRNA
+25	P0A847	queuine
+26	Q54177	guanine34 in tRNA
+27	Q54177	7-aminomethyl-7-carbaguanine
+28	Q54177	guanine34 in tRNA
+29	Q54177	7-aminomethyl-7-carbaguanine
+30	Q9BXR0	[tRNATyr]queuine
+31	Q9BXR0	guanine
+32	Q9BXR0	guanine34 in tRNA
+33	Q9BXR0	queuine
+0	Q16831	uridine
+1	Q16831	phosphate
+2	Q16831	uridine
+3	Q16831	phosphate
+4	Q16831	more
+5	Q57VZ2	uridine
+6	Q57VZ2	phosphate
+7	Q57VZ2	uridine
+8	Q57VZ2	phosphate
+9	Q57VZ2	more
+10	Q57VZ2	guanosine
+11	Q57VZ2	phosphate
+12	Q57VZ2	deoxyuridine
+13	Q57VZ2	phosphate
+14	Q57VZ2	deoxyuridine
+15	Q57VZ2	phosphate
+16	P12758	uridine
+17	P12758	phosphate
+18	P12758	uridine
+19	P12758	phosphate
+20	Q8I3X4	uridine
+21	Q8I3X4	phosphate
+22	Q8I3X4	uridine
+23	Q8I3X4	phosphate
+24	Q8I3X4	inosine
+25	Q8I3X4	phosphate
+26	Q9YA34	thymidine
+27	Q9YA34	phosphate
+28	Q9YA34	uridine
+29	Q9YA34	phosphate
+30	Q9YA34	uridine
+31	Q9YA34	phosphate
+32	Q9YA34	5-methyluridine
+33	Q9YA34	phosphate
+34	Q9YA34	deoxyuridine
+35	Q9YA34	phosphate
+36	Q9YA34	deoxyuridine
+37	Q9YA34	phosphate
+38	C7EWM3	thymidine
+39	C7EWM3	phosphate
+40	C7EWM3	uridine
+41	C7EWM3	phosphate
+42	C7EWM3	uridine
+43	C7EWM3	phosphate
+44	C7EWM3	5-methyluridine
+45	C7EWM3	phosphate
+46	C7EWM3	2'-deoxyuridine
+47	C7EWM3	phosphate
+48	Q9K4U1	uridine
+49	Q9K4U1	phosphate
+50	Q9K4U1	uridine
+51	Q9K4U1	phosphate
+52	Q9K4U1	6-methyluridine
+53	Q9K4U1	phosphate
+54	O95045	thymidine
+55	O95045	phosphate
+56	O95045	uridine
+57	O95045	phosphate
+58	O95045	uridine
+59	O95045	phosphate
+60	O95045	5-fluorouridine
+61	O95045	phosphate
+62	O95045	deoxyuridine
+63	O95045	phosphate
+64	O95045	deoxyuridine
+65	O95045	phosphate
+66	O95045	5-fluoro-2'-deoxyuridine
+67	O95045	phosphate
+68	G4VGH9	thymidine
+69	G4VGH9	phosphate
+70	G4VGH9	uridine
+71	G4VGH9	phosphate
+72	G4VGH9	uridine
+73	G4VGH9	phosphate
+74	Q499V1	uridine
+75	Q499V1	phosphate
+76	Q499V1	uridine
+77	Q499V1	phosphate
+78	Q7AZX0	uridine
+79	Q7AZX0	phosphate
+80	Q7AZX0	uridine
+81	Q7AZX0	phosphate
+0	Q9UKK3	NAD+
+1	Q9UKK3	(ADP-D-ribosyl)n-acceptor
+2	O95271	NAD+
+3	O95271	(ADP-D-ribosyl)n-acceptor
+4	Q460N5	NAD+
+5	Q460N5	(ADP-D-ribosyl)n-acceptor
+6	Q9NR21	NAD+
+7	Q9NR21	(ADP-D-ribosyl)n-acceptor
+8	Q8N5Y8	NAD+
+9	Q8N5Y8	(ADP-D-ribosyl)n-acceptor
+10	Q2NL67	NAD+
+11	Q2NL67	(ADP-D-ribosyl)n-acceptor
+12	P09874	NAD+
+13	P09874	(ADP-D-ribosyl)n-acceptor
+14	Q9UGN5	NAD+
+15	Q9UGN5	(ADP-D-ribosyl)n-acceptor
+16	Q9Y6F1	NAD+
+17	Q9Y6F1	(ADP-D-ribosyl)n-acceptor
+18	Q9Y6F1	NAD+
+19	Q9Y6F1	(ADP-D-ribosyl)n-acceptor
+20	P12726	NAD+
+21	P12726	RNA polymerase
+22	Q49TP5	NAD+
+23	Q49TP5	(ADP-D-ribosyl)n-actin
+24	B3EWG9	NAD+
+25	B3EWG9	(ADP-D-ribosyl)n-acceptor
+26	Q7Z3E1	NAD+
+27	Q7Z3E1	(ADP-D-ribosyl)n-aryl hydrocarbon receptor
+28	Q460N3	NAD+
+29	Q460N3	(ADP-D-ribosyl)n-serine/arginine-rich protein-specific kinase 2
+30	Q9JZ10	NAD+
+31	Q9JZ10	(ADP-D-ribosyl)n-acceptor
+32	Q53GL7	NAD+
+33	Q53GL7	(ADP-D-ribosyl)n-serine/arginine-rich protein-specific kinase 2
+34	Q53GL7	NAD+
+35	Q53GL7	(ADP-D-ribosyl)n-NEMO protein
+36	Q53GL7	NAD+
+37	Q53GL7	(ADP-D-ribosyl)n-peptide LL-37
+38	W2E3J5	NAD+
+39	W2E3J5	(ADP-D-ribosyl)n-RhoA protein
+40	C9Z6T8	more
+41	C9Z6T8	NAD+
+42	C9Z6T8	(ADP-D-ribosyl)n-acceptor
+0	Q49L21	histone
+1	Q49L21	NAD+
+2	Q49L21	casein
+3	Q49L21	NAD+
+4	Q49L21	actin
+5	Q49L21	NAD+
+6	Q49L21	p33 protein
+7	Q49L21	NAD+
+8	Q49L19	histone
+9	Q49L19	NAD+
+10	Q49L19	casein
+11	Q49L19	NAD+
+12	Q49L19	actin
+13	Q49L19	NAD+
+14	Q49L19	p33 protein
+15	Q49L19	NAD+
+16	Q8N5Y8	karyopherin-beta1
+17	Q8N5Y8	NAD+
+18	B6RDZ5	polyarginine
+19	B6RDZ5	NAD+
+20	B6RDZ5	polyarginine
+21	B6RDZ5	NAD+
+22	P70352	agmatine
+23	P70352	NAD+
+24	Q46220	NAD+
+25	Q46220	[actin]-L-arginine177
+26	Q46220	NAD+
+27	Q46220	actin
+28	Q46220	NAD+
+29	Q46220	beta-actin
+30	Q46220	NAD+
+31	Q46220	gamma-actin
+32	Q46220	NAD+
+33	Q46220	muscle actin
+34	Q46220	more
+35	Q9JZ10	NAD+
+36	Q9JZ10	polyarginine
+37	Q9JZ10	more
+38	Q60935	NAD+
+39	Q60935	protein L-arginine
+40	Q5EK40	NAD+
+41	Q5EK40	eEF2 L-arginine
+42	Q5EK40	NAD+
+43	Q5EK40	protein R10H6 L-arginine
+44	Q5EK40	NAD+
+45	Q5EK40	protein poly-L-arginine
+46	Q5EK40	NAD+
+47	Q5EK40	protein L-arginine
+48	Q5EK40	more
+49	P52961	NAD+
+50	P52961	glucose-regulated protein of 78 kDa/immunoglobulin heavy-chainbinding protein L-arginine
+51	Q844J9	NAD+
+52	Q844J9	[actin]-L-arginine177
+0	P11439	more
+1	P11439	NAD+
+2	P11439	essential ribosomal elongation factor 2
+3	P11439	NAD+
+4	P11439	diphthamide-[translation elongation factor 2]
+5	Q5EK40	NAD+
+6	Q5EK40	diphthamide-[translation elongation factor 2]
+0	Q9JP48	NAD+
+1	Q9JP48	dinitrogen reductase
+2	P14299	NAD+
+3	P14299	[Fe protein]-L-arginine
+0	Q9LDH0	UDP-D-xylose
+1	Q9LDH0	alpha-D-mannosyl-(1,6)-[N-acetyl-beta-D-glucosaminyl-(1 2)-alpha-D-mannosyl-(1,3)]-beta-D-mannosyl-O-(CH2)7-CH3
+2	Q9LDH0	UDP-D-xylose
+3	Q9LDH0	N4-[N-acetyl-beta-D-glucosaminyl-(1,2)-alpha-D-mannosyl-(1 3)-[N-acetyl-beta-D-glucosaminyl-(1,2)-alpha-D-mannosyl-(1 6)]-beta-D-mannosyl-(1,4)-N-acetyl-beta-D-glucosaminyl-(1 4)-N-acetyl-beta-D-glucosaminyl]asparagine
+4	Q9LDH0	more
+5	Q9LDH0	UDP-D-xylose
+6	Q9LDH0	GlcNAcbeta1-2Manalpha1-6(GlcNAcbeta1-2Manalpha1-3)Manbeta1-4GlcNAcbeta1 4GlcNAc1-O-(pyrid-2-yl)amine
+7	Q9LDH0	UDP-D-xylose
+8	Q9LDH0	N4-[N-acetyl-beta-D-glucosaminyl-(1->2)-alpha-D-mannosyl-(1->3)-[N acetyl-beta-D-glucosaminyl-(1->2)-alpha-D-mannosyl-(1->6)]-beta-D mannosyl-(1->4)-N-acetyl-beta-D-glucosaminyl-(1->4)-N-acetyl-beta-D glucosaminyl]asparagine
+9	Q6ZFH6	UDP-xylose
+10	Q6ZFH6	dansylated Galbeta-(1,4)-GlcNAcbeta-(1,2)-Manalpha-(1,6)-(Galbeta-(1 4)-GlcNAcbeta-(1,2)-Manalpha-(1,3))-Manbeta-(1,4)-GlcNAcbeta-(1 4)-GlcNAc
+11	Q6ZFH6	more
+12	Q2UVB3	pyridylaminated-GnGn glycopeptide
+13	Q2UVB3	UDP-xylose
+14	Q2UVB3	more
+15	Q5K8R6	UDP-D-xylose
+16	Q5K8R6	D-mannosyl-alpha-(1,3)-D-mannose
+17	Q5K8R6	UDP-D-xylose
+18	Q5K8R6	galactoxylomannan
+19	Q5K8R6	UDP-D-xylose
+20	Q5K8R6	glucuronoxylomannan
+21	Q5K8R6	UDP-xylose
+22	Q5K8R6	mannosyl-alpha-(1,3)-mannosyl-alpha-(1,4)-galactosyl-beta-(1 6)-mannosyl-alpha-(1,2)-inositol phosphorylceramide
+23	Q5K8R6	UDP-xylose
+24	Q5K8R6	mannosyl-alpha-(1,6)-mannosyl-alpha-(1,3)-mannosyl-alpha-(1 4)-galactosyl-beta-(1,6)-mannosyl-alpha-(1,2)-inositol phosphorylceramide
+25	Q5K8R6	more
+0	Q9CA75	UDP-D-xylose
+1	Q9CA75	(glucosyl)xyloglucan
+2	Q9CA75	more
+3	Q9LZJ3	UDP-D-xylose
+4	Q9LZJ3	(glucosyl)xyloglucan
+5	O22775	UDP-D-xylose
+6	O22775	(glucosyl)xyloglucan
+7	Q9LJP4	UDP-D-xylose
+8	Q9LJP4	(glucosyl)xyloglucan
+0	P19971	more
+1	P19971	thymidine
+2	P19971	phosphate
+3	P19971	thymidine
+4	P19971	phosphate
+5	P19971	thymidine
+6	P19971	phosphate
+7	P19971	thymidine
+8	P19971	phosphate
+9	P19971	thymidine
+10	P19971	phosphate
+11	P19971	thymidine
+12	P19971	phosphate
+13	P19971	5-nitro-2'-deoxyuridine
+14	P19971	phosphate
+15	P07650	more
+16	P07650	thymidine
+17	P07650	phosphate
+18	P07650	thymidine
+19	P07650	phosphate
+20	P07650	thymidine
+21	P07650	phosphate
+22	P07650	thymidine
+23	P07650	phosphate
+24	P07650	thymidine
+25	P07650	phosphate
+26	P07650	1-(2',6'-dideoxy-alpha-L-lyxohexafuranosyl)thymine
+27	P07650	phosphate
+28	P07650	1-(2',6'-dideoxy-beta-D-ribohexafuranosyl)thymine
+29	P07650	phosphate
+30	P07650	2'-deoxythymidine
+31	P07650	phosphate
+32	P07650	3'-deoxy-2',3'-didehydrothymidine
+33	P07650	phosphate
+34	P07650	5'-amino-5'-deoxythymidine
+35	P07650	phosphate
+36	P07650	3'-amino-3'-deoxythymidine
+37	P07650	phosphate
+38	P07650	4-thiothymidine
+39	P07650	phosphate
+40	P07650	5'-deoxythymidine
+41	P07650	phosphate
+42	Q7CP66	thymidine
+43	Q7CP66	phosphate
+44	Q7CP66	thymidine
+45	Q7CP66	phosphate
+46	P75052	thymidine
+47	P75052	phosphate
+48	P75052	thymidine
+49	P75052	phosphate
+0	P56725	UDP-D-xylose
+1	P56725	zeatin
+0	O52327	4-amino-4-deoxy-alpha-L-arabinopyranosyl di-trans,poly-cis-undecaprenyl phosphate
+1	O52327	lipid IVA
+0	Q9HZK1	5'-methylthioinosine
+1	Q9HZK1	phosphate
+2	Q9HZK1	S-methyl-5'-thioinosine
+3	Q9HZK1	phosphate
+4	Q9HZK1	adenosine
+5	Q9HZK1	phosphate
+6	Q9HZK1	adenosine
+7	Q9HZK1	phosphate
+8	Q9HZK1	inosine
+9	Q9HZK1	phosphate
+10	Q9HZK1	inosine
+11	Q9HZK1	phosphate
+12	Q9HZK1	more
+0	P9WFR5	trans,octacis-decaprenyl phosphate
+1	P9WFR5	5-phospho-alpha-D-ribose 1-diphosphate
+0	Q8NTW4	more
+0	Q8NPJ0	more
+0	O58843	guanine15 in tRNA(Leu)
+1	O58843	7-cyano-7-carbaguanine
+2	Q57878	more
+3	Q57878	guanine15 in tRNA
+4	Q57878	7-cyano-7-carbaguanine
+5	Q9C4M3	guanine15 in tRNA
+6	Q9C4M3	7-cyano-7-carbaguanine
+7	Q8THU2	guanine15 in tRNA
+8	Q8THU2	7-cyano-7-carbaguanine
+9	Q9HI54	guanine15 in tRNA(Leu)
+10	Q9HI54	7-cyano-7-carbaguanine
+11	Q9HI54	guanine13 in tRNA(Leu)
+12	Q9HI54	7-cyano-7-carbaguanine
+0	Q9LVW3	UDP-alpha-D-xylose
+1	Q9LVW3	cyanidin 3-O-beta-D-glucoside
+2	Q9LVW3	UDP-alpha-D-xylose
+3	Q9LVW3	delphinidin 3-O-beta-D-glucoside
+4	Q9LVW3	UDP-alpha-D-xylose
+5	Q9LVW3	pelargonidin 3-O-beta-D-glucoside
+6	Q9LVW3	UDP-D-xylose
+7	Q9LVW3	cyanidin 3-O-(alpha-L-rhamnosyl-(1->6)-beta-D-glucoside)
+8	Q9LVW3	UDP-D-xylose
+9	Q9LVW3	cyanidin 3-O-beta-D-glucoside
+10	Q9LVW3	UDP-D-xylose
+11	Q9LVW3	delphinidin 3-O-beta-D-glucoside
+12	Q9LVW3	UDP-D-xylose
+13	Q9LVW3	kaempferol 3-O-alpha-L-rhamnosyl-(1->6)-beta-D-glucoside
+14	Q9LVW3	UDP-D-xylose
+15	Q9LVW3	kaempferol 3-O-beta-D-glucoside
+16	Q9LVW3	UDP-D-xylose
+17	Q9LVW3	pelargonidin 3-O-beta-D-glucoside
+18	Q9LVW3	UDP-D-xylose
+19	Q9LVW3	quercetin 3-O-beta-D-glucoside
+20	Q9LVW3	UDP-alpha-D-xylose
+21	Q9LVW3	cyanidin 3-O-alpha-L-rhamnosyl-(1->6)-beta-D-glucoside
+22	Q9LVW3	UDP-alpha-D-xylose
+23	Q9LVW3	kaempferol 3-O-alpha-L-rhamnosyl-(1->6)-beta-D-glucoside
+24	Q9LVW3	UDP-alpha-D-xylose
+25	Q9LVW3	kaempferol 3-O-beta-D-glucoside
+26	Q9LVW3	UDP-alpha-D-xylose
+27	Q9LVW3	quercetin 3-O-beta-D-glucoside
+28	Q9LVW3	more
+0	P71422	more
+1	P71422	ATP
+2	P71422	3'-dephospho-CoA
+3	P45414	more
+4	P77231	more
+5	P77231	ATP
+6	P77231	3'-dephospho-CoA
+0	Q58822	5-phospho-alpha-D-ribose 1-diphosphate
+1	Q58822	4-aminobenzoate
+2	O28190	5-phospho-alpha-D-ribose 1-diphosphate
+3	O28190	4-aminobenzoate
+4	O28190	4-aminobenzoate
+5	O28190	5-phospho-alpha-D-ribose 1-diphosphate
+0	Q5JCX3	AMP
+1	Q5JCX3	phosphate
+2	Q5JCX3	CMP
+3	Q5JCX3	phosphate
+4	Q5JCX3	GMP
+5	Q5JCX3	phosphate
+6	Q5JCX3	GMP
+7	Q5JCX3	phosphate
+8	Q5JCX3	UMP
+9	Q5JCX3	phosphate
+10	Q5JCX3	more
+0	Q58018	NAD+
+1	Q58018	glycine
+2	Q58018	sulfide
+0	Q6YNI5	2',3'-dideoxyadenosine
+1	Q6YNI5	cytosine
+2	Q6YNI5	2',3'-dideoxyadenosine
+3	Q6YNI5	thymine
+4	Q6YNI5	2',3'-dideoxycytidine
+5	Q6YNI5	thymine
+6	Q6YNI5	2'-deoxyadenosine
+7	Q6YNI5	thymine
+8	Q6YNI5	2'-deoxycytidine
+9	Q6YNI5	thymine
+10	Q6YNI5	2',3'-dideoxycytidine
+11	Q6YNI5	adenine
+12	Q6YNI5	2',3'-dideoxycytidine
+13	Q6YNI5	hypoxanthine
+14	Q6YNI5	2',3'-dideoxyguanosine
+15	Q6YNI5	thymine
+16	Q6YNI5	2',3'-dideoxyinosine
+17	Q6YNI5	adenine
+18	Q6YNI5	2',3'-dideoxythymidine
+19	Q6YNI5	adenine
+20	Q6YNI5	2',3'-dideoxyuridine
+21	Q6YNI5	cytosine
+22	Q6YNI5	2',3'didehydro-2',3'-dideoxythymidine
+23	Q6YNI5	adenine
+24	Q6YNI5	2'-deoxycytidine
+25	Q6YNI5	hypoxanthine
+26	Q6YNI5	2'-deoxyguanosine
+27	Q6YNI5	thymine
+28	Q6YNI5	2'-deoxyinosine
+29	Q6YNI5	adenine
+30	Q6YNI5	2'-deoxythymidine
+31	Q6YNI5	adenine
+32	Q6YNI5	2'-deoxycytidine
+33	Q6YNI5	adenine
+34	Q6YNI5	2'-deoxyuridine
+35	Q6YNI5	cytosine
+36	Q6YNI5	2'-deoxyadenosine
+37	Q6YNI5	cytosine
+38	Q9RSV5	2',3'-dideoxycytidine
+39	Q9RSV5	adenine
+40	Q9RSV5	2',3'-dideoxycytidine
+41	Q9RSV5	hypoxanthine
+42	Q9RSV5	2',3'-dideoxyguanosine
+43	Q9RSV5	thymine
+44	Q9RSV5	2',3'-dideoxyinosine
+45	Q9RSV5	adenine
+46	Q9RSV5	2',3'-dideoxythymidine
+47	Q9RSV5	adenine
+48	Q9RSV5	2',3'-dideoxyuridine
+49	Q9RSV5	cytosine
+50	Q9RSV5	2',3'didehydro-2',3'-dideoxythymidine
+51	Q9RSV5	adenine
+52	Q9RSV5	2'-deoxycytidine
+53	Q9RSV5	hypoxanthine
+54	Q9RSV5	2'-deoxyguanosine
+55	Q9RSV5	thymine
+56	Q9RSV5	2'-deoxyinosine
+57	Q9RSV5	adenine
+58	Q9RSV5	2'-deoxythymidine
+59	Q9RSV5	adenine
+60	Q9RSV5	2'-deoxycytidine
+61	Q9RSV5	adenine
+62	Q9RSV5	2'-deoxyuridine
+63	Q9RSV5	cytosine
+64	Q8RLY5	more
+65	Q9R5V5	more
+66	Q9R5V5	2'-deoxycytidine
+67	Q9R5V5	adenine
+68	Q9R5V5	2'-deoxyadenosine
+69	Q9R5V5	5-fluorouracil
+70	Q9R5V5	2'-deoxycytidine
+71	Q9R5V5	2,6-diaminopurine
+72	Q9R5V5	2'-deoxycytidine
+73	Q9R5V5	5-bromouracil
+74	Q9R5V5	2'-deoxycytidine
+75	Q9R5V5	6-chloropurine
+76	Q9R5V5	dCMP
+77	Q9R5V5	2,6-dichloropurine
+78	Q9R5V5	2-deoxy-D-ribosyl-base1
+79	Q9R5V5	base2
+80	A5VK58	more
+81	A5VK58	2'-deoxyuridine
+82	A5VK58	adenine
+83	A5VK58	2'-deoxyuridine
+84	A5VK58	cytosine
+85	A5VK58	2'-deoxyadenosine
+86	A5VK58	cytosine
+87	A5VK58	2'-deoxyinosine
+88	A5VK58	uracil
+89	A5VK58	2'-deoxyuridine
+90	A5VK58	2,6-diaminopurine
+91	A5VK58	2'-deoxyuridine
+92	A5VK58	5-azacytosine
+93	A5VK58	2'-deoxyuridine
+94	A5VK58	5-ethyluracil
+95	A5VK58	2'-deoxyuridine
+96	A5VK58	5-fluorocytosine
+97	A5VK58	2'-deoxyuridine
+98	A5VK58	5-methylcytosine
+99	A5VK58	2'-deoxyuridine
+100	A5VK58	6-mercaptopurine
+101	A5VK58	2'-deoxyuridine
+102	A5VK58	benzimidazole
+103	A5VK58	2'-deoxyuridine
+104	A5VK58	hypoxanthine
+105	A5VK58	2'-deoxyadenosine
+106	A5VK58	5-chlorouracil
+107	A5VK58	2'-deoxyadenosine
+108	A5VK58	5-chlorouracil
+109	A5VK58	thymidine
+110	A5VK58	adenine
+0	P32318	NAD+
+1	P32318	glycine
+2	P32318	[ADP-thiazole synthase]-L-cysteine
+3	P32318	more
+0	Q9Y2B1	UDP-alpha-D-xylose
+1	Q9Y2B1	3-O-[Rib-ol-P-Rib-ol-P-3-beta-D-GalNAc-(1,3)-beta-D-GlcNAc-(1 4)-O-6-P-alpha-D-Man]-Ser/Thr-[protein]
+0	Q8NBL1	more
+1	Q8NBL1	UDP-alpha-D-xylose
+2	Q8NBL1	[Notch1 protein with EGF-like domain 12]-L-serine
+3	Q8NBL1	UDP-alpha-D-xylose
+4	Q8NBL1	[factor VII protein with EGF-like domain 1]-L-serine
+0	Q27679	adenine
+1	Q27679	5-phospho-alpha-D-ribose 1-diphosphate
+2	Q27679	adenine
+3	Q27679	5-phospho-alpha-D-ribose 1-diphosphate
+4	P07741	adenine
+5	P07741	5-phospho-alpha-D-ribose 1-diphosphate
+6	P07741	adenine
+7	P07741	5-phospho-alpha-D-ribose 1-diphosphate
+8	Q967M2	adenine
+9	Q967M2	5-phospho-alpha-D-ribose 1-diphosphate
+10	Q967M2	adenine
+11	Q967M2	5-phospho-alpha-D-ribose 1-diphosphate
+12	P31166	adenine
+13	P31166	5-phospho-alpha-D-ribose 1-diphosphate
+14	P31166	adenine
+15	P31166	5-phospho-alpha-D-ribose 1-diphosphate
+16	P31166	zeatin
+17	P31166	5-phospho-alpha-D-ribose 1-diphosphate
+18	P31166	benzyladenine
+19	P31166	5-phospho-alpha-D-ribose 1-diphosphate
+20	P31166	isopentenyladenine
+21	P31166	5-phospho-alpha-D-ribose 1-diphosphate
+22	Q42563	adenine
+23	Q42563	5-phospho-alpha-D-ribose 1-diphosphate
+24	Q42563	adenine
+25	Q42563	5-phospho-alpha-D-ribose 1-diphosphate
+26	Q42563	5-phospho-alpha-D-ribosyl-1-diphosphate
+27	Q42563	adenine
+28	Q42563	zeatin
+29	Q42563	5-phospho-alpha-D-ribose 1-diphosphate
+30	Q42563	more
+31	Q42563	benzyladenine
+32	Q42563	5-phospho-alpha-D-ribose 1-diphosphate
+33	Q42563	isopentenyladenine
+34	Q42563	5-phospho-alpha-D-ribose 1-diphosphate
+35	Q9SUW2	adenine
+36	Q9SUW2	5-phospho-alpha-D-ribose 1-diphosphate
+37	Q9SUW2	adenine
+38	Q9SUW2	5-phospho-alpha-D-ribose 1-diphosphate
+39	Q9SUW2	zeatin
+40	Q9SUW2	5-phospho-alpha-D-ribose 1-diphosphate
+41	Q9SUW2	benzyladenine
+42	Q9SUW2	5-phospho-alpha-D-ribose 1-diphosphate
+43	Q9SUW2	isopentenyladenine
+44	Q9SUW2	5-phospho-alpha-D-ribose 1-diphosphate
+45	Q9SU38	zeatin
+46	Q9SU38	5-phospho-alpha-D-ribose 1-diphosphate
+47	Q9SU38	more
+48	Q9LFP0	zeatin
+49	Q9LFP0	5-phospho-alpha-D-ribose 1-diphosphate
+50	Q9LFP0	more
+51	Q84P57	5-phospho-alpha-D-ribosyl-1-diphosphate
+52	Q84P57	adenine
+53	Q84P57	more
+54	Q2V997	5-phospho-alpha-D-ribosyl-1-diphosphate
+55	Q2V997	adenine
+56	Q6RYT6	adenine
+57	Q6RYT6	5-phospho-alpha-D-ribose 1-diphosphate
+58	Q6RYT6	adenine
+59	Q6RYT6	5-phospho-alpha-D-ribose 1-diphosphate
+60	Q43199	adenine
+61	Q43199	5-phospho-alpha-D-ribose 1-diphosphate
+62	Q43199	adenine
+63	Q43199	5-phospho-alpha-D-ribose 1-diphosphate
+64	Q97W95	adenine
+65	Q97W95	5-phospho-alpha-D-ribose 1-diphosphate
+66	Q97W95	adenine
+67	Q97W95	5-phospho-alpha-D-ribose 1-diphosphate
+0	Q9NJI5	guanine
+1	Q9NJI5	5-phospho-alpha-D-ribose 1-diphosphate
+2	Q9NJI5	guanine
+3	Q9NJI5	5-phospho-alpha-D-ribose 1-diphosphate
+4	Q9NJI5	guanine
+5	Q9NJI5	5-phospho-alpha-D-ribose 1-diphosphate
+6	Q9NJI5	hypoxanthine
+7	Q9NJI5	5-phospho-alpha-D-ribose 1-diphosphate
+8	Q9NJI5	hypoxanthine
+9	Q9NJI5	5-phospho-alpha-D-ribose 1-diphosphate
+10	Q9NJI5	hypoxanthine
+11	Q9NJI5	5-phospho-alpha-D-ribose 1-diphosphate
+12	Q9NJI5	more
+13	Q8R7L0	guanine
+14	Q8R7L0	5-phospho-alpha-D-ribose 1-diphosphate
+15	Q8R7L0	guanine
+16	Q8R7L0	5-phospho-alpha-D-ribose 1-diphosphate
+17	Q8R7L0	guanine
+18	Q8R7L0	5-phospho-alpha-D-ribose 1-diphosphate
+19	Q8R7L0	hypoxanthine
+20	Q8R7L0	5-phospho-alpha-D-ribose 1-diphosphate
+21	Q8R7L0	hypoxanthine
+22	Q8R7L0	5-phospho-alpha-D-ribose 1-diphosphate
+23	Q8R7L0	hypoxanthine
+24	Q8R7L0	5-phospho-alpha-D-ribose 1-diphosphate
+25	P00492	guanine
+26	P00492	5-phospho-alpha-D-ribose 1-diphosphate
+27	P00492	guanine
+28	P00492	5-phospho-alpha-D-ribose 1-diphosphate
+29	P00492	guanine
+30	P00492	5-phospho-alpha-D-ribose 1-diphosphate
+31	P00492	hypoxanthine
+32	P00492	5-phospho-alpha-D-ribose 1-diphosphate
+33	P00492	hypoxanthine
+34	P00492	5-phospho-alpha-D-ribose 1-diphosphate
+35	P00492	hypoxanthine
+36	P00492	5-phospho-alpha-D-ribose 1-diphosphate
+37	P00492	xanthine
+38	P00492	5-phospho-alpha-D-ribose 1-diphosphate
+39	P00492	xanthine
+40	P00492	5-phospho-alpha-D-ribose 1-diphosphate
+41	P00492	xanthine
+42	P00492	5-phospho-alpha-D-ribose 1-diphosphate
+43	P00492	GMP
+44	P00492	diphosphate
+45	P00492	GMP
+46	P00492	diphosphate
+47	P00492	IMP
+48	P00492	diphosphate
+49	P00492	IMP
+50	P00492	diphosphate
+51	P00492	xanthine
+52	P00492	5-phospho-alpha-D-ribose 1-diphosphate
+53	P00492	xanthine
+54	P00492	5-phospho-alpha-D-ribose 1-diphosphate
+55	P00492	xanthine
+56	P00492	5-phospho-alpha-D-ribose 1-diphosphate
+57	P00492	3-hydroxy-2-pyrazinecarboxamide
+58	P00492	5-phospho-alpha-D-ribose 1-diphosphate
+59	P00492	3-hydroxy-2-pyrazinecarboxamide
+60	P00492	5-phospho-alpha-D-ribose 1-diphosphate
+61	P00492	6-fluoro-3-hydroxy-2-pyrazinecarboxamide
+62	P00492	5-phospho-alpha-D-ribose 1-diphosphate
+63	P00492	6-fluoro-3-hydroxy-2-pyrazinecarboxamide
+64	P00492	5-phospho-alpha-D-ribose 1-diphosphate
+65	P00492	more
+66	P20035	guanine
+67	P20035	5-phospho-alpha-D-ribose 1-diphosphate
+68	P20035	guanine
+69	P20035	5-phospho-alpha-D-ribose 1-diphosphate
+70	P20035	guanine
+71	P20035	5-phospho-alpha-D-ribose 1-diphosphate
+72	P20035	hypoxanthine
+73	P20035	5-phospho-alpha-D-ribose 1-diphosphate
+74	P20035	hypoxanthine
+75	P20035	5-phospho-alpha-D-ribose 1-diphosphate
+76	P20035	hypoxanthine
+77	P20035	5-phospho-alpha-D-ribose 1-diphosphate
+78	P20035	xanthine
+79	P20035	5-phospho-alpha-D-ribose 1-diphosphate
+80	P20035	xanthine
+81	P20035	5-phospho-alpha-D-ribose 1-diphosphate
+82	P20035	xanthine
+83	P20035	5-phospho-alpha-D-ribose 1-diphosphate
+84	P20035	GMP
+85	P20035	diphosphate
+86	P20035	GMP
+87	P20035	diphosphate
+88	P20035	IMP
+89	P20035	diphosphate
+90	P20035	IMP
+91	P20035	diphosphate
+92	P20035	xanthine
+93	P20035	5-phospho-alpha-D-ribose 1-diphosphate
+94	P20035	XMP
+95	P20035	diphosphate
+96	Q26997	guanine
+97	Q26997	5-phospho-alpha-D-ribose 1-diphosphate
+98	Q26997	guanine
+99	Q26997	5-phospho-alpha-D-ribose 1-diphosphate
+100	Q26997	guanine
+101	Q26997	5-phospho-alpha-D-ribose 1-diphosphate
+102	Q26997	hypoxanthine
+103	Q26997	5-phospho-alpha-D-ribose 1-diphosphate
+104	Q26997	hypoxanthine
+105	Q26997	5-phospho-alpha-D-ribose 1-diphosphate
+106	Q26997	hypoxanthine
+107	Q26997	5-phospho-alpha-D-ribose 1-diphosphate
+108	Q26997	xanthine
+109	Q26997	5-phospho-alpha-D-ribose 1-diphosphate
+110	Q26997	xanthine
+111	Q26997	5-phospho-alpha-D-ribose 1-diphosphate
+112	Q26997	xanthine
+113	Q26997	5-phospho-alpha-D-ribose 1-diphosphate
+114	Q5SLS3	guanine
+115	Q5SLS3	5-phospho-alpha-D-ribose 1-diphosphate
+116	Q5SLS3	guanine
+117	Q5SLS3	5-phospho-alpha-D-ribose 1-diphosphate
+118	Q5SLS3	guanine
+119	Q5SLS3	5-phospho-alpha-D-ribose 1-diphosphate
+120	Q5SLS3	hypoxanthine
+121	Q5SLS3	5-phospho-alpha-D-ribose 1-diphosphate
+122	Q5SLS3	hypoxanthine
+123	Q5SLS3	5-phospho-alpha-D-ribose 1-diphosphate
+124	Q5SLS3	hypoxanthine
+125	Q5SLS3	5-phospho-alpha-D-ribose 1-diphosphate
+126	Q97W22	guanine
+127	Q97W22	5-phospho-alpha-D-ribose 1-diphosphate
+128	Q97W22	guanine
+129	Q97W22	5-phospho-alpha-D-ribose 1-diphosphate
+130	Q97W22	guanine
+131	Q97W22	5-phospho-alpha-D-ribose 1-diphosphate
+132	Q97W22	hypoxanthine
+133	Q97W22	5-phospho-alpha-D-ribose 1-diphosphate
+134	Q97W22	hypoxanthine
+135	Q97W22	5-phospho-alpha-D-ribose 1-diphosphate
+136	Q97W22	hypoxanthine
+137	Q97W22	5-phospho-alpha-D-ribose 1-diphosphate
+138	Q97W22	xanthine
+139	Q97W22	5-phospho-alpha-D-ribose 1-diphosphate
+140	Q97W22	xanthine
+141	Q97W22	5-phospho-alpha-D-ribose 1-diphosphate
+142	Q97W22	xanthine
+143	Q97W22	5-phospho-alpha-D-ribose 1-diphosphate
+144	Q5ZVC1	guanine
+145	Q5ZVC1	5-phospho-alpha-D-ribose 1-diphosphate
+146	Q5ZVC1	guanine
+147	Q5ZVC1	5-phospho-alpha-D-ribose 1-diphosphate
+148	Q5ZVC1	guanine
+149	Q5ZVC1	5-phospho-alpha-D-ribose 1-diphosphate
+150	Q5ZVC1	hypoxanthine
+151	Q5ZVC1	5-phospho-alpha-D-ribose 1-diphosphate
+152	Q5ZVC1	hypoxanthine
+153	Q5ZVC1	5-phospho-alpha-D-ribose 1-diphosphate
+154	Q5ZVC1	hypoxanthine
+155	Q5ZVC1	5-phospho-alpha-D-ribose 1-diphosphate
+156	Q5ZVC1	GMP
+157	Q5ZVC1	diphosphate
+158	Q5ZVC1	GMP
+159	Q5ZVC1	diphosphate
+160	Q5ZVC1	IMP
+161	Q5ZVC1	diphosphate
+162	Q5ZVC1	IMP
+163	Q5ZVC1	diphosphate
+164	P9WHQ9	guanine
+165	P9WHQ9	5-phospho-alpha-D-ribose 1-diphosphate
+166	P9WHQ9	guanine
+167	P9WHQ9	5-phospho-alpha-D-ribose 1-diphosphate
+168	P9WHQ9	guanine
+169	P9WHQ9	5-phospho-alpha-D-ribose 1-diphosphate
+170	P9WHQ9	hypoxanthine
+171	P9WHQ9	5-phospho-alpha-D-ribose 1-diphosphate
+172	P9WHQ9	hypoxanthine
+173	P9WHQ9	5-phospho-alpha-D-ribose 1-diphosphate
+174	P9WHQ9	hypoxanthine
+175	P9WHQ9	5-phospho-alpha-D-ribose 1-diphosphate
+0	P70881	uracil
+1	P70881	5-phospho-alpha-D-ribose 1-diphosphate
+2	P70881	uracil
+3	P70881	5-phospho-alpha-D-ribose 1-diphosphate
+4	Q26998	uracil
+5	Q26998	5-phospho-alpha-D-ribose 1-diphosphate
+6	Q26998	uracil
+7	Q26998	5-phospho-alpha-D-ribose 1-diphosphate
+8	Q26998	4-thiouracil
+9	Q26998	5-phospho-alpha-D-ribose 1-diphosphate
+10	Q9RE01	uracil
+11	Q9RE01	5-phospho-alpha-D-ribose 1-diphosphate
+12	Q9RE01	uracil
+13	Q9RE01	5-phospho-alpha-D-ribose 1-diphosphate
+14	Q9FKS0	uracil
+15	Q9FKS0	5-phospho-alpha-D-ribose 1-diphosphate
+16	Q9FKS0	uracil
+17	Q9FKS0	5-phospho-alpha-D-ribose 1-diphosphate
+18	Q9FKS0	5-fluorouracil
+19	Q9FKS0	5-phospho-alpha-D-ribose 1-diphosphate
+20	Q9FKS0	5-fluorouracil
+21	Q9FKS0	5-phospho-alpha-D-ribose 1-diphosphate
+22	Q9FKS0	uridine
+23	Q9FKS0	ATP
+24	Q96BW1	uracil
+25	Q96BW1	5-phospho-alpha-D-ribose 1-diphosphate
+26	Q96BW1	uracil
+27	Q96BW1	5-phospho-alpha-D-ribose 1-diphosphate
+28	Q96BW1	5-fluorouracil
+29	Q96BW1	5-phospho-alpha-D-ribose 1-diphosphate
+30	Q96BW1	5-fluorouracil
+31	Q96BW1	5-phospho-alpha-D-ribose 1-diphosphate
+32	Q9M336	uracil
+33	Q9M336	5-phospho-alpha-D-ribose 1-diphosphate
+34	Q9M336	uracil
+35	Q9M336	5-phospho-alpha-D-ribose 1-diphosphate
+36	Q980Q4	uracil
+37	Q980Q4	5-phospho-alpha-D-ribose 1-diphosphate
+38	Q980Q4	uracil
+39	Q980Q4	5-phospho-alpha-D-ribose 1-diphosphate
+40	P9WFF3	uracil
+41	P9WFF3	5-phospho-alpha-D-ribose 1-diphosphate
+42	P9WFF3	uracil
+43	P9WFF3	5-phospho-alpha-D-ribose 1-diphosphate
+0	P13721	CMP-N-acetylneuraminate
+1	P13721	5-(5-dimethylaminonaphthalene-1-sulfonyl-2-(2-aminoethoxy))ethyl beta-N-acetyllactosamine
+2	P13721	CMP-N-acetylneuraminate
+3	P13721	5-(5-dimethylaminonaphthalene-1-sulfonyl-2-(2-aminoethoxy))ethyl beta-lactose
+4	P13721	CMP-N-acetylneuraminate
+5	P13721	N-acetyllactosamine
+6	P13721	CMP-N-acetylneuraminate
+7	P13721	beta-D-galactosyl-1,4-N-acetyl-beta-D-glucosaminyl-R
+8	P13721	CMP-N-acetylneuraminate
+9	P13721	asialo-orosomucoid
+10	P13721	CMP-N-acetylneuraminate
+11	P13721	asialo-alpha1-acid glycoprotein
+12	P13721	CMP-N-acetylneuraminate
+13	P13721	beta-D-galactosyl-(1->4)-N-acetyl-beta-D-glucosamine
+14	P15907	CMP-9-fluoresceinyl-N-acetylneuraminate
+15	P15907	asialofetuin
+16	P15907	CMP-N-acetylneuraminate
+17	P15907	6'-sialyl-N-acetyl-D-lactosamine
+18	P15907	CMP-N-acetylneuraminate
+19	P15907	pyridylamine-type 2H
+20	P15907	CMP-N-acetylneuraminate
+21	P15907	pyridylaminyl-lacto-N-neotetraose
+22	P15907	CMP-N-acetylneuraminate
+23	P15907	tumor necrosis factor receptor 1
+24	P15907	more
+25	P15907	CMP-N-acetylneuraminate
+26	P15907	beta-D-galactosyl-(1->4)-N-acetyl-beta-D-glucosamine
+27	Q64685	CMP-N-acetylneuraminate
+28	Q64685	tumor necrosis factor receptor 1
+29	Q64685	CMP-N-acetylneuraminate
+30	Q64685	Galbeta(1->3)GalNAc
+31	Q64685	CMP-N-acetylneuraminate
+32	Q64685	Galbeta(1->3)GlcNAc
+33	Q64685	CMP-N-acetylneuraminate
+34	Q64685	lacto-N-neotetraose
+35	Q64685	CMP-N-acetylneuraminate
+36	Q64685	beta-D-galactosyl-1,4-N-acetyl-beta-D-glucosamine
+37	Q64685	CMP-N-acetylneuraminate
+38	Q64685	lacto-N-tetraose
+39	Q64685	CMP-N-acetylneuraminate
+40	Q64685	lactose
+41	A5D7T4	more
+42	A5D7T4	GalNAcbeta(1,4)GlcNAc-octyl
+43	A5D7T4	CMP-Neu5Ac
+44	A5D7T4	Galbeta(1,4)GlcNAc-octyl
+45	A5D7T4	CMP-Neu5Ac
+46	A5D7T4	asialo-alpha1-acidglycoprotein
+47	A5D7T4	CMP-Neu5Ac
+48	A8QYL1	CMP-N-acetylneuraminate
+49	A8QYL1	N-acetyllactosamine
+50	A8QYL1	more
+51	A8QYL1	CMP-N-acetylneuraminate
+52	A8QYL1	Gal-beta-1,3-GlcNAc-beta-OMe
+53	A8QYL1	CMP-N-acetylneuraminate
+54	A8QYL1	N-acetyl-D-galactosamine
+55	A8QYL1	CMP-N-acetylneuraminate
+56	A8QYL1	methyl-alpha-D-galactopyranoside
+57	A8QYL1	CMP-N-acetylneuraminate
+58	A8QYL1	methyl-beta-D-galactopyranoside
+59	A8QYL1	CMP-N-acetylneuraminate
+60	A8QYL1	AA-labeled 6'-sialyllactose
+61	A8QYL1	CMP-N-acetylneuraminate
+62	A8QYL1	AA-labeled G2 glycan
+63	A8QYL1	CMP-N-acetylneuraminate
+64	A8QYL1	lactose
+65	A8QYL1	CMP-N-acetylneuraminate
+66	A8QYL1	beta-D-galactosyl-(1->4)-N-acetyl-beta-D-glucosamine
+67	A8QYL1	CMP-N-acetylneuraminate
+68	A8QYL1	asialofetuin
+69	F1SWB0	CMP-N-acetylneuraminate
+70	F1SWB0	beta-D-galactosyl-1,4-N-acetyl-beta-D-glucosamine
+71	Q17WF8	more
+72	Q17WF8	CMP-N-acetylneuraminate
+73	Q17WF8	beta-D-galactosyl-1,4-N-acetyl-beta-D-glucosamine
+74	A8R0T5	CMP-N-acetylneuraminate
+75	A8R0T5	AA-labeled 6'-sialyllactose
+76	A8R0T5	CMP-N-acetylneuraminate
+77	A8R0T5	AA-labeled G2 glycan
+78	A8R0T5	CMP-N-acetylneuraminate
+79	A8R0T5	beta-D-galactosyl-(1->4)-N-acetyl-beta-D-glucosamine
+80	A8R0T5	CMP-N-acetylneuraminate
+81	A8R0T5	asialofetuin
+82	O66375	CMP-N-acetylneuraminate
+83	O66375	AA-labeled 6'-sialyllactose
+84	O66375	CMP-N-acetylneuraminate
+85	O66375	AA-labeled G2 glycan
+86	O66375	CMP-N-acetylneuraminate
+87	O66375	beta-D-galactosyl-(1->4)-N-acetyl-beta-D-glucosamine
+88	O66375	CMP-N-acetylneuraminate
+89	O66375	asialofetuin
+0	P0AC75	2-deoxy-2-[[(3R)-3-hydroxypentadecanoyl]amino]-3-O-[(3R)-3 hydroxytetradecanoyl]-4-O-phosphono-beta-D-glucopyranosyl-(1->6)-2 deoxy-3-O-[(3R)-3-hydroxytetradecanoyl]-2-[[(3R)-3 hydroxytetradecanoyl]amino]-1-O-phosphono-alpha-D-glucopyranose
+1	P0AC75	CMP-3-deoxy-D-manno-octulosonate
+2	O66663	tetraacyl-1,4-bisphosphate lipid A precursor 406
+3	O66663	CMP-alpha-Kdo
+4	Q8VZA5	lipid IVA
+5	Q8VZA5	CMP-alpha-Kdo
+6	Q46222	2-deoxy-2-[[(3R)-3-hydroxypentadecanoyl]amino]-3-O-[(3R)-3 hydroxytetradecanoyl]-4-O-phosphono-beta-D-glucopyranosyl-(1->6)-2 deoxy-3-O-[(3R)-3-hydroxytetradecanoyl]-2-[[(3R)-3 hydroxytetradecanoyl]amino]-1-O-phosphono-alpha-D-glucopyranose
+7	Q46222	CMP-3-deoxy-D-manno-octulosonate
+8	F0T4D1	2-deoxy-2-[[(3R)-3-hydroxypentadecanoyl]amino]-3-O-[(3R)-3 hydroxytetradecanoyl]-4-O-phosphono-beta-D-glucopyranosyl-(1->6)-2 deoxy-3-O-[(3R)-3-hydroxytetradecanoyl]-2-[[(3R)-3 hydroxytetradecanoyl]amino]-1-O-phosphono-alpha-D-glucopyranose
+9	F0T4D1	CMP-3-deoxy-D-manno-octulosonate
+10	P44806	2-deoxy-2-[[(3R)-3-hydroxypentadecanoyl]amino]-3-O-[(3R)-3 hydroxytetradecanoyl]-4-O-phosphono-beta-D-glucopyranosyl-(1->6)-2 deoxy-3-O-[(3R)-3-hydroxytetradecanoyl]-2-[[(3R)-3 hydroxytetradecanoyl]amino]-1-O-phosphono-alpha-D-glucopyranose
+11	P44806	CMP-3-deoxy-D-manno-octulosonate
+12	P44806	lipid IVA
+13	P44806	CMP-alpha-Kdo
+0	Q46222	3-deoxy-alpha-D-manno-oct-2-ulopyranosyl-(2->6)-2-deoxy-2-[[(3R)-3 hydroxypentadecanoyl]amino]-3-O-[(3R)-3-hydroxytetradecanoyl]-4-O phosphono-beta-D-glucopyranosyl-(1->6)-2-deoxy-3-O-[(3R)-3 hydroxytetradecanoyl]-2-[[(3R)-3-hydroxytetradecanoyl]amino]-1-O phosphono-alpha-D-glucopyranose
+1	Q46222	CMP-3-deoxy-D-manno-octulosonate
+2	F0T4D1	3-deoxy-alpha-D-manno-oct-2-ulopyranosyl-(2->6)-2-deoxy-2-[[(3R)-3 hydroxypentadecanoyl]amino]-3-O-[(3R)-3-hydroxytetradecanoyl]-4-O phosphono-beta-D-glucopyranosyl-(1->6)-2-deoxy-3-O-[(3R)-3 hydroxytetradecanoyl]-2-[[(3R)-3-hydroxytetradecanoyl]amino]-1-O phosphono-alpha-D-glucopyranose
+3	F0T4D1	CMP-3-deoxy-D-manno-octulosonate
+4	P0AC75	3-deoxy-alpha-D-manno-oct-2-ulopyranosyl-(2->6)-2-deoxy-2-[[(3R)-3 hydroxypentadecanoyl]amino]-3-O-[(3R)-3-hydroxytetradecanoyl]-4-O phosphono-beta-D-glucopyranosyl-(1->6)-2-deoxy-3-O-[(3R)-3 hydroxytetradecanoyl]-2-[[(3R)-3-hydroxytetradecanoyl]amino]-1-O phosphono-alpha-D-glucopyranose
+5	P0AC75	CMP-3-deoxy-D-manno-octulosonate
+6	P0AC75	lipid IVA
+7	P0AC75	CMP-alpha-Kdo
+8	Q8VZA5	alpha-Kdo-(2->6)-lipid IVA
+9	Q8VZA5	CMP-alpha-Kdo
+0	Q46222	3-deoxy-alpha-D-manno-oct-2-ulopyranosyl-(2->4)-3-deoxy-alpha-D-manno oct-2-ulopyranosyl-(2->6)-2-deoxy-2-[[(3R)-3 hydroxypentadecanoyl]amino]-3-O-[(3R)-3-hydroxytetradecanoyl]-4-O phosphono-beta-D-glucopyranosyl-(1->6)-2-deoxy-3-O-[(3R)-3 hydroxytetradecanoyl]-2-[[(3R)-3-hydroxytetradecanoyl]amino]-1-O phosphono-alpha-D-glucopyranose
+1	Q46222	CMP-3-deoxy-D-manno-octulosonate
+2	F0T4D1	3-deoxy-alpha-D-manno-oct-2-ulopyranosyl-(2->4)-3-deoxy-alpha-D-manno oct-2-ulopyranosyl-(2->6)-2-deoxy-2-[[(3R)-3 hydroxypentadecanoyl]amino]-3-O-[(3R)-3-hydroxytetradecanoyl]-4-O phosphono-beta-D-glucopyranosyl-(1->6)-2-deoxy-3-O-[(3R)-3 hydroxytetradecanoyl]-2-[[(3R)-3-hydroxytetradecanoyl]amino]-1-O phosphono-alpha-D-glucopyranose
+3	F0T4D1	CMP-3-deoxy-D-manno-octulosonate
+0	Q9RP48	alpha-maltose 1-phosphate
+1	Q9RP48	[(1->4)-alpha-D-glucosyl]n
+2	Q9RP48	alpha-maltose 1-phosphate
+3	Q9RP48	[(1->4)-alpha-D-glucosyl]n
+4	Q9RP48	more
+5	Q9L1K2	alpha-maltose 1-phosphate
+6	Q9L1K2	[(1->4)-alpha-D-glucosyl]n
+7	Q9L1K2	alpha-maltose 1-phosphate
+8	Q9L1K2	[(1->4)-alpha-D-glucosyl]n
+9	Q9L1K2	2-deoxy-2-fluoro-alpha-maltosyl fluoride
+10	Q9L1K2	maltotetraose
+11	O33838	more
+0	O32054	S-adenosyl-L-methionine
+1	O32054	7-aminomethyl-7-carbaguanosine34 in tRNA
+2	Q9WZ44	S-adenosyl-L-methionine
+3	Q9WZ44	7-aminomethyl-7-deazaguanine34 in tRNA
+0	Q93ZY3	more
+1	P41543	more
+2	P48439	dolichyl diphosphooligosaccharide
+3	P48439	protein L-asparagine
+4	P48439	lipid-linked oligosaccharide
+5	P48439	unfolded nascent polypeptide chain
+6	P48439	dolichyl diphosphooligosaccharide
+7	P48439	[protein]-L-asparagine
+8	Q03723	dolichyl diphosphooligosaccharide
+9	Q03723	[protein]-L-asparagine
+10	Q03723	dolichyl diphosphooligosaccharide
+11	Q03723	[protein]-L-asparagine
+12	P39007	dolichyl diphosphooligosaccharide
+13	P39007	[protein]-L-asparagine
+14	P33767	dolichyl diphosphooligosaccharide
+15	P33767	[protein]-L-asparagine
+16	Q5HTX9	crude lipid-linked oligosaccharide donors from Campylobacter jejuni
+17	Q5HTX9	carboxytetramethylrhodamine-Ala-Asp-Gln-Asn-Ala-Thr-Tyr-Lys
+18	Q5HTX9	dolichyl diphosphooligosaccharide
+19	Q5HTX9	protein L-asparagine
+20	E1B265	more
+21	Q9S4V7	pentaprenyl diphospho-N-acetyl-D-galactosamine
+22	Q9S4V7	[protein]-L-asparagine
+23	Q9S4V7	undecaprenyl diphospho-N-acetyl-D-galactosamine
+24	Q9S4V7	[protein]-L-asparagine
+25	O29918	more
+26	O29918	dolichyl diphosphooligosaccharide
+27	O29918	[protein]-L-asparagine
+28	O29918	dolichyl diphosphooligosaccharide
+29	O29918	[protein]-L-asparagine
+0	B9KDD4	tritrans,heptacis-undecaprenyl diphosphooligosaccharide
+1	B9KDD4	[protein]-L-asparagine
+0	Q50J63	CMP-N-acetyl-beta-neuraminate
+1	Q50J63	ganglioside GM1a
+2	Q50J63	CMP-N-acetyl-beta-neuraminate
+3	Q50J63	2-azidoethyl beta-D-Gal-(1->3)-beta-D-GalNAc
+4	Q50J63	CMP-N-acetyl-beta-neuraminate
+5	Q50J63	3-O-[beta-D-Gal-(1->3)-beta-D-GalNAc]-N-acetyl-L-threonine methyl ester
+6	Q50J63	CMP-N-acetyl-beta-neuraminate
+7	Q50J63	[asialofetuin]-(O-3-(beta-D-Gal-(1->3)-beta-D-GalNAc-(1->)))-L threonine
+8	Q50J63	CMP-N-acetyl-beta-neuraminate
+9	Q50J63	[asialofetuin]-(O-3-(beta-D-Gal-(1->3)-beta-D-GalNAc-(1->)))-L-serine
+10	A8R0Y0	CMP-N-acetyl-beta-neuraminate
+11	A8R0Y0	ganglioside GM1a
+12	A8R0Y0	CMP-N-acetyl-beta-neuraminate
+13	A8R0Y0	ganglioside GD1b
+14	Q702S3	CMP-N-acetyl-beta-neuraminate
+15	Q702S3	ganglioside GM1a
+16	Q702S3	CMP-N-acetyl-beta-neuraminate
+17	Q702S3	2-azidoethyl beta-D-Gal-(1->3)-beta-D-GalNAc
+18	Q702S3	CMP-N-acetyl-beta-neuraminate
+19	Q702S3	3-O-[beta-D-Gal-(1->3)-beta-D-GalNAc]-N-acetyl-L-threonine methyl ester
+20	Q702S3	CMP-N-acetyl-beta-neuraminate
+21	Q702S3	[asialofetuin]-(O-3-(beta-D-Gal-(1->3)-beta-D-GalNAc-(1->)))-L threonine
+22	Q702S3	CMP-N-acetyl-beta-neuraminate
+23	Q702S3	[asialofetuin]-(O-3-(beta-D-Gal-(1->3)-beta-D-GalNAc-(1->)))-L-serine
+24	Q11206	CMP-N-acetyl-beta-neuraminate
+25	Q11206	ganglioside GM1a
+26	Q11206	CMP-N-acetyl-beta-neuraminate
+27	Q11206	beta-Gal-(1->4)-beta-GlcNAc-R
+28	Q16842	CMP-N-acetyl-beta-neuraminate
+29	Q16842	ganglioside GM1a
+30	Q16842	CMP-N-acetyl-beta-neuraminate
+31	Q16842	benzyl beta-D-Gal-(1->3)-beta-D-GalNAc
+32	Q16842	CMP-N-acetyl-beta-neuraminate
+33	Q16842	ganglioside Gb5
+34	Q16842	CMP-N-acetyl-beta-neuraminate
+35	Q16842	ganglioside GD1b
+36	Q16842	CMP-N-acetyl-beta-neuraminate
+37	Q16842	ganglioside GA1
+38	Q16842	more
+39	Q16842	CMP-N-acetyl-beta-neuraminate
+40	Q16842	beta-D-Gal-(1->3)-beta-D-GalNAc
+41	Q91Y74	CMP-N-acetyl-beta-neuraminate
+42	Q91Y74	beta-D-Gal-(1->3)-beta-D-GlcNAc
+43	Q91Y74	CMP-N-acetyl-beta-neuraminate
+44	Q91Y74	beta-D-Gal-(1->3)-beta-D-GalNAc
+45	Q11204	CMP-N-acetyl-beta-neuraminate
+46	Q11204	ganglioside GA1
+47	Q11204	more
+48	Q11204	CMP-N-acetyl-beta-neuraminate
+49	Q11204	beta-D-Gal-(1->3)-beta-D-GalNAc
+50	Q11204	CMP-N-acetyl-beta-neuraminate
+51	Q11204	beta-D-Gal-(1->3)-beta-D-GlcNAc
+52	Q11200	CMP-N-acetyl-beta-neuraminate
+53	Q11200	beta-D-Gal-(1->3)-beta-D-GalNAc
+54	Q11200	CMP-N-acetyl-beta-neuraminate
+55	Q11200	beta-D-Gal-(1->3)-beta-D-GlcNAc
+56	F1NGY0	CMP-N-acetyl-beta-neuraminate
+57	F1NGY0	beta-D-Gal-(1->3)-beta-D-GalNAc
+58	F1NGY0	CMP-N-acetyl-beta-neuraminate
+59	F1NGY0	beta-D-Gal-(1->3)-beta-D-GlcNAc
+60	I6WCK5	CMP-N-acetyl-beta-neuraminate
+61	I6WCK5	beta-D-Gal-(1->3)-beta-D-GalNAc
+62	I6WCK5	CMP-N-acetyl-beta-neuraminate
+63	I6WCK5	beta-D-Gal-(1->3)-beta-D-GlcNAc
+64	P97325	CMP-N-acetyl-beta-neuraminate
+65	P97325	beta-D-Gal-(1->3)-beta-D-GalNAc
+66	Q9YJT3	CMP-N-acetylneuraminate
+67	Q9YJT3	beta-D-Gal-(1->3)-beta-D-GalNAc-R
+68	Q11201	CMP-N-acetyl-beta-neuraminate
+69	Q11201	ganglioside GM1a
+70	Q11201	CMP-N-acetyl-beta-neuraminate
+71	Q11201	beta-D-Gal-(1->3)-beta-D-GalNAc
+72	P54751	CMP-N-acetyl-beta-neuraminate
+73	P54751	ganglioside GM1a
+74	P54751	CMP-N-acetyl-beta-neuraminate
+75	P54751	ganglioside GD1b
+76	P54751	CMP-N-acetyl-beta-neuraminate
+77	P54751	ganglioside GA1
+78	P54751	more
+79	P54751	CMP-N-acetyl-beta-neuraminate
+80	P54751	beta-D-Gal-(1->3)-beta-D-GalNAc
+81	P54751	CMP-N-acetyl-beta-neuraminate
+82	P54751	beta-D-Gal-(1->3)-beta-D-GlcNAc
+0	P28907	2'-phospho-cyclic ADP-ribose
+1	P28907	nicotinate
+2	P28907	NGDP+
+3	P28907	NADP+
+4	P28907	more
+5	Q64244	2'-phospho-cyclic ADP-ribose
+6	Q64244	nicotinate
+7	Q64244	NADP+
+8	Q64244	nicotinate
+9	P29241	2'-phospho-cyclic ADP-ribose
+10	P29241	nicotinate
+11	P29241	NGDP+
+12	P29241	NADP+
+13	P29241	more
+0	O29867	lipid-linked oligosaccharide
+1	O29867	[peptide]-L-asparagine
+2	O29867	an archaeal dolichyl phosphooligosaccharide
+3	O29867	[protein]-L-asparagine
+4	Q2EMT4	dolichyl 3-O-(2,3-diacetamido-2 3-dideoxy-beta-D-glucuronosyl)-N-acetyl-alpha-D-glucosaminyl phosphate
+5	Q2EMT4	Ac-YKYQESSYK-(4-nitro)F-NH2
+6	Q2EMT4	dolichyl 3-O-(2,3-diacetamido-2 3-dideoxy-beta-D-glucuronosyl)-N-acetyl-alpha-D-glucosaminyl phosphate
+7	Q2EMT4	[flagellum protein FlaB2]-L-asparagine
+8	Q2EMT4	dolichyl phosphooligosaccharide
+9	Q2EMT4	[flagellum protein FlaB2]-L-asparagine101
+10	Q2EMT4	more
+11	D4GYH4	an archaeal dolichyl phosphooligosaccharide
+12	D4GYH4	[protein]-L-asparagine
+0	Q9NSC7	CMP-N-acetylneuraminate
+1	Q9NSC7	GTTPSPVPT[GalNAc]TSTTSAP
+2	Q9NSC7	CMP-N-acetylneuraminate
+3	Q9NSC7	R-1,3-(N-acetyl-alpha-D-galactosaminyl)-glycoprotein
+4	Q9NSC7	CMP-N-acetylneuraminate
+5	Q9NSC7	R-1,3-(N-acetyl-alpha-D-galactosaminyl)-glycoprotein
+6	Q9NSC7	CMP-N-acetylneuraminate
+7	Q9NSC7	R-1,3-(N-acetyl-alpha-D-galactosaminyl)-glycoprotein
+8	Q9NSC7	CMP-N-acetylneuraminate
+9	Q9NSC7	glycano-1,3-(N-acetyl-alpha-D-galactosaminyl)-glycoprotein
+10	A0A024R8M1	CMP-N-acetylneuraminate
+11	A0A024R8M1	VPSTPPTPSPSTPPTPSPSCCHPR-GalNAc
+12	A0A024R8M1	more
+13	Q9UJ37	CMP-N-acetylneuraminate
+14	Q9UJ37	R-1,3-(N-acetyl-alpha-D-galactosaminyl)-glycoprotein
+15	Q9UJ37	CMP-N-acetylneuraminate
+16	Q9UJ37	R-1,3-(N-acetyl-alpha-D-galactosaminyl)-glycoprotein
+17	Q9UJ37	CMP-N-acetylneuraminate
+18	Q9UJ37	R-1,3-(N-acetyl-alpha-D-galactosaminyl)-glycoprotein
+19	Q9UJ37	CMP-N-acetylneuraminate
+20	Q9UJ37	asialo-fetuin
+21	Q9UJ37	more
+22	Q9UJ37	CMP-N-acetylneuraminate
+23	Q9UJ37	glycano-1,3-(N-acetyl-alpha-D-galactosaminyl)-glycoprotein
+24	Q9UJ37	CMP-N-acetylneuraminate
+25	Q9UJ37	native fetuin
+0	Q11205	CMP
+1	Q11205	3-O-[alpha-Neu5Ac-(2->3)-beta-D-Gal-(1->3)-alpha-D-GalNAc]-L-tyrosyl [protein]
+2	Q02745	CMP-N-acetyl-beta-neuraminate
+3	Q02745	[antifreeze glycoprotein]-(O-3-(beta-D-Gal-(1->3)-alpha-D-GalNAc-(1->)))-L threonine
+4	Q02745	CMP-N-acetyl-beta-neuraminate
+5	Q02745	[antifreeze glycoprotein]-(O-3-(beta-D-Gal-(1->3)-alpha-D-GalNAc-(1->)))-L-serine
+6	Q02745	CMP-N-acetyl-beta-neuraminate
+7	Q02745	[asialoglycoprotein]-(O-3-(beta-D-Gal-(1->3)-alpha-D-GalNAc-(1->)))-L serine
+8	Q02745	CMP-N-acetyl-beta-neuraminate
+9	Q02745	[asialoglycoprotein]-(O-3-(beta-D-Gal-(1->3)-alpha-D-GalNAc-(1->)))-L threonine
+10	Q02745	CMP-N-acetyl-beta-neuraminate
+11	Q02745	[porcine submaxillary asialo-mucin]-(O-3-(beta-D-Gal-(1->3)-alpha-D-GalNAc-(1->)))-L threonine
+12	Q02745	CMP-N-acetyl-beta-neuraminate
+13	Q02745	[porcine submaxillary asialo-mucin]-(O-3-(beta-D-Gal-(1->3)-alpha-D-GalNAc-(1->)))-L-serine
+14	Q02745	CMP-N-acetylneuraminate
+15	Q02745	beta-D-Gal-(1->3)-beta-D-GalNAc
+16	Q02745	more
+0	A8QYL0	CMP-N-acetyl-beta-neuraminate
+1	A8QYL0	beta-D-Gal-(1->4)-beta-D-GlcNAc
+2	A8QYL0	CMP-N-acetyl-beta-neuraminate
+3	A8QYL0	beta-D-Gal-(1->4)-beta-D-Glc
+4	A8QYL0	CMP-N-acetyl-beta-neuraminate
+5	A8QYL0	beta-D-N-acetylgalactosamine
+6	A8QYL0	CMP-N-acetyl-beta-neuraminate
+7	A8QYL0	methyl beta-D-Gal-(1->3)-beta-D-GlcNAc
+8	A8QYL0	CMP-N-acetyl-beta-neuraminate
+9	A8QYL0	methyl beta-D-galactopyranoside
+10	A5LHX0	CMP-N-acetyl-beta-neuraminate
+11	A5LHX0	beta-D-Gal-(1->4)-beta-D-GlcNAc
+12	A5LHX0	CMP-N-acetyl-beta-neuraminate
+13	A5LHX0	beta-D-Gal-(1->4)-beta-D-Glc
+14	A5LHX0	CMP-N-acetyl-beta-neuraminate
+15	A5LHX0	beta-D-mannopyranoside
+16	A5LHX0	CMP-N-acetyl-beta-neuraminate
+17	A5LHX0	methyl beta-D-Gal-(1->4)-beta-D-GlcNAc
+18	A5LHX0	CMP-N-acetyl-beta-neuraminate
+19	A5LHX0	methyl beta-D-galactopyranoside
+20	A5LHX0	CMP-N-acetyl-beta-neuraminate
+21	A5LHX0	methyl beta-D-glucopyranoside
+22	A5LHX0	CMP-N-acetyl-beta-neuraminate
+23	A5LHX0	beta-D-N-acetylglucosamine
+24	A5LHX0	CMP-N-acetyl-beta-neuraminate
+25	A5LHX0	methyl beta-D-mannopyranoside
+26	Q11206	CMP-N-acetyl-beta-neuraminate
+27	Q11206	beta-D-Gal-(1->4)-beta-D-GlcNAc-[protein]
+28	Q11206	CMP-N-acetyl-beta-neuraminate
+29	Q11206	4-nitrophenyl beta-D-Gal-(1->4)-beta-D-GlcNAc-(1->3)-beta-D-Gal
+30	Q11206	CMP-N-acetyl-beta-neuraminate
+31	Q11206	4-nitrophenyl beta-D-Gal-(1->4)-beta-D-GlcNAc-(1->3)-beta-D-Gal-(1->4)-beta-D-GlcNAc
+32	Q11206	CMP-N-acetyl-beta-neuraminate
+33	Q11206	benzyl beta-D-(4-O-Me)Gal-(1->4)-beta-D-GlcNAc
+34	Q11206	CMP-N-acetyl-beta-neuraminate
+35	Q11206	benzyl beta-D-Gal-(1->4)-beta-D-GlcNAc-(1->6)-[4-deoxy-4-fluoro-beta-D-Gal-(1 >3)]-beta-D-GalNAc
+36	Q91Y74	CMP-N-acetyl-beta-neuraminate
+37	Q91Y74	beta-D-Gal-(1->4)-beta-D-GlcNAc
+38	Q91Y74	CMP-N-acetyl-beta-neuraminate
+39	Q91Y74	beta-D-Gal-(1->3)-beta-D-GlcNAc
+40	Q91Y74	CMP-N-acetylneuraminate
+41	Q91Y74	beta-D-Gal-(1->4)-beta-D-GlcNAc-R
+42	Q15KI8	CMP-N-acetyl-beta-neuraminate
+43	Q15KI8	4-methylumbelliferyl beta-Lewis x
+44	Q15KI8	CMP-N-acetyl-beta-neuraminate
+45	Q15KI8	4-methylumbelliferyl beta-lactoside
+46	Q15KI8	CMP-N-acetyl-beta-neuraminate
+47	Q15KI8	beta-D-Gal-(1->4)-[alpha-D-Fuc-(1->3)]-beta-D-GlcNAc-[protein]
+48	Q11203	CMP-N-acetyl-beta-neuraminate
+49	Q11203	4-nitrophenyl beta-D-Gal-(1->4)-beta-D-GlcNAc-(1->3)-beta-D-Gal
+50	Q11203	CMP-N-acetyl-beta-neuraminate
+51	Q11203	4-nitrophenyl beta-D-Gal-(1->4)-beta-D-GlcNAc-(1->3)-beta-D-Gal-(1->4)-beta-D-GlcNAc
+52	Q11203	CMP-N-acetyl-beta-neuraminate
+53	Q11203	benzyl beta-D-(4-O-Me)Gal-(1->4)-beta-D-GlcNAc
+54	Q11203	CMP-N-acetyl-beta-neuraminate
+55	Q11203	benzyl beta-D-Gal-(1->4)-beta-D-GlcNAc-(1->6)-[4-deoxy-4-fluoro-beta-D-Gal-(1 >3)]-beta-D-GalNAc
+56	Q17WF9	CMP-N-acetylneuraminate
+57	Q17WF9	beta-D-Gal-(1->3)-beta-D-GlcNAc
+58	Q17WF9	CMP-N-acetylneuraminate
+59	Q17WF9	beta-D-Gal-(1->4)-beta-D-Glc
+60	Q17WF9	CMP-N-acetylneuraminate
+61	Q17WF9	beta-D-Gal-(1->4)-beta-D-GlcNAc
+62	A8R0Y0	CMP-N-acetyl-beta-neuraminate
+63	A8R0Y0	beta-D-Gal-(1->4)-beta-D-GlcNAc
+64	A8R0Y0	CMP-N-acetyl-beta-neuraminate
+65	A8R0Y0	beta-D-Gal-(1->4)-beta-D-Glc
+66	A8R0Y0	CMP-N-acetyl-beta-neuraminate
+67	A8R0Y0	beta-D-N-acetylgalactosamine
+68	A8R0Y0	CMP-N-acetyl-beta-neuraminate
+69	A8R0Y0	methyl beta-D-Gal-(1->3)-beta-D-GlcNAc
+70	A8R0Y0	CMP-N-acetyl-beta-neuraminate
+71	A8R0Y0	methyl beta-D-galactopyranoside
+72	A8R0Y0	CMP-N-acetyl-beta-neuraminate
+73	A8R0Y0	beta-D-N-acetylglucosamine
+74	A8R0Y0	CMP-N-acetyl-beta-neuraminate
+75	A8R0Y0	methyl beta-D-mannopyranoside
+76	A8R0Y0	CMP-N-acetyl-beta-neuraminate
+77	A8R0Y0	methyl beta-D-glucopyranoside
+78	A0A1D5NU03	CMP-N-acetyl-beta-neuraminate
+79	A0A1D5NU03	beta-D-Gal-(1->3)-beta-D-GlcNAc
+80	A0A1D5NU03	CMP-N-acetyl-beta-neuraminate
+81	A0A1D5NU03	beta-D-Gal-(1->4)-beta-D-GlcNAc
+82	F1NQP1	CMP-N-acetyl-beta-neuraminate
+83	F1NQP1	beta-D-Gal-(1->3)-beta-GlcNAc
+84	F1NQP1	CMP-N-acetyl-beta-neuraminate
+85	F1NQP1	beta-D-Gal-(1->4)-beta-D-GlcNAc
+86	Q02734	CMP-N-acetyl-beta-neuraminate
+87	Q02734	beta-D-Gal-(1->4)-beta-D-GlcNAc
+88	P97325	CMP-N-acetyl-beta-neuraminate
+89	P97325	beta-D-Gal-(1->4)-beta-D-GlcNAc
+90	Q9YJT3	CMP-N-acetylneuraminate
+91	Q9YJT3	beta-D-Gal-(1->4)-beta-D-GalNAc-R
+92	Q9YJT3	CMP-N-acetylneuraminate
+93	Q9YJT3	beta-D-Gal-(1->4)-beta-D-GlcNAc-R
+94	Q9YJT3	CMP-N-acetyl-beta-neuraminate
+95	Q9YJT3	8-methoxy-8-oxooctyl beta-D-Gal-(1->4)-beta-D-GlcNAc
+96	Q9YJT3	CMP-N-acetylneuraminate
+97	Q9YJT3	beta-D-Gal-(1->4)-beta-D-GlcNAc
+0	Q8NDV1	CMP-NAC
+1	Q8NDV1	monosialylgalactosylgloboside
+2	Q8NDV1	CMP-NeuAc
+3	Q8NDV1	glycoprotein
+4	Q8NDV1	CMP-NeuAc
+5	Q8NDV1	glycosphingolipid
+6	Q969X2	CMP-NAC
+7	Q969X2	monosialylgalactosylgloboside
+8	Q969X2	CMP-NeuAc
+9	Q969X2	glycoprotein
+10	Q969X2	CMP-NeuAc
+11	Q969X2	glycosphingolipid
+12	Q9H4F1	CMP-N-acetyl-beta-neuraminate
+13	Q9H4F1	Neu5Acalpha2-3Galbeta1-3GalNacalpha-O-benzyl
+14	Q9H4F1	CMP-N-acetylneuraminate
+15	Q9H4F1	GlcNac-alpha1-O-benzyl
+16	Q9H4F1	CMP-N-acetylneuraminate
+17	Q9H4F1	Neu5Acalpha2-3Galbeta1-3GalNac
+18	Q9H4F1	CMP-N-acetylneuraminate
+19	Q9H4F1	Neu5Acalpha2-3Galbeta1-4GlcNac-alpha1-O-benzyl
+20	Q9H4F1	CMP-N-acetylneuraminate
+21	Q9H4F1	alpha1-acid glycoprotein
+22	Q9H4F1	CMP-N-acetylneuraminate
+23	Q9H4F1	fetuin
+0	Q92185	CMP-N-acetylneuraminate
+1	Q92185	ganglioside GM3
+2	Q92185	CMP-N-acetylneuraminate
+3	Q92185	ganglioside GM3
+4	Q8K4T1	more
+5	Q8K4T1	CMP-N-acetylneuraminate
+6	Q8K4T1	bovine submaxillary mucin
+7	Q64687	CMP-N-acetylneuraminate
+8	Q64687	ganglioside GM3
+9	Q64687	CMP-N-acetylneuraminate
+10	Q64687	ganglioside GM3
+11	Q64687	more
+12	Q92187	CMP-N-acetylneuraminate
+13	Q92187	neural cell adhesion molecule
+14	Q92187	CMP-N-acetylneuraminate
+15	Q92187	neuropilin-2
+0	O88829	CMP-N-acetylneuraminate
+1	O88829	beta-D-galactosyl-1,4-beta-D-glucosylceramide
+2	O88829	CMP-N-acetylneuraminate
+3	O88829	lactosylceramide
+4	O88829	CMP-N-acetylneuraminate
+5	O88829	beta-D-galactosyl-(1->4)-beta-D-glucosyl-(1<->1)-ceramide
+6	O88829	CMP-sialic acid
+7	O88829	galactosylceramide
+8	Q9QXF5	CMP-N-acetylneuraminate
+9	Q9QXF5	beta-D-galactosyl-(1->4)-beta-D-glucosyl-(1<->1)-ceramide
+10	Q9QXF5	CMP-sialic acid
+11	Q9QXF5	galactosylceramide
+12	Q80WL0	CMP-N-acetylneuraminate
+13	Q80WL0	beta-D-galactosyl-(1->4)-beta-D-glucosyl-(1<->1)-ceramide
+14	Q80WL0	CMP-sialic acid
+15	Q80WL0	galactosylceramide
+16	Q6R3Q5	more
+17	Q6R3Q5	CMP-N-acetylneuraminate
+18	Q6R3Q5	lactosylceramide
+19	Q9UNP4	CMP-N-acetylneuraminate
+20	Q9UNP4	lactosylceramide
+21	Q9UNP4	more
+22	Q9UNP4	CMP-N-acetylneuraminate
+23	Q9UNP4	asialoGM1
+24	Q9UNP4	CMP-N-acetylneuraminate
+25	Q9UNP4	asialoGM2
+26	Q9UNP4	CMP-N-acetylneuraminate
+27	Q9UNP4	galactosylceramide
+28	Q9UNP4	CMP-N-acetylneuraminate
+29	Q9UNP4	lactosylceramide
+30	Q9UNP4	beta-D-Gal-(1->4)-beta-D-Glc-(1->1)-Cer(d18:1(4E))
+31	Q9UNP4	CMP-N-acetyl-beta-neuraminate
+32	Q9UNP4	CMP-N-acetylneuraminate
+33	Q9UNP4	beta-D-galactosyl-(1->4)-beta-D-glucosyl-(1<->1)-ceramide
+34	Q9UNP4	CMP-sialic acid
+35	Q9UNP4	galactosylceramide
+0	Q58GE8	dimethylallyl diphosphate
+1	Q58GE8	isopentenyl diphosphate
+2	Q58GE8	dimethylallyl diphosphate
+3	Q58GE8	isopentenyl diphosphate
+4	Q1X877	dimethylallyl diphosphate
+5	Q1X877	isopentenyl diphosphate
+6	Q1X876	dimethylallyl diphosphate
+7	Q1X876	isopentenyl diphosphate
+8	Q1X876	more
+9	D2IT07	dimethylallyl diphosphate
+10	D2IT07	isopentenyl diphosphate
+11	D2IT07	dimethylallyl diphosphate
+12	D2IT07	isopentenyl diphosphate
+13	Q9SBR4	dimethylallyl diphosphate
+14	Q9SBR4	isopentenyl diphosphate
+15	Q6QLU5	dimethylallyl diphosphate
+16	Q6QLU5	isopentenyl diphosphate
+17	Q9SBR3	dimethylallyl diphosphate
+18	Q9SBR3	isopentenyl diphosphate
+19	Q9SBR3	dimethylallyl diphosphate
+20	Q9SBR3	isopentenyl diphosphate
+21	Q17F78	dimethylallyl diphosphate
+22	Q17F78	isopentenyl diphosphate
+23	Q17F78	dimethylallyl diphosphate
+24	Q17F78	isopentenyl diphosphate
+25	Q17F78	dimethylallyl diphosphate
+26	Q17F78	isopentenyl diphosphate
+27	B2MV87	dimethylallyl diphosphate
+28	B2MV87	isopentenyl diphosphate
+29	B2MV87	dimethylallyl diphosphate
+30	B2MV87	isopentenyl diphosphate
+31	I1VJ84	dimethylallyl diphosphate
+32	I1VJ84	isopentenyl diphosphate
+33	I1VJ84	dimethylallyl diphosphate
+34	I1VJ84	isopentenyl diphosphate

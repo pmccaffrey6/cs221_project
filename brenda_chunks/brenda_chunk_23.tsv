@@ -1,0 +1,1606 @@
+	uniprot_ids	substrates
+0	Q9S850	sulfite
+1	Q9S850	H2O
+2	Q9S850	A
+3	Q9S850	sulfite
+4	Q9S850	O2
+5	Q9S850	H2O
+6	Q9S850	sulfite
+7	Q9S850	O2
+8	Q9S850	H2O
+9	Q9S850	more
+10	A5H1Q7	sulfite
+11	A5H1Q7	O2
+12	A5H1Q7	H2O
+13	A5H1Q7	sulfite
+14	A5H1Q7	O2
+15	A5H1Q7	H2O
+16	A5H1Q7	more
+17	A5H1Q7	sulfite
+18	A5H1Q7	ferricyanide
+19	A5H1Q7	H2O
+20	P51687	sulfite
+21	P51687	O2
+22	P51687	H2O
+23	P51687	sulfite
+24	P51687	O2
+25	P51687	H2O
+26	P51687	more
+27	P51687	sulfite
+28	P51687	ferricyanide
+29	P51687	H+
+30	P07850	sulfite
+31	P07850	cytochrome c
+32	P07850	SO32-
+33	P07850	H2O
+34	P07850	O2
+35	P07850	more
+36	P07850	sulfite
+37	P07850	ferricyanide
+38	P07850	H2O
+39	F7X8Y3	sulfite
+40	F7X8Y3	cytochrome c
+41	C5HG86	sulfite
+42	C5HG86	O2
+43	C5HG86	H2O
+44	C5HG86	sulfite
+45	C5HG86	O2
+46	C5HG86	H2O
+47	C5HG86	sulfite
+48	C5HG86	ferricyanide
+49	C5HG86	H+
+50	C5HG86	sulfite
+51	C5HG86	ferricyanide
+52	C5HG86	H2O
+53	B9GJT3	sulfite
+54	B9GJT3	O2
+55	B9GJT3	H2O
+56	B9GJT3	sulfite
+57	B9GJT3	O2
+58	B9GJT3	H2O
+59	B9GJT3	more
+60	I1I8W3	sulfite
+61	I1I8W3	O2
+62	I1I8W3	H2O
+63	I1I8W3	sulfite
+64	I1I8W3	O2
+65	I1I8W3	H2O
+66	I1I8W3	more
+0	Q6IUU3	R-SH
+1	Q6IUU3	O2
+2	Q6IUU3	R-SH
+3	Q6IUU3	O2
+4	Q6IUU3	dithiothreitol
+5	Q6IUU3	O2
+6	Q6IUU3	dithiothreitol
+7	Q6IUU3	O2
+8	Q6IUU3	dithiothreitol
+9	Q6IUU3	O2
+10	Q6IUU3	dithiothreitol
+11	Q6IUU3	O2
+12	Q6IUU3	more
+13	Q6IUU3	glutathione
+14	Q6IUU3	O2
+15	Q6IUU3	glutathione
+16	Q6IUU3	O2
+17	Q6IUU3	RNase A
+18	Q6IUU3	O2
+19	Q6IUU3	RNase A
+20	Q6IUU3	O2
+21	O08841	R-SH
+22	O08841	O2
+23	O08841	R-SH
+24	O08841	O2
+25	O08841	dithiothreitol
+26	O08841	O2
+27	O08841	dithiothreitol
+28	O08841	O2
+29	O08841	dithiothreitol
+30	O08841	O2
+31	O08841	more
+32	O00391	R-SH
+33	O00391	O2
+34	O00391	R-SH
+35	O00391	O2
+36	Q63042	R-SH
+37	Q63042	O2
+38	Q63042	R-SH
+39	Q63042	O2
+40	Q63042	dithiothreitol
+41	Q63042	O2
+42	Q63042	dithiothreitol
+43	Q63042	O2
+44	Q63042	dithiothreitol
+45	Q63042	O2
+46	Q8GXX0	R-SH
+47	Q8GXX0	O2
+48	Q8GXX0	R-SH
+49	Q8GXX0	O2
+50	Q8GXX0	dithiothreitol
+51	Q8GXX0	O2
+52	Q8GXX0	dithiothreitol
+53	Q8GXX0	O2
+54	Q8GXX0	dithiothreitol
+55	Q8GXX0	O2
+56	Q8GXX0	more
+57	Q8GXX0	thioredoxin
+58	Q8GXX0	O2
+59	Q8GXX0	thioredoxin
+60	Q8GXX0	O2
+61	Q8GXX0	cysteine
+62	Q8GXX0	O2
+63	Q12284	R-SH
+64	Q12284	O2
+65	Q12284	R-SH
+66	Q12284	O2
+67	Q12284	protein disulfide isomerase
+68	Q12284	O2
+69	Q12284	protein disulfide isomerase
+70	Q12284	O2
+71	Q12284	dithiothreitol
+72	Q12284	O2
+73	Q12284	dithiothreitol
+74	Q12284	O2
+75	Q12284	dithiothreitol
+76	Q12284	O2
+77	Q12284	more
+78	Q6ZRP7	R-SH
+79	Q6ZRP7	O2
+80	Q6ZRP7	R-SH
+81	Q6ZRP7	O2
+82	Q6ZRP7	more
+83	Q2U4P3	2 dithiothreitol
+84	Q2U4P3	O2
+85	Q2U4P3	2 2-mercaptoethanol
+86	Q2U4P3	O2
+87	Q2U4P3	2 D-Cys
+88	Q2U4P3	O2
+89	Q2U4P3	2 L-Cys
+90	Q2U4P3	O2
+91	Q2U4P3	2 glutathione
+92	Q2U4P3	O2
+93	Q585M6	more
+94	Q585M6	2 dithiothreitol
+95	Q585M6	O2
+96	Q585M6	rRNaseA
+97	Q585M6	O2
+98	Q585M6	2 glutathione
+99	Q585M6	O2
+100	Q2UA33	2 dithiothreitol
+101	Q2UA33	O2
+102	Q2UA33	2 2-mercaptoethanol
+103	Q2UA33	O2
+104	Q2UA33	2 D-Cys
+105	Q2UA33	O2
+106	Q2UA33	2 L-Cys
+107	Q2UA33	O2
+108	Q2UA33	2 glutathione
+109	Q2UA33	O2
+110	Q8W4J3	dithiothreitol
+111	Q8W4J3	O2
+112	P41480	dithiothreitol
+113	P41480	O2
+114	P41480	dithiothreitol
+115	P41480	O2
+116	P41480	dithiothreitol
+117	P41480	O2
+118	P41480	protein SfP53
+119	P41480	O2
+120	P41480	reduced thioredoxin
+121	P41480	O2
+0	Q2UA33	2 2-mercaptoethanol
+1	Q2UA33	O2
+2	Q2UA33	2 D-Cys
+3	Q2UA33	O2
+4	Q2UA33	2 L-Cys
+5	Q2UA33	O2
+6	Q2UA33	2 dithiothreitol
+7	Q2UA33	O2
+8	Q2UA33	2 glutathione
+9	Q2UA33	O2
+0	Q99JK4	farnesyl-L-cysteine
+1	Q99JK4	O2
+2	Q99JK4	H2O
+3	Q99JK4	S-prenyl-L-cysteine
+4	Q99JK4	O2
+5	Q99JK4	H2O
+6	Q99JK4	geranylgeranyl-L-cysteine
+7	Q99JK4	O2
+8	Q99JK4	H2O
+9	Q9UHG3	farnesyl-L-cysteine
+10	Q9UHG3	O2
+11	Q9UHG3	H2O
+12	Q9UHG3	an S-prenyl-L-cysteine
+13	Q9UHG3	O2
+14	Q9UHG3	H2O
+15	P57681	N-acetyl-S-(2E,6E)-farnesyl-L-cysteine
+16	P57681	O2
+17	P57681	H2O
+18	P57681	S-(2E,6E)-farnesyl-L-cysteine
+19	P57681	O2
+20	P57681	H2O
+21	Q9CQF9	farnesyl-L-cysteine
+22	Q9CQF9	O2
+23	Q9CQF9	H2O
+24	Q9CQF9	S-prenyl-L-cysteine
+25	Q9CQF9	O2
+26	Q9CQF9	H2O
+27	Q9CQF9	geranylgeranyl-L-cysteine
+28	Q9CQF9	O2
+29	Q9CQF9	H2O
+0	P57681	N-acetyl-S-(2E,6E)-farnesyl-L-cysteine
+1	P57681	O2
+2	P57681	H2O
+3	P57681	S-(2E,6E)-farnesyl-L-cysteine
+4	P57681	O2
+5	P57681	H2O
+0	Q9F3C7	Ac-LCSPSRGSLFTGR-NH2
+1	Q9F3C7	O2
+2	Q9F3C7	reduced dithiothreitol
+3	Q9F3C7	Ac-Al-3-oxo-L-Ala-TPSRGSLFTGR-NH2
+4	Q9F3C7	hydrogen sulfide
+5	Q9F3C7	oxidized dithiothreitol
+6	Q9F3C7	H2O
+7	Q9F3C7	Abz-SALCSPTRA-NH2
+8	Q9F3C7	O2
+9	Q9F3C7	reduced dithiothreitol
+10	Q8NBK3	a [sulfatase]-L-cysteine
+11	Q8NBK3	O2
+12	Q8NBK3	a thiol
+13	Q8NBK3	a [sulfatase]-L-cysteine
+14	Q8NBK3	O(2)
+15	Q8NBK3	a thiol
+16	Q8NBK3	acetyl-MTDFYVPVSLCTPSRAALLTGRS-amide
+17	Q8NBK3	O2
+18	Q8NBK3	dithiothreitol
+19	Q8NBK3	Ac-Al-3-oxo-L-Ala-TPSRGSLFTGR-NH2
+20	Q8NBK3	hydrogen sulfide
+21	Q8NBK3	oxidized dithiothreitol
+22	Q8NBK3	H2O
+23	I6Y8I5	Abz-SALCSPTRA-NH2
+24	I6Y8I5	O2
+25	I6Y8I5	reduced dithiothreitol
+0	P56891	5'-adenylyl sulfate
+1	P56891	thioredoxin
+2	P56891	5'-adenylyl sulfate
+3	P56891	thioredoxin
+4	Q9RFS6	5'-adenylyl sulfate
+5	Q9RFS6	thioredoxin
+6	Q9RFS6	5'-adenylyl sulfate
+7	Q9RFS6	thioredoxin
+8	O05927	5'-adenylyl sulfate
+9	O05927	thioredoxin
+10	O05927	5'-adenylyl sulfate
+11	O05927	thioredoxin
+12	Q39619	5'-adenylyl sulfate
+13	Q39619	glutathione
+14	Q39619	5'-adenylyl sulfate
+15	Q39619	reduced dithiothreitol
+16	P71752	5'-adenylyl sulfate
+17	P71752	thioredoxin
+18	P71752	5'-adenylyl sulfate
+19	P71752	thioredoxin
+20	Q8L5D0	5'-adenylyl sulfate
+21	Q8L5D0	thioredoxin
+22	Q8L5D0	5'-adenylyl sulfate
+23	Q8L5D0	thioredoxin
+24	Q8L5D0	3'-phosphoadenosine-5'-phosphosulfate
+25	Q8L5D0	thioredoxin
+0	P14930	L-methionine (S)-sulfoxide
+1	P14930	thioredoxin
+2	P14930	L-methionine (S)-sulfoxide
+3	P14930	thioredoxin
+4	P14930	more
+5	O02089	dabsyl-L-methionine (S)-sulfoxide
+6	O02089	thioredoxin
+7	O02089	dabsyl-L-methionine (S)-sulfoxide
+8	O02089	dithiothreitol
+9	O02089	dimethylsulfide
+10	O02089	thioredoxin disulfide
+11	O02089	H2O
+12	O02089	more
+13	O02089	dabsyl-L-methionine (S)-sulfoxide
+14	O02089	NADPH
+15	O02089	H+
+16	Q9UJ68	peptide-L-methionine-(S)-S-oxide
+17	Q9UJ68	DTT
+18	Q9UJ68	peptide-L-methionine-(S)-S-oxide
+19	Q9UJ68	thioredoxin
+20	Q9UJ68	L-methionine (S)-sulfoxide
+21	Q9UJ68	thioredoxin
+22	Q9UJ68	L-methionine (S)-sulfoxide
+23	Q9UJ68	thioredoxin
+24	Q9UJ68	more
+25	Q9UJ68	L-methionine-(S)-S-oxide
+26	Q9UJ68	thioredoxin
+27	P08761	peptide-L-methionine-(S)-S-oxide
+28	P08761	thioredoxin
+29	Q8VS50	peptide-L-methionine-(S)-S-oxide
+30	Q8VS50	thioredoxin
+31	Q8VS50	more
+32	P54150	protein-L-methionine (S)-sulfoxide
+33	P54150	thioredoxin
+34	P54150	peptide-L-methionine-(S)-S-oxide
+35	P54150	thioredoxin
+36	P54150	Fmoc-L-methionine (S)-sulfoxide
+37	P54150	dithiothreitol
+38	P54150	L-methionine-(S)-S-oxide
+39	P54150	DTT
+40	Q9SL43	peptide-L-methionine-(S)-S-oxide
+41	Q9SL43	thioredoxin
+42	Q9D6Y7	L-methionine (S)-sulfoxide
+43	Q9D6Y7	2 dithiothreitol
+44	Q9D6Y7	L-methionine (S)-sulfoxide
+45	Q9D6Y7	thioredoxin
+46	Q9D6Y7	L-methionine (S)-sulfoxide
+47	Q9D6Y7	thioredoxin
+48	Q9D6Y7	more
+49	Q9D6Y7	L-methionine-(S)-S-oxide
+50	Q9D6Y7	thioredoxin
+51	Q9D6Y7	dabsyl-L-methionine (R)-sulfoxide
+52	Q9D6Y7	thioredoxin
+53	Q9D6Y7	dabsyl-L-methionine-(S)-S-oxide
+54	Q9D6Y7	dithiothreitol
+55	Q9D6Y7	protein-L-methionine (S)-S-oxide
+56	Q9D6Y7	thioredoxin
+57	P54149	alpha-synuclein-L-methionine (S)-S-oxide
+58	P54149	thioredoxin
+59	P54149	peptide-L-methionine (S)-S-oxide
+60	P54149	thioredoxin
+61	Q923M1	N-acetyl-L-methionine (S)-sulfoxide
+62	Q923M1	thioredoxin
+63	Q923M1	peptide-L-methionine-(S)-S-oxide
+64	Q923M1	thioredoxin
+65	Q9JWM8	more
+66	P0A744	peptide-L-methionine-(S)-S-oxide
+67	P0A744	thioredoxin
+68	P0A744	more
+69	P0A744	acetyl-L-methionine-(S)-S-oxide-NHMe
+70	P0A744	thioredoxin
+71	Q9AL99	dabsyl-L-methionine-(S)-S-oxide
+72	Q9AL99	DTT
+73	Q9AL99	peptide-L-methionine-(S)-S-oxide
+74	Q9AL99	thioredoxin
+75	Q9AL99	more
+76	P9WJM5	L-methionine (S)-sulfoxide
+77	P9WJM5	thioredoxin
+78	P9WJM5	L-methionine (S)-sulfoxide
+79	P9WJM5	thioredoxin
+80	G3JX11	dabsyl-L-methionine (S)-sulfoxide
+81	G3JX11	dithiothreitol
+82	G3JX11	L-methionine (S)-sulfoxide
+83	G3JX11	thioredoxin
+84	G3JX11	L-methionine (S)-sulfoxide
+85	G3JX11	thioredoxin
+86	P54153	dabsyl-L-methionine (S)-sulfoxide
+87	P54153	dithiothreitol
+88	P54153	L-methionine (S)-sulfoxide
+89	P54153	thioredoxin
+90	P54153	L-methionine (S)-sulfoxide
+91	P54153	thioredoxin
+92	A8MI53	L-methionine (S)-sulfoxide
+93	A8MI53	2 dithiothreitol
+94	A8MI53	more
+95	A8MI53	L-methionine (S)-sulfoxide
+96	A8MI53	glutaredoxin 2
+97	S5PLQ5	more
+98	S5PLQ5	S-methyl p-tolyl sulfoxide
+99	S5PLQ5	thioredoxin A
+100	S5PLQ5	S-methyl p-tolyl sulfoxide
+101	S5PLQ5	thioredoxin C
+102	Q73PT7	dabsyl-L-methionine (S)-S-oxide
+103	Q73PT7	dithiothreitol
+104	Q8NLL5	more
+105	Q8NLL5	peptide-L-methionine (S)-S-oxide
+106	Q8NLL5	thioredoxin
+107	Q8NLL5	peptide-L-methionine (S)-S-oxide
+108	Q8NLL5	mycothiol
+0	P14930	L-methionine (R)-sulfoxide
+1	P14930	thioredoxin
+2	P14930	L-methionine (R)-sulfoxide
+3	P14930	thioredoxin
+4	P14930	more
+5	Q8INK9	L-methionine (R)-sulfoxide
+6	Q8INK9	thioredoxin
+7	Q8INK9	L-methionine (R)-sulfoxide
+8	Q8INK9	thioredoxin
+9	Q8INK9	more
+10	Q9Y3D2	L-methionine (R)-sulfoxide
+11	Q9Y3D2	thioredoxin
+12	Q9Y3D2	L-methionine (R)-sulfoxide
+13	Q9Y3D2	thioredoxin
+14	Q9Y3D2	peptide-L-methionine-(R)-S-oxide
+15	Q9Y3D2	thioredoxin
+16	P0A746	L-methionine (R)-sulfoxide
+17	P0A746	thioredoxin
+18	P0A746	L-methionine (R)-sulfoxide
+19	P0A746	thioredoxin
+20	Q78J03	L-methionine (R)-sulfoxide
+21	Q78J03	thioredoxin
+22	Q78J03	L-methionine (R)-sulfoxide
+23	Q78J03	thioredoxin
+24	Q78J03	protein-L-methionine (R)-S-oxide
+25	Q78J03	dithiothreitol
+26	Q78J03	dabsyl L-methionine (R)-sulfoxide
+27	Q78J03	thioredoxin
+28	Q78J03	dabsyl-L-methionine-(R)-S-oxide
+29	Q78J03	dithiothreitol
+30	Q78J03	dabsyl-L-methionine (R)-sulfoxide
+31	Q78J03	thioredoxin
+32	Q78J03	dabsyl-L-methionine (R)-sulfoxide
+33	Q78J03	dithiothreitol
+34	Q8IXL7	more
+35	Q8IXL7	dabsyl L-methionine (R)-sulfoxide
+36	Q8IXL7	thioredoxin
+37	Q8IXL7	dabsyl-L-methionine-(R)-S-oxide
+38	Q8IXL7	dithiothreitol
+39	Q8IXL7	dabsyl-L-methionine (R)-sulfoxide
+40	Q8IXL7	thioredoxin
+41	Q8IXL7	dabsyl-L-methionine (R)-sulfoxide
+42	Q8IXL7	dithiothreitol
+43	A7U629	more
+44	A7U629	dabsyl-L-methionine (R)-sulfoxide
+45	A7U629	thioredoxin
+46	Q8BU85	L-methionine-(R)-S-oxide
+47	Q8BU85	thioredoxin
+48	Q8BU85	L-methionine-(R)-S-oxide
+49	Q8BU85	thioredoxin
+50	Q9NZV6	more
+51	Q8P4Q6	L-methionine (R)-sulfoxide
+52	Q8P4Q6	thioredoxin
+53	Q8P4Q6	L-methionine (R)-sulfoxide
+54	Q8P4Q6	thioredoxin
+55	Q9JWM8	L-methionine (R)-sulfoxide
+56	Q9JWM8	thioredoxin
+57	Q9JWM8	L-methionine (R)-sulfoxide
+58	Q9JWM8	thioredoxin
+59	Q9JWM8	more
+60	B7S5L1	dabsyl-L-methionine (R)-sulfoxide
+61	B7S5L1	thioredoxin
+62	Q9JLC3	L-methionine (R)-sulfoxide
+63	Q9JLC3	thioredoxin
+64	Q9JLC3	L-methionine (R)-sulfoxide
+65	Q9JLC3	thioredoxin
+66	Q9JLC3	dabsyl-L-methionine (R)-sulfoxide
+67	Q9JLC3	thioredoxin
+68	Q9JLC3	dabsyl-L-methionine (R)-sulfoxide
+69	Q9JLC3	dithiothreitol
+70	Q73PT7	dabsyl-L-methionine (R)-S-oxide
+71	Q73PT7	dithiothreitol
+0	P76270	L-methionine (R)-S-oxide
+1	P76270	thioredoxin
+2	A0A0Y6TLH6	more
+3	A0A0Y6TLH6	L-methionine (R)-S-oxide
+4	A0A0Y6TLH6	thioredoxin
+5	Q9HJW5	L-methionine (R)-S-oxide
+6	Q9HJW5	thioredoxin
+0	P0AEG4	a [DsbA protein] carrying a disulfide bond
+1	P0AEG4	a [protein] with reduced L-cysteine residues
+0	P36655	[DsbC protein] carrying a disulfide bond
+1	P36655	thioredoxin
+2	P36655	[DsbG protein] carrying a disulfide bond
+3	P36655	thioredoxin
+4	P36655	more
+5	P36655	[DsbE protein] carrying a disulfide bond
+6	P36655	thioredoxin
+0	A0A088FMA5	insulin disulfide
+1	A0A088FMA5	dithiothreitol
+2	O25017	apocytochrome c
+3	O25017	glutathione disulfide
+4	A0A0M5TJA7	insulin disulfide
+5	A0A0M5TJA7	dithiothreitol
+6	A0A0M3VDX1	insulin disulfide
+7	A0A0M3VDX1	dithiothreitol
+0	P92979	more
+1	P92979	cystine
+2	P92979	glutathione
+3	P92979	dehydroascorbate
+4	P92979	glutathione
+5	P92979	hydroxyethyldisulfide
+6	P92979	glutathione
+7	P92979	insulin disulfide
+8	P92979	glutathione
+9	P92979	oxidized ribonucleotide reductase
+10	P92979	glutathione
+11	P92979	5'-adenylyl sulfate
+12	P92979	glutathione
+13	Q0KG00	5'-adenylylsulfate
+14	Q0KG00	glutathione
+0	Q4VDN8	glutathione
+1	Q4VDN8	dehydroascorbate
+2	Q4VDN8	glutathione
+3	Q4VDN8	dehydroascorbate
+4	Q4VDN7	glutathione
+5	Q4VDN7	dehydroascorbate
+6	Q4VDN7	glutathione
+7	Q4VDN7	dehydroascorbate
+8	Q84UH6	glutathione
+9	Q84UH6	dehydroascorbate
+10	Q84UH6	glutathione
+11	Q84UH6	dehydroascorbate
+12	Q9H4Y5	2 glutathione
+13	Q9H4Y5	dehydroascorbate
+14	Q6Q8S2	glutathione
+15	Q6Q8S2	dehydroascorbate
+16	Q6Q8S2	glutathione
+17	Q6Q8S2	dehydroascorbate
+18	P78417	glutathione
+19	P78417	dehydroascorbate
+20	P78417	glutathione
+21	P78417	dehydroascorbate
+22	P78417	glutathione
+23	P78417	dehydroascorbate
+24	P78417	glutathione
+25	P78417	dehydroascorbate
+26	P78417	2 glutathione
+27	P78417	dehydroascorbate
+28	B2ZHM6	glutathione
+29	B2ZHM6	dehydroascorbate
+30	B2ZHM6	glutathione
+31	B2ZHM6	dehydroascorbate
+32	E2RWY6	2 glutathione
+33	E2RWY6	dehydroascorbate
+34	D2CGD4	glutathione
+35	D2CGD4	dehydroascorbate
+36	D2CGD4	glutathione
+37	D2CGD4	dehydroascorbate
+38	J9WQY6	2 glutathione
+39	J9WQY6	dehydroascorbate
+40	J9WQY6	more
+41	J9WN12	2 glutathione
+42	J9WN12	dehydroascorbate
+43	J9WN12	more
+44	J9WNR5	2 glutathione
+45	J9WNR5	dehydroascorbate
+46	J9WNR5	more
+47	A8I0K9	glutathione
+48	A8I0K9	dehydroascorbate
+49	A8I0K9	glutathione
+50	A8I0K9	dehydroascorbate
+51	U5XYA0	glutathione
+52	U5XYA0	dehydroascorbate
+53	U5XYA0	glutathione
+54	U5XYA0	dehydroascorbate
+55	Q65XA0	glutathione
+56	Q65XA0	dehydroascorbate
+57	Q65XA0	glutathione
+58	Q65XA0	dehydroascorbate
+59	Q9FWR4	glutathione
+60	Q9FWR4	dehydroascorbate
+61	Q9FWR4	glutathione
+62	Q9FWR4	dehydroascorbate
+63	R9QAK3	glutathione
+64	R9QAK3	dehydroascorbate
+65	R9QAK3	glutathione
+66	R9QAK3	dehydroascorbate
+0	P97224	more
+1	P97224	2 thiosulfate
+2	P97224	caldariellaquinone
+3	P97224	2 H+
+4	P97224	tetrathionate
+5	P97224	reduced methylene blue
+6	P97224	thiosulfate
+7	P97224	6-decylubiquinone
+8	P97224	thiosulfate
+9	P97224	6-decylubiquinone
+10	P97224	thiosulfate
+11	P97224	ferricyanide
+12	P97224	thiosulfate
+13	P97224	ferricyanide
+0	Q52675	more
+1	Q52675	dimethyl sulfoxide
+2	Q52675	reduced methyl viologen
+3	P18775	dimethylsulfide
+4	P18775	menaquinone
+5	P18775	H2O
+6	P18775	trimethylamine N-oxide
+7	P18775	reduced benzyl viologen
+8	P18775	trimethylamine N-oxide
+9	P18775	reduced lapachol
+0	Q9KI50	sulfide
+1	Q9KI50	plastoquinone-1
+2	Q52722	sulfide
+3	Q52722	quinone
+4	Q52722	sulfide
+5	Q52722	decylubiquinone
+6	B7JBP8	more
+7	B7JBP8	sulfide
+8	B7JBP8	decylubiquinone
+9	O94284	sulfide
+10	O94284	ubiquinone
+11	O67931	sulfide
+12	O67931	quinone
+13	O67931	sulfide
+14	O67931	decylubiquinone
+15	O67931	sulfide
+16	O67931	ubiquinone-1
+17	O67931	sulfide
+18	O67931	ubiquinone-4
+19	O67931	sulfide
+20	O67931	ubiquinone-9
+21	Q9Y6N5	more
+22	Q9Y6N5	2 sulfide
+23	Q9Y6N5	ubiquinone-1
+24	Q9Y6N5	sulfide
+25	Q9Y6N5	coenzyme Q
+26	Q9Y6N5	sulfide
+27	Q9Y6N5	coenzyme Q
+28	Q9Y6N5	sulfide
+29	Q9Y6N5	coenzyme Q1
+30	Q9Y6N5	sulfide
+31	Q9Y6N5	coenzyme Q10
+32	Q9Y6N5	sulfide
+33	Q9Y6N5	cyanide
+34	Q9Y6N5	coenzyme Q
+35	Q9Y6N5	sulfide
+36	Q9Y6N5	cyanide
+37	Q9Y6N5	ubiquinone-1
+38	Q9Y6N5	sulfide
+39	Q9Y6N5	glutathione
+40	Q9Y6N5	sulfide
+41	Q9Y6N5	sulfide
+42	Q9Y6N5	coenzyme Q
+43	Q9Y6N5	sulfide
+44	Q9Y6N5	sulfite
+45	Q9Y6N5	coenzyme Q
+46	Q9Y6N5	sulfide
+47	Q9Y6N5	sulfite
+48	Q9Y6N5	ubiquinone-1
+49	Q9Y6N5	sulfide
+50	Q9Y6N5	decylubiquinone
+51	Q9Y6N5	sulfide
+52	Q9Y6N5	ubiquinone-1
+53	Q8KDG3	sulfide
+54	Q8KDG3	decylubiquinone
+0	D3RNN8	sulfite
+1	D3RNN8	ferricyanide
+0	P42620	more
+1	P42620	glutathione
+2	P42620	2-(glutathione-S-yl)-menadiol
+3	P42620	glutathione
+4	P42620	2-(glutathione-S-yl)-hydroquinone
+5	P42620	glutathione
+6	P42620	2-(glutathione-S-yl)-hydroxy-p-hydroquinone
+7	P42620	glutathione
+8	P42620	2-(glutathione-S-yl)-methyl-p-hydroquinone
+9	P36156	glutathione
+10	P36156	2-(glutathione-S-yl)-menadione
+0	Q9Y6N5	hydrogen sulfide
+1	Q9Y6N5	glutathione
+2	Q9Y6N5	a quinone
+3	Q9Y6N5	GSH
+4	Q9Y6N5	coenzyme Q1
+5	Q9Y6N5	hydrogen sulfide
+6	Q9Y6N5	coenzyme Q1
+7	Q9Y6N5	hydrogen sulfide
+8	Q9Y6N5	cysteine
+9	Q9Y6N5	coenzyme Q1
+10	Q9Y6N5	hydrogen sulfide
+11	Q9Y6N5	glutathione
+12	Q9Y6N5	coenzyme Q
+13	Q9Y6N5	hydrogen sulfide
+14	Q9Y6N5	glutathione
+15	Q9Y6N5	coenzyme Q1
+16	Q9Y6N5	hydrogen sulfide
+17	Q9Y6N5	glutathione
+18	Q9Y6N5	coenzyme Q1
+19	Q9Y6N5	hydrogen sulfide
+20	Q9Y6N5	glutathione
+21	Q9Y6N5	coenzyme Q1
+22	Q9Y6N5	hydrogen sulfide
+23	Q9Y6N5	homocysteine
+24	Q9Y6N5	coenzyme Q1
+25	Q9Y6N5	hydrogen sulfide
+26	Q9Y6N5	sulfide
+27	Q9Y6N5	coenzyme Q
+28	Q9Y6N5	hydrogen sulfide
+29	Q9Y6N5	sulfide
+30	Q9Y6N5	coenzyme Q1
+31	Q9Y6N5	hydrogen sulfide
+32	Q9Y6N5	sulfite
+33	Q9Y6N5	coenzyme Q
+34	Q9Y6N5	hydrogen sulfide
+35	Q9Y6N5	sulfite
+36	Q9Y6N5	coenzyme Q1
+37	Q9Y6N5	more
+38	B0LD08	hydrogen sulfide
+39	B0LD08	glutathione
+40	B0LD08	a quinone
+41	H2KXA2	hydrogen sulfide
+42	H2KXA2	glutathione
+43	H2KXA2	a quinone
+44	H2KXA2	hydrogen sulfide
+45	H2KXA2	glutathione
+46	H2KXA2	coenzyme Q10
+47	H2KXA2	sulfide
+48	H2KXA2	coenzyme Q2
+49	H2KXA2	sulfide
+50	H2KXA2	ubiquinone
+0	P0A6M2	[DsbA protein] with reduced L-cysteine residues
+1	P0A6M2	ubiquinone
+2	P0A6M2	[DsbB protein] with reduced L-cysteine residues
+3	P0A6M2	ubiquinone
+4	P0A6M2	[DsbA protein] with reduced L-cysteine residues
+5	P0A6M2	[DsbB protein] carrying a disulfide bond
+6	P0A6M2	[DsbA protein] with reduced L-cysteine residues
+7	P0A6M2	ubiquinone Q8
+8	Q63RY4	[DsbA protein] with reduced L-cysteine residues
+9	Q63RY4	ubiquinone-1
+10	Q63RY4	[DsbA protein] with reduced L-cysteine residues
+11	Q63RY4	[DsbB protein] carrying a disulfide bond
+12	Q63RY4	[DsbB protein] with reduced L-cysteine residues
+13	Q63RY4	ubiquinone-1
+0	Q75NZ0	sulfite
+1	Q75NZ0	reduced ferredoxin
+2	P9WJ03	sulfite
+3	P9WJ03	methyl viologen
+4	P9WJ03	more
+5	Q8VWI4	sulfite
+6	Q8VWI4	reduced ferredoxin
+7	Q8VWI4	H+
+8	Q8VWI4	sulfite
+9	Q8VWI4	reduced ferredoxin
+10	Q8VWI4	H+
+11	H6WYS2	sulfite
+12	H6WYS2	reduced ferredoxin
+13	H6WYS2	H+
+14	H6WYS2	sulfite
+15	H6WYS2	reduced ferredoxin
+16	H6WYS2	H+
+17	M1URK1	sulfite
+18	M1URK1	reduced ferredoxin
+19	M1URK1	H+
+20	M1URK1	sulfite
+21	M1URK1	reduced ferredoxin
+22	M1URK1	H+
+23	M1URK1	more
+24	M1V771	sulfite
+25	M1V771	reduced ferredoxin
+26	M1V771	H+
+27	M1V771	sulfite
+28	M1V771	reduced ferredoxin
+29	M1V771	H+
+30	O23813	hydrogen sulfide
+31	O23813	oxidized ferredoxin
+32	O23813	H2O
+33	O23813	hydrogen sulfide
+34	O23813	oxidized ferredoxin
+35	O23813	H2O
+36	O23813	hydrogen sulfide
+37	O23813	oxidized methyl viologen
+38	O23813	H2O
+39	O23813	more
+0	P38365	oxidized ferredoxin
+1	P38365	thioredoxin f
+2	P38365	H+
+3	P38365	oxidized ferredoxin
+4	P38365	thioredoxin m
+5	P38365	H+
+6	Q55389	oxidized ferredoxin
+7	Q55389	thioredoxin
+8	Q55389	H+
+0	Q50755	oxidized ferredoxin [iron-sulfur] cluster
+1	Q50755	CoB
+2	Q50755	CoM
+3	Q50755	oxidized ferredoxin [iron-sulfur] cluster
+4	Q50755	CoB
+5	Q50755	CoM
+0	D2KKL9	sulfinic form of peroxiredoxin IIF
+1	D2KKL9	oxidized thioredoxin
+2	Q8GY89	peroxiredoxin-(S-hydroxy-S-oxocysteine)
+3	Q8GY89	ATP
+4	Q8GY89	2 R-SH
+5	Q8GY89	peroxiredoxin-(S-hydroxy-S-oxocysteine)
+6	Q8GY89	ATP
+7	Q8GY89	2 R-SH
+8	Q8GY89	peroxiredoxin-(S-hydroxy-S-oxocysteine)
+9	Q8GY89	ATP
+10	Q8GY89	R-SH
+11	Q8GY89	overoxidized human peroxiredoxin V
+12	Q8GY89	reduced thioredoxin
+13	Q8GY89	sulfinic form of peroxiredoxin IIF
+14	Q8GY89	reduced thioredoxin
+15	Q9BYN0	peroxiredoxin-(S-hydroxy-S-oxocysteine)
+16	Q9BYN0	ATP
+17	Q9BYN0	2 R-SH
+18	Q9BYN0	peroxiredoxin-(S-hydroxy-S-oxocysteine)
+19	Q9BYN0	ATP
+20	Q9BYN0	2 R-SH
+21	Q9BYN0	peroxiredoxin-(S-hydroxy-S-oxocysteine)
+22	Q9BYN0	ATP
+23	Q9BYN0	GSH
+0	Q58280	sulfite
+1	Q58280	reduced coenzyme F420
+2	Q58280	sulfite
+3	Q58280	reduced methyl viologen
+0	Q50756	coenzyme B-coenzyme M disulfide
+1	Q50756	ferredoxin
+2	Q50756	2 H2
+3	Q50756	coenzyme B-coenzyme M disulfide
+4	Q50756	metronidazole
+5	Q50756	2 H2
+6	Q50755	coenzyme B-coenzyme M disulfide
+7	Q50755	ferredoxin
+8	Q50755	2 H2
+9	Q50755	coenzyme B-coenzyme M disulfide
+10	Q50755	metronidazole
+11	Q50755	2 H2
+12	Q50754	coenzyme B-coenzyme M disulfide
+13	Q50754	ferredoxin
+14	Q50754	2 H2
+15	Q50754	coenzyme B-coenzyme M disulfide
+16	Q50754	metronidazole
+17	Q50754	2 H2
+0	Q9X758	Tyr-Tyr-Thr-Ser-Pro-Met-Cys-Ala-Pro-Ala-Arg-Ser-Met-Leu-Leu-Thr-Gly-Asn
+1	Q9X758	S-adenosyl-L-methionine
+2	Q9X758	more
+3	Q8XMQ3	more
+4	Q8XMQ3	Ac-AVPSCIPSRASILTGM-NH2
+5	Q8XMQ3	S-adenosyl-L-methionine
+6	Q8XMQ3	dithionite
+7	Q8XMQ3	Ac-YTAVPSCIPSRASILTGM
+8	Q8XMQ3	S-adenosyl-L-methionine
+9	Q8XMQ3	dithionite
+10	Q8XMQ3	Ac-YYTSPMCAPARSMLLTGN
+11	Q8XMQ3	S-adenosyl-L-methionine
+12	Q8XMQ3	Ac-YYTSPMSAPARSMLLTGN
+13	Q8XMQ3	S-adenosyl-L-methionine
+14	Q8XMQ3	Ac-YYTSPMSeCAPARSMLLTGN
+15	Q8XMQ3	S-adenosyl-L-methionine
+16	Q8XMQ3	Ac-YYTSPMTAPARSMLLTGN
+17	Q8XMQ3	S-adenosyl-L-methionine
+18	Q0TTH1	more
+19	Q0TTH1	Ac-FENAYTAVPSCIASRASILTGMS-NH2
+20	Q0TTH1	S-adenosyl-L-methionine
+21	Q0TTH1	reduced acceptor
+22	Q0TTH1	Ac-FENAYTAVPSCIASRASILTMSQ-NH2
+23	Q0TTH1	S-adenosyl-L-methionine
+24	Q0TTH1	dithionite
+0	A8JZB9	adenylyl sulfate
+1	A8JZB9	cofactor sulfide
+2	A8JZB8	adenylyl sulfate
+3	A8JZB8	cofactor sulfide
+4	A8JZC1	adenylyl sulfate
+5	A8JZC1	cofactor sulfide
+6	B8PS61	adenylyl sulfate
+7	B8PS61	reduced acceptor
+8	B8PS61	adenylyl sulfate
+9	B8PS61	reduced acceptor
+10	Q59339	AMP
+11	Q59339	sulfite
+12	Q59339	acceptor
+13	Q59339	AMP
+14	Q59339	sulfite
+15	Q59339	acceptor
+16	O28603	AMP
+17	O28603	sulfite
+18	O28603	ferricyanide
+19	O28603	adenylyl sulfate
+20	O28603	reduced acceptor
+21	O28603	adenylyl sulfate
+22	O28603	reduced acceptor
+23	F6KEW4	AMP
+24	F6KEW4	sulfite
+25	F6KEW4	[Fe(CN)6]3-
+26	O28603	adenylyl sulfate
+27	O28603	reduced acceptor
+28	O28603	adenylyl sulfate
+29	O28603	reduced acceptor
+30	O81350	5'-adenylylsulfate
+31	O81350	dithiothreitol
+32	O81350	5'-adenylylsulfate
+33	O81350	dithiothreitol
+34	O33996	adenylyl sulfate
+35	O33996	cofactor sulfide
+36	O33996	more
+37	Q72DT3	more
+38	Q9L768	more
+39	B5QSJ0	more
+40	A0LH39	more
+41	Q5VLA7	more
+42	Q8KE28	more
+43	Q5VLA6	more
+44	A8JZC0	adenylyl sulfate
+45	A8JZC0	cofactor sulfide
+46	A8JZC5	adenylyl sulfate
+47	A8JZC5	cofactor sulfide
+48	A8JZC4	adenylyl sulfate
+49	A8JZC4	cofactor sulfide
+50	A8JZC7	adenylyl sulfate
+51	A8JZC7	cofactor sulfide
+52	A8JZC6	adenylyl sulfate
+53	A8JZC6	cofactor sulfide
+54	A8JZC9	adenylyl sulfate
+55	A8JZC9	cofactor sulfide
+56	A8JZC8	adenylyl sulfate
+57	A8JZC8	cofactor sulfide
+58	O33997	adenylyl sulfate
+59	O33997	cofactor sulfide
+60	A8JZB0	adenylyl sulfate
+61	A8JZB0	cofactor sulfide
+62	A8JZB1	adenylyl sulfate
+63	A8JZB1	cofactor sulfide
+64	A8JZB7	adenylyl sulfate
+65	A8JZB7	cofactor sulfide
+66	A8JZB6	adenylyl sulfate
+67	A8JZB6	cofactor sulfide
+0	Q7MSJ8	sulfite
+1	Q7MSJ8	6 ferrocytochrome c
+2	Q7MSJ8	6 H+
+3	Q7MSJ8	more
+0	P81186	2 ferrocytochrome
+1	P81186	2 H+
+2	P81186	nitrate
+3	P81186	2 ferrocytochrome
+4	P81186	2 H+
+5	P81186	nitrate
+6	Q56350	nitrate
+7	Q56350	reduced benzyl viologen
+8	Q56350	2 ferrocytochrome
+9	Q56350	2 H+
+10	Q56350	nitrate
+11	Q56350	2 ferrocytochrome
+12	Q56350	2 H+
+13	Q56350	nitrate
+14	Q9RC05	2 ferrocytochrome
+15	Q9RC05	2 H+
+16	Q9RC05	nitrate
+17	Q9RC05	2 ferrocytochrome
+18	Q9RC05	2 H+
+19	Q9RC05	nitrate
+20	P39185	2 ferrocytochrome
+21	P39185	2 H+
+22	P39185	nitrate
+23	P39185	2 ferrocytochrome
+24	P39185	2 H+
+25	P39185	nitrate
+26	Q53176	more
+27	Q53176	2 ferrocytochrome
+28	Q53176	2 H+
+29	Q53176	nitrate
+30	Q53176	2 ferrocytochrome
+31	Q53176	2 H+
+32	Q53176	nitrate
+33	E2F391	2 ferrocytochrome
+34	E2F391	2 H+
+35	E2F391	nitrate
+36	E2F391	2 ferrocytochrome
+37	E2F391	2 H+
+38	E2F391	nitrate
+39	A0A098B5Y5	2 ferrocytochrome
+40	A0A098B5Y5	2 H+
+41	A0A098B5Y5	nitrate
+42	A0A098B5Y5	2 ferrocytochrome
+43	A0A098B5Y5	2 H+
+44	A0A098B5Y5	nitrate
+45	Q2IPE7	2 ferrocytochrome
+46	Q2IPE7	2 H+
+47	Q2IPE7	nitrate
+48	Q2IPE7	2 ferrocytochrome
+49	Q2IPE7	2 H+
+50	Q2IPE7	nitrate
+51	Q9PPD9	2 ferrocytochrome
+52	Q9PPD9	2 H+
+53	Q9PPD9	nitrate
+54	Q9PPD9	2 ferrocytochrome
+55	Q9PPD9	2 H+
+56	Q9PPD9	nitrate
+57	C6WXA3	2 reduced methyl viologen
+58	C6WXA3	2 H+
+59	C6WXA3	nitrate
+60	C6WXA3	2 ferrocytochrome
+61	C6WXA3	2 H+
+62	C6WXA3	nitrate
+63	C6WXA3	2 ferrocytochrome
+64	C6WXA3	2 H+
+65	C6WXA3	nitrate
+66	A1BB88	2 ferrocytochrome
+67	A1BB88	2 H+
+68	A1BB88	nitrate
+69	A1BB88	2 ferrocytochrome
+70	A1BB88	2 H+
+71	A1BB88	nitrate
+72	P33937	2 ferrocytochrome
+73	P33937	2 H+
+74	P33937	nitrate
+75	P33937	2 ferrocytochrome
+76	P33937	2 H+
+77	P33937	nitrate
+0	P83448	bromate
+1	P83448	reduced methyl viologen
+2	P83448	chlorate
+3	P83448	reduced electron acceptor
+4	P83448	chlorate
+5	P83448	reduced electron acceptor
+6	P83448	chlorate
+7	P83448	reduced methyl viologen
+8	P83449	chlorate
+9	P83449	reduced electron acceptor
+10	P83449	chlorate
+11	P83449	reduced electron acceptor
+12	P83449	chlorate
+13	P83449	reduced methyl viologen
+14	P83450	bromate
+15	P83450	reduced methyl viologen
+16	P83450	chlorate
+17	P83450	reduced electron acceptor
+18	P83450	chlorate
+19	P83450	reduced electron acceptor
+20	P83450	chlorate
+21	P83450	reduced methyl viologen
+22	I3R9M9	chlorate
+23	I3R9M9	reduced methyl viologen
+24	P60068	reduced acceptor
+25	P60068	chlorate
+26	P60068	ferricytochrome c
+27	P60068	chlorate
+28	P60068	more
+0	P42048	reduced plastocyanin
+1	P42048	oxidized ferredoxin
+2	P42048	hv
+3	P29254	reduced plastocyanin
+4	P29254	oxidized ferredoxin
+5	P29254	hv
+6	P29254	reduced cytochrome c6
+7	P29254	oxidized flavodoxin
+8	P29254	hv
+9	P29254	reduced plastocyanin
+10	P29254	oxidized flavodoxin
+11	P29254	hv
+12	P29254	more
+13	P29254	reduced cytochrome c6
+14	P29254	oxidized ferredoxin
+15	P29254	hv
+16	P80470	reduced plastocyanin
+17	P80470	oxidized ferredoxin
+18	P80470	hv
+19	P80470	more
+20	P80470	reduced cytochrome b6
+21	P80470	oxidized ferredoxin
+22	P80470	hv
+23	P12154	reduced plastocyanin
+24	P12154	oxidized ferredoxin
+25	P12154	hv
+26	P12154	more
+0	P0A9N4	more
+1	P0A9N4	S-adenosyl-L-methionine
+2	P0A9N4	5-deazariboflavin
+3	P0A9N4	[formate C-acetyltransferase]-glycine
+4	P0A9N4	S-adenosyl-L-methionine
+5	P0A9N4	dihydroflavodoxin
+6	P0A9N4	[formate C-acetyltransferase]-glycine
+0	Q9S1H0	selenate
+1	Q9S1H0	reduced acceptor
+2	Q9S1H0	selenate
+3	Q9S1H0	lactate
+4	Q9S1H0	selenate
+5	Q9S1H0	electron donor
+6	K0B418	selenate
+7	K0B418	reduced acceptor
+8	K0B418	more
+0	P40261	S-adenosyl-L-methionine
+1	P40261	nicotinamide
+2	P40261	more
+3	P40261	S-adenosyl-L-methionine
+4	P40261	4-methylnicotinamide
+5	P40261	nicotinamide
+6	P40261	S-adenosyl-L-methionine
+7	P40261	S-adenosyl-L-methionine
+8	P40261	2-methoxypyridine
+9	P40261	S-adenosyl-L-methionine
+10	P40261	2-methylpyridine
+11	P40261	S-adenosyl-L-methionine
+12	P40261	3-acetylpyridine
+13	P40261	S-adenosyl-L-methionine
+14	P40261	isoquinoline
+15	P40261	S-adenosyl-L-methionine
+16	P40261	nicotinimidamide
+17	P40261	S-adenosyl-L-methionine
+18	P40261	norharman
+19	P40261	H+
+20	P40261	S-adenosyl-L-methionine
+21	P40261	quinoline 3-carboxamide
+22	P40261	S-adenosyl-L-methionine
+23	P40261	quinoline
+24	P40261	S-adenosyl-L-methionine
+25	P40261	tetrahydroisoquinoline
+26	P40261	S-adenosyl-L-methionine
+27	P40261	thionicotinamide
+28	O55239	S-adenosyl-L-methionine
+29	O55239	nicotinamide
+30	F7ERX8	S-adenosyl-L-methionine
+31	F7ERX8	nicotinamide
+0	Q9SDL7	S-adenosyl-L-methionine
+1	Q9SDL7	L-homocysteine
+2	Q9SDL7	S-methyl-L-methionine
+3	Q9SDL7	L-cysteine
+4	Q9SDL7	more
+5	Q9SDL7	S-methyl-L-methionine
+6	Q9SDL7	L-homocysteine
+7	Q9M1W4	S-adenosyl-L-methionine
+8	Q9M1W4	L-homocysteine
+9	Q9M1W4	more
+10	Q9M1W4	S-methyl-L-methionine
+11	Q9M1W4	L-homocysteine
+12	A4ZGQ8	S-adenosyl-L-methionine
+13	A4ZGQ8	DL-cysteine
+14	A4ZGQ8	S-adenosyl-L-methionine
+15	A4ZGQ8	DL-homocysteine
+16	A4ZGQ8	S-adenosyl-L-methionine
+17	A4ZGQ8	DL-selenocysteine
+18	A4ZGQ8	S-adenosyl-L-methionine
+19	A4ZGQ8	L-cysteine
+20	A4ZGQ8	S-adenosyl-L-methionine
+21	A4ZGQ8	L-selenocysteine
+22	O09171	betaine
+23	O09171	L-homocysteine
+24	Q47690	S-adenosyl-L-methionine
+25	Q47690	L-homocysteine
+26	Q47690	S-methyl-L-methionine
+27	Q47690	L-homocysteine
+28	Q47690	S-methyl-L-methionine
+29	Q47690	selenohomocysteine
+30	Q47690	more
+31	Q47690	S-methyl-L-methionine
+32	Q47690	L-homocysteine
+33	Q8LAX0	S-adenosyl-L-methionine
+34	Q8LAX0	L-homocysteine
+35	Q8LAX0	S-methyl-L-methionine
+36	Q8LAX0	L-homocysteine
+37	M8C0H7	S-methyl-L-methionine
+38	M8C0H7	L-homocysteine
+0	Q93W54	more
+1	Q93W54	S-adenosyl-L-methionine
+2	Q93W54	N-acetyl-S-all trans-geranylgeranyl-L-cysteine
+3	Q93W54	S-adenosyl-L-methionine
+4	Q93W54	N-acetyl-S-trans,trans-farnesyl-L-cysteine
+5	Q7PXA7	S-adenosyl-L-methionine
+6	Q7PXA7	biotin-S-farnesyl-L-cysteine
+7	Q7PXA7	S-adenosyl-L-methionine
+8	Q7PXA7	Ras protein C-terminal S-farnesyl-L-cysteine
+9	Q9EQK7	S-adenosyl-L-methionine
+10	Q9EQK7	protein C-terminal S-farnesyl-L-cysteine
+0	Q9S4D5	S-adenosyl-L-methionine
+1	Q9S4D5	lactenocin
+2	Q9S4D5	S-adenosyl-L-methionine
+3	Q9S4D5	demethyllactenocin
+4	Q9S4D5	S-adenosyl-L-methionine
+5	Q9S4D5	demethylmacrocin
+0	Q9M571	S-adenosyl-L-methionine
+1	Q9M571	ethanolamine phosphate
+2	Q9M571	S-adenosyl-L-methionine
+3	Q9M571	phosphodimethylethanolamine
+4	Q9M571	S-adenosyl-L-methionine
+5	Q9M571	2-(methylamino)ethyl phosphate
+6	Q9FR44	S-adenosyl-L-methionine
+7	Q9FR44	ethanolamine phosphate
+8	Q9FR44	S-adenosyl-L-methionine
+9	Q9FR44	phosphodimethylethanolamine
+10	Q9FR44	S-adenosyl-L-methionine
+11	Q9FR44	2-(methylamino)ethyl phosphate
+12	Q9FR44	ethanolamine phosphate
+13	Q9FR44	S-adenosyl-L-methionine
+14	Q9FR44	N,N-dimethylethanolamine phosphate
+15	Q9FR44	S-adenosyl-L-methionine
+16	Q9FR44	N-methylethanolamine phosphate
+17	Q9FR44	S-adenosyl-L-methionine
+18	Q8VYX1	S-adenosyl-L-methionine
+19	Q8VYX1	ethanolamine phosphate
+20	Q8VYX1	S-adenosyl-L-methionine
+21	Q8VYX1	phosphodimethylethanolamine
+22	Q8VYX1	S-adenosyl-L-methionine
+23	Q8VYX1	2-(methylamino)ethyl phosphate
+24	Q6T755	S-adenosyl-L-methionine
+25	Q6T755	ethanolamine phosphate
+26	Q6T755	S-adenosyl-L-methionine
+27	Q6T755	phosphodimethylethanolamine
+28	Q6T755	S-adenosyl-L-methionine
+29	Q6T755	phosphoethanolamine
+30	Q6T755	S-adenosyl-L-methionine
+31	Q6T755	phosphoethanolamine
+32	Q6T755	S-adenosyl-L-methionine
+33	Q6T755	phosphomonomethylethanolamine
+34	Q6T755	more
+35	Q6T755	S-adenosyl-L-methionine
+36	Q6T755	N,N-dimethylethanolamine phosphate
+37	Q6T755	S-adenosyl-L-methionine
+38	Q6T755	phosphoethanolamine
+39	Q5SDQ0	S-adenosyl-L-methionine
+40	Q5SDQ0	phosphoethanolamine
+41	Q944H0	S-adenosyl-L-methionine
+42	Q944H0	phosphodimethylethanolamine
+43	Q944H0	S-adenosyl-L-methionine
+44	Q944H0	2-(methylamino)ethyl phosphate
+45	Q944H0	ethanolamine phosphate
+46	Q944H0	S-adenosyl-L-methionine
+47	Q944H0	more
+48	Q944H0	N,N-dimethylethanolamine phosphate
+49	Q944H0	S-adenosyl-L-methionine
+50	Q944H0	N-methylethanolamine phosphate
+51	Q944H0	S-adenosyl-L-methionine
+52	Q8IDQ9	S-adenosyl-L-methionine
+53	Q8IDQ9	ethanolamine phosphate
+54	B3L8G9	S-adenosyl-L-methionine
+55	B3L8G9	ethanolamine phosphate
+56	A5K867	S-adenosyl-L-methionine
+57	A5K867	ethanolamine phosphate
+58	Q9C6B9	ethanolamine phosphate
+59	Q9C6B9	S-adenosyl-L-methionine
+60	Q9C6B9	N,N-dimethylethanolamine phosphate
+61	Q9C6B9	S-adenosyl-L-methionine
+62	Q9C6B9	N-methylethanolamine phosphate
+63	Q9C6B9	S-adenosyl-L-methionine
+64	A0A1W7HP20	S-adenosyl-L-methionine
+65	A0A1W7HP20	ethanolamine phosphate
+66	A0A1W7HP20	more
+67	A0A1W7HP20	S-adenosyl-L-methionine
+68	A0A1W7HP20	phosphoethanolamine
+69	A0A125SQH6	S-adenosyl-L-methionine
+70	A0A125SQH6	ethanolamine phosphate
+71	A0A125SQH6	more
+72	A0A125SQH6	S-adenosyl-L-methionine
+73	A0A125SQH6	phosphoethanolamine
+74	A0A2Z1FIB9	S-adenosyl-L-methionine
+75	A0A2Z1FIB9	ethanolamine phosphate
+76	A0A2Z1FIB9	more
+77	U5HK48	more
+78	U5HK48	N,N-dimethylethanolamine phosphate
+79	U5HK48	S-adenosyl-L-methionine
+80	U5HK48	N-methylethanolamine phosphate
+81	U5HK48	S-adenosyl-L-methionine
+0	Q40313	S-adenosyl-L-methionine
+1	Q40313	caffeoyl-CoA
+2	Q40313	more
+3	Q40313	S-adenosyl-L-methionine
+4	Q40313	5-hydroxyferuoyl-CoA
+5	O49499	S-adenosyl-L-methionine
+6	O49499	caffeoyl-CoA
+7	Q0N3X1	S-adenosyl-L-methionine
+8	Q0N3X1	caffeoyl-CoA
+9	Q0N3X1	more
+10	Q0N3X0	S-adenosyl-L-methionine
+11	Q0N3X0	caffeoyl-CoA
+12	Q0N3X0	S-adenosyl-L-methionine
+13	Q0N3X0	5-hydroxy-feruloyl-CoA
+14	Q0N3X0	more
+15	Q4JHB1	S-adenosyl-L-methionine
+16	Q4JHB1	caffeoyl-CoA
+17	Q4JHB1	S-adenosyl-L-methionine
+18	Q4JHB1	5-hydroxy-feruloyl-CoA
+19	Q4JHB1	more
+20	Q4JHB1	S-adenosyl-L-methionine
+21	Q4JHB1	caffeic acid
+22	Q38J50	S-adenosyl-L-methionine
+23	Q38J50	caffeoyl-CoA
+24	Q38J50	S-adenosyl-L-methionine
+25	Q38J50	5-hydroxy-feruloyl-CoA
+26	Q38J50	more
+27	Q38J50	S-adenosyl-L-methionine
+28	Q38J50	caffeoyl aldehyde
+29	Q38J50	S-adenosyl-L-methionine
+30	Q38J50	caffeic acid
+31	Q38J50	S-adenosyl-L-methionine
+32	Q38J50	caffeoyl alcohol
+33	Q38J50	S-adenosyl-L-methionine
+34	Q38J50	5-hydroxyconiferaldehyde
+35	Q9XGD6	S-adenosyl-L-methionine
+36	Q9XGD6	caffeoyl-CoA
+37	Q9XGD5	S-adenosyl-L-methionine
+38	Q9XGD5	caffeoyl-CoA
+39	Q43095	S-adenosyl-L-methionine
+40	Q43095	caffeoyl-CoA
+41	Q43095	S-adenosyl-L-methionine
+42	Q43095	5-hydroxyferuoyl-CoA
+43	O24149	more
+44	O65862	more
+45	O65922	more
+46	F2YP45	S-adenosyl-L-methionine
+47	F2YP45	caffeoyl-CoA
+48	F2YP45	S-adenosyl-L-methionine
+49	F2YP45	5-hydroxyferulic acid
+50	F2YP45	more
+51	F2YP45	S-adenosyl-L-methionine
+52	F2YP45	3,4-dihydroxybenzaldehyde
+53	F2YP45	S-adenosyl-L-methionine
+54	F2YP45	5-hydroxyferulic acid ethyl ester
+55	F2YP45	S-adenosyl-L-methionine
+56	F2YP45	caffeic acid
+57	F2YP45	S-adenosyl-L-methionine
+58	F2YP45	caffeic acid ethyl ester
+59	F2YP45	S-adenosyl-L-methionine
+60	F2YP45	caffeoylaldehyde
+61	F2YP45	S-adenosyl-L-methionine
+62	F2YP45	myricetin
+63	F2YP45	S-adenosyl-L-methionine
+64	F2YP45	tricetin
+65	F2YP45	S-adenosyl-L-methionine
+66	F2YP45	5-hydroxyconiferaldehyde
+67	F2YP45	S-adenosyl-L-methionine
+68	F2YP45	quercetin
+69	F2YP46	S-adenosyl-L-methionine
+70	F2YP46	caffeoyl-CoA
+71	F2YP46	S-adenosyl-L-methionine
+72	F2YP46	5-hydroxyferulic acid
+73	F2YP46	more
+74	F2YP46	S-adenosyl-L-methionine
+75	F2YP46	3,4-dihydroxybenzaldehyde
+76	F2YP46	S-adenosyl-L-methionine
+77	F2YP46	5-hydroxyferulic acid ethyl ester
+78	F2YP46	S-adenosyl-L-methionine
+79	F2YP46	caffeic acid
+80	F2YP46	S-adenosyl-L-methionine
+81	F2YP46	caffeic acid ethyl ester
+82	F2YP46	S-adenosyl-L-methionine
+83	F2YP46	caffeoylaldehyde
+84	F2YP46	S-adenosyl-L-methionine
+85	F2YP46	myricetin
+86	F2YP46	S-adenosyl-L-methionine
+87	F2YP46	tricetin
+88	F2YP46	S-adenosyl-L-methionine
+89	F2YP46	5-hydroxyconiferaldehyde
+90	F2YP46	S-adenosyl-L-methionine
+91	F2YP46	quercetin
+92	Q9C5D7	S-adenosyl-L-methionine
+93	Q9C5D7	caffeoyl-CoA
+94	Q9C5D7	more
+95	Q9C5D7	S-adenosyl-L-methionine
+96	Q9C5D7	esculetin
+97	Q9C5D7	S-adenosyl-L-methionine
+98	Q9C5D7	caffeic acid
+99	Q9C5D7	S-adenosyl-L-methionine
+100	Q9C5D7	caffeoyl-CoA
+101	Q9C5D7	S-adenosyl-L-methionine
+102	Q9C5D7	dihydroquercetin
+103	Q9C5D7	S-adenosyl-L-methionine
+104	Q9C5D7	eriodictyol
+105	Q9C5D7	S-adenosyl-L-methionine
+106	Q9C5D7	luteolin
+107	Q9C5D7	S-adenosyl-L-methionine
+108	Q9C5D7	quercetin
+109	Q6YI95	more
+110	Q6YI95	S-adenosyl-L-methionine
+111	Q6YI95	eriodictyol
+112	Q6YI95	S-adenosyl-L-methionine
+113	Q6YI95	quercetagetin
+114	Q43237	S-adenosyl-L-methionine
+115	Q43237	caffeoyl-CoA
+116	Q43237	S-adenosyl-L-methionine
+117	Q43237	cyanidin 3-O-glucoside
+118	A0A4Y5R9F4	S-adenosyl-L-methionine
+119	A0A4Y5R9F4	caffeoyl-CoA
+120	A0A4Y5R9F4	more
+121	A0A4Y5R9F4	S-adenosyl-L-methionine
+122	A0A4Y5R9F4	5-hydroxyconiferaldehyde
+123	A0A4Y5R9F4	S-adenosyl-L-methionine
+124	A0A4Y5R9F4	quercetin
+125	A0A4Y5R9F4	S-adenosyl-L-methionine
+126	A0A4Y5R9F4	baicalein
+127	A0A4Y5R9F4	S-adenosyl-L-methionine
+128	A0A4Y5R9F4	caffeoyl alcohol
+129	A0A4Y5R9F4	S-adenosyl-L-methionine
+130	A0A4Y5R9F4	caffeoyl aldehyde
+131	A0A4Y5R9F4	S-adenosyl-L-methionine
+132	A0A4Y5R9F4	eriodictyol
+133	A0A4Y5R9F4	S-adenosyl-L-methionine
+134	A0A4Y5R9F4	luteolin
+135	A0A4Y5R9F4	S-adenosyl-L-methionine
+136	A0A4Y5R9F4	scutellarein
+137	H9BEW0	S-adenosyl-L-methionine
+138	H9BEW0	caffeoyl-CoA
+139	A0A0U2YR01	S-adenosyl-L-methionine
+140	A0A0U2YR01	caffeoyl-CoA
+141	A0A0U2YR01	more
+142	A0A0U2YR01	S-adenosyl-L-methionine
+143	A0A0U2YR01	quercetin
+144	A0A0U2YR01	S-adenosyl-L-methionine
+145	A0A0U2YR01	esculetin
+146	A0A0U2YR01	S-adenosyl-L-methionine
+147	A0A0U2YR01	baicalein
+148	A0A0U2YR01	S-adenosyl-L-methionine
+149	A0A0U2YR01	caffeic alcohol
+150	A0A0U2YR01	S-adenosyl-L-methionine
+151	A0A0U2YR01	eriodictyol
+152	A0A0U2YR01	S-adenosyl-L-methionine
+153	A0A0U2YR01	luteolin
+154	A0A0U2YR01	S-adenosyl-L-methionine
+155	A0A0U2YR01	scutellarein
+156	A0A0U2YR01	S-adenosyl-L-methionine
+157	A0A0U2YR01	caffeic acid
+158	A0A0U2YR01	S-adenosyl-L-methionine
+159	A0A0U2YR01	quercetin
+160	A0A0U2YR01	S-adenosyl-L-methionine
+161	A0A0U2YR01	caffeoyl alcohol
+162	A0A0U2YR01	S-adenosyl-L-methionine
+163	A0A0U2YR01	caffeoyl aldehyde
+164	A0A0U2YR01	S-adenosyl-L-methionine
+165	A0A0U2YR01	coniferaldehyde
+166	A0A0U2YR01	S-adenosyl-L-methionine
+167	A0A0U2YR01	coniferyl alcohol
+168	A0A0U2YR01	S-adenosyl-L-methionine
+169	A0A0U2YR01	eriodictyol
+170	A0A0U2YR01	S-adenosyl-L-methionine
+171	A0A0U2YR01	esculetin
+172	A0A0U2YR01	S-adenosyl-L-methionine
+173	A0A0U2YR01	ferulic acid
+174	A0A0U2YR01	S-adenosyl-L-methionine
+175	A0A0U2YR01	luteolin
+176	C5Z4W3	S-adenosyl-L-methionine
+177	C5Z4W3	caffeoyl-CoA
+178	C5Z4W3	more
+179	A0A172Q4R0	S-adenosyl-L-methionine
+180	A0A172Q4R0	caffeoyl-CoA
+0	C0JRZ9	S-adenosyl-L-methionine
+1	C0JRZ9	3-methylindole
+2	C0JRZ9	S-adenosyl-L-methionine
+3	C0JRZ9	D-tryptophan
+4	C0JRZ9	S-adenosyl-L-methionine
+5	C0JRZ9	L-5-fluoro-tryptophan
+6	C0JRZ9	S-adenosyl-L-methionine
+7	C0JRZ9	L-5-hydroxy-tryptophan
+8	C0JRZ9	S-adenosyl-L-methionine
+9	C0JRZ9	L-5-methyl-tryptophan
+10	C0JRZ9	S-adenosyl-L-methionine
+11	C0JRZ9	L-tryptophan
+12	C0JRZ9	S-adenosyl-L-methionine
+13	C0JRZ9	melatonin
+14	C0JRZ9	S-adenosyl-L-methionine
+15	C0JRZ9	serotonin
+16	C0JRZ9	more
+0	P21632	2 S-adenosyl-L-methionine
+1	P21632	uroporphyrinogen III
+2	Q51720	2 S-adenosyl-L-methionine
+3	Q51720	uroporphyrinogen III
+4	Q51720	S-adenosyl-L-methionine
+5	Q51720	uroporphyrinogen I
+6	Q96532	2 S-adenosyl-L-methionine
+7	Q96532	uroporphyrinogen III
+8	Q96532	more
+9	Q6TA16	uroporphyrinogen III
+10	Q6TA16	S-adenosyl-L-methionine
+11	P95417	S-adenosyl-L-methionine
+12	P95417	uroporphyrinogen III
+13	P29564	2 S-adenosyl-L-methionine
+14	P29564	uroporphyrinogen III
+15	D2KI47	S-adenosyl-L-methionine
+16	D2KI47	precorrin-1
+17	D2KI47	S-adenosyl-L-methionine
+18	D2KI47	uroporphyrinogen III
+19	D2KI47	2 S-adenosyl-L-methionine
+20	D2KI47	uroporphyrinogen III
+21	A0A0H3KAA0	2 S-adenosyl-L-methionine
+22	A0A0H3KAA0	uroporphyrinogen III
+0	P26236	S-adenosyl-L-methionine
+1	P26236	magnesium protoporphyrin
+2	P26236	S-adenosyl-L-methionine
+3	P26236	magnesium mesoporphyrin
+4	P26236	S-adenosyl-L-methionine
+5	P26236	magnesium deuteroporphyrin
+6	P26236	S-adenosyl-L-methionine
+7	P26236	zinc protoporphyrin
+8	B5U883	S-adenosyl-L-methionine
+9	B5U883	magnesium protoporphyrin IX
+0	A9X7L0	S-adenosyl-L-methionine
+1	A9X7L0	anthranilate
+2	A9X7L0	S-adenosyl-L-methionine
+3	A9X7L0	methyl anthranilate
+0	P0A462	S-adenosyl-L-methionine
+1	P0A462	[DNA]-cytosine
+2	P71101	S-adenosyl-L-methionine
+3	P71101	[DNA]-cytosine
+4	O68556	S-adenosyl-L-methionine
+5	O68556	[DNA]-cytosine
+6	P70986	S-adenosyl-L-methionine
+7	P70986	[DNA]-cytosine
+8	P29568	S-adenosyl-L-methionine
+9	P29568	[DNA]-cytosine
+10	O59647	S-adenosyl-L-methionine
+11	O59647	[DNA]-cytosine
+12	O85488	S-adenosyl-L-methionine
+13	O85488	[DNA]-cytosine
+14	Q9AKV2	S-adenosyl-L-methionine
+15	Q9AKV2	[DNA]-cytosine
+16	Q38204	S-adenosyl-L-methionine
+17	Q38204	[DNA]-cytosine
+18	O93645	S-adenosyl-L-methionine
+19	O93645	[DNA]-cytosine
+20	O52711	S-adenosyl-L-methionine
+21	O52711	[DNA]-cytosine
+22	O52692	S-adenosyl-L-methionine
+23	O52692	[DNA]-cytosine
+24	O52513	S-adenosyl-L-methionine
+25	O52513	[DNA]-cytosine
+26	P14230	S-adenosyl-L-methionine
+27	P14230	[DNA]-cytosine
+28	P30774	S-adenosyl-L-methionine
+29	P30774	[DNA]-cytosine
+30	Q45489	S-adenosyl-L-methionine
+31	Q45489	[DNA]-cytosine
+32	O74074	S-adenosyl-L-methionine
+33	O74074	[DNA]-cytosine
+34	Q9ZLF1	S-adenosyl-L-methionine
+35	Q9ZLF1	[DNA]-cytosine
+36	P23941	S-adenosyl-L-methionine
+37	P23941	[DNA]-cytosine
+38	P18051	S-adenosyl-L-methionine
+39	P18051	[DNA]-cytosine
+40	P14243	S-adenosyl-L-methionine
+41	P14243	[DNA]-cytosine
+42	Q04845	S-adenosyl-L-methionine
+43	Q04845	[DNA]-cytosine
+44	P14244	S-adenosyl-L-methionine
+45	P14244	[DNA]-cytosine
+46	P11409	S-adenosyl-L-methionine
+47	P11409	[DNA]-cytosine
+48	Q3BWM2	S-adenosyl-L-methionine
+49	Q3BWM2	[DNA]-cytosine
+50	B9MK94	S-adenosyl-L-methionine
+51	B9MK94	DNA cytosine
+0	P27680	S-adenosyl-L-methionine
+1	P27680	3,4-dihydroxy-5-(2E,6E)-farnesylbenzoate
+2	P27680	S-adenosyl-L-methionine
+3	P27680	3,4-dihydroxy-5-hexaprenylbenzoate
+4	P27680	S-adenosyl-L-methionine
+5	P27680	3,4-dihydroxy-5-all-trans-hexaprenylbenzoate
+6	Q9NZJ6	S-adenosyl-L-methionine
+7	Q9NZJ6	3,4-dihydroxy-5-all-trans-hexaprenylbenzoate
+8	Q9NZJ6	S-adenosyl-L-methionine
+9	Q9NZJ6	3,4-dihydroxy-5-(2E,6E)-farnesylbenzoate
+10	Q9NZJ6	S-adenosyl-L-methionine
+11	Q9NZJ6	5-all-trans-decaprenyl-3,4-dihydroxybenzoate
+12	Q9NZJ6	more
+13	Q63159	S-adenosyl-L-methionine
+14	Q63159	3,4-dihydroxy-5-((2E,6E)-farnesyl)benzoate
+15	Q63159	S-adenosyl-L-methionine
+16	Q63159	3,4-dihydroxy-5-octaprenylbenzoate
+17	P17993	S-adenosyl-L-methionine
+18	P17993	3,4-dihydroxy-5-all-trans-polyprenylbenzoate
+0	Q9LEL5	S-Adenosyl-L-methionine
+1	Q9LEL5	3'-hydroxy-N-methyl-(S)-coclaurine
+2	Q9LEL5	S-adenosyl-L-homocysteine
+3	Q9LEL5	(S)-reticuline
+4	B6RJT5	S-Adenosyl-L-methionine
+5	B6RJT5	3'-hydroxy-N-methyl-(S)-coclaurine
+6	B6RJT5	more
+0	A0A5P9PAM0	S-Adenosyl-L-methionine
+1	A0A5P9PAM0	(S)-scoulerine
+2	A0A5P9PAM0	S-Adenosyl-L-methionine
+3	A0A5P9PAM0	(S)-scoulerine
+4	A0A5P9PAM0	S-adenosyl-L-homocysteine
+5	A0A5P9PAM0	(S)-tetrahydropalmatrubine
+6	A0A5P9PAM0	S-adenosyl-L-methionine
+7	A0A5P9PAM0	(S)-tetrahydrocolumbamine
+8	A0A5P9PAM0	more
+9	E0W6R9	S-Adenosyl-L-methionine
+10	E0W6R9	(S)-scoulerine
+11	E0W6R9	S-Adenosyl-L-methionine
+12	E0W6R9	(S)-scoulerine
+13	A0A224ALZ8	S-adenosyl-L-methionine
+14	A0A224ALZ8	(S)-norreticuline
+15	A0A224ALZ8	S-adenosyl-L-methionine
+16	A0A224ALZ8	(S)-reticuline
+17	A0A224ALZ8	S-adenosyl-L-methionine
+18	A0A224ALZ8	(S)-scoulerine
+19	A0A224ALZ8	more
+20	A0A2Z5FRS0	S-Adenosyl-L-methionine
+21	A0A2Z5FRS0	(S)-scoulerine
+22	A0A2Z5FRS0	S-Adenosyl-L-methionine
+23	A0A2Z5FRS0	(S)-scoulerine
+0	Q108P1	S-adenosyl-L-methionine
+1	Q108P1	(R,S)-stylopine
+2	Q108P1	S-adenosyl-L-methionine
+3	Q108P1	(R,S)-canadine
+4	Q108P1	S-adenosyl-L-methionine
+5	Q108P1	(R,S)-tetrahydropalmatine
+0	O80013	more
+1	O80013	S-adenosyl-L-methionine
+2	O80013	[ribulose-1,5-bisphosphate-carboxylase]-lysine
+3	Q43088	S-adenosyl-L-methionine
+4	Q43088	[ribulose-1,5-bisphosphate-carboxylase]-lysine
+5	Q43088	3 S-adenosyl-L-methionine
+6	Q43088	[chloroplastic fructose 1,6-bisphosphate aldolase]-L-lysine
+7	Q43088	3 S-adenosyl-L-methionine
+8	Q43088	[ribulose-1,5-bisphosphate-carboxylase]-lysine
+9	Q43088	S-adenosyl-L-methionine
+10	Q43088	L-Lys
+11	Q43088	S-adenosyl-L-methionine
+12	Q43088	methyl-L-Lys

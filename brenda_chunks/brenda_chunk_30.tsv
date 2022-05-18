@@ -1,0 +1,5091 @@
+	uniprot_ids	substrates
+0	Q8N8W4	a linoleate-containing triacyl-sn-glycerol
+1	Q8N8W4	an ultra-long-chain omega-hydroxyceramide
+2	Q8N8W4	a linoleate-containing triacyl-sn-glycerol
+3	Q8N8W4	an ultra-long-chain omega-hydroxyceramide
+0	Q96G23	dihydrosphingosine
+1	Q96G23	lignoceroyl-CoA
+2	Q96G23	dihydrosphingosine
+3	Q96G23	nervonoyl-CoA
+4	Q96G23	dihydrosphingosine
+5	Q96G23	palmitoyl-CoA
+6	Q96G23	dihydrosphingosine
+7	Q96G23	stearoyl-CoA
+8	Q96G23	sphinganine
+9	Q96G23	behenoyl-CoA
+10	Q96G23	sphinganine
+11	Q96G23	nervonoyl-CoA
+12	Q96G23	sphingosine
+13	Q96G23	cerotoyl-CoA
+14	Q96G23	sphingosine
+15	Q96G23	lignoceroyl-CoA
+16	Q96G23	sphingosine
+17	Q96G23	nervonoyl-CoA
+18	Q96G23	sphingosine
+19	Q96G23	2-hydroxybehenoyl-CoA
+20	Q96G23	sphingosine
+21	Q96G23	2-hydroxylignoceroyl-CoA
+22	Q96G23	sphingosine
+23	Q96G23	lignoceroyl-CoA
+24	Q96G23	sphingosine
+25	Q96G23	stearoyl-CoA
+26	Q96G23	sphingosine
+27	Q96G23	behenoyl-CoA
+28	Q96G23	more
+29	Q96G23	sphinganine
+30	Q96G23	behenoyl-CoA
+31	Q96G23	sphinganine
+32	Q96G23	lignoceroyl-CoA
+33	Q9HA82	sphingosine
+34	Q9HA82	2-hydroxybehenoyl-CoA
+35	Q9HA82	sphingosine
+36	Q9HA82	2-hydroxylignoceroyl-CoA
+37	Q9HA82	sphingosine
+38	Q9HA82	2-hydroxyeicosanoyl-CoA
+39	Q9HA82	sphingosine
+40	Q9HA82	eicosanoyl-CoA
+41	Q9HA82	sphingosine
+42	Q9HA82	lignoceroyl-CoA
+43	Q9HA82	sphingosine
+44	Q9HA82	behenoyl-CoA
+45	Q9HA82	more
+46	P28496	D-erythro-sphinganine
+47	P28496	arachidoyl-CoA
+48	P28496	D-erythro-sphinganine
+49	P28496	cerotoyl-CoA
+50	Q9LDF2	acyl-CoA
+51	Q9LDF2	sphinganine
+52	Q9LDF2	hexacosanoyl-CoA
+53	Q9LDF2	phytosphingosine
+54	Q9LDF2	lignoceroyl-CoA
+55	Q9LDF2	phytosphingosine
+56	Q9LDF2	more
+57	Q6NQI8	acyl-CoA
+58	Q6NQI8	sphinganine
+59	Q6NQI8	hexacosanoyl-CoA
+60	Q6NQI8	phytosphingosine
+61	Q6NQI8	lignoceroyl-CoA
+62	Q6NQI8	phytosphingosine
+63	Q6NQI8	more
+64	Q9D6J1	sphingosine
+65	Q9D6J1	lignoceroyl-CoA
+66	Q9D6J1	sphingosine
+67	Q9D6J1	arachidoyl-CoA
+68	Q9D6J1	sphingosine
+69	Q9D6J1	hexacosanoyl-CoA
+70	Q9D6J1	sphingosine
+71	Q9D6J1	stearoyl-CoA
+72	Q9D6J1	sphingosine
+73	Q9D6J1	behenoyl-CoA
+74	Q9D6J1	more
+75	Q924Z4	D-erythro-sphinganine
+76	Q924Z4	behenoyl-CoA
+77	Q924Z4	sphingosine
+78	Q924Z4	lignoceroyl-CoA
+79	Q924Z4	sphingosine
+80	Q924Z4	arachidoyl-CoA
+81	Q924Z4	sphingosine
+82	Q924Z4	hexacosanoyl-CoA
+83	Q924Z4	sphingosine
+84	Q924Z4	stearoyl-CoA
+85	Q924Z4	sphingosine
+86	Q924Z4	behenoyl-CoA
+87	Q924Z4	more
+88	Q924Z4	D-erythro-sphinganine
+89	Q924Z4	lignoceroyl-CoA
+90	Q924Z4	D-erythro-sphinganine
+91	Q924Z4	nervonoyl-CoA
+92	Q924Z4	nervonoyl-CoA
+93	Q924Z4	NBD-sphinganine
+94	Q924Z4	D-erythro-sphinganine
+95	Q924Z4	arachidoyl-CoA
+96	Q924Z4	D-erythro-sphinganine
+97	Q924Z4	cerotoyl-CoA
+98	Q924Z4	sphinganine
+99	Q924Z4	cerotoyl-CoA
+100	Q1A3B0	more
+101	Q1A3B0	sphinganine
+102	Q1A3B0	cerotoyl-CoA
+103	Q1A3B0	sphinganine
+104	Q1A3B0	arachidoyl-CoA
+105	Q1A3B0	sphinganine
+106	Q1A3B0	palmitoyl-CoA
+107	Q1A3B0	sphinganine
+108	Q1A3B0	stearoyl-CoA
+109	Q1A3B0	sphinganine
+110	Q1A3B0	behenoyl-CoA
+111	Q1A3B0	sphinganine
+112	Q1A3B0	lignoceroyl-CoA
+0	Q1A3B0	more
+1	Q1A3B0	an ultra-long-chain fatty acyl-CoA
+2	Q1A3B0	a sphingoid base
+3	Q1A3B0	arachidoyl-CoA
+4	Q1A3B0	dihydrosphingosine
+5	Q1A3B0	behenoyl-CoA
+6	Q1A3B0	dihydrosphingosine
+7	Q1A3B0	cerotoyl-CoA
+8	Q1A3B0	dihydrosphingosine
+9	Q1A3B0	fatty acyl-CoA
+10	Q1A3B0	dihydrosphingosine
+11	Q1A3B0	lignoceroyl-CoA
+12	Q1A3B0	dihydrosphingosine
+13	Q1A3B0	palmitoyl-CoA
+14	Q1A3B0	dihydrosphingosine
+15	Q1A3B0	stearoyl-CoA
+16	Q1A3B0	dihydrosphingosine
+17	Q8IU89	more
+18	Q8IU89	an ultra-long-chain fatty acyl-CoA
+19	Q8IU89	a sphingoid base
+20	Q8IU89	sphingosine
+21	Q8IU89	2-hydroxybehenoyl-CoA
+22	Q8IU89	sphingosine
+23	Q8IU89	2-hydroxyeicosanoyl-CoA
+24	Q8IU89	sphingosine
+25	Q8IU89	2-hydroxylignoceroyl-CoA
+26	Q8IU89	sphingosine
+27	Q8IU89	2-hydroxypalmitoyl-CoA
+28	Q8IU89	sphingosine
+29	Q8IU89	2-hydroxystearoyl-CoA
+30	Q8IU89	sphingosine
+31	Q8IU89	behenoyl-CoA
+32	Q8IU89	sphingosine
+33	Q8IU89	cerotoyl-CoA
+34	Q8IU89	sphingosine
+35	Q8IU89	eicosanoyl-CoA
+36	Q8IU89	sphingosine
+37	Q8IU89	lignoceroyl-CoA
+38	Q8IU89	sphingosine
+39	Q8IU89	montanoyl-CoA
+40	Q8IU89	sphingosine
+41	Q8IU89	palmitoyl-CoA
+42	Q8IU89	sphingosine
+43	Q8IU89	stearoyl-CoA
+44	F1N8P2	an ultra-long-chain fatty acyl-CoA
+45	F1N8P2	a sphingoid base
+46	A0A140LFW4	an ultra-long-chain fatty acyl-CoA
+47	A0A140LFW4	a sphingoid base
+0	P27545	stearoyl-CoA
+1	P27545	sphinganine
+2	P27545	sphingosine
+3	P27545	stearoyl-CoA
+4	P27545	sphinganine
+5	P27545	stearoyl-CoA
+6	P27545	more
+7	P27544	sphingosine
+8	P27544	stearoyl-CoA
+9	P27544	sphinganine
+10	P27544	stearoyl-CoA
+11	P27544	more
+12	P27544	dihydrosphingosine
+13	P27544	2-hydroxystearoyl-CoA
+14	P27544	dihydrosphingosine
+15	P27544	stearoyl-CoA
+16	P27544	dihydrosphingosine
+17	P27544	stearoyl-CoA
+18	P27545	more
+19	P27545	dihydrosphingosine
+20	P27545	stearoyl-CoA
+21	P27545	dihydrosphingosine
+22	P27545	palmitoyl-CoA
+23	P27545	dihydrosphingosine
+24	P27545	palmitoyl-CoA
+0	P0A9D4	acetyl-CoA
+1	P0A9D4	L-serine
+2	P0A9D4	acetyl-CoA
+3	P0A9D4	L-serine
+4	P0A9D4	acetyl-CoA
+5	P0A9D4	L-serine
+6	P0A9D4	L-serine
+7	P0A9D4	acetyl-CoA
+8	Q39218	acetyl-CoA
+9	Q39218	L-serine
+10	Q39218	acetyl-CoA
+11	Q39218	L-serine
+12	Q39218	acetyl-CoA
+13	Q39218	L-serine
+14	Q42588	acetyl-CoA
+15	Q42588	L-serine
+16	Q42588	acetyl-CoA
+17	Q42588	L-serine
+18	Q42588	acetyl-CoA
+19	Q42588	L-serine
+20	Q42588	L-serine
+21	Q42588	acetyl-CoA
+22	Q42588	L-serine
+23	Q42588	acetyl-CoA
+24	O13389	acetyl-CoA
+25	O13389	L-serine
+26	O13389	acetyl-CoA
+27	O13389	L-serine
+28	O13389	acetyl-CoA
+29	O13389	L-serine
+30	O13389	more
+31	Q42538	acetyl-CoA
+32	Q42538	L-serine
+33	Q42538	acetyl-CoA
+34	Q42538	L-serine
+35	Q42538	acetyl-CoA
+36	Q42538	L-serine
+37	Q42538	L-serine
+38	Q42538	acetyl-CoA
+39	P29847	acetyl-CoA
+40	P29847	L-serine
+41	P29847	acetyl-CoA
+42	P29847	L-serine
+43	P29847	acetyl-CoA
+44	P29847	L-serine
+45	Q8H0P7	acetyl-CoA
+46	Q8H0P7	L-serine
+47	Q8H0P7	acetyl-CoA
+48	Q8H0P7	L-serine
+49	Q8H0P7	acetyl-CoA
+50	Q8H0P7	L-serine
+51	Q8H0P6	acetyl-CoA
+52	Q8H0P6	L-serine
+53	Q8H0P6	acetyl-CoA
+54	Q8H0P6	L-serine
+55	Q8H0P6	acetyl-CoA
+56	Q8H0P6	L-serine
+57	Q8H0P5	acetyl-CoA
+58	Q8H0P5	L-serine
+59	Q8H0P5	acetyl-CoA
+60	Q8H0P5	L-serine
+61	Q8H0P5	acetyl-CoA
+62	Q8H0P5	L-serine
+63	Q6F4D7	acetyl-CoA
+64	Q6F4D7	L-Ser
+65	Q5MYA1	acetyl-CoA
+66	Q5MYA1	L-serine
+67	Q5MYA1	acetyl-CoA
+68	Q5MYA1	L-serine
+69	Q5MYA1	acetyl-CoA
+70	Q5MYA1	L-serine
+71	Q5MYA1	more
+72	Q8S895	acetyl-CoA
+73	Q8S895	L-serine
+74	Q8S895	acetyl-CoA
+75	Q8S895	L-serine
+76	Q8S895	acetyl-CoA
+77	Q8S895	L-serine
+78	Q8W2B8	acetyl-CoA
+79	Q8W2B8	L-serine
+80	Q8W2B8	acetyl-CoA
+81	Q8W2B8	L-serine
+82	Q8W2B8	acetyl-CoA
+83	Q8W2B8	L-serine
+84	P43886	acetyl-CoA
+85	P43886	L-serine
+86	P43886	acetyl-CoA
+87	P43886	L-serine
+88	P43886	acetyl-CoA
+89	P43886	L-serine
+90	Q401L5	acetyl-CoA
+91	Q401L5	L-serine
+92	Q401L5	acetyl-CoA
+93	Q401L5	L-serine
+94	Q401L5	acetyl-CoA
+95	Q401L5	L-serine
+96	Q401L5	L-serine
+97	Q401L5	acetyl-CoA
+98	Q401L4	acetyl-CoA
+99	Q401L4	L-serine
+100	Q401L4	acetyl-CoA
+101	Q401L4	L-serine
+102	Q401L4	acetyl-CoA
+103	Q401L4	L-serine
+104	Q401L4	L-serine
+105	Q401L4	acetyl-CoA
+106	Q9U8X2	acetyl-CoA
+107	Q9U8X2	L-serine
+108	Q9U8X2	acetyl-CoA
+109	Q9U8X2	L-serine
+110	Q9U8X2	acetyl-CoA
+111	Q9U8X2	L-serine
+112	Q9U8X2	L-serine
+113	Q9U8X2	acetyl-CoA
+114	P95231	acetyl-CoA
+115	P95231	L-serine
+116	P95231	acetyl-CoA
+117	P95231	L-serine
+118	P95231	acetyl-CoA
+119	P95231	L-serine
+120	D2Z028	acetyl-CoA
+121	D2Z028	L-serine
+122	D2Z028	acetyl-CoA
+123	D2Z028	L-serine
+124	D2Z028	acetyl-CoA
+125	D2Z028	L-serine
+126	D2Z028	more
+127	A0R4T4	acetyl-CoA
+128	A0R4T4	L-serine
+129	A0R4T4	acetyl-CoA
+130	A0R4T4	L-serine
+131	A0R4T4	acetyl-CoA
+132	A0R4T4	L-serine
+133	I1R9N5	acetyl-CoA
+134	I1R9N5	L-serine
+135	I1R9N5	acetyl-CoA
+136	I1R9N5	L-serine
+137	I1R9N5	acetyl-CoA
+138	I1R9N5	L-serine
+139	Q03BU2	acetyl-CoA
+140	Q03BU2	L-serine
+141	Q03BU2	acetyl-CoA
+142	Q03BU2	L-serine
+143	Q03BU2	acetyl-CoA
+144	Q03BU2	L-serine
+145	B0LLV2	acetyl-CoA
+146	B0LLV2	L-serine
+147	B0LLV2	acetyl-CoA
+148	B0LLV2	L-serine
+149	B0LLV2	acetyl-CoA
+150	B0LLV2	L-serine
+151	A0A0C5DAX6	acetyl-CoA
+152	A0A0C5DAX6	L-serine
+153	A0A0C5DAX6	acetyl-CoA
+154	A0A0C5DAX6	L-serine
+155	A0A0C5DAX6	acetyl-CoA
+156	A0A0C5DAX6	L-serine
+157	A0A0C5DES6	acetyl-CoA
+158	A0A0C5DES6	L-serine
+159	A0A0C5DES6	acetyl-CoA
+160	A0A0C5DES6	L-serine
+161	A0A0C5DES6	acetyl-CoA
+162	A0A0C5DES6	L-serine
+163	C4IRW0	acetyl-CoA
+164	C4IRW0	L-serine
+165	C4IRW0	acetyl-CoA
+166	C4IRW0	L-serine
+167	C4IRW0	acetyl-CoA
+168	C4IRW0	L-serine
+169	C4IRW0	more
+170	Q0ZB96	acetyl-CoA
+171	Q0ZB96	L-serine
+172	Q0ZB96	acetyl-CoA
+173	Q0ZB96	L-serine
+174	Q0ZB96	acetyl-CoA
+175	Q0ZB96	L-serine
+176	A0A3L6DLJ7	acetyl-CoA
+177	A0A3L6DLJ7	L-serine
+178	A0A3L6DLJ7	acetyl-CoA
+179	A0A3L6DLJ7	L-serine
+180	A0A3L6DLJ7	acetyl-CoA
+181	A0A3L6DLJ7	L-serine
+182	A0A0H2UNY1	acetyl-CoA
+183	A0A0H2UNY1	L-serine
+184	A0A0H2UNY1	acetyl-CoA
+185	A0A0H2UNY1	L-serine
+186	A0A0H2UNY1	acetyl-CoA
+187	A0A0H2UNY1	L-serine
+0	P94891	acetyl-CoA
+1	P94891	L-homoserine
+2	P94891	acetyl-CoA
+3	P94891	L-homoserine
+4	P94891	acetyl-CoA
+5	P94891	L-homoserine
+6	P45131	acetyl-CoA
+7	P45131	L-homoserine
+8	P45131	acetyl-CoA
+9	P45131	L-homoserine
+10	P45131	acetyl-CoA
+11	P45131	L-homoserine
+12	Q8F4I0	acetyl-CoA
+13	Q8F4I0	L-homoserine
+14	Q8F4I0	acetyl-CoA
+15	Q8F4I0	L-homoserine
+16	Q8F4I0	acetyl-CoA
+17	Q8F4I0	L-homoserine
+18	D2Z028	acetyl-CoA
+19	D2Z028	L-homoserine
+20	D2Z028	acetyl-CoA
+21	D2Z028	L-homoserine
+22	D2Z028	acetyl-CoA
+23	D2Z028	L-homoserine
+24	D2Z028	more
+25	P9WJY9	acetyl-CoA
+26	P9WJY9	L-homoserine
+27	P9WJY9	acetyl-CoA
+28	P9WJY9	L-homoserine
+29	P9WJY9	acetyl-CoA
+30	P9WJY9	L-homoserine
+31	B1MG17	acetyl-CoA
+32	B1MG17	L-homoserine
+33	B1MG17	acetyl-CoA
+34	B1MG17	L-homoserine
+35	B1MG17	acetyl-CoA
+36	B1MG17	L-homoserine
+37	K5B926	acetyl-CoA
+38	K5B926	L-homoserine
+39	K5B926	acetyl-CoA
+40	K5B926	L-homoserine
+41	K5B926	acetyl-CoA
+42	K5B926	L-homoserine
+43	A0A0D6HE46	acetyl-CoA
+44	A0A0D6HE46	L-homoserine
+45	A0A0D6HE46	acetyl-CoA
+46	A0A0D6HE46	L-homoserine
+47	A0A0D6HE46	acetyl-CoA
+48	A0A0D6HE46	L-homoserine
+0	Q9UHF3	acetyl-CoA
+1	Q9UHF3	beta-site amyloid precursor protein-cleaving enzyme 1
+2	Q9UHF3	acetyl-CoA
+3	Q9UHF3	histone H3 N-terminal tail
+0	U3U715	acetyl-CoA
+1	U3U715	L-histidine
+2	Q8N8M0	acetyl-CoA
+3	Q8N8M0	L-histidine
+4	Q8N8M0	more
+5	I3J7Q8	acetyl-CoA
+6	I3J7Q8	L-histidine
+0	P9WPZ3	N2-acetyl-L-ornithine
+1	P9WPZ3	L-glutamate
+2	P9WPZ3	N2-acetyl-L-ornithine
+3	P9WPZ3	L-glutamate
+4	P0DJQ5	N2-acetyl-L-ornithine
+5	P0DJQ5	L-glutamate
+6	P0DJQ5	N2-acetyl-L-ornithine
+7	P0DJQ5	L-glutamate
+8	P0DJQ5	L-ornithine
+9	P0DJQ5	N-acetyl-L-glutamate
+10	P0DJQ5	more
+11	C1KGU6	N2-acetyl-L-ornithine
+12	C1KGU6	L-glutamate
+13	C1KGU6	N2-acetyl-L-ornithine
+14	C1KGU6	L-glutamate
+15	Q59280	N2-acetyl-L-ornithine
+16	Q59280	L-glutamate
+17	Q59280	N2-acetyl-L-ornithine
+18	Q59280	L-glutamate
+19	Q92MJ1	N2-acetyl-L-ornithine
+20	Q92MJ1	L-glutamate
+21	Q92MJ1	N2-acetyl-L-ornithine
+22	Q92MJ1	L-glutamate
+23	P62058	N2-acetyl-L-ornithine
+24	P62058	L-glutamate
+25	P62058	N2-acetyl-L-ornithine
+26	P62058	L-glutamate
+27	P62058	more
+0	Q6RVB3	succinyl-CoA
+1	Q6RVB3	glycine
+2	Q6RVB3	succinyl-CoA
+3	Q6RVB3	glycine
+4	Q6RVB3	succinyl-CoA
+5	Q6RVB3	glycine
+6	P22557	succinyl-CoA
+7	P22557	glycine
+8	P22557	succinyl-CoA
+9	P22557	glycine
+10	P22557	succinyl-CoA
+11	P22557	glycine
+12	P18079	succinyl-CoA
+13	P18079	glycine
+14	P18079	succinyl-CoA
+15	P18079	glycine
+16	P18079	succinyl-CoA
+17	P18079	glycine
+18	P08680	succinyl-CoA
+19	P08680	glycine
+20	P08680	succinyl-CoA
+21	P08680	glycine
+22	P08680	succinyl-CoA
+23	P08680	glycine
+24	P08680	succinyl-CoA
+25	P08680	L-serine
+26	P08680	succinyl-CoA
+27	P08680	O-methylglycine
+28	P08680	more
+29	Q04512	succinyl-CoA
+30	Q04512	glycine
+31	Q04512	succinyl-CoA
+32	Q04512	glycine
+33	Q04512	succinyl-CoA
+34	Q04512	glycine
+35	Q9A8J8	succinyl-CoA
+36	Q9A8J8	glycine
+37	Q9A8J8	succinyl-CoA
+38	Q9A8J8	glycine
+39	Q9A8J8	succinyl-CoA
+40	Q9A8J8	glycine
+41	P09950	succinyl-CoA
+42	P09950	glycine
+43	P09950	succinyl-CoA
+44	P09950	glycine
+45	P09950	succinyl-CoA
+46	P09950	glycine
+0	P9WNG5	malonyl-CoA
+1	P9WNG5	acyl-carrier protein
+2	P9WNG5	malonyl-CoA
+3	P9WNG5	acyl-carrier protein
+4	Q99UN8	malonyl-CoA
+5	Q99UN8	acyl-carrier protein
+6	Q99UN8	malonyl-CoA
+7	Q99UN8	acyl-carrier protein
+8	P49327	acetyl-CoA
+9	P49327	an [acyl-carrier protein]
+10	P49327	malonyl-CoA
+11	P49327	an [acyl-carrier protein]
+12	O32717	more
+13	O32717	malonyl-CoA
+14	O32717	acyl-carrier protein
+15	O32717	malonyl-CoA
+16	O32717	acyl-carrier protein
+17	O32717	methylmalonyl-CoA
+18	O32717	acyl-carrier protein
+19	P73242	malonyl-CoA
+20	P73242	an [acyl-carrier protein]
+21	Q9Z447	malonyl-CoA
+22	Q9Z447	acyl-carrier protein
+23	Q9Z447	malonyl-CoA
+24	Q9Z447	acyl-carrier protein
+25	Q9Z447	methylmalonyl-CoA
+26	Q9Z447	acyl-carrier protein
+27	Q9Z447	acetoacetyl-CoA
+28	Q9Z447	acyl-carrier protein
+29	Q9Z447	butanoyl-CoA
+30	Q9Z447	acyl-carrier protein
+31	Q9Z447	propionyl-CoA
+32	Q9Z447	acyl-carrier protein
+33	S4TYX4	malonyl-CoA
+34	S4TYX4	an [acyl-carrier protein]
+35	V5VFX0	malonyl-CoA
+36	V5VFX0	an [acyl-carrier protein]
+37	A0A345ANG7	malonyl-CoA
+38	A0A345ANG7	an [acyl-carrier protein]
+39	P0AAI9	malonyl-CoA
+40	P0AAI9	an [acyl-carrier protein]
+41	Q8IVS2	malonyl-CoA
+42	Q8IVS2	an [acyl-carrier protein]
+0	Q96EK6	acetyl-CoA
+1	Q96EK6	D-glucosamine 6-phosphate
+2	Q96EK6	propionyl-CoA
+3	Q96EK6	D-glucosamine 6-phosphate
+4	Q96EK6	butanoyl-CoA
+5	Q96EK6	D-glucosamine 6-phosphate
+6	Q96EK6	isobutanoyl-CoA
+7	Q96EK6	D-glucosamine 6-phosphate
+8	Q96EK6	more
+9	Q9JK38	acetyl-CoA
+10	Q9JK38	D-glucosamine 6-phosphate
+11	Q9LFU9	acetyl-CoA
+12	Q9LFU9	D-glucosamine 6-phosphate
+13	Q17427	acetyl-CoA
+14	Q17427	D-glucosamine 6-phosphate
+15	C6KTC5	acetyl-CoA
+16	C6KTC5	D-glucosamine 6-phosphate
+17	Q5CPU3	acetyl-CoA
+18	Q5CPU3	D-glucosamine 6-phosphate
+19	Q5CPU3	more
+20	S7UFV0	acetyl-CoA
+21	S7UFV0	D-glucosamine 6-phosphate
+0	P0A3C5	more
+1	P0A3C5	saturated acyl-[acyl-carrier protein]
+2	P0A3C5	malonyl-[acyl-carrier protein]
+3	P0A3C5	saturated acyl-[acyl-carrier protein]
+4	P0A3C5	malonyl-[acyl-carrier protein]
+5	P0A3C5	saturated acyl-[acyl-carrier protein]
+6	P0A3C5	malonyl-[acyl-carrier protein]
+7	P0A3C5	acetyl-CoA
+8	P0A3C5	malonyl-[acyl-carrier protein]
+9	P9WQD9	an acyl-[acyl-carrier protein]
+10	P9WQD9	a malonyl-[acyl-carrier protein]
+11	P99159	acetyl-CoA
+12	P99159	malonyl-[acyl-carrier protein]
+13	P99159	isobutyryl-CoA
+14	P99159	malonyl-[acyl-carrier protein]
+15	P99159	saturated acyl-[acyl-carrier protein]
+16	P99159	malonyl-[acyl-carrier protein]
+17	P99159	saturated acyl-[acyl-carrier protein]
+18	P99159	malonyl-[acyl-carrier protein]
+19	P99159	saturated acyl-[acyl-carrier protein]
+20	P99159	malonyl-[acyl-carrier protein]
+21	P99159	acyl-[acyl-carrier protein]
+22	P99159	malonyl-[acyl-carrier protein]
+23	P99159	acyl-[acyl-carrier protein]
+24	P99159	malonyl-[acyl-carrier protein]
+25	P99159	acyl-[acyl-carrier protein]
+26	P99159	malonyl-[acyl-carrier protein]
+27	P99159	butyryl-CoA
+28	P99159	malonyl-[acyl-carrier protein]
+29	P99159	butyryl-[acyl-carrier protein]
+30	P99159	malonyl-[acyl-carrier protein]
+31	P99159	butyryl-[acyl-carrier protein]
+32	P99159	malonyl-[acyl-carrier protein]
+33	P99159	acetyl-[acyl-carrier protein]
+34	P99159	malonyl-[acyl-carrier protein]
+35	P99159	acetyl-[acyl-carrier protein]
+36	P99159	malonyl-[acyl-carrier protein]
+37	P99159	acetyl-[acyl-carrier protein]
+38	P99159	malonyl-[acyl-carrier protein]
+39	Q8L3X9	more
+40	Q8L3X9	acyl-[acyl-carrier protein]
+41	Q8L3X9	malonyl-[acyl-carrier protein]
+42	Q8L3X9	acyl-[acyl-carrier protein]
+43	Q8L3X9	malonyl-[acyl-carrier protein]
+44	Q8L3X9	acyl-[acyl-carrier protein]
+45	Q8L3X9	malonyl-[acyl-carrier protein]
+46	Q586W9	more
+47	Q9NWU1	more
+48	P0A953	an acyl-[acyl-carrier protein]
+49	P0A953	a malonyl-[acyl-carrier protein]
+50	P52410	decanoyl-ACP
+51	P52410	malonyl-ACP
+52	V9N3I8	more
+53	V9N3I8	an acyl-[acyl-carrier protein]
+54	V9N3I8	a malonyl-[acyl-carrier protein]
+55	A0A3G1E3S8	an acyl-[acyl-carrier protein]
+56	A0A3G1E3S8	a malonyl-[acyl-carrier protein]
+57	A0A3G1E3Q4	an acyl-[acyl-carrier protein]
+58	A0A3G1E3Q4	a malonyl-[acyl-carrier protein]
+59	Q2YQQ9	an acyl-[acyl-carrier protein]
+60	Q2YQQ9	a malonyl-[acyl-carrier protein]
+0	O15228	acyl-CoA
+1	O15228	glycerone phosphate
+2	O15228	acyl-CoA
+3	O15228	dihydroxyacetone phosphate
+4	O15228	acyl-CoA
+5	O15228	dihydroxyacetone phosphate
+6	O15228	acyl-CoA
+7	O15228	dihydroxyacetone phosphate
+8	O15228	palmitoyl-CoA
+9	O15228	dihydroxyacetone phosphate
+10	O15228	palmitoyl-CoA
+11	O15228	dihydroxyacetone phosphate
+12	O15228	palmitoyl-CoA
+13	O15228	dihydroxyacetone phosphate
+14	Q9ES71	acyl-CoA
+15	Q9ES71	glycerone phosphate
+16	I7LW01	acyl-CoA
+17	I7LW01	glycerone phosphate
+18	I7LW01	oleoyl-CoA
+19	I7LW01	glycerone phosphate
+20	I7LW01	palmitoleyl-CoA
+21	I7LW01	glycerone phosphate
+22	I7LW01	palmitoyl-CoA
+23	I7LW01	glycerone phosphate
+24	I7LW01	stearoyl-CoA
+25	I7LW01	glycerone phosphate
+26	I7LW01	more
+0	P04180	phosphatidylcholine
+1	P04180	cholesterol
+2	P04180	more
+3	P04180	1,2-bis[4-(1-pyreno)butanoyl]-sn-glycero-3-phosphocholine
+4	P04180	cholesterol
+5	P04180	1-palmitoyl-2-(6-[(7-nitro-2-1 3-benzoxadiazol-4-yl)amino]hexanoyl)-sn-glycero-3-phosphocholine
+6	P04180	cerebrosterol
+7	P04180	1-palmitoyl-2-oleoyl-sn-glycero-3-phosphocholine
+8	P04180	dehydroergosterol
+9	P04180	phosphatidylcholine
+10	P04180	24-hydroxycholesterol
+11	P04180	phosphatidylcholine
+12	P04180	cerebrosterol
+13	P04180	phosphatidylcholine
+14	P04180	cholesterol
+15	P04180	L-alpha-phosphatidylcholine type XVI-E
+16	P04180	cholesterol
+17	P04180	phosphatidylcholine
+18	P04180	a sterol
+19	S8GJB1	more
+20	S8GJB1	phosphatidylcholine
+21	S8GJB1	cholesterol
+22	S8GJB1	phosphatidylcholine
+23	S8GJB1	a sterol
+24	P18424	phosphatidylcholine
+25	P18424	cholesterol
+26	A0A2K5WDQ7	L-alpha-phosphatidylcholine type XVI-E
+27	A0A2K5WDQ7	cholesterol
+0	Q46674	more
+1	Q46674	acetyl-CoA
+2	Q46674	N-acetylneuraminic acid
+3	Q9L9Q2	more
+4	Q9L9Q2	acetyl-CoA
+5	Q9L9Q2	NeuAcalpha-2,3-Galbeta-1,4-Glc-6-(5-fluorescein-carboxamido)-hexanoic acid succimidyl ester
+6	Q9L9Q2	acetyl-CoA
+7	Q9L9Q2	NeuAcalpha-2,8-NeuAcalpha-2,3-Galbeta-1 4-Glc-6-(5-fluorescein-carboxamido)-hexanoic acid succimidyl ester
+8	Q9L9Q2	acetyl-CoA
+9	Q9L9Q2	NeuAcalpha-2,8-NeuAcalpha-2,8-NeuAcalpha-2,3-Galbeta-1 4-Glc-6-(5-fluorescein-carboxamido)-hexanoic acid succimidyl ester
+10	Q9L9Q2	acetyl-CoA
+11	Q9L9Q2	N-acetylneuraminic acid
+12	Q96PB1	more
+13	Q96PB1	acetyl-CoA
+14	Q96PB1	CMP-5-N-acetylneuraminate
+15	Q96PB1	acetyl-CoA
+16	Q96PB1	CMP-N-acetylneuraminate
+17	Q96PB1	acetyl-CoA
+18	Q96PB1	GD3 ganglioside
+19	Q96PB1	acetyl-CoA
+20	Q96PB1	N-acetyl-9-O-acetylneuraminate
+21	Q96PB1	acetyl-CoA
+22	Q96PB1	N-acetylneuraminate
+23	Q96PB1	acetyl-CoA
+24	Q96PB1	ganglioside GD3
+0	P07623	succinyl-CoA
+1	P07623	L-homoserine
+2	P07623	succinyl-CoA
+3	P07623	L-homoserine
+0	Q8GW43	more
+1	Q8GW43	pimeloyl-CoA
+2	Q8GW43	L-alanine
+3	Q8GW43	pimeloyl-[acyl-carrier protein]
+4	Q8GW43	L-alanine
+5	P12998	6-carboxyhexanoyl-CoA
+6	P12998	L-alanine
+7	P12998	6-carboxyhexanoyl-CoA
+8	P12998	L-alanine
+9	P12998	pimeloyl-[acyl carrier protein]
+10	P12998	L-alanine
+11	P12998	pimeloyl-[CoA]
+12	P12998	L-alanine
+13	P12998	L-alanine
+14	P12998	pimeloyl-CoA
+15	A0QX65	pimeloyl-[acyl-carrier protein]
+16	A0QX65	L-alanine
+17	P53556	more
+18	P53556	pimeloyl-[CoA]
+19	P53556	L-alanine
+0	Q8WYB5	acetyl-CoA
+1	Q8WYB5	histone H3
+2	Q8WYB5	acetyl-CoA
+3	Q8WYB5	histone H3
+4	Q8WYB5	more
+5	Q8WYB5	acetyl-CoA
+6	Q8WYB5	[histone H3]-L-lysine14
+7	Q8WYB5	acetyl-CoA
+8	Q8WYB5	[histone H3]-L-lysine14
+9	Q04751	more
+10	Q04751	acetyl-CoA
+11	Q04751	histone H2A
+12	Q04751	acetyl-CoA
+13	Q04751	histone H4
+14	P53930	acetyl-CoA
+15	P53930	histone H4
+16	P53930	acetyl-CoA
+17	P53930	histone H4
+18	P53930	acetyl-CoA
+19	P53930	histone H4
+20	Q9H7Z6	acetyl-CoA
+21	Q9H7Z6	histone H3
+22	Q9H7Z6	acetyl-CoA
+23	Q9H7Z6	histone H3
+24	Q9H7Z6	acetyl-CoA
+25	Q9H7Z6	histone H4
+26	Q9H7Z6	acetyl-CoA
+27	Q9H7Z6	histone H4
+28	Q9H7Z6	more
+29	Q9H7Z6	acetyl-CoA
+30	Q9H7Z6	histone H2A
+31	Q9H7Z6	acetyl-CoA
+32	Q9H7Z6	histone H4 peptide
+33	Q9H7Z6	acetyl-CoA
+34	Q9H7Z6	p53
+35	Q9H7Z6	acetyl-CoA
+36	Q9H7Z6	[p53]-L-lysine120
+37	Q9H7Z6	acetyl-CoA
+38	Q9H7Z6	[TIP5]-L-lysine
+39	Q9H7Z6	acetyl-CoA
+40	Q9H7Z6	[histone H4]-L-lysine5
+41	Q9H7Z6	acetyl-CoA
+42	Q9H7Z6	[histone H4]-L-lysine5
+43	Q9H7Z6	acetyl-CoA
+44	Q9H7Z6	[histone H4]-L-lysine8
+45	Q9H7Z6	acetyl-CoA
+46	Q9H7Z6	[histone H4]-L-lysine8
+47	Q9H7Z6	acetyl-CoA
+48	Q9H7Z6	[histone H4]-L-lysine16
+49	Q9H7Z6	acetyl-CoA
+50	Q9H7Z6	[histone H4]-L-lysine16
+51	Q9H7Z6	acetyl-CoA
+52	Q9H7Z6	[protein]-L-lysine
+53	Q9H7Z6	acetyl-CoA
+54	Q9H7Z6	[protein]-L-lysine
+55	Q9H8E8	acetyl-CoA
+56	Q9H8E8	histone H4
+57	Q9H8E8	acetyl-CoA
+58	Q9H8E8	histone H4
+59	Q9H8E8	more
+60	Q9EQQ9	acetyl-CoA
+61	Q9EQQ9	histone
+62	Q9EQQ9	acetyl-CoA
+63	Q9EQQ9	histone
+64	Q9EQQ9	acetyl-CoA
+65	Q9EQQ9	histone
+66	Q9UTM7	more
+67	Q9UTM7	histone H4
+68	Q9UTM7	acetyl-CoA
+69	Q9UTM7	histone H4 N-terminal peptide
+70	Q9UTM7	acetyl-CoA
+71	Q8LPU4	acetyl-CoA
+72	Q8LPU4	histone
+73	Q8LPU4	acetyl-CoA
+74	Q8LPU4	histone
+75	Q8LPU4	acetyl-CoA
+76	Q8LPU4	histone
+77	Q08649	more
+78	Q08649	histone H4
+79	Q08649	acetyl-CoA
+80	Q08649	histone
+81	Q08649	propionyl-CoA
+82	Q08649	piccoloNuA4 peptide
+83	Q08649	acetyl-CoA
+84	Q08649	piccoloNuA4 peptide
+85	Q08649	propionyl-CoA
+86	Q08649	acetyl-CoA
+87	Q08649	[histone H4]-L-lysine
+88	Q08649	H4 peptide
+89	Q08649	acetyl-CoA
+90	Q08649	histone
+91	Q08649	acetyl-CoA
+92	Q08649	acetyl-CoA
+93	Q08649	[protein]-L-lysine
+94	Q08649	acetyl-CoA
+95	Q08649	[protein]-L-lysine
+96	Q92831	acetyl-CoA
+97	Q92831	histone H3
+98	Q92831	acetyl-CoA
+99	Q92831	histone H3
+100	Q92831	more
+101	Q92831	acetyl-CoA
+102	Q92831	[PTEN]-L-lysine
+103	Q92831	acetyl-CoA
+104	Q92831	[STAT3]-L-lysine
+105	Q92831	acetyl-CoA
+106	Q92831	[beta-catenin]-L-lysine
+107	Q92831	acetyl-CoA
+108	Q92831	[connexin 43]-L-lysine
+109	Q92831	acetyl-CoA
+110	Q92831	[PGC-1]-L-lysine
+111	Q92831	acetyl-CoA
+112	Q92831	[PGC-1alpha]-L-lysine
+113	Q92831	acetyl-CoA
+114	Q92831	[histone H2B]-L-lysine
+115	Q92831	acetyl-CoA
+116	Q92831	[c-myc]-L-lysine
+117	Q92831	acetyl-CoA
+118	Q92831	[Foxo1]-L-lysine
+119	Q92831	acetyl-CoA
+120	Q92831	[histone H2B]-L-lysine12
+121	Q92831	acetyl-CoA
+122	Q92831	[histone H2B]-L-lysine15
+123	Q92831	acetyl-CoA
+124	Q92831	[p53]-L-lysine
+125	Q92831	acetyl-CoA
+126	Q92831	[histone H3]-L-lysine14
+127	Q92831	acetyl-CoA
+128	Q92831	[histone H3]-L-lysine14
+129	Q92831	acetyl-CoA
+130	Q92831	[histone H3]-L-lysine9
+131	Q92831	acetyl-CoA
+132	Q92831	[histone H3]-L-lysine9
+133	Q92831	acetyl-CoA
+134	Q92831	[histone H3]-L-lysine18
+135	Q92831	acetyl-CoA
+136	Q92831	[histone H3]-L-lysine18
+137	Q92831	acetyl-CoA
+138	Q92831	[histone H2A]-L-lysine5
+139	Q92831	acetyl-CoA
+140	Q92831	[histone H2A]-L-lysine5
+141	Q92831	acetyl-CoA
+142	Q92831	[protein]-L-lysine
+143	Q92831	acetyl-CoA
+144	Q92831	[protein]-L-lysine
+145	Q09472	more
+146	Q09472	acetyl-CoA
+147	Q09472	histone
+148	Q09472	acetyl-CoA
+149	Q09472	histone
+150	Q09472	acetyl-CoA
+151	Q09472	histone
+152	Q09472	acetyl-CoA
+153	Q09472	[histone H3]-L-lysine20
+154	Q09472	acetyl-CoA
+155	Q09472	biotinylated histone H3 (1-21) peptide
+156	Q09472	acetyl-CoA
+157	Q09472	histone H3
+158	Q09472	3-azidopropionyl-CoA
+159	Q09472	[histone peptide H3-20]-L-lysine
+160	Q09472	3-azidopropionyl-CoA
+161	Q09472	[histone peptide H4-20]-L-lysine
+162	Q09472	4-pentynoyl-CoA
+163	Q09472	[histone peptide H3-20]-L-lysine
+164	Q09472	4-pentynoyl-CoA
+165	Q09472	[histone peptide H4-20]-L-lysine
+166	Q09472	5-hexynoyl-CoA
+167	Q09472	[histone peptide H3-20]-L-lysine
+168	Q09472	5-hexynoyl-CoA
+169	Q09472	[histone peptide H4-20]-L-lysine
+170	Q09472	6-heptynoyl-CoA
+171	Q09472	[histone peptide H3-20]-L-lysine
+172	Q09472	6-heptynoyl-CoA
+173	Q09472	[histone peptide H4-20]-L-lysine
+174	Q09472	acetyl-CoA
+175	Q09472	[histone peptide H3-20]-L-lysine
+176	Q09472	acetyl-CoA
+177	Q09472	[histone peptide H4-20]-L-lysine
+178	Q09472	acetyl-CoA
+179	Q09472	[histone H3]-L-lysine27
+180	Q09472	acetyl-CoA
+181	Q09472	[histone H3]-L-lysine27
+182	Q09472	acetyl-CoA
+183	Q09472	protein p53
+184	Q09472	acetyl-CoA
+185	Q09472	protein p53
+186	Q09472	acetyl-CoA
+187	Q09472	[histone H3]-L-lysine
+188	Q09472	acetyl-CoA
+189	Q09472	[protein]-L-lysine
+190	Q09472	acetyl-CoA
+191	Q09472	[protein]-L-lysine
+192	Q8III2	acetyl-CoA
+193	Q8III2	histone H4
+194	Q8III2	acetyl-CoA
+195	Q8III2	histone H4
+196	Q8III2	more
+197	O14929	more
+198	O14929	acetyl-CoA
+199	O14929	[protein]-L-lysine
+200	O14929	acetyl-CoA
+201	O14929	[protein]-L-lysine
+202	O14929	acetyl-CoA
+203	O14929	SGRGKGGKGLGKGGAKRHRK
+204	O14929	acetyl-CoA
+205	O14929	[histone H4]-L-lysine12
+206	O14929	acetyl-CoA
+207	O14929	[histone H4]-L-lysine5
+208	O14929	acetyl-CoA
+209	O14929	histone H4 peptide
+210	Q92830	acetyl-CoA
+211	Q92830	histone H3
+212	Q92830	acetyl-CoA
+213	Q92830	histone H3
+214	Q92830	acetyl-CoA
+215	Q92830	histone H4
+216	Q92830	acetyl-CoA
+217	Q92830	histone H4
+218	Q92830	more
+219	Q92830	acetyl-CoA
+220	Q92830	[PGC-1]-L-lysine
+221	Q92830	acetyl-CoA
+222	Q92830	[PGC-1alpha]-L-lysine
+223	Q92830	acetyl-CoA
+224	Q92830	[histone H2B]-L-lysine
+225	Q92830	acetyl-CoA
+226	Q92830	[c-myc]-L-lysine
+227	Q92830	3-azidopropionyl-CoA
+228	Q92830	[histone peptide H3-20]-L-lysine
+229	Q92830	3-azidopropionyl-CoA
+230	Q92830	[histone peptide H4-20]-L-lysine
+231	Q92830	4-pentynoyl-CoA
+232	Q92830	[histone peptide H3-20]-L-lysine
+233	Q92830	4-pentynoyl-CoA
+234	Q92830	[histone peptide H4-20]-L-lysine
+235	Q92830	5-hexynoyl-CoA
+236	Q92830	[histone peptide H3-20]-L-lysine
+237	Q92830	5-hexynoyl-CoA
+238	Q92830	[histone peptide H4-20]-L-lysine
+239	Q92830	6-heptynoyl-CoA
+240	Q92830	[histone peptide H3-20]-L-lysine
+241	Q92830	6-heptynoyl-CoA
+242	Q92830	[histone peptide H4-20]-L-lysine
+243	Q92830	acetyl-CoA
+244	Q92830	[histone peptide H3-20]-L-lysine
+245	Q92830	acetyl-CoA
+246	Q92830	[histone peptide H4-20]-L-lysine
+247	Q92830	acetyl-CoA
+248	Q92830	[histone H3]-L-lysine14
+249	Q92830	acetyl-CoA
+250	Q92830	[histone H3]-L-lysine14
+251	Q92830	acetyl-CoA
+252	Q92830	[histone H3]-L-lysine9
+253	Q92830	acetyl-CoA
+254	Q92830	[histone H3]-L-lysine9
+255	Q92830	acetyl-CoA
+256	Q92830	[histone H3]-L-lysine18
+257	Q92830	acetyl-CoA
+258	Q92830	[histone H3]-L-lysine18
+259	Q92830	acetyl-CoA
+260	Q92830	[protein]-L-lysine
+261	Q92830	acetyl-CoA
+262	Q92830	[protein]-L-lysine
+263	Q92830	acetyl-CoA
+264	Q92830	[CDC6]-L-lysine
+265	Q92830	acetyl-CoA
+266	Q92830	[alpha-tubulin]-L-lysine40
+267	Q92830	acetyl-CoA
+268	Q92830	[p27]-L-lysine
+269	Q9AR19	more
+270	F4IXE7	acetyl-CoA
+271	F4IXE7	histone H3
+272	F4IXE7	acetyl-CoA
+273	F4IXE7	histone H3
+274	Q07794	acetyl-CoA
+275	Q07794	histone H3
+276	Q07794	acetyl-CoA
+277	Q07794	histone H3
+278	Q07794	more
+279	Q07794	acetyl-CoA
+280	Q07794	[histone H3]-L-lysine9
+281	Q07794	acetyl-CoA
+282	Q07794	[histone H3]-L-lysine9
+283	Q07794	acetyl-CoA
+284	Q07794	[histone H3]-L-lysine56
+285	Q07794	acetyl-CoA
+286	Q07794	[histone H3]-L-lysine56
+287	Q07794	acetyl-CoA
+288	Q07794	[histone H3]-L-lysine23
+289	Q07794	acetyl-CoA
+290	Q07794	histone H3 tail peptide
+291	S8F3V2	acetyl-CoA
+292	S8F3V2	histone H3
+293	S8F3V2	acetyl-CoA
+294	S8F3V2	histone H3
+295	S8F3V2	more
+296	A0A125YMC0	acetyl-CoA
+297	A0A125YMC0	histone H3
+298	Q9JHD1	acetyl-CoA
+299	Q9JHD1	[protein]-L-lysine
+300	Q9JHD1	acetyl-CoA
+301	Q9JHD1	[protein]-L-lysine
+302	Q92793	more
+303	Q92793	acetyl-CoA
+304	Q92793	[c-myc]-L-lysine
+305	Q92793	acetyl-CoA
+306	Q92793	[Foxo1]-L-lysine
+307	Q92793	acetyl-CoA
+308	Q92793	[histone H2B]-L-lysine12
+309	Q92793	acetyl-CoA
+310	Q92793	[histone H2B]-L-lysine15
+311	Q92793	acetyl-CoA
+312	Q92793	[histone H2A]-L-lysine5
+313	Q92793	acetyl-CoA
+314	Q92793	[histone H2A]-L-lysine5
+315	Q92793	acetyl-CoA
+316	Q92793	[protein]-L-lysine
+317	Q92793	acetyl-CoA
+318	Q92793	[protein]-L-lysine
+319	Q92793	acetyl-CoA
+320	Q92793	[NFkappaB]-L-lysine
+321	P41227	more
+322	P41227	acetyl-CoA
+323	P41227	[protein]-L-lysine
+324	P41227	acetyl-CoA
+325	P41227	[protein]-L-lysine
+326	P41227	acetyl-CoA
+327	P41227	N-terminal L-lysyl-[Hsp70]
+328	P41227	acetyl-CoA
+329	P41227	N-terminal L-lysyl-[beta-catenin]
+330	P41227	acetyl-CoA
+331	P41227	[AuA]-L-lysine125
+332	P41227	acetyl-CoA
+333	P41227	[AuA]-L-lysine75
+334	P41227	acetyl-CoA
+335	P41227	[Hsp70]-L-lysine
+336	Q92993	more
+337	Q92993	acetyl-CoA
+338	Q92993	[p53]-L-lysine120
+339	Q92993	acetyl-CoA
+340	Q92993	[c-myc]-L-lysine
+341	Q92993	acetyl-CoA
+342	Q92993	[p53]-L-lysine
+343	Q92993	acetyl-CoA
+344	Q92993	[histone H4]-L-lysine5
+345	Q92993	acetyl-CoA
+346	Q92993	[histone H4]-L-lysine5
+347	Q92993	acetyl-CoA
+348	Q92993	[histone H4]-L-lysine8
+349	Q92993	acetyl-CoA
+350	Q92993	[histone H4]-L-lysine8
+351	Q92993	acetyl-CoA
+352	Q92993	[histone H4]-L-lysine16
+353	Q92993	acetyl-CoA
+354	Q92993	[histone H4]-L-lysine16
+355	Q92993	acetyl-CoA
+356	Q92993	[histone H4]-L-lysine12
+357	Q92993	acetyl-CoA
+358	Q92993	[histone H4]-L-lysine12
+359	Q92993	acetyl-CoA
+360	Q92993	[protein]-L-lysine
+361	Q92993	acetyl-CoA
+362	Q92993	[protein]-L-lysine
+363	Q92993	acetyl-CoA
+364	Q92993	[ATM]-L-lysine
+365	Q92993	acetyl-CoA
+366	Q92993	[DNMT1]-L-lysine
+367	Q92993	acetyl-CoA
+368	Q92993	[E2F1]-L-lysine
+369	Q92993	acetyl-CoA
+370	Q92993	[TRRAP]-L-lysine
+371	Q8IB67	acetyl-CoA
+372	Q8IB67	[histone H3]-L-lysine14
+373	Q8IB67	acetyl-CoA
+374	Q8IB67	[histone H3]-L-lysine14
+375	Q8IB67	acetyl-CoA
+376	Q8IB67	[histone H3]-L-lysine9
+377	Q8IB67	acetyl-CoA
+378	Q8IB67	[histone H3]-L-lysine9
+379	O34536	more
+380	O34536	acetyl-CoA
+381	O34536	[protein]-L-lysine
+382	O34536	acetyl-CoA
+383	O34536	[protein]-L-lysine
+384	O34536	acetyl-CoA
+385	O34536	[AVDSVFDTILDALK]
+386	O34536	acetyl-CoA
+387	O34536	[HBsu]-L-lysine
+388	O34536	acetyl-CoA
+389	O34536	[VPAFKPGK]
+390	O95251	more
+391	O95251	acetyl-CoA
+392	O95251	[histone H4]-L-lysine
+393	O95251	acetyl-CoA
+394	O95251	[histone H3]-L-lysine14
+395	O95251	acetyl-CoA
+396	O95251	[histone H3]-L-lysine14
+397	O95251	acetyl-CoA
+398	O95251	[histone H4]-L-lysine5
+399	O95251	acetyl-CoA
+400	O95251	[histone H4]-L-lysine5
+401	O95251	acetyl-CoA
+402	O95251	[histone H4]-L-lysine8
+403	O95251	acetyl-CoA
+404	O95251	[histone H4]-L-lysine8
+405	O95251	acetyl-CoA
+406	O95251	[histone H4]-L-lysine12
+407	O95251	acetyl-CoA
+408	O95251	[histone H4]-L-lysine12
+409	O95251	acetyl-CoA
+410	O95251	[CDC6]-L-lysine14
+411	O95251	acetyl-CoA
+412	O95251	[Geminin]-L-lysine14
+413	O95251	acetyl-CoA
+414	O95251	[MCM2]-L-lysine14
+415	O95251	acetyl-CoA
+416	O95251	[ORC2]-L-lysine14
+417	B2RWS6	acetyl-CoA
+418	B2RWS6	[histone H3]-L-lysine
+419	Q5SVQ0	more
+420	Q5SVQ0	acetyl-CoA
+421	Q5SVQ0	[histone H4]-L-lysine
+422	Q5SVQ0	acetyl-CoA
+423	Q5SVQ0	[histone H3]-L-lysine14
+424	Q5SVQ0	acetyl-CoA
+425	Q5SVQ0	[histone H3]-L-lysine14
+426	Q5SVQ0	acetyl-CoA
+427	Q5SVQ0	[CDC6]-L-lysine14
+428	Q5SVQ0	acetyl-CoA
+429	Q5SVQ0	[Geminin]-L-lysine14
+430	Q5SVQ0	acetyl-CoA
+431	Q5SVQ0	[MCM2]-L-lysine14
+432	Q5SVQ0	acetyl-CoA
+433	Q5SVQ0	[ORC2]-L-lysine14
+434	Q9H9T3	acetyl-CoA
+435	Q9H9T3	[histone H3]-L-lysine
+436	Q06592	more
+437	Q06592	acetyl-CoA
+438	Q06592	[histone H3]-L-lysine14
+439	Q06592	acetyl-CoA
+440	Q06592	[histone H3]-L-lysine14
+441	Q06592	acetyl-CoA
+442	Q06592	[histone H4]-L-lysine5
+443	Q06592	acetyl-CoA
+444	Q06592	[histone H4]-L-lysine5
+445	Q06592	acetyl-CoA
+446	Q06592	[histone H4]-L-lysine12
+447	Q06592	acetyl-CoA
+448	Q06592	[histone H4]-L-lysine12
+449	P39979	more
+450	P39979	acetyl-CoA
+451	P39979	[histone H4]-L-lysine8
+452	P39979	acetyl-CoA
+453	P39979	[histone H4]-L-lysine8
+454	P53114	more
+455	P53114	acetyl-CoA
+456	P53114	[histone H4]-L-lysine
+457	P53114	acetyl-CoA
+458	P53114	[histone H3]-L-lysine
+459	Q92794	acetyl-CoA
+460	Q92794	[histone H3]-L-lysine14
+461	Q92794	acetyl-CoA
+462	Q92794	[histone H3]-L-lysine14
+463	Q960X4	acetyl-CoA
+464	Q960X4	[c-myc]-L-lysine
+465	Q960X4	acetyl-CoA
+466	Q960X4	[p53]-L-lysine
+467	Q960X4	acetyl-CoA
+468	Q960X4	[histone H4]-L-lysine5
+469	Q960X4	acetyl-CoA
+470	Q960X4	[histone H4]-L-lysine5
+471	Q960X4	acetyl-CoA
+472	Q960X4	[histone H4]-L-lysine8
+473	Q960X4	acetyl-CoA
+474	Q960X4	[histone H4]-L-lysine8
+475	Q960X4	acetyl-CoA
+476	Q960X4	[histone H4]-L-lysine16
+477	Q960X4	acetyl-CoA
+478	Q960X4	[histone H4]-L-lysine16
+479	Q960X4	acetyl-CoA
+480	Q960X4	[histone H4]-L-lysine12
+481	Q960X4	acetyl-CoA
+482	Q960X4	[histone H4]-L-lysine12
+483	Q960X4	acetyl-CoA
+484	Q960X4	[ATM]-L-lysine
+485	Q960X4	acetyl-CoA
+486	Q960X4	[DNMT1]-L-lysine
+487	Q960X4	acetyl-CoA
+488	Q960X4	[E2F1]-L-lysine
+489	Q960X4	acetyl-CoA
+490	Q960X4	[TRRAP]-L-lysine
+491	O02193	acetyl-CoA
+492	O02193	[p53]-L-lysine120
+493	O02193	acetyl-CoA
+494	O02193	[TIP5]-L-lysine
+495	O02193	acetyl-CoA
+496	O02193	[histone H4]-L-lysine5
+497	O02193	acetyl-CoA
+498	O02193	[histone H4]-L-lysine5
+499	O02193	acetyl-CoA
+500	O02193	[histone H4]-L-lysine8
+501	O02193	acetyl-CoA
+502	O02193	[histone H4]-L-lysine8
+503	O02193	acetyl-CoA
+504	O02193	[histone H4]-L-lysine16
+505	O02193	acetyl-CoA
+506	O02193	[histone H4]-L-lysine16
+507	P21675	acetyl-CoA
+508	P21675	[histone H4]-L-lysine
+509	P21675	acetyl-CoA
+510	P21675	[histone H3]-L-lysine
+511	P46677	acetyl-CoA
+512	P46677	[histone H4]-L-lysine
+513	P46677	acetyl-CoA
+514	P46677	[histone H3]-L-lysine
+515	P51123	acetyl-CoA
+516	P51123	[histone H4]-L-lysine
+517	P51123	acetyl-CoA
+518	P51123	[histone H3]-L-lysine
+519	Q9D1P2	acetyl-CoA
+520	Q9D1P2	[histone H4]-L-lysine16
+521	Q9D1P2	acetyl-CoA
+522	Q9D1P2	[histone H4]-L-lysine16
+523	Q9D1P2	acetyl-CoA
+524	Q9D1P2	[histone H4]-L-lysin16
+525	Q9UKN8	acetyl-CoA
+526	Q9UKN8	[histone H3]-L-lysine14
+527	Q9UKN8	acetyl-CoA
+528	Q9UKN8	[histone H3]-L-lysine14
+529	Q9UKN8	acetyl-CoA
+530	Q9UKN8	[histone H3]-L-lysine9
+531	Q9UKN8	acetyl-CoA
+532	Q9UKN8	[histone H3]-L-lysine9
+533	Q9UKN8	acetyl-CoA
+534	Q9UKN8	[histone H3]-L-lysine18
+535	Q9UKN8	acetyl-CoA
+536	Q9UKN8	[histone H3]-L-lysine18
+537	Q15788	acetyl-CoA
+538	Q15788	[histone H4]-L-lysine
+539	Q15788	acetyl-CoA
+540	Q15788	[histone H3]-L-lysine
+541	Q9Y6Q9	acetyl-CoA
+542	Q9Y6Q9	[histone H4]-L-lysine
+543	Q9Y6Q9	acetyl-CoA
+544	Q9Y6Q9	[histone H3]-L-lysine
+545	Q9BQG0	acetyl-CoA
+546	Q9BQG0	[histone H4]-L-lysine
+547	Q9BQG0	acetyl-CoA
+548	Q9BQG0	[histone H3]-L-lysine
+549	O15516	acetyl-CoA
+550	O15516	[histone H3]-L-lysine14
+551	O15516	acetyl-CoA
+552	O15516	[histone H3]-L-lysine14
+553	O15516	acetyl-CoA
+554	O15516	[histone H3]-L-lysine9
+555	O15516	acetyl-CoA
+556	O15516	[histone H3]-L-lysine9
+557	Q9NIS0	more
+558	Q9NIS0	acetyl-CoA
+559	Q9NIS0	[histone H3]-L-lysine9
+560	Q9NIS0	acetyl-CoA
+561	Q9NIS0	[histone H3]-L-lysine9
+562	Q9NIS0	acetyl-CoA
+563	Q9NIS0	[protein]-L-lysine
+564	Q9NIS0	acetyl-CoA
+565	Q9NIS0	[protein]-L-lysine
+566	Q9JHD2	acetyl-CoA
+567	Q9JHD2	[protein]-L-lysine
+568	Q9JHD2	acetyl-CoA
+569	Q9JHD2	[protein]-L-lysine
+570	Q9JHD2	acetyl-CoA
+571	Q9JHD2	[EGR2]-L-lysine
+572	I3M5C0	acetyl-CoA
+573	I3M5C0	[histone H3]-L-lysine9
+574	I3M5C0	acetyl-CoA
+575	I3M5C0	[histone H3]-L-lysine9
+576	I3M5C0	acetyl-CoA
+577	I3M5C0	[protein]-L-lysine
+578	I3M5C0	acetyl-CoA
+579	I3M5C0	[protein]-L-lysine
+580	I3M1C6	acetyl-CoA
+581	I3M1C6	[histone H3]-L-lysine9
+582	I3M1C6	acetyl-CoA
+583	I3M1C6	[histone H3]-L-lysine9
+584	I3M1C6	acetyl-CoA
+585	I3M1C6	[protein]-L-lysine
+586	I3M1C6	acetyl-CoA
+587	I3M1C6	[protein]-L-lysine
+588	I3M864	acetyl-CoA
+589	I3M864	[histone H3]-L-lysine9
+590	I3M864	acetyl-CoA
+591	I3M864	[histone H3]-L-lysine9
+592	I3M864	acetyl-CoA
+593	I3M864	[protein]-L-lysine
+594	I3M864	acetyl-CoA
+595	I3M864	[protein]-L-lysine
+596	I3MK28	acetyl-CoA
+597	I3MK28	[histone H3]-L-lysine9
+598	I3MK28	acetyl-CoA
+599	I3MK28	[histone H3]-L-lysine9
+600	I3MK28	acetyl-CoA
+601	I3MK28	[protein]-L-lysine
+602	I3MK28	acetyl-CoA
+603	I3MK28	[protein]-L-lysine
+604	Q9HVP3	acetyl-CoA
+605	Q9HVP3	[protein]-L-lysine
+606	Q9HVP3	acetyl-CoA
+607	Q9HVP3	[protein]-L-lysine
+0	P50292	more
+1	P50292	4-nitrophenyl acetate
+2	P50292	4-aminobenzoic acid
+3	P50293	more
+4	P50293	4-nitrophenyl acetate
+5	P50293	4-aminobenzoic acid
+6	P50293	acetyl-CoA
+7	P50293	2-toluidine
+8	P50293	acetyl-CoA
+9	P50293	4-nitroaniline
+10	P50293	acetyl-CoA
+11	P50293	anisidine
+12	P50293	4-nitrophenyl acetate
+13	P50293	N-(4-aminobenzoyl)-L-glutamate
+14	P50293	4-nitrophenyl acetate
+15	P50293	anisidine
+16	P50293	acetyl-CoA
+17	P50293	an arylamine
+18	P50293	acetyl-CoA
+19	P50293	4-aminobenzoic acid
+20	P50293	4-nitrophenyl acetate
+21	P50293	4-nitroaniline
+22	P50293	acetyl-CoA
+23	P50293	4-aminobenzoyl-L-glutamic acid
+24	P50293	4-nitrophenyl acetate
+25	P50293	4-amino-3-methylbenzoic acid
+26	P50293	4-nitrophenyl acetate
+27	P50293	4-aminobiphenyl
+28	P18440	more
+29	P18440	acetyl-CoA
+30	P18440	4-aminosalicylic acid
+31	P18440	acetyl-CoA
+32	P18440	5-aminosalicylic acid
+33	P18440	acetyl-CoA
+34	P18440	p-aminobenzoic acid
+35	P18440	acetyl-CoA
+36	P18440	2-aminofluorene
+37	P18440	acetyl-CoA
+38	P18440	sulfamethazine
+39	P18440	acetyl-CoA
+40	P18440	procainamide
+41	P18440	acetyl-CoA
+42	P18440	sulfamethazine
+43	P18440	acetyl-CoA
+44	P18440	isoniazid
+45	P18440	4-nitrophenyl acetate
+46	P18440	4-aminobenzoic acid
+47	P18440	acetyl-CoA
+48	P18440	5-aminosalicylic acid
+49	P18440	acetyl-CoA
+50	P18440	2-toluidine
+51	P18440	acetyl-CoA
+52	P18440	an arylamine
+53	P18440	acetyl-CoA
+54	P18440	4-aminobenzoic acid
+55	P18440	acetyl-CoA
+56	P18440	4-aminobenzoate
+57	P18440	4-nitrophenyl acetate
+58	P18440	4-amino-3-methylbenzoic acid
+59	P18440	4-nitrophenyl acetate
+60	P18440	4-aminobiphenyl
+61	P18440	4-nitrophenyl acetate
+62	P18440	3,4-dichloroaniline
+63	P18440	a protein
+64	P18440	1-[4-[(6-azidohexyl)oxy]phenyl]-1-hydroxypropan-2-one
+65	P18440	a protein
+66	P18440	5-azido-N-[[4-(1-hydroxy-2-oxopropyl)phenyl]methyl]pentanamide
+67	P18440	a protein
+68	P18440	N-(5-azidopentyl)-4-(1-hydroxy-2-oxopropyl)benzamide
+69	P18440	acetyl-CoA
+70	P18440	4-aminobenzoate
+71	P18440	4-nitrophenyl acetate
+72	P18440	5-aminosalicylic acid
+73	P18440	acetyl-CoA
+74	P18440	4-dimethylaminobenzaldehyde
+75	P11245	acetyl-CoA
+76	P11245	2-aminofluorene
+77	P11245	more
+78	P11245	acetyl-CoA
+79	P11245	4-aminosalicylic acid
+80	P11245	acetyl-CoA
+81	P11245	5-aminosalicylic acid
+82	P11245	acetyl-CoA
+83	P11245	p-aminobenzoic acid
+84	P11245	acetyl-CoA
+85	P11245	2-aminofluorene
+86	P11245	acetyl-CoA
+87	P11245	sulfamethazine
+88	P11245	acetyl-CoA
+89	P11245	N-(4-aminobenzoyl)-L-glutamate
+90	P11245	acetyl-CoA
+91	P11245	procainamide
+92	P11245	acetyl-CoA
+93	P11245	sulfamethazine
+94	P11245	acetyl-CoA
+95	P11245	isoniazid
+96	P11245	4-nitrophenyl acetate
+97	P11245	4-aminobenzoic acid
+98	P11245	acetyl-CoA
+99	P11245	5-aminosalicylic acid
+100	P11245	acetyl-CoA
+101	P11245	5-aminosalicylate
+102	P11245	acetyl-CoA
+103	P11245	2-toluidine
+104	P11245	acetyl-CoA
+105	P11245	4-chloroaniline
+106	P11245	acetyl-CoA
+107	P11245	4-iodoaniline
+108	P11245	acetyl-CoA
+109	P11245	4-hexyloxyaniline
+110	P11245	acetyl-CoA
+111	P11245	4-phenoxyaniline
+112	P11245	acetyl-CoA
+113	P11245	4-aminoveratrole
+114	P11245	acetyl-CoA
+115	P11245	4-bromoaniline
+116	P11245	acetyl-CoA
+117	P11245	an arylamine
+118	P11245	acetyl-CoA
+119	P11245	isoniazid
+120	P11245	acetyl-CoA
+121	P11245	4-aminobenzoate
+122	P11245	acetyl-CoA
+123	P11245	4-methoxyaniline
+124	P11245	4-nitrophenyl acetate
+125	P11245	4-amino-3-methylbenzoic acid
+126	P11245	4-nitrophenyl acetate
+127	P11245	4-aminobiphenyl
+128	P11245	4-nitrophenyl acetate
+129	P11245	5-aminosalicylic acid
+130	P11245	acetyl-CoA
+131	P11245	4-dimethylaminobenzaldehyde
+132	P11245	acetyl-CoA
+133	P11245	isoniazid
+134	P11245	acetyl-CoA
+135	P11245	hydralazine
+136	P11245	acetyl-CoA
+137	P11245	N-(4-aminobenzoyl)-L-glutamate
+138	P11245	acetyl-CoA
+139	P11245	4,4'-methylenebis(2-chloroaniline)
+140	P11245	acetyl-CoA
+141	P11245	sulfamethazine
+142	A2V7M5	more
+143	A2V7M5	acetyl-CoA
+144	A2V7M5	5-aminosalicylic acid
+145	A2V7M5	acetyl-CoA
+146	A2V7M5	2-amino-4-chlorophenol
+147	A2V7M5	acetyl-CoA
+148	A2V7M5	2-amino-4-methylphenol
+149	A2V7M5	acetyl-CoA
+150	A2V7M5	2-aminophenol
+151	A2V7M5	acetyl-CoA
+152	A2V7M5	3-amino-4-hydroxybenzaldehyde
+153	A2V7M5	acetyl-CoA
+154	A2V7M5	3-amino-4-hydroxybenzenesulfonic acid
+155	A2V7M5	acetyl-CoA
+156	A2V7M5	3-amino-4-hydroxybenzoic acid
+157	A2V7M5	acetyl-CoA
+158	A2V7M5	4-amino-3-hydroxybenzoic acid
+159	P50294	more
+160	P50294	acetyl-CoA
+161	P50294	an arylamine
+162	P50294	acetyl-CoA
+163	P50294	4-aminobenzoic acid
+164	P50294	acetyl-CoA
+165	P50294	isoniazid
+166	Q80SX3	acetyl-CoA
+167	Q80SX3	2-aminofluorene
+168	Q80SX3	more
+169	Q80SX3	acetyl-CoA
+170	Q80SX3	5-aminosalicylic acid
+171	Q80SX3	acetyl-CoA
+172	Q80SX3	an arylamine
+173	Q80SX3	acetyl-CoA
+174	Q80SX3	3,5-dimethylaniline
+175	Q80SX3	acetyl-CoA
+176	Q80SX3	3-ethylaniline
+177	Q80SX3	acetyl-CoA
+178	Q80SX3	4,4'-methylenebis(2-chloroaniline)
+179	Q80SX3	acetyl-CoA
+180	Q80SX3	4,4'-methylenedianiline
+181	Q80SX3	acetyl-CoA
+182	Q80SX3	4-aminobiphenyl
+183	Q80SX3	acetyl-CoA
+184	Q80SX3	N-hydroxy-4-aminobiphenyl
+185	P50295	more
+186	P50295	acetyl-CoA
+187	P50295	an arylamine
+188	P50295	acetyl-CoA
+189	P50295	4-aminobenzoic acid
+190	P50295	acetyl-CoA
+191	P50295	isoniazid
+192	P50295	acetyl-CoA
+193	P50295	N-hydroxy-4-aminobiphenyl
+194	P50295	acetyl-CoA
+195	P50295	4-aminobiphenyl
+196	P50295	acetyl-CoA
+197	P50295	N-hydroxy-4-aminobiphenyl
+198	Q5YYQ3	acetyl-CoA
+199	Q5YYQ3	2-aminofluorene
+200	Q5YYQ3	acetyl-CoA
+201	Q5YYQ3	sulfamethazine
+202	Q5YYQ3	acetyl-CoA
+203	Q5YYQ3	5-aminosalicylate
+204	Q5YYQ3	acetyl-CoA
+205	Q5YYQ3	hydralazine
+206	Q5YYQ3	acetyl-CoA
+207	Q5YYQ3	4-aminoveratrole
+208	Q5YYQ3	acetyl-CoA
+209	Q5YYQ3	isoniazid
+210	Q5YYQ3	acetyl-CoA
+211	Q5YYQ3	4-aminobenzoic acid
+212	Q5YYQ3	acetyl-CoA
+213	Q5YYQ3	4-aminosalicylate
+214	Q5YYQ3	acetyl-CoA
+215	Q5YYQ3	4-aminobiphenyl
+216	Q5YYQ3	acetyl-CoA
+217	Q5YYQ3	benzidine
+218	Q5YYQ3	acetyl-CoA
+219	Q5YYQ3	beta-naphthylamine
+220	Q5YYQ3	acetyl-CoA
+221	Q5YYQ3	sulfamethoxazole
+222	Q81PT0	acetyl-CoA
+223	Q81PT0	hydralazine
+224	Q81PT0	acetyl-CoA
+225	Q81PT0	2-aminofluorene
+226	Q81PT0	acetyl-CoA
+227	Q81PT0	5-aminosalicylate
+228	Q81PT0	acetyl-CoA
+229	Q81PT0	hydralazine
+230	Q81R98	acetyl-CoA
+231	Q81R98	hydralazine
+232	Q81R98	acetyl-CoA
+233	Q81R98	2-aminofluorene
+234	Q81R98	acetyl-CoA
+235	Q81R98	5-aminosalicylate
+236	Q81R98	acetyl-CoA
+237	Q81R98	hydralazine
+238	Q81R98	acetyl-CoA
+239	Q81R98	an arylamine
+240	Q81R98	acetyl-CoA
+241	Q81R98	sulfamethoxazole
+242	Q81R98	acetyl-CoA
+243	Q81R98	4-aminosalicylate
+244	Q81R98	acetyl-CoA
+245	Q81R98	sulfamethoxazole
+246	Q7YRG5	acetyl-CoA
+247	Q7YRG5	5-aminosalicylate
+248	Q7YRG5	acetyl-CoA
+249	Q7YRG5	4-aminobenzoic acid
+250	Q7YRG5	acetyl-CoA
+251	Q7YRG5	procainamide
+252	Q7YRG5	acetyl-CoA
+253	Q7YRG5	p-anisidine
+254	Q7YRG5	acetyl-CoA
+255	Q7YRG5	sulphamethazine
+256	O86309	acetyl-CoA
+257	O86309	4-bromoaniline
+258	O86309	acetyl-CoA
+259	O86309	4-chloroaniline
+260	O86309	acetyl-CoA
+261	O86309	4-ethoxyaniline
+262	O86309	acetyl-CoA
+263	O86309	4-hexyloxyaniline
+264	O86309	acetyl-CoA
+265	O86309	4-iodoaniline
+266	O86309	acetyl-CoA
+267	O86309	hydralazine
+268	O86309	acetyl-CoA
+269	O86309	4-aminoveratrole
+270	O86309	acetyl-CoA
+271	O86309	4-butoxyaniline
+272	O86309	acetyl-CoA
+273	O86309	4-phenoxyaniline
+274	O86309	acetyl-CoA
+275	O86309	4-aminobenzoate
+276	O86309	acetyl-CoA
+277	O86309	2-aminofluorene
+278	O86309	acetyl-CoA
+279	O86309	procainamide
+280	O86309	acetyl-CoA
+281	O86309	5-aminosalicylate
+282	O86309	acetyl-CoA
+283	O86309	sulfamethazine
+284	O86309	acetyl-CoA
+285	O86309	4-aminophenol
+286	O86309	acetyl-CoA
+287	O86309	4-aminopyridine
+288	O86309	acetyl-CoA
+289	O86309	4-trifluoromethylaniline
+290	O86309	acetyl-CoA
+291	O86309	isoniazid
+292	O86309	acetyl-CoA
+293	O86309	an arylamine
+294	O86309	acetyl-CoA
+295	O86309	4-anisidine
+296	O86309	acetyl-CoA
+297	O86309	4-chlorobenzoic hydrazide
+298	O86309	acetyl-CoA
+299	O86309	4-methoxyphenylhydrazine
+300	O86309	acetyl-CoA
+301	O86309	isoniazid
+302	Q81AS3	acetyl-CoA
+303	Q81AS3	an arylamine
+304	Q98D42	acetyl-CoA
+305	Q98D42	an arylamine
+306	Q98D42	acetyl-CoA
+307	Q98D42	4-aminosalicylate
+308	B2HIZ6	acetyl-CoA
+309	B2HIZ6	an arylamine
+310	Q00267	acetyl-CoA
+311	Q00267	an arylamine
+312	P9WJI5	acetyl-CoA
+313	P9WJI5	hydralazine
+314	D5UNC2	acetyl-CoA
+315	D5UNC2	5-aminosalicylate
+316	D5UNC2	acetyl-CoA
+317	D5UNC2	3,4?dichloroaniline
+318	D5UNC2	malonyl-CoA
+319	D5UNC2	2-aminophenol
+320	D5UNC2	malonyl-CoA
+321	D5UNC2	3,4?dichloroaniline
+322	D5UNC2	malonyl-CoA
+323	D5UNC2	4-aminobenzoate
+324	D5UNC2	malonyl-CoA
+325	D5UNC2	5-aminosalicylate
+326	D5UNC2	propionyl-CoA
+327	D5UNC2	5-aminosalicylate
+328	D5UNC2	succinyl-CoA
+329	D5UNC2	5-aminosalicylate
+330	A0A4Y1K7V2	acetyl-CoA
+331	A0A4Y1K7V2	2-aminofluorene
+332	A0A4Y1K7V2	acetyl-CoA
+333	A0A4Y1K7V2	sulfamethazine
+334	A0A4Y1K7V2	acetyl-CoA
+335	A0A4Y1K7V2	4-aminobenzoic acid
+336	A0A4Y1K7V2	acetyl-CoA
+337	A0A4Y1K7V2	isoniazid
+338	A0A4Y1K7T4	acetyl-CoA
+339	A0A4Y1K7T4	2-aminofluorene
+340	A0A4Y1K7T4	acetyl-CoA
+341	A0A4Y1K7T4	sulfamethazine
+342	A0A4Y1K7T4	acetyl-CoA
+343	A0A4Y1K7T4	4-aminobenzoic acid
+344	A0A4Y1K7T4	acetyl-CoA
+345	A0A4Y1K7T4	isoniazid
+346	A0A0J1HNH1	4-nitrophenyl acetate
+347	A0A0J1HNH1	2-aminofluorene
+348	A0A0J1HNH1	4-nitrophenyl acetate
+349	A0A0J1HNH1	hydralazine
+350	A0A0J1HNH1	4-nitrophenyl acetate
+351	A0A0J1HNH1	4-aminosalicylate
+352	A0A0J1HNH1	4-nitrophenyl acetate
+353	A0A0J1HNH1	isoniazid
+0	O15269	palmitoyl-CoA
+1	O15269	L-serine
+2	O15269	palmitoyl-CoA
+3	O15269	L-serine
+4	O15270	palmitoyl-CoA
+5	O15270	L-serine
+6	O15270	palmitoyl-CoA
+7	O15270	L-serine
+8	O15270	palmitoyl-CoA
+9	O15270	L-alanine
+10	O15270	more
+11	Q93UV0	palmitoyl-CoA
+12	Q93UV0	L-serine
+13	Q93UV0	palmitoyl-CoA
+14	Q93UV0	L-serine
+15	Q93UV0	caproyl-CoA
+16	Q93UV0	L-serine
+17	Q93UV0	S-(2-oxoheptadecyl)-CoA
+18	Q93UV0	L-serine
+19	Q93UV0	more
+20	Q93UV0	L-serine
+21	Q93UV0	palmitoyl-CoA
+22	Q93UV0	lauroyl-CoA
+23	Q93UV0	L-serine
+24	Q93UV0	myristoyl-CoA
+25	Q93UV0	L-serine
+26	Q9LSZ9	palmitoyl-CoA
+27	Q9LSZ9	L-serine
+28	Q9LSZ9	palmitoyl-CoA
+29	Q9LSZ9	L-serine
+30	A7BFV6	palmitoyl-CoA
+31	A7BFV6	L-serine
+32	A7BFV6	palmitoyl-CoA
+33	A7BFV6	L-serine
+34	A7BFV7	palmitoyl-CoA
+35	A7BFV7	L-serine
+36	A7BFV7	palmitoyl-CoA
+37	A7BFV7	L-serine
+38	A7BFV8	palmitoyl-CoA
+39	A7BFV8	L-serine
+40	A7BFV8	palmitoyl-CoA
+41	A7BFV8	L-serine
+42	B5LED9	more
+43	O15270	L-serine
+44	O15270	palmitoyl-CoA
+45	P97363	palmitoyl-CoA
+46	P97363	L-serine
+47	P97363	palmitoyl-CoA
+48	P97363	L-serine
+49	O15269	palmitoyl-CoA
+50	O15269	L-serine
+51	O15269	palmitoyl-CoA
+52	O15269	L-serine
+53	O15269	palmitoyl-CoA
+54	O15269	L-alanine
+55	O15269	S-(2-oxoheptadecyl)-CoA
+56	O15269	L-serine
+57	Q969W0	more
+58	E2RKV3	palmitoyl-CoA
+59	E2RKV3	L-serine
+60	E2RKV3	palmitoyl-CoA
+61	E2RKV3	L-serine
+62	D4A2H2	palmitoyl-CoA
+63	D4A2H2	L-serine
+64	D4A2H2	palmitoyl-CoA
+65	D4A2H2	L-serine
+66	D4A2H2	stearoyl-CoA
+67	D4A2H2	L-serine
+68	D4A2H2	myristoyl-CoA
+69	D4A2H2	L-serine
+70	O15269	palmitoyl-CoA
+71	O15269	L-serine
+72	O15269	palmitoyl-CoA
+73	O15269	L-serine
+74	O15269	palmitoyl-CoA
+75	O15269	L-serine
+76	O15269	palmitoyl-CoA
+77	O15269	L-serine
+78	O15269	palmitoyl-CoA
+79	O15269	[1,2,3-13C,2-15N] L-serine
+80	O15269	palmitoyl-CoA
+81	O15269	[2,3,3-D] L-serine
+82	O15269	palmitoyl-CoA
+83	O15269	[2-13C] L-serine
+84	O15269	palmitoyl-CoA
+85	O15269	[3,3-D] L-serine
+0	Q42870	more
+1	Q42870	oleoyl-CoA
+2	Q42870	1-acyl-sn-glycerol 3-phosphate
+3	Q42870	erucoyl-CoA
+4	Q42870	1-erucoyl-sn-glycerol-3-phosphate
+5	Q42870	oleoyl-CoA
+6	Q42870	1-erucoyl-sn-glycerol 3-phosphate
+7	Q40119	more
+8	Q59618	acyl-CoA
+9	Q59618	1-oleoyl-sn-glycerol 3-phosphate
+10	Q59618	palmitoleoyl-CoA
+11	Q59618	1-acyl-sn-glycerol 3-phosphate
+12	Q59601	acyl-CoA
+13	Q59601	1-oleoyl-sn-glycerol 3-phosphate
+14	Q59601	palmitoleoyl-CoA
+15	Q59601	1-acyl-sn-glycerol 3-phosphate
+16	Q99943	more
+17	Q99943	linoleoyl-CoA
+18	Q99943	1-oleoyl-sn-glycerol 3-phosphate
+19	Q99943	linoleoyl-CoA
+20	Q99943	1-oleoyl-sn-glycerol 3-phosphate
+21	Q99943	acyl-CoA
+22	Q99943	1-acyl-sn-glycerol 3-phosphate
+23	Q99943	acyl-CoA
+24	Q99943	1-acyl-sn-glycerol 3-phosphate
+25	Q99943	palmitoyl-CoA
+26	Q99943	1-acyl-sn-glycerol 3-phosphate
+27	Q99943	myristoyl-CoA
+28	Q99943	1-acyl-sn-glycerol 3-phosphate
+29	Q99943	oleoyl-CoA
+30	Q99943	1-acyl-sn-glycerol 3-phosphate
+31	Q99943	linoleoyl-CoA
+32	Q99943	1-acyl-sn-glycerol 3-phosphate
+33	Q99943	stearoyl-CoA
+34	Q99943	1-acyl-sn-glycerol 3-phosphate
+35	Q99943	arachidonoyl-CoA
+36	Q99943	1-acyl-sn-glycerol 3-phosphate
+37	Q99943	alpha-linolenoyl-CoA
+38	Q99943	1-acyl-lysophosphatidic acid
+39	Q99943	arachidoyl-CoA
+40	Q99943	1-acyl-sn-glycerol 3-phosphate
+41	Q99943	palmitoleoyl-CoA
+42	Q99943	1-acyl-lysophosphatidic acid
+43	Q99943	pentadecanoyl-CoA
+44	Q99943	1-oleoyl-sn-glycerol 3-phosphate
+45	Q99943	acyl-CoA
+46	Q99943	1-acyl-lysophosphatidic acid
+47	Q99943	oleoyl-CoA
+48	Q99943	1-acyl-lysophosphatidic acid
+49	Q99943	palmitoyl-CoA
+50	Q99943	1-acyl-lysophosphatidic acid
+51	Q99943	myristoyl-CoA
+52	Q99943	1-acyl-lysophosphatidic acid
+53	Q99943	stearoyl-CoA
+54	Q99943	1-acyl-lysophosphatidic acid
+55	Q99943	linoleoyl-CoA
+56	Q99943	1-acyl-lysophosphatidic acid
+57	Q99943	lignoceroyl-CoA
+58	Q99943	1-acyl-sn-glycerol 3-phosphate
+59	Q99943	lauroyl-CoA
+60	Q99943	1-acyl-sn-glycerol 3-phosphate
+61	Q99943	acyl-CoA
+62	Q99943	1-oleoyl-sn-glycerol 3-phosphate
+63	Q99943	linolenoyl-CoA
+64	Q99943	1-acyl-sn-glycerol 3-phosphate
+65	Q99943	oleoyl-CoA
+66	Q99943	1-oleoyl-sn-glycerol 3-phosphate
+67	Q99943	palmitoleoyl-CoA
+68	Q99943	1-acyl-sn-glycerol 3-phosphate
+69	Q9XFW4	acyl-CoA
+70	Q9XFW4	1-acyl-sn-glycerol 3-phosphate
+71	Q9XFW4	acyl-CoA
+72	Q9XFW4	1-acyl-sn-glycerol 3-phosphate
+73	Q9XFW4	oleoyl-CoA
+74	Q9XFW4	1-acyl-sn-glycerol 3-phosphate
+75	Q3TFD2	more
+76	Q3TFD2	acyl-CoA
+77	Q3TFD2	1-acyl-sn-glycerol 3-phosphate
+78	Q3TFD2	acyl-CoA
+79	Q3TFD2	1-acyl-sn-glycerol 3-phosphate
+80	Q643R3	acyl-CoA
+81	Q643R3	1-acyl-sn-glycerol 3-phosphate
+82	Q643R3	acyl-CoA
+83	Q643R3	1-acyl-sn-glycerol 3-phosphate
+84	O15120	more
+85	O15120	linoleoyl-CoA
+86	O15120	1-oleoyl-sn-glycerol 3-phosphate
+87	O15120	linoleoyl-CoA
+88	O15120	1-oleoyl-sn-glycerol 3-phosphate
+89	O15120	acyl-CoA
+90	O15120	1-acyl-sn-glycerol 3-phosphate
+91	O15120	acyl-CoA
+92	O15120	1-acyl-sn-glycerol 3-phosphate
+93	O15120	pentadecanoyl-CoA
+94	O15120	1-oleoyl-sn-glycerol 3-phosphate
+95	O15120	acyl-CoA
+96	O15120	1-acyl-lysophosphatidic acid
+97	O15120	oleoyl-CoA
+98	O15120	1-acyl-lysophosphatidic acid
+99	O15120	palmitoyl-CoA
+100	O15120	1-acyl-lysophosphatidic acid
+101	O15120	myristoyl-CoA
+102	O15120	1-acyl-lysophosphatidic acid
+103	O15120	stearoyl-CoA
+104	O15120	1-acyl-lysophosphatidic acid
+105	O15120	C18:2-CoA
+106	O15120	1-acyl-lysophosphatidic acid
+107	O15120	oleoyl-CoA
+108	O15120	1-oleoyl-sn-glycerol 3-phosphate
+109	Q8LG50	more
+110	Q8LG50	acyl-CoA
+111	Q8LG50	1-oleoyl-lysophosphatidic acid
+112	Q7L5N7	more
+113	Q7L5N7	linoleoyl-CoA
+114	Q7L5N7	1-oleoyl-sn-glycerol 3-phosphate
+115	Q7L5N7	linoleoyl-CoA
+116	Q7L5N7	1-oleoyl-sn-glycerol 3-phosphate
+117	Q7L5N7	heptadecanoyl-CoA
+118	Q7L5N7	1-oleoyl-sn-glycerol 3-phosphate
+119	Q7L5N7	oleoyl-CoA
+120	Q7L5N7	1-oleoyl-sn-glycerol 3-phosphate
+121	Q7L5N7	palmitoyl-CoA
+122	Q7L5N7	1-oleoyl-sn-glycerol 3-phosphate
+123	P33333	more
+124	P33333	acyl-CoA
+125	P33333	1-oleoyl-lysophosphatidic acid
+126	P33333	acyl-CoA
+127	P33333	1-acyl-sn-glycerol 3-phosphate
+128	P33333	acyl-CoA
+129	P33333	1-acyl-sn-glycerol 3-phosphate
+130	P33333	oleoyl-CoA
+131	P33333	1-oleoyl-lysophosphatidic acid
+132	P33333	oleoyl-CoA
+133	P33333	1-oleoyl-sn-lysophosphatidylcholine
+134	P33333	oleoyl-CoA
+135	P33333	1-oleoyl-sn-lysophosphatidylethanolamine
+136	Q08548	acyl-CoA
+137	Q08548	1-acyl-sn-glycerol 3-phosphate
+138	Q08548	acyl-CoA
+139	Q08548	1-acyl-sn-glycerol 3-phosphate
+140	Q8NF37	acyl-CoA
+141	Q8NF37	1-acyl-sn-glycerol 3-phosphate
+142	Q8NF37	acyl-CoA
+143	Q8NF37	1-acyl-sn-glycerol 3-phosphate
+144	O22975	acyl-CoA
+145	O22975	1-acyl-sn-glycerol 3-phosphate
+146	O22975	acyl-CoA
+147	O22975	1-acyl-sn-glycerol 3-phosphate
+148	C4B4E7	more
+149	C4B4E7	acyl-CoA
+150	C4B4E7	1-acyl-sn-glycerol 3-phosphate
+151	C4B4E7	acyl-CoA
+152	C4B4E7	1-acyl-sn-glycerol 3-phosphate
+153	C4B4E7	arachidonoyl-CoA
+154	C4B4E7	1-acyl-sn-glycerol 3-phosphate
+155	C4B4E7	oleoyl-CoA
+156	C4B4E7	1-oleoyl-sn-glycerol 3-phosphate
+157	C4B4E7	arachidonoyl-CoA
+158	C4B4E7	1-octadecenyl-2-lysophosphatidylinositol
+159	C4B4E7	arachidonoyl-CoA
+160	C4B4E7	1-oleoyl-2-lysophosphatidylcholine
+161	C4B4E7	arachidonoyl-CoA
+162	C4B4E7	1-palmitoyl-2-lysophosphatidylinositol
+163	C4B4E7	arachidonoyl-CoA
+164	C4B4E7	1-stearoyl-2-lysophosphatidic acid
+165	C4B4E7	docosahexaenoyl-CoA
+166	C4B4E7	1-oleoyl-sn-glycerol 3-phosphate
+167	C4B4E7	arachidonoyl-CoA
+168	C4B4E7	1-oleoyl-sn-glycerol 3-phosphate
+169	Q9NRZ7	more
+170	Q9NRZ7	linoleoyl-CoA
+171	Q9NRZ7	1-oleoyl-sn-glycerol 3-phosphate
+172	Q9NRZ7	linoleoyl-CoA
+173	Q9NRZ7	1-oleoyl-sn-glycerol 3-phosphate
+174	Q9NRZ7	acyl-CoA
+175	Q9NRZ7	1-acyl-lysophosphatidic acid
+176	Q9NRZ7	oleoyl-CoA
+177	Q9NRZ7	1-acyl-lysophosphatidic acid
+178	Q9NRZ7	oleoyl-CoA
+179	Q9NRZ7	1-oleoyl-sn-glycerol 3-phosphate
+180	Q9NRZ7	arachidonoyl-CoA
+181	Q9NRZ7	1-oleoyl-sn-glycerol 3-phosphate
+182	Q9NRZ7	linoleoyl-CoA
+183	Q9NRZ7	1-acyl-lysophosphatidic acid
+184	Q9NRZ7	oleoyl-CoA
+185	Q9NRZ7	1-acyl-lysophosphatidic acid
+186	Q9NRZ7	(5Z,8Z,11Z,14Z)-eicosatetraenoyl-CoA
+187	Q9NRZ7	1-acyl-lysophosphatidic acid
+188	Q9NUQ2	more
+189	Q9NUQ2	acyl-CoA
+190	Q9NUQ2	1-acyl-lysophosphatidic acid
+191	Q9NUQ2	oleoyl-CoA
+192	Q9NUQ2	1-acyl-lysophosphatidic acid
+193	Q9NUQ2	palmitoyl-CoA
+194	Q9NUQ2	1-acyl-lysophosphatidic acid
+195	Q9NUQ2	heptadecanoyl-CoA
+196	Q9NUQ2	1-oleoyl-sn-glycerol 3-phosphate
+197	Q9NUQ2	oleoyl-CoA
+198	Q9NUQ2	1-oleoyl-sn-glycerol 3-phosphate
+199	Q9NUQ2	palmitoyl-CoA
+200	Q9NUQ2	1-oleoyl-sn-glycerol 3-phosphate
+201	Q9NUQ2	stearoyl-CoA
+202	Q9NUQ2	1-oleoyl-sn-glycerol 3-phosphate
+203	Q9NUQ2	(5Z,8Z,11Z,14Z)-eicosatetraenoyl-CoA
+204	Q9NUQ2	1-acyl-lysophosphatidic acid
+205	Q06508	more
+206	Q06508	oleoyl-CoA
+207	Q06508	1-palmitoyl-sn-glycerol 3-phosphate
+208	Q9DBL9	oleoyl-CoA
+209	Q9DBL9	1-oleoyl-sn-glycerol 3-phosphate
+210	Q9DBL9	arachidonoyl-CoA
+211	Q9DBL9	1-oleoyl-sn-glycerol 3-phosphate
+212	Q9DBL9	arachidonoyl-CoA
+213	Q9DBL9	1-arachidonoyl-sn-glycerol 3-phosphate
+214	Q9DBL9	arachidonoyl-CoA
+215	Q9DBL9	1-palmitoyl-sn-glycerol 3-phosphate
+216	Q9DBL9	arachidonoyl-CoA
+217	Q9DBL9	1-stearoyl-sn-glycerol 3-phosphate
+218	O35083	more
+219	O35083	acyl-CoA
+220	O35083	1-acyl-lysophosphatidic acid
+221	Q8K4X7	acyl-CoA
+222	Q8K4X7	1-acyl-sn-glycerol 3-phosphate
+223	Q8K4X7	acyl-CoA
+224	Q8K4X7	1-acyl-sn-glycerol 3-phosphate
+225	Q8K4X7	oleoyl-CoA
+226	Q8K4X7	1-oleoyl-sn-glycerol 3-phosphate
+227	Q8K4X7	(4Z,7Z,10Z,13Z,16Z,19Z)-docosa-4,7,10,13,16,19-hexaenoyl-CoA
+228	Q8K4X7	1-oleoyl-sn-glycerol 3-phosphate
+229	Q8K4X7	(4Z,7Z,10Z,13Z,16Z,19Z)-docosa-4,7,10,13,16,19-hexaenoyl-CoA
+230	Q8K4X7	1-palmitoyl-sn-glycerol 3-phosphate
+231	Q8K4X7	(4Z,7Z,10Z,13Z,16Z,19Z)-docosa-4,7,10,13,16,19-hexaenoyl-CoA
+232	Q8K4X7	1-stearoyl-sn-glycerol 3-phosphate
+233	Q8K4X7	oleoyl-CoA
+234	Q8K4X7	1-arachidonoyl-sn-glycerol 3-phosphate
+235	V9TK35	more
+236	V9TK35	acyl-CoA
+237	V9TK35	1-acyl-sn-glycerol 3-phosphate
+238	V9TK35	acyl-CoA
+239	V9TK35	1-acyl-sn-glycerol 3-phosphate
+240	Q42670	lauroyl-CoA
+241	Q42670	1-lauroyl-sn-glycerol 3-phosphate
+242	Q42670	myristoyl-CoA
+243	Q42670	1-myristoyl-sn-glycerol 3-phosphate
+244	A0A0K9RBY9	oleoyl-CoA
+245	A0A0K9RBY9	1-oleoyl-sn-glycerol 3-phosphate
+246	A0A0K9RBY9	oleoyl-CoA
+247	A0A0K9RBY9	1-palmitoyl-sn-glycerol 3-phosphate
+248	B7K3J7	more
+249	B7K3J7	acyl-[acyl-carrier protein]
+250	B7K3J7	1-acyl-sn-glycerol 3-phosphate
+251	B7K3J7	myristoyl-[acyl-carrier protein]
+252	B7K3J7	1-acyl-sn-glycerol 3-phosphate
+253	Q9X219	more
+254	Q9X219	acyl-CoA
+255	Q9X219	1-acyl-sn-glycerol 3-phosphate
+256	Q9X219	acyl-CoA
+257	Q9X219	1-acyl-sn-glycerol 3-phosphate
+258	Q9X219	palmitoyl-CoA
+259	Q9X219	1-acyl-sn-glycerol 3-phosphate
+260	Q9X219	palmitoyl-[acyl carrier protein]
+261	Q9X219	1-acyl-sn-glycerol 3-phosphate
+262	A0A3G9E319	more
+263	A0A3G9E319	acyl-CoA
+264	A0A3G9E319	1-acyl-lysophosphatidic acid
+265	A0A3G9E319	oleoyl-CoA
+266	A0A3G9E319	1-acyl-lysophosphatidic acid
+267	A0A3G9E319	myristoyl-CoA
+268	A0A3G9E319	1-acyl-lysophosphatidic acid
+269	A0A3G9E319	stearoyl-CoA
+270	A0A3G9E319	1-acyl-lysophosphatidic acid
+271	A0A3G9E319	linoleoyl-CoA
+272	A0A3G9E319	1-acyl-lysophosphatidic acid
+273	A0A3G9E319	acyl-CoA
+274	A0A3G9E319	1-oleoyl-lysophosphatidic acid
+275	A0A3G9E319	acyl-CoA
+276	A0A3G9E319	1-oleoyl-lysophosphatidylethanolamine
+277	A0A3G9E319	acyl-CoA
+278	A0A3G9E319	1-oleoyl-lysophosphatidylglycerol
+279	A0A3G9E319	acyl-CoA
+280	A0A3G9E319	1-oleoyl-sn-glycerol 3-phosphate
+281	A0A3G9E319	acyl-CoA
+282	A0A3G9E319	1-palmitoleoyl-lysophosphatidic acid
+283	A0A3G9E319	acyl-CoA
+284	A0A3G9E319	1-palmitoyl-lysophosphatidic acid
+285	A0A3G9E319	arachidonoyl-CoA
+286	A0A3G9E319	1-acyl-lysophosphatidic acid
+287	A0A3G9E319	arachidoyl-CoA
+288	A0A3G9E319	1-acyl-lysophosphatidic acid
+289	A0A3G9E319	eicosapentaenoyl-CoA
+290	A0A3G9E319	1-acyl-lysophosphatidic acid
+291	A0A3G9E319	lauroyl-CoA
+292	A0A3G9E319	1-acyl-lysophosphatidic acid
+293	A0A3G9E319	palmitoleoyl-CoA
+294	A0A3G9E319	1-oleoyl-lysophosphatidic acid
+295	A8J0J0	more
+296	A8J0J0	palmitoyl-CoA
+297	A8J0J0	1-acyl-sn-glycerol 3-phosphate
+298	A8J0J0	palmitoyl-CoA
+299	A8J0J0	1-(9Z)-octa-9-decenyl-lysophosphatidic acid
+300	Q9NRZ5	more
+301	Q9NRZ5	acyl-CoA
+302	Q9NRZ5	1-acyl-lysophosphatidic acid
+303	Q9NRZ5	oleoyl-CoA
+304	Q9NRZ5	1-acyl-lysophosphatidic acid
+305	Q8K3K7	acyl-CoA
+306	Q8K3K7	1-acyl-lysophosphatidic acid
+307	Q9LLY4	more
+308	Q9LLY4	acyl-CoA
+309	Q9LLY4	1-oleoyl-lysophosphatidic acid
+310	O84780	more
+311	O84780	acyl-CoA
+312	O84780	1-acyl-sn-glycerol 3-phosphate
+313	O84780	acyl-CoA
+314	O84780	1-acyl-sn-glycerol 3-phosphate
+315	R1BZP3	more
+316	R1BZP3	acyl-CoA
+317	R1BZP3	1-oleoyl-lysophosphatidic acid
+318	C1MQM1	more
+319	C1MQM1	acyl-CoA
+320	C1MQM1	1-oleoyl-lysophosphatidic acid
+321	Q42868	more
+322	Q42868	acyl-CoA
+323	Q42868	1-oleoyl-lysophosphatidic acid
+324	A0A1D8NJ27	more
+325	A0A1D8NJ27	acyl-CoA
+326	A0A1D8NJ27	1-oleoyl-lysophosphatidic acid
+327	A0A3G9EMC4	acyl-CoA
+328	A0A3G9EMC4	1-acyl-sn-glycerol 3-phosphate
+329	A0A3G9EMC4	acyl-CoA
+330	A0A3G9EMC4	1-acyl-sn-glycerol 3-phosphate
+0	Q46266	pyruvate
+1	Q46266	CoA
+2	Q46266	pyruvate
+3	Q46266	CoA
+4	Q46266	pyruvate
+5	Q46266	CoA
+6	P09373	pyruvate
+7	P09373	CoA
+8	P09373	pyruvate
+9	P09373	CoA
+10	P09373	pyruvate
+11	P09373	CoA
+12	P09373	CoA
+13	P09373	pyruvate
+14	P09373	CoA
+15	P09373	pyruvate
+16	P09373	acetyl-CoA
+17	P09373	formate
+18	P09373	acetyl-CoA
+19	P09373	formate
+20	P09373	more
+21	P09373	acetyl-CoA
+22	P09373	formate
+23	O66391	pyruvate
+24	O66391	CoA
+25	O66391	pyruvate
+26	O66391	CoA
+27	O66391	pyruvate
+28	O66391	CoA
+29	Q1RS83	CoA
+30	Q1RS83	pyruvate
+31	Q1RS83	CoA
+32	Q1RS83	pyruvate
+33	Q5M2Y4	CoA
+34	Q5M2Y4	pyruvate
+35	Q5M2Y4	CoA
+36	Q5M2Y4	pyruvate
+37	Q5M2Y4	more
+38	P37836	CoA
+39	P37836	pyruvate
+40	P37836	CoA
+41	P37836	pyruvate
+42	I3VT07	acetyl-CoA
+43	I3VT07	formate
+44	I3VT07	acetyl-CoA
+45	I3VT07	formate
+46	A0A0H2ZQE4	CoA
+47	A0A0H2ZQE4	pyruvate
+48	A0A0H2ZQE4	CoA
+49	A0A0H2ZQE4	pyruvate
+0	P50297	N-hydroxy-4-acetylaminobiphenyl
+1	P50297	4-aminoazobenzene
+2	P50298	N-hydroxy-4-acetylaminobiphenyl
+3	P50298	4-aminoazobenzene
+4	P50292	N-hydroxy-4-acetylaminobiphenyl
+5	P50292	4-aminoazobenzene
+6	P50293	N-hydroxy-4-acetylaminobiphenyl
+7	P50293	4-aminoazobenzene
+0	P21673	acetyl-CoA
+1	P21673	spermidine
+2	P21673	acetyl-CoA
+3	P21673	spermidine
+4	P21673	acetyl-CoA
+5	P21673	spermine
+6	P21673	acetyl-CoA
+7	P21673	spermine
+8	P21673	more
+9	P21673	acetyl-CoA
+10	P21673	diethylenetriamine
+11	P21673	acetyl-CoA
+12	P21673	eIF5A
+13	P21673	acetyl-CoA
+14	P21673	ethylenediamine
+15	P21673	chloroacetyl-CoA
+16	P21673	spermine
+17	P21673	acetyl-CoA
+18	P21673	putrescine
+19	P21673	acetyl-CoA
+20	P21673	1,12-diamino-3,6,9-triazadodecane
+21	P21673	acetyl-CoA
+22	P21673	triethylenetetramine
+23	P21673	acetyl-CoA
+24	P21673	N1-acetylspermine
+25	P21673	acetyl-CoA
+26	P21673	N1-acetylspermine
+27	P21673	3 acetyl-CoA
+28	P21673	spermidine
+29	P21673	3 acetyl-CoA
+30	P21673	2 spermine
+31	P21673	acetyl-CoA
+32	P21673	1,3-diaminopropane
+33	P21673	acetyl-CoA
+34	P21673	1,3-diaminopropane
+35	P21673	acetyl-CoA
+36	P21673	norspermidine
+37	Q96F10	acetyl-CoA
+38	Q96F10	spermidine
+39	Q96F10	acetyl-CoA
+40	Q96F10	spermidine
+41	Q96F10	acetyl-CoA
+42	Q96F10	spermine
+43	Q96F10	acetyl-CoA
+44	Q96F10	spermine
+45	Q96F10	more
+46	Q96F10	acetyl-CoA
+47	Q96F10	putrescine
+48	Q96F10	acetyl-CoA
+49	Q96F10	N1-acetylspermine
+50	Q96F10	acetyl-CoA
+51	Q96F10	N1-acetylspermine
+52	Q96F10	acetyl-CoA
+53	Q96F10	norspermidine
+54	P48026	acetyl-CoA
+55	P48026	spermidine
+56	P48026	acetyl-CoA
+57	P48026	spermidine
+58	P48026	acetyl-CoA
+59	P48026	spermine
+60	P48026	acetyl-CoA
+61	P48026	spermine
+62	P48026	more
+63	P48026	acetyl-CoA
+64	P48026	1,12-diamino-3,6,9-triazadodecane
+65	P48026	acetyl-CoA
+66	P48026	triethylenetetramine
+67	P48026	acetyl-CoA
+68	P48026	1,3-diaminopropane
+69	P48026	acetyl-CoA
+70	P48026	N1-methyl-1,3-diaminopropane
+71	P48026	acetyl-CoA
+72	P48026	diethylenetriamine
+73	P48026	acetyl-CoA
+74	P48026	N1-acetylspermine
+75	P48026	acetyl-CoA
+76	P48026	N1-acetylspermine
+77	P48026	3 acetyl-CoA
+78	P48026	spermidine
+79	P48026	3 acetyl-CoA
+80	P48026	2 spermine
+81	Q6GQM2	acetyl-CoA
+82	Q6GQM2	spermidine
+83	Q6GQM2	acetyl-CoA
+84	Q6GQM2	spermine
+85	Q6GQM2	acetyl-CoA
+86	Q6GQM2	spermine
+87	Q6GQM2	more
+88	Q6GQM2	acetyl-CoA
+89	Q6GQM2	putrescine
+90	Q6GQM2	3 acetyl-CoA
+91	Q6GQM2	spermidine
+92	Q6GQM2	3 acetyl-CoA
+93	Q6GQM2	2 spermine
+94	D2CFQ9	acetyl-CoA
+95	D2CFQ9	spermine
+96	D2CFQ9	acetyl-CoA
+97	D2CFQ9	spermine
+98	D2CFQ9	more
+99	D2CFQ9	acetyl-CoA
+100	D2CFQ9	D-glucosamine 6-phosphate
+101	D2CFQ9	acetyl-CoA
+102	D2CFQ9	poly-L-lysine
+103	D2CFQ9	3 acetyl-CoA
+104	D2CFQ9	spermidine
+105	P0A951	acetyl-CoA
+106	P0A951	spermidine
+107	P0A951	acetyl-CoA
+108	P0A951	spermidine
+109	P0A951	more
+110	Q9KL03	more
+111	Q9KL03	3 acetyl-CoA
+112	Q9KL03	spermidine
+113	Q9KL03	3 acetyl-CoA
+114	Q9KL03	2 spermine
+115	Q9HL57	3 acetyl-CoA
+116	Q9HL57	spermidine
+117	D4FZ53	acetyl-CoA
+118	D4FZ53	spermine
+119	D4FZ53	acetyl-CoA
+120	D4FZ53	spermine
+121	A0A0M3KKU5	acetyl-CoA
+122	A0A0M3KKU5	spermidine
+123	A0A0M3KKU5	acetyl-CoA
+124	A0A0M3KKU5	spermidine
+125	A0A0H2XGJ0	acetyl-CoA
+126	A0A0H2XGJ0	spermidine
+127	A0A0H2XGJ0	acetyl-CoA
+128	A0A0H2XGJ0	spermidine
+129	A0A0H2XGJ0	acetyl-CoA
+130	A0A0H2XGJ0	spermine
+131	A0A0H2XGJ0	acetyl-CoA
+132	A0A0H2XGJ0	spermine
+133	A0A0H2XGJ0	acetyl-CoA
+134	A0A0H2XGJ0	norspermidine
+0	P28329	acetyl-CoA
+1	P28329	choline
+2	P32738	acetyl-CoA
+3	P32738	choline
+4	P32738	acetyl-CoA
+5	P32738	choline
+6	P32738	acetyl-CoA
+7	P32738	choline
+0	O05286	more
+1	Q51407	acetyl-CoA
+2	Q51407	gentamicin
+3	Q51407	acetyl-CoA
+4	Q51407	sisomicin
+5	Q51407	acetyl-CoA
+6	Q51407	kanamycin
+7	Q51407	acetyl-CoA
+8	Q51407	tobramycin
+9	A0A059WV44	acetyl-CoA
+10	A0A059WV44	gentamicin
+11	A0A059WV44	acetyl-CoA
+12	A0A059WV44	sisomicin
+13	A0A059WV44	acetyl-CoA
+14	A0A059WV44	kanamycin
+15	A0A059WV44	acetyl-CoA
+16	A0A059WV44	tobramycin
+0	P20708	succinyl-CoA
+1	P20708	dihydrolipoamide
+2	P16263	succinyl-CoA
+3	P16263	dihydrolipoamide
+4	Q9L6H8	succinyl-CoA
+5	Q9L6H8	dihydrolipoamide
+6	Q8NNJ2	succinyl-CoA
+7	Q8NNJ2	dihydrolipoamide
+8	Q9RH46	succinyl-CoA
+9	Q9RH46	dihydrolipoamide
+10	P0AFG6	succinyl-CoA
+11	P0AFG6	dihydrolipoamide
+12	P0AFG6	succinyl-CoA
+13	P0AFG6	enzyme N6-(dihydrolipoyl)lysine
+14	P0AFG6	succinyl-CoA
+15	P0AFG6	enzyme N6-(dihydrolipoyl)lysine
+16	Q01205	succinyl-CoA
+17	Q01205	dihydrolipoamide
+18	P19262	succinyl-CoA
+19	P19262	dihydrolipoamide
+20	Q9D2G2	succinyl-CoA
+21	Q9D2G2	enzyme N6-(dihydrolipoyl)lysine
+22	Q9D2G2	succinyl-CoA
+23	Q9D2G2	enzyme N6-(dihydrolipoyl)lysine
+0	Q3TFD2	palmitoyl-CoA
+1	Q3TFD2	2-palmitoyl-sn-lysophosphatidylcholine
+2	Q3TFD2	acyl-CoA
+3	Q3TFD2	2-acyl-sn-lysophosphatidylcholine
+4	Q3TFD2	palmitoyl-CoA
+5	Q3TFD2	1-palmitoyl-sn-lysophosphatidylcholine
+6	Q3TFD2	more
+7	Q8NF37	acyl-CoA
+8	Q8NF37	2-acyl-sn-lysophosphatidylcholine
+9	Q8NF37	palmitoyl-CoA
+10	Q8NF37	1-palmitoyl-sn-lysophosphatidylcholine
+11	Q8NF37	more
+12	Q8NF37	palmitoyl-CoA
+13	Q8NF37	2-palmitoyl-lysophosphatidylcholine
+14	Q3UN02	more
+15	Q3UN02	acyl-CoA
+16	Q3UN02	2-acyl-sn-glycero-3-phosphatidylcholine
+17	Q3UN02	stearoyl-CoA
+18	Q3UN02	2-oleoyl-sn-glycero-3-phosphatidylcholine
+0	A9ZPJ6	feruloyl-CoA
+1	A9ZPJ6	agmatine
+2	A9ZPJ6	caffeoyl-CoA
+3	A9ZPJ6	agmatine
+4	A9ZPJ6	4-coumaroyl-CoA
+5	A9ZPJ6	agmatine
+6	Q9FNP9	4-coumaroyl-CoA
+7	Q9FNP9	agmatine
+8	Q9FNP9	feruloyl-CoA
+9	Q9FNP9	agmatine
+0	Q14032	choloyl-CoA
+1	Q14032	taurine
+2	Q14032	choloyl-CoA
+3	Q14032	glycine
+4	Q14032	choloyl-CoA
+5	Q14032	glycine
+6	Q14032	choloyl-CoA
+7	Q14032	2-fluoro-beta-alanine
+8	Q14032	choloyl-CoA
+9	Q14032	aminomethanesulfonic acid
+0	Q7L5N7	more
+1	Q7L5N7	acetyl-CoA
+2	Q7L5N7	1-alkyl-sn-glycero-3-phosphocholine
+3	Q7L5N7	acetyl-CoA
+4	Q7L5N7	lyso-platelet-activating factor
+5	Q3TFD2	more
+6	Q3TFD2	1-O-hexadecyl-sn-glycero-3-phosphocholine
+7	Q3TFD2	acetyl-CoA
+8	Q8BYI6	more
+9	Q8BYI6	acetyl-CoA
+10	Q8BYI6	1-alkyl-sn-glycero-3-phosphocholine
+11	Q8BYI6	acetyl-CoA
+12	Q8BYI6	lyso-platelet-activating factor
+0	P47934	O-acetylcarnitine
+1	P47934	CoASH
+2	P47934	acetyl-CoA
+3	P47934	carnitine
+4	P47934	O-acetylcarnitine
+5	P47934	CoASH
+6	P47934	acetyl-CoA
+7	P47934	L-(-)carnitine
+8	P47934	acyl-CoA
+9	P47934	carnitine
+10	P47934	acylcarnitine
+11	P47934	CoASH
+12	P47934	CoA
+13	P47934	O-acetylcarnitine
+14	P47934	acetyl-CoA
+15	P47934	carnitine
+16	P47934	acetyl-CoA
+17	P47934	carnitine
+18	P47934	hexanoyl-CoA
+19	P47934	carnitine
+20	P47934	hexanoyl-CoA
+21	P47934	carnitine
+22	Q704S8	acetyl-CoA
+23	Q704S8	carnitine
+24	Q704S8	acetyl-CoA
+25	Q704S8	carnitine
+26	Q704S8	butyryl-CoA
+27	Q704S8	carnitine
+28	Q704S8	butyryl-CoA
+29	Q704S8	carnitine
+30	Q704S8	more
+31	Q704S8	hexanoyl-CoA
+32	Q704S8	carnitine
+33	Q704S8	hexanoyl-CoA
+34	Q704S8	carnitine
+35	Q704S8	octanoyl-CoA
+36	Q704S8	carnitine
+37	Q704S8	octanoyl-CoA
+38	Q704S8	carnitine
+39	P32796	acetyl-CoA
+40	P32796	carnitine
+41	P32796	acetyl-CoA
+42	P32796	carnitine
+43	P32796	more
+44	P43155	propionyl-CoA
+45	P43155	carnitine
+46	P43155	acetyl-CoA
+47	P43155	carnitine
+48	P43155	acetyl-CoA
+49	P43155	carnitine
+50	P43155	octanoyl-CoA
+51	P43155	carnitine
+52	P43155	octanoyl-CoA
+53	P43155	carnitine
+0	Q6IB77	benzoyl-CoA
+1	Q6IB77	glycine
+2	Q6IB77	phenylacetyl-CoA
+3	Q6IB77	glycine
+4	Q6IB77	4-aminobenzoyl-CoA
+5	Q6IB77	glycine
+6	Q6IB77	benzoyl-CoA
+7	Q6IB77	L-glutamine
+8	Q6IB77	phenylacetyl-CoA
+9	Q6IB77	L-glutamine
+10	Q6IB77	salicyl-CoA
+11	Q6IB77	glycine
+12	Q2KIR7	benzoyl-CoA
+13	Q2KIR7	glycine
+14	Q91XE0	benzoyl-CoA
+15	Q91XE0	glycine
+16	Q91XE0	more
+17	Q91XE0	benzoyl-CoA
+18	Q91XE0	glycine ethyl ester
+19	Q91XE0	benzoyl-CoA
+20	Q91XE0	glycine methyl ester
+0	B9EZV5	1-O-(indol-3-yl)acetyl-beta-D-glucose
+1	B9EZV5	myo-inositol
+0	P13114	3 malonyl-CoA
+1	P13114	4-coumaroyl-CoA
+2	Q2VAZ3	malonyl-CoA
+3	Q2VAZ3	isovaleryl-CoA
+4	Q2VAZ3	3 malonyl-CoA
+5	Q2VAZ3	hexanoyl-CoA
+6	Q2VAZ3	malonyl-CoA
+7	Q2VAZ3	cinnamoyl-CoA
+8	Q2VAZ3	malonyl-CoA
+9	Q2VAZ3	dihydro-p-coumaroyl-CoA
+10	Q2VAZ3	malonyl-CoA
+11	Q2VAZ3	dihydrocinnamoyl-CoA
+12	Q2VAZ3	malonyl-CoA
+13	Q2VAZ3	n-butyryl-CoA
+14	Q2VAZ3	malonyl-CoA
+15	Q2VAZ3	hexanoyl-CoA
+16	Q2VAZ3	3 malonyl-CoA
+17	Q2VAZ3	4-coumaroyl-CoA
+18	Q2VAZ3	4-coumaroyl-CoA
+19	Q2VAZ3	malonyl-CoA
+20	P30080	4-coumaroyl-CoA
+21	P30080	malonyl-CoA
+22	B0LDU5	caffeoyl-CoA
+23	B0LDU5	3 malonyl-CoA
+24	B0LDU5	cinnamoyl-CoA
+25	B0LDU5	malonyl-CoA
+26	B0LDU5	ferulyl-CoA
+27	B0LDU5	malonyl-CoA
+28	B0LDU5	5-hydroxyferulyl-CoA
+29	B0LDU5	malonyl-CoA
+30	B0LDU5	sinapyl-CoA
+31	B0LDU5	malonyl-CoA
+32	B0LDU5	4-coumaroyl-CoA
+33	B0LDU5	malonyl-CoA
+34	B0LDU6	4-coumaroyl-CoA
+35	B0LDU6	malonyl-CoA
+36	Q6X0M8	more
+37	C3RTM5	3 malonyl-CoA
+38	C3RTM5	4-coumaroyl-CoA
+39	P30074	3 malonyl-CoA
+40	P30074	4-coumaroyl-CoA
+41	G3FJ87	3 malonyl-CoA
+42	G3FJ87	4-coumaroyl-CoA
+43	A0A0A0RBQ5	3 malonyl-CoA
+44	A0A0A0RBQ5	4-coumaroyl-CoA
+45	Q9AU11	more
+46	Q9AU11	3 malonyl-CoA
+47	Q9AU11	4-coumaroyl-CoA
+48	Q8L5L2	more
+49	Q8L5L2	3 malonyl-CoA
+50	Q8L5L2	4-coumaroyl-CoA
+51	Q8L5L2	benzoyl-CoA
+52	Q8L5L2	malonyl-CoA
+53	Q8L5L2	caffeoyl-CoA
+54	Q8L5L2	malonyl-CoA
+55	Q8L5L2	cinnamoyl-CoA
+56	Q8L5L2	malonyl-CoA
+57	Q8L5L2	feruloyl-CoA
+58	Q8L5L2	malonyl-CoA
+59	V5M0E7	3 malonyl-CoA
+60	V5M0E7	4-coumaroyl-CoA
+61	A0A1B4XSV4	3 malonyl-CoA
+62	A0A1B4XSV4	4-coumaroyl-CoA
+63	A0A1B4XSV4	malonyl-CoA
+64	A0A1B4XSV4	caffeoyl-CoA
+65	A0A1B4XSV4	malonyl-CoA
+66	A0A1B4XSV4	feruloyl-CoA
+67	A0A1B4XSV4	malonyl-CoA
+68	A0A1B4XSV4	sinapoyl-CoA
+69	A0A1B4XSV6	3 malonyl-CoA
+70	A0A1B4XSV6	4-coumaroyl-CoA
+71	A0A1B4XSV6	3 malonyl-CoA
+72	A0A1B4XSV6	caffeoyl-CoA
+73	A0A1B4XSV6	3 malonyl-CoA
+74	A0A1B4XSV6	feruloyl-CoA
+75	A0A1B4XSV6	3 malonyl-CoA
+76	A0A1B4XSV6	sinapoyl-CoA
+77	A0A1B4XSV2	3 malonyl-CoA
+78	A0A1B4XSV2	4-coumaroyl-CoA
+79	A0A1B4XSV2	malonyl-CoA
+80	A0A1B4XSV2	caffeoyl-CoA
+81	A0A1B4XSV2	malonyl-CoA
+82	A0A1B4XSV2	feruloyl-CoA
+83	A0A1B4XSV2	malonyl-CoA
+84	A0A1B4XSV2	sinapoyl-CoA
+85	A0A482KFN1	3 malonyl-CoA
+86	A0A482KFN1	4-coumaroyl-CoA
+87	K9MUA0	3 malonyl-CoA
+88	K9MUA0	4-coumaroyl-CoA
+89	K9MUA0	3 malonyl-CoA
+90	K9MUA0	benzoyl-CoA
+91	A0A1D9C6D7	more
+92	A0A1D9C6D7	2 malonyl-CoA
+93	A0A1D9C6D7	2 stearoyl-CoA
+94	A0A1D9C6D7	malonyl-CoA
+95	A0A1D9C6D7	acetyl-CoA
+96	A0A1D9C6D7	malonyl-CoA
+97	A0A1D9C6D7	hexanoyl-CoA
+98	A0A1D9C6D7	malonyl-CoA
+99	A0A1D9C6D7	octanoyl-CoA
+100	A0A096X8J8	malonyl-CoA
+101	A0A096X8J8	hexanoyl-CoA
+102	A0A096X8J8	3 malonyl-CoA
+103	A0A096X8J8	4-coumaroyl-CoA
+104	A0A096X8J8	(2RS)-methylmalonyl-CoA
+105	A0A096X8J8	n-hexanoyl-CoA
+106	A0A096X8J8	(2RS)-methylmalonyl-CoA+ benzoyl-CoA
+107	A0A096X8J8	4-coumaroyl-CoA
+108	A0A096X8J8	(2RS)-methylmalonyl-CoA
+109	A0A096X8J8	cinnamoyl diketide-N-methylanthraniloyl-CoA
+110	A0A096X8J8	(2RS)-methylmalonyl-CoA
+111	A0A096X8J8	malonyl-CoA
+112	A0A096X8J8	4-fluorocinnamoyl-CoA
+113	A0A096X8J8	malonyl-CoA
+114	A0A096X8J8	benzoyl-CoA
+115	A0A096X8J8	n-hexanoyl-CoA
+116	A0A096X8J8	butyryl-CoA
+117	A0A096X8J8	malonyl-CoA
+118	A0A096X8J8	acetyl-CoA
+119	A0A096X8J8	malonyl-CoA
+120	A0A096X8J8	butyryl-CoA
+121	A0A096X8J8	malonyl-CoA
+122	A0A096X8J8	octanoyl-CoA
+123	A0A0A0P7Q3	malonyl-CoA
+124	A0A0A0P7Q3	hexanoyl-CoA
+125	A0A0A0P7Q3	3 malonyl-CoA
+126	A0A0A0P7Q3	4-coumaroyl-CoA
+127	A0A0A0P7Q3	(2RS)-methylmalonyl-CoA
+128	A0A0A0P7Q3	n-hexanoyl-CoA
+129	A0A0A0P7Q3	(2RS)-methylmalonyl-CoA+ benzoyl-CoA
+130	A0A0A0P7Q3	4-coumaroyl-CoA
+131	A0A0A0P7Q3	(2RS)-methylmalonyl-CoA
+132	A0A0A0P7Q3	cinnamoyl diketide-N-methylanthraniloyl-CoA
+133	A0A0A0P7Q3	(2RS)-methylmalonyl-CoA
+134	A0A0A0P7Q3	malonyl-CoA
+135	A0A0A0P7Q3	4-fluorocinnamoyl-CoA
+136	A0A0A0P7Q3	malonyl-CoA
+137	A0A0A0P7Q3	benzoyl-CoA
+138	A0A0A0P7Q3	n-hexanoyl-CoA
+139	A0A0A0P7Q3	butyryl-CoA
+140	A0A0A0P7Q3	malonyl-CoA
+141	A0A0A0P7Q3	acetyl-CoA
+142	A0A0A0P7Q3	malonyl-CoA
+143	A0A0A0P7Q3	butyryl-CoA
+144	A0A0A0P7Q3	malonyl-CoA
+145	A0A0A0P7Q3	octanoyl-CoA
+146	A0A482KIB1	3 malonyl-CoA
+147	A0A482KIB1	4-coumaroyl-CoA
+148	A0A482KMM8	3 malonyl-CoA
+149	A0A482KMM8	4-coumaroyl-CoA
+150	A0A4P9D6S6	3 malonyl-CoA
+151	A0A4P9D6S6	4-coumaroyl-CoA
+152	A0A4P9D4C1	3 malonyl-CoA
+153	A0A4P9D4C1	4-coumaroyl-CoA
+154	A0A4P9D4S8	3 malonyl-CoA
+155	A0A4P9D4S8	4-coumaroyl-CoA
+156	H9DV62	3 malonyl-CoA
+157	H9DV62	4-coumaroyl-CoA
+0	Q6E1M8	more
+1	Q6E1M8	lauryl-CoA
+2	Q6E1M8	tetradecanol
+3	Q6E1M8	myristoyl-CoA
+4	Q6E1M8	11-cis-retinol
+5	Q6E1M8	myristoyl-CoA
+6	Q6E1M8	13-cis-retinol
+7	Q6E1M8	myristoyl-CoA
+8	Q6E1M8	9-cis-retinol
+9	Q6E1M8	myristoyl-CoA
+10	Q6E1M8	all-trans-retinol
+11	Q6E1M8	myristoyl-CoA
+12	Q6E1M8	tetradecanol
+13	Q6E1M8	palmitoyl-CoA
+14	Q6E1M8	hexadecanol
+15	Q6E1M8	myristoyl-CoA
+16	Q6E1M8	dodecan-1-ol
+17	Q6E1M8	acyl-CoA
+18	Q6E1M8	a long-chain alcohol
+19	Q6E213	more
+20	Q6E213	palmitoyl-CoA
+21	Q6E213	1,2-hexadecandiol
+22	Q6E213	palmitoyl-CoA
+23	Q6E213	all-trans-retinol
+24	Q6E213	palmitoyl-CoA
+25	Q6E213	dioleoylglycerol
+26	Q6E213	palmitoyl-CoA
+27	Q6E213	monooleoylglycerol
+28	Q6E213	acyl-CoA
+29	Q6E213	long-chain diacylglycerol
+30	Q6E213	cetyl alcohol
+31	Q6E213	oleoyl-CoA
+32	Q6E213	linear long-chain alcohol
+33	Q6E213	oleoyl-CoA
+34	Q6E213	linear long-chain alcohol
+35	Q6E213	palmitoleoyl-CoA
+36	Q6E213	linear long-chain alcohol
+37	Q6E213	palmitoyl-CoA
+38	Q6E213	linear long-chain alcohol
+39	Q6E213	stearoyl-CoA
+40	Q6E213	oleoyl-CoA
+41	Q6E213	(9Z)-hexadec-9-en-1-ol
+42	Q6E213	oleoyl-CoA
+43	Q6E213	1-decanol
+44	Q6E213	oleoyl-CoA
+45	Q6E213	1-octadecanol
+46	Q6E213	oleoyl-CoA
+47	Q6E213	cetyl alcohol
+48	Q6E213	oleoyl-CoA
+49	Q6E213	eicosanol
+50	Q6E213	oleoyl-CoA
+51	Q6E213	oleic alcohol
+52	Q6E213	palmitoleoyl-CoA
+53	Q6E213	cetyl alcohol
+54	Q6E213	palmitoleyl alcohol
+55	Q6E213	oleoyl-CoA
+56	Q6E213	palmitoyl-CoA
+57	Q6E213	cetyl alcohol
+58	Q6E213	stearoyl-CoA
+59	Q6E213	cetyl alcohol
+60	Q6E213	palmitoyl-CoA
+61	Q6E213	hexadecanol
+62	Q6E213	acyl-CoA
+63	Q6E213	long-chain fatty alcohol
+64	Q6ZPD8	more
+65	Q6ZPD8	acyl-CoA
+66	Q6ZPD8	long-chain diacylglycerol
+67	Q6ZPD8	acyl-CoA
+68	Q6ZPD8	long-chain fatty alcohol
+69	Q58HT5	more
+70	Q58HT5	acyl-CoA
+71	Q58HT5	long-chain diacylglycerol
+72	Q58HT5	cetyl alcohol
+73	Q58HT5	oleoyl-CoA
+74	Q58HT5	linear long-chain alcohol
+75	Q58HT5	oleoyl-CoA
+76	Q58HT5	linear long-chain alcohol
+77	Q58HT5	palmitoleoyl-CoA
+78	Q58HT5	linear long-chain alcohol
+79	Q58HT5	palmitoyl-CoA
+80	Q58HT5	linear long-chain alcohol
+81	Q58HT5	stearoyl-CoA
+82	Q58HT5	oleoyl-CoA
+83	Q58HT5	(9Z)-hexadec-9-en-1-ol
+84	Q58HT5	oleoyl-CoA
+85	Q58HT5	1-decanol
+86	Q58HT5	oleoyl-CoA
+87	Q58HT5	1-octadecanol
+88	Q58HT5	oleoyl-CoA
+89	Q58HT5	cetyl alcohol
+90	Q58HT5	oleoyl-CoA
+91	Q58HT5	eicosanol
+92	Q58HT5	oleoyl-CoA
+93	Q58HT5	oleic alcohol
+94	Q58HT5	palmitoleoyl-CoA
+95	Q58HT5	cetyl alcohol
+96	Q58HT5	palmitoleyl alcohol
+97	Q58HT5	oleoyl-CoA
+98	Q58HT5	palmitoyl-CoA
+99	Q58HT5	cetyl alcohol
+100	Q58HT5	stearoyl-CoA
+101	Q58HT5	cetyl alcohol
+102	Q58HT5	oleoyl-CoA
+103	Q58HT5	decanol
+104	Q58HT5	acyl-CoA
+105	Q58HT5	long-chain fatty alcohol
+106	Q8GGG1	more
+107	Q8GGG1	dodecan-1-ol
+108	Q8GGG1	palmitoyl-CoA
+109	Q8GGG1	hexadecan-1-ol
+110	Q8GGG1	palmitoyl-CoA
+111	Q8GGG1	nonan-1-ol
+112	Q8GGG1	palmitoyl-CoA
+113	Q8GGG1	acyl-CoA
+114	Q8GGG1	a long-chain alcohol
+115	Q9XGY6	more
+116	Q9XGY6	eicosenoyl-CoA
+117	Q9XGY6	octadecenol
+118	D7PN09	myristoyl-CoA
+119	D7PN09	dodecan-1-ol
+120	D7PN09	lauroyl-CoA
+121	D7PN09	tetradecanol
+122	D7PN09	myristoyl-CoA
+123	D7PN09	(9Z)-hexadec-9-en-1-ol
+124	D7PN09	myristoyl-CoA
+125	D7PN09	hexadecan-1-ol
+126	D7PN09	myristoyl-CoA
+127	D7PN09	tetradecan-1-ol
+128	D7PN09	palmitoleoyl-CoA
+129	D7PN09	tetradecanol
+130	D7PN09	palmitoyl-CoA
+131	D7PN09	tetradecanol
+132	A1TX06	dodecan-1-ol
+133	A1TX06	palmitoyl-CoA
+134	A1TX06	hexadecan-1-ol
+135	A1TX06	palmitoyl-CoA
+136	A1TX06	nonan-1-ol
+137	A1TX06	palmitoyl-CoA
+138	A1TX06	2-phenylethanol
+139	A1TX06	palmitoyl-CoA
+140	A1TX06	ethanol
+141	A1TX06	palmitoyl-CoA
+142	A1TX06	hexan-1-ol
+143	A1TX06	palmitoyl-CoA
+144	A1TX06	isoamyl alcohol
+145	A1TX06	palmitoyl-CoA
+146	A3RE51	more
+147	A3RE51	arachidoyl -CoA
+148	A3RE51	dodecanol
+149	A3RE51	arachidoyl-CoA
+150	A3RE51	decanol
+151	A3RE51	arachidoyl-CoA
+152	A3RE51	docosanol
+153	A3RE51	arachidoyl-CoA
+154	A3RE51	docosenol
+155	A3RE51	arachidoyl-CoA
+156	A3RE51	eicosanol
+157	A3RE51	arachidoyl-CoA
+158	A3RE51	eicosenol
+159	A3RE51	arachidoyl-CoA
+160	A3RE51	hexadecanol
+161	A3RE51	arachidoyl-CoA
+162	A3RE51	hexadecenol
+163	A3RE51	arachidoyl-CoA
+164	A3RE51	linolenyl alcohol
+165	A3RE51	arachidoyl-CoA
+166	A3RE51	linoleyl alcohol
+167	A3RE51	arachidoyl-CoA
+168	A3RE51	octadecanol
+169	A3RE51	arachidoyl-CoA
+170	A3RE51	octadecenol
+171	A3RE51	arachidoyl-CoA
+172	A3RE51	phytol
+173	A3RE51	arachidoyl-CoA
+174	A3RE51	ricinoleyl alcohol
+175	A3RE51	arachidoyl-CoA
+176	A3RE51	tetracosanol
+177	A3RE51	arachidoyl-CoA
+178	A3RE51	tetracosenol
+179	A3RE51	arachidoyl-CoA
+180	A3RE51	tetradecanol
+181	A3RE51	decanoyl-CoA
+182	A3RE51	decanol
+183	A3RE51	decanoyl-CoA
+184	A3RE51	docosanol
+185	A3RE51	decanoyl-CoA
+186	A3RE51	docosenol
+187	A3RE51	decanoyl-CoA
+188	A3RE51	dodecanol
+189	A3RE51	decanoyl-CoA
+190	A3RE51	eicosanol
+191	A3RE51	decanoyl-CoA
+192	A3RE51	eicosenol
+193	A3RE51	decanoyl-CoA
+194	A3RE51	hexadecanol
+195	A3RE51	decanoyl-CoA
+196	A3RE51	hexadecenol
+197	A3RE51	decanoyl-CoA
+198	A3RE51	linolenyl alcohol
+199	A3RE51	decanoyl-CoA
+200	A3RE51	linoleyl alcohol
+201	A3RE51	decanoyl-CoA
+202	A3RE51	octadecanol
+203	A3RE51	decanoyl-CoA
+204	A3RE51	octadecenol
+205	A3RE51	decanoyl-CoA
+206	A3RE51	phytol
+207	A3RE51	decanoyl-CoA
+208	A3RE51	ricinoleyl alcohol
+209	A3RE51	decanoyl-CoA
+210	A3RE51	tetracosanol
+211	A3RE51	decanoyl-CoA
+212	A3RE51	tetracosenol
+213	A3RE51	decanoyl-CoA
+214	A3RE51	tetradecanol
+215	A3RE51	eicosenoyl -CoA
+216	A3RE51	dodecanol
+217	A3RE51	eicosenoyl-CoA
+218	A3RE51	decanol
+219	A3RE51	eicosenoyl-CoA
+220	A3RE51	docosanol
+221	A3RE51	eicosenoyl-CoA
+222	A3RE51	docosenol
+223	A3RE51	eicosenoyl-CoA
+224	A3RE51	eicosanol
+225	A3RE51	eicosenoyl-CoA
+226	A3RE51	eicosenol
+227	A3RE51	eicosenoyl-CoA
+228	A3RE51	hexadecanol
+229	A3RE51	eicosenoyl-CoA
+230	A3RE51	hexadecenol
+231	A3RE51	eicosenoyl-CoA
+232	A3RE51	linolenyl alcohol
+233	A3RE51	eicosenoyl-CoA
+234	A3RE51	linoleyl alcohol
+235	A3RE51	eicosenoyl-CoA
+236	A3RE51	octadecanol
+237	A3RE51	eicosenoyl-CoA
+238	A3RE51	octadecenol
+239	A3RE51	eicosenoyl-CoA
+240	A3RE51	phytol
+241	A3RE51	eicosenoyl-CoA
+242	A3RE51	ricinoleyl alcohol
+243	A3RE51	eicosenoyl-CoA
+244	A3RE51	tetracosanol
+245	A3RE51	eicosenoyl-CoA
+246	A3RE51	tetracosenol
+247	A3RE51	eicosenoyl-CoA
+248	A3RE51	tetradecanol
+249	A3RE51	erucyl -CoA
+250	A3RE51	dodecanol
+251	A3RE51	erucyl-CoA
+252	A3RE51	decanol
+253	A3RE51	erucyl-CoA
+254	A3RE51	docosanol
+255	A3RE51	erucyl-CoA
+256	A3RE51	docosenol
+257	A3RE51	erucyl-CoA
+258	A3RE51	eicosanol
+259	A3RE51	erucyl-CoA
+260	A3RE51	eicosenol
+261	A3RE51	erucyl-CoA
+262	A3RE51	hexadecanol
+263	A3RE51	erucyl-CoA
+264	A3RE51	hexadecenol
+265	A3RE51	erucyl-CoA
+266	A3RE51	linolenyl alcohol
+267	A3RE51	erucyl-CoA
+268	A3RE51	linoleyl alcohol
+269	A3RE51	erucyl-CoA
+270	A3RE51	octadecanol
+271	A3RE51	erucyl-CoA
+272	A3RE51	octadecenol
+273	A3RE51	erucyl-CoA
+274	A3RE51	phytol
+275	A3RE51	erucyl-CoA
+276	A3RE51	ricinoleyl alcohol
+277	A3RE51	erucyl-CoA
+278	A3RE51	tetracosanol
+279	A3RE51	erucyl-CoA
+280	A3RE51	tetradecanol
+281	A3RE51	lauroyl-CoA
+282	A3RE51	decanol
+283	A3RE51	lauroyl-CoA
+284	A3RE51	docosanol
+285	A3RE51	lauroyl-CoA
+286	A3RE51	docosenol
+287	A3RE51	lauroyl-CoA
+288	A3RE51	dodecanol
+289	A3RE51	lauroyl-CoA
+290	A3RE51	eicosanol
+291	A3RE51	lauroyl-CoA
+292	A3RE51	eicosenol
+293	A3RE51	lauroyl-CoA
+294	A3RE51	hexadecanol
+295	A3RE51	lauroyl-CoA
+296	A3RE51	hexadecenol
+297	A3RE51	lauroyl-CoA
+298	A3RE51	linolenyl alcohol
+299	A3RE51	lauroyl-CoA
+300	A3RE51	linoleyl alcohol
+301	A3RE51	lauroyl-CoA
+302	A3RE51	octadecanol
+303	A3RE51	lauroyl-CoA
+304	A3RE51	octadecenol
+305	A3RE51	lauroyl-CoA
+306	A3RE51	phytol
+307	A3RE51	lauroyl-CoA
+308	A3RE51	ricinoleyl alcohol
+309	A3RE51	lauroyl-CoA
+310	A3RE51	tetracosanol
+311	A3RE51	lauroyl-CoA
+312	A3RE51	tetracosenol
+313	A3RE51	lauroyl-CoA
+314	A3RE51	tetradecanol
+315	A3RE51	linolenoyl -CoA
+316	A3RE51	dodecanol
+317	A3RE51	linolenoyl-CoA
+318	A3RE51	decanol
+319	A3RE51	linolenoyl-CoA
+320	A3RE51	docosanol
+321	A3RE51	linolenoyl-CoA
+322	A3RE51	docosenol
+323	A3RE51	linolenoyl-CoA
+324	A3RE51	eicosanol
+325	A3RE51	linolenoyl-CoA
+326	A3RE51	eicosenol
+327	A3RE51	linolenoyl-CoA
+328	A3RE51	hexadecanol
+329	A3RE51	linolenoyl-CoA
+330	A3RE51	hexadecenol
+331	A3RE51	linolenoyl-CoA
+332	A3RE51	linolenyl alcohol
+333	A3RE51	linolenoyl-CoA
+334	A3RE51	linoleyl alcohol
+335	A3RE51	linolenoyl-CoA
+336	A3RE51	octadecanol
+337	A3RE51	linolenoyl-CoA
+338	A3RE51	octadecenol
+339	A3RE51	linolenoyl-CoA
+340	A3RE51	phytol
+341	A3RE51	linolenoyl-CoA
+342	A3RE51	ricinoleyl alcohol
+343	A3RE51	linolenoyl-CoA
+344	A3RE51	tetracosanol
+345	A3RE51	linolenoyl-CoA
+346	A3RE51	tetracosenol
+347	A3RE51	linolenoyl-CoA
+348	A3RE51	tetradecanol
+349	A3RE51	linoleoyl -CoA
+350	A3RE51	dodecanol
+351	A3RE51	linoleoyl-CoA
+352	A3RE51	decanol
+353	A3RE51	linoleoyl-CoA
+354	A3RE51	docosanol
+355	A3RE51	linoleoyl-CoA
+356	A3RE51	docosenol
+357	A3RE51	linoleoyl-CoA
+358	A3RE51	eicosanol
+359	A3RE51	linoleoyl-CoA
+360	A3RE51	eicosenol
+361	A3RE51	linoleoyl-CoA
+362	A3RE51	hexadecanol
+363	A3RE51	linoleoyl-CoA
+364	A3RE51	hexadecenol
+365	A3RE51	linoleoyl-CoA
+366	A3RE51	linolenyl alcohol
+367	A3RE51	linoleoyl-CoA
+368	A3RE51	linoleyl alcohol
+369	A3RE51	linoleoyl-CoA
+370	A3RE51	octadecanol
+371	A3RE51	linoleoyl-CoA
+372	A3RE51	octadecenol
+373	A3RE51	linoleoyl-CoA
+374	A3RE51	phytol
+375	A3RE51	linoleoyl-CoA
+376	A3RE51	ricinoleyl alcohol
+377	A3RE51	linoleoyl-CoA
+378	A3RE51	tetracosanol
+379	A3RE51	linoleoyl-CoA
+380	A3RE51	tetracosenol
+381	A3RE51	linoleoyl-CoA
+382	A3RE51	tetradecanol
+383	A3RE51	myristoyl-CoA
+384	A3RE51	decanol
+385	A3RE51	myristoyl-CoA
+386	A3RE51	docosanol
+387	A3RE51	myristoyl-CoA
+388	A3RE51	docosenol
+389	A3RE51	myristoyl-CoA
+390	A3RE51	dodecanol
+391	A3RE51	myristoyl-CoA
+392	A3RE51	eicosanol
+393	A3RE51	myristoyl-CoA
+394	A3RE51	eicosenol
+395	A3RE51	myristoyl-CoA
+396	A3RE51	hexadecanol
+397	A3RE51	myristoyl-CoA
+398	A3RE51	hexadecenol
+399	A3RE51	myristoyl-CoA
+400	A3RE51	linolenyl alcohol
+401	A3RE51	myristoyl-CoA
+402	A3RE51	linoleyl alcohol
+403	A3RE51	myristoyl-CoA
+404	A3RE51	octadecanol
+405	A3RE51	myristoyl-CoA
+406	A3RE51	octadecenol
+407	A3RE51	myristoyl-CoA
+408	A3RE51	phytol
+409	A3RE51	myristoyl-CoA
+410	A3RE51	ricinoleyl alcohol
+411	A3RE51	myristoyl-CoA
+412	A3RE51	tetracosanol
+413	A3RE51	myristoyl-CoA
+414	A3RE51	tetracosenol
+415	A3RE51	myristoyl-CoA
+416	A3RE51	tetradecanol
+417	A3RE51	oleoyl-CoA
+418	A3RE51	decanol
+419	A3RE51	oleoyl-CoA
+420	A3RE51	docosanol
+421	A3RE51	oleoyl-CoA
+422	A3RE51	docosenol
+423	A3RE51	oleoyl-CoA
+424	A3RE51	dodecanol
+425	A3RE51	oleoyl-CoA
+426	A3RE51	eicosanol
+427	A3RE51	oleoyl-CoA
+428	A3RE51	eicosenol
+429	A3RE51	oleoyl-CoA
+430	A3RE51	hexadecanol
+431	A3RE51	oleoyl-CoA
+432	A3RE51	hexadecenol
+433	A3RE51	oleoyl-CoA
+434	A3RE51	linolenyl alcohol
+435	A3RE51	oleoyl-CoA
+436	A3RE51	linoleyl alcohol
+437	A3RE51	oleoyl-CoA
+438	A3RE51	octadecanol
+439	A3RE51	oleoyl-CoA
+440	A3RE51	octadecenol
+441	A3RE51	oleoyl-CoA
+442	A3RE51	phytol
+443	A3RE51	oleoyl-CoA
+444	A3RE51	ricinoleyl alcohol
+445	A3RE51	oleoyl-CoA
+446	A3RE51	tetracosanol
+447	A3RE51	oleoyl-CoA
+448	A3RE51	tetracosenol
+449	A3RE51	oleoyl-CoA
+450	A3RE51	tetradecanol
+451	A3RE51	palmitoyl-CoA
+452	A3RE51	decanol
+453	A3RE51	palmitoyl-CoA
+454	A3RE51	docosanol
+455	A3RE51	palmitoyl-CoA
+456	A3RE51	docosenol
+457	A3RE51	palmitoyl-CoA
+458	A3RE51	dodecanol
+459	A3RE51	palmitoyl-CoA
+460	A3RE51	eicosanol
+461	A3RE51	palmitoyl-CoA
+462	A3RE51	eicosenol
+463	A3RE51	palmitoyl-CoA
+464	A3RE51	hexadecanol
+465	A3RE51	palmitoyl-CoA
+466	A3RE51	hexadecenol
+467	A3RE51	palmitoyl-CoA
+468	A3RE51	linolenyl alcohol
+469	A3RE51	palmitoyl-CoA
+470	A3RE51	linoleyl alcohol
+471	A3RE51	palmitoyl-CoA
+472	A3RE51	octadecanol
+473	A3RE51	palmitoyl-CoA
+474	A3RE51	octadecenol
+475	A3RE51	palmitoyl-CoA
+476	A3RE51	ricinoleyl alcohol
+477	A3RE51	palmitoyl-CoA
+478	A3RE51	tetracosanol
+479	A3RE51	palmitoyl-CoA
+480	A3RE51	tetracosenol
+481	A3RE51	palmitoyl-CoA
+482	A3RE51	tetradecanol
+483	A3RE51	ricinoleyl -CoA
+484	A3RE51	dodecanol
+485	A3RE51	ricinoleyl-CoA
+486	A3RE51	decanol
+487	A3RE51	ricinoleyl-CoA
+488	A3RE51	docosanol
+489	A3RE51	ricinoleyl-CoA
+490	A3RE51	docosenol
+491	A3RE51	ricinoleyl-CoA
+492	A3RE51	eicosanol
+493	A3RE51	ricinoleyl-CoA
+494	A3RE51	eicosenol
+495	A3RE51	ricinoleyl-CoA
+496	A3RE51	hexadecanol
+497	A3RE51	ricinoleyl-CoA
+498	A3RE51	hexadecenol
+499	A3RE51	ricinoleyl-CoA
+500	A3RE51	linolenyl alcohol
+501	A3RE51	ricinoleyl-CoA
+502	A3RE51	linoleyl alcohol
+503	A3RE51	ricinoleyl-CoA
+504	A3RE51	octadecanol
+505	A3RE51	ricinoleyl-CoA
+506	A3RE51	octadecenol
+507	A3RE51	ricinoleyl-CoA
+508	A3RE51	phytol
+509	A3RE51	ricinoleyl-CoA
+510	A3RE51	ricinoleyl alcohol
+511	A3RE51	ricinoleyl-CoA
+512	A3RE51	tetracosanol
+513	A3RE51	ricinoleyl-CoA
+514	A3RE51	tetracosenol
+515	A3RE51	ricinoleyl-CoA
+516	A3RE51	tetradecanol
+517	A3RE51	stearoyl-CoA
+518	A3RE51	decanol
+519	A3RE51	stearoyl-CoA
+520	A3RE51	docosanol
+521	A3RE51	stearoyl-CoA
+522	A3RE51	docosenol
+523	A3RE51	stearoyl-CoA
+524	A3RE51	dodecanol
+525	A3RE51	stearoyl-CoA
+526	A3RE51	eicosanol
+527	A3RE51	stearoyl-CoA
+528	A3RE51	eicosenol
+529	A3RE51	stearoyl-CoA
+530	A3RE51	hexadecanol
+531	A3RE51	stearoyl-CoA
+532	A3RE51	hexadecenol
+533	A3RE51	stearoyl-CoA
+534	A3RE51	linolenyl alcohol
+535	A3RE51	stearoyl-CoA
+536	A3RE51	linoleyl alcohol
+537	A3RE51	stearoyl-CoA
+538	A3RE51	octadecanol
+539	A3RE51	stearoyl-CoA
+540	A3RE51	octadecenol
+541	A3RE51	stearoyl-CoA
+542	A3RE51	phytol
+543	A3RE51	stearoyl-CoA
+544	A3RE51	ricinoleyl alcohol
+545	A3RE51	stearoyl-CoA
+546	A3RE51	tetracosanol
+547	A3RE51	stearoyl-CoA
+548	A3RE51	tetracosenol
+549	A3RE51	stearoyl-CoA
+550	A3RE51	tetradecanol
+551	A3RE51	palmitoyl-CoA
+552	A3RE51	phytol
+553	A0A1Z2RWY4	more
+554	A0A1Z2RWY4	acyl-CoA
+555	A0A1Z2RWY4	decanol
+556	A0A1Z2RWY4	acyl-CoA
+557	A0A1Z2RWY4	dodecanol
+558	A0A1Z2RWY4	acyl-CoA
+559	A0A1Z2RWY4	hexadecanol
+560	A0A1Z2RWY4	acyl-CoA
+561	A0A1Z2RWY4	octadecanol
+562	A0A1Z2RWY4	arachidonoyl-CoA
+563	A0A1Z2RWY4	hexadecan-1-ol
+564	A0A1Z2RWY4	arachidonoyl-CoA
+565	A0A1Z2RWY4	hexadecanol
+566	A0A1Z2RWY4	decanoyl-CoA
+567	A0A1Z2RWY4	hexadecan-1-ol
+568	A0A1Z2RWY4	decanoyl-CoA
+569	A0A1Z2RWY4	hexadecanol
+570	A0A1Z2RWY4	eicosapentaenoyl-CoA
+571	A0A1Z2RWY4	hexadecan-1-ol
+572	A0A1Z2RWY4	eicosapentaenoyl-CoA
+573	A0A1Z2RWY4	hexadecanol
+574	A0A1Z2RWY4	lauroyl-CoA
+575	A0A1Z2RWY4	hexadecan-1-ol
+576	A0A1Z2RWY4	lauroyl-CoA
+577	A0A1Z2RWY4	hexadecanol
+578	A0A1Z2RWY4	myristoyl-CoA
+579	A0A1Z2RWY4	hexadecan-1-ol
+580	A0A1Z2RWY4	myristoyl-CoA
+581	A0A1Z2RWY4	hexadecanol
+582	A0A1Z2RWY4	octadecatrienoyl-CoA
+583	A0A1Z2RWY4	hexadecan-1-ol
+584	A0A1Z2RWY4	octadecatrienoyl-CoA
+585	A0A1Z2RWY4	hexadecanol
+586	A0A1Z2RWY4	octanoyl-CoA
+587	A0A1Z2RWY4	hexadecan-1-ol
+588	A0A1Z2RWY4	octanoyl-CoA
+589	A0A1Z2RWY4	hexadecanol
+590	A0A1Z2RWY4	palmitoyl-CoA
+591	A0A1Z2RWY4	hexadecan-1-ol
+592	A0A1Z2RWY4	palmitoyl-CoA
+593	A0A1Z2RWY4	hexadecanol
+594	A0A1Z2RWY4	stearoyl-CoA
+595	A0A1Z2RWY4	hexadecan-1-ol
+596	A0A1Z2RWY4	stearoyl-CoA
+597	A0A1Z2RWY4	hexadecanol
+598	A0A1Z2RWY4	acyl-CoA
+599	A0A1Z2RWY4	a long-chain alcohol
+600	A0A3G1ICG7	more
+601	A0A3G1ICG7	acyl-CoA
+602	A0A3G1ICG7	decanol
+603	A0A3G1ICG7	acyl-CoA
+604	A0A3G1ICG7	dodecanol
+605	A0A3G1ICG7	acyl-CoA
+606	A0A3G1ICG7	hexadecanol
+607	A0A3G1ICG7	acyl-CoA
+608	A0A3G1ICG7	octadecanol
+609	A0A3G1ICG7	arachidonoyl-CoA
+610	A0A3G1ICG7	hexadecan-1-ol
+611	A0A3G1ICG7	arachidonoyl-CoA
+612	A0A3G1ICG7	hexadecanol
+613	A0A3G1ICG7	decanoyl-CoA
+614	A0A3G1ICG7	hexadecan-1-ol
+615	A0A3G1ICG7	decanoyl-CoA
+616	A0A3G1ICG7	hexadecanol
+617	A0A3G1ICG7	eicosapentaenoyl-CoA
+618	A0A3G1ICG7	hexadecan-1-ol
+619	A0A3G1ICG7	eicosapentaenoyl-CoA
+620	A0A3G1ICG7	hexadecanol
+621	A0A3G1ICG7	lauroyl-CoA
+622	A0A3G1ICG7	hexadecan-1-ol
+623	A0A3G1ICG7	lauroyl-CoA
+624	A0A3G1ICG7	hexadecanol
+625	A0A3G1ICG7	myristoyl-CoA
+626	A0A3G1ICG7	hexadecan-1-ol
+627	A0A3G1ICG7	myristoyl-CoA
+628	A0A3G1ICG7	hexadecanol
+629	A0A3G1ICG7	octadecatrienoyl-CoA
+630	A0A3G1ICG7	hexadecan-1-ol
+631	A0A3G1ICG7	octadecatrienoyl-CoA
+632	A0A3G1ICG7	hexadecanol
+633	A0A3G1ICG7	octanoyl-CoA
+634	A0A3G1ICG7	hexadecan-1-ol
+635	A0A3G1ICG7	octanoyl-CoA
+636	A0A3G1ICG7	hexadecanol
+637	A0A3G1ICG7	palmitoyl-CoA
+638	A0A3G1ICG7	hexadecan-1-ol
+639	A0A3G1ICG7	palmitoyl-CoA
+640	A0A3G1ICG7	hexadecanol
+641	A0A3G1ICG7	stearoyl-CoA
+642	A0A3G1ICG7	hexadecan-1-ol
+643	A0A3G1ICG7	stearoyl-CoA
+644	A0A3G1ICG7	hexadecanol
+645	A0A3G1ICG7	acyl-CoA
+646	A0A3G1ICG7	a long-chain alcohol
+647	A0A1E1GJC5	more
+648	A0A1E1GJC5	myristoyl-CoA
+649	A0A1E1GJC5	tetradecanol
+650	A0A1E1GJC5	palmitoyl-CoA
+651	A0A1E1GJC5	hexadecanol
+652	A0A1E1GJC5	acyl-CoA
+653	A0A1E1GJC5	a long-chain alcohol
+654	A0A1E1GJD2	more
+655	A0A1E1GJD2	myristoyl-CoA
+656	A0A1E1GJD2	tetradecanol
+657	A0A1E1GJD2	palmitoyl-CoA
+658	A0A1E1GJD2	hexadecanol
+659	A0A1E1GJD2	acyl-CoA
+660	A0A1E1GJD2	a long-chain alcohol
+661	Q8GGG1	more
+662	Q8GGG1	1,8-octanedithiol
+663	Q8GGG1	palmitoyl-CoA
+664	Q8GGG1	1-S-monopalmitoyloctanedithiol
+665	Q8GGG1	palmitoyl-CoA
+666	Q8GGG1	1-decanol
+667	Q8GGG1	palmitoyl-CoA
+668	Q8GGG1	1-hexadecanethiol
+669	Q8GGG1	palmitoyl-CoA
+670	Q8GGG1	1-hexanol
+671	Q8GGG1	palmitoyl-CoA
+672	Q8GGG1	2-cyclohexylethanol
+673	Q8GGG1	palmitoyl-CoA
+674	Q8GGG1	2-decanol
+675	Q8GGG1	palmitoyl-CoA
+676	Q8GGG1	4-decanol
+677	Q8GGG1	palmitoyl-CoA
+678	Q8GGG1	cyclododecanol
+679	Q8GGG1	palmitoyl-CoA
+680	Q8GGG1	cyclohexandiol
+681	Q8GGG1	palmitoyl-CoA
+682	Q8GGG1	cyclohexanol
+683	Q8GGG1	palmitoyl-CoA
+684	Q8GGG1	cyclohexanone oxime
+685	Q8GGG1	palmitoyl-CoA
+686	Q8GGG1	hexadecanol
+687	Q8GGG1	palmitoyl-CoA
+688	Q8GGG1	palmitoyl-CoA
+689	Q8GGG1	butanol
+690	Q8GGG1	palmitoyl-CoA
+691	Q8GGG1	decanol
+692	Q8GGG1	palmitoyl-CoA
+693	Q8GGG1	ethanol
+694	Q8GGG1	palmitoyl-CoA
+695	Q8GGG1	hexadecanol
+696	Q8GGG1	palmitoyl-CoA
+697	Q8GGG1	hexanol
+698	Q8GGG1	palmitoyl-CoA
+699	Q8GGG1	isoamyl alcohol
+700	Q8GGG1	palmitoyl-CoA
+701	Q8GGG1	octanol
+702	Q8GGG1	phenol
+703	Q8GGG1	palmitoyl-CoA
+704	Q8GGG1	phenylethanol
+705	Q8GGG1	palmitoyl-CoA
+0	Q68CP4	acetyl-CoA
+1	Q68CP4	heparan sulfate alpha-D-glucosaminide
+2	Q68CP4	acetyl-CoA
+3	Q68CP4	4-methylumbelliferyl-beta-D-glucosaminide
+4	Q68CP4	acetyl-CoA
+5	Q68CP4	4-methylumbelliferyl-alpha-D-glucosaminide
+6	Q68CP4	acetyl-CoA
+7	Q68CP4	1-[4,4-difluoro-5,7-dimethyl-4-bora-3a 4a-diaza-s-indacene-3-propionyl-glycylamino]-beta-D-glucosamine
+8	Q68CP4	acetyl-CoA
+9	Q68CP4	BODIPY-beta-D-glucosaminide
+10	Q3UDW8	acetyl-CoA
+11	Q3UDW8	heparan sulfate alpha-D-glucosaminide
+12	Q3UDW8	acetyl-CoA
+13	Q3UDW8	4-methylumbelliferyl-alpha-D-glucosaminide
+0	P77791	acetyl-CoA
+1	P77791	D-fructose
+2	P77791	acetyl-CoA
+3	P77791	D-galactose
+4	P77791	acetyl-CoA
+5	P77791	D-glucose
+6	P77791	acetyl-CoA
+7	P77791	D-mannose
+8	P77791	more
+9	P77791	acetyl-CoA
+10	P77791	maltose
+11	P77791	acetyl-CoA
+12	P77791	3-O-methyl-D-glucopyranose
+13	P77791	acetyl-CoA
+14	P77791	4-nitrophenyl alpha-D-glucopyranoside
+15	P77791	acetyl-CoA
+16	P77791	4-nitrophenyl alpha-D-maltoside
+17	P77791	acetyl-CoA
+18	P77791	4-nitrophenyl beta-D-glucopyranoside
+19	P77791	acetyl-CoA
+20	P77791	4-nitrophenyl beta-D-maltoside
+21	P77791	acetyl-CoA
+22	P77791	D-glucosamine
+23	P77791	acetyl-CoA
+24	P77791	isomaltose
+25	P77791	acetyl-CoA
+26	P77791	isopropyl beta-D-thiogalactoside
+27	P77791	acetyl-CoA
+28	P77791	isopropyl beta-D-thioglucopyranoside
+29	P77791	acetyl-CoA
+30	P77791	lactose
+31	P77791	acetyl-CoA
+32	P77791	maltoheptaose
+33	P77791	acetyl-CoA
+34	P77791	maltohexaose
+35	P77791	acetyl-CoA
+36	P77791	maltopentaose
+37	P77791	acetyl-CoA
+38	P77791	maltotetraose
+39	P77791	acetyl-CoA
+40	P77791	methyl alpha-D-glucopyranoside
+41	P77791	acetyl-CoA
+42	P77791	methyl beta-D-glucopyranoside
+43	P77791	acetyl-CoA
+44	P77791	n-decyl beta-D-glucopyranoside
+45	P77791	acetyl-CoA
+46	P77791	n-decyl beta-D-maltoside
+47	P77791	acetyl-CoA
+48	P77791	n-dodecyl beta-D-maltoside
+49	P77791	acetyl-CoA
+50	P77791	n-heptyl beta-D-glucopyranoside
+51	P77791	acetyl-CoA
+52	P77791	n-heptyl beta-D-thioglucopyranoside
+53	P77791	acetyl-CoA
+54	P77791	n-hexyl beta-D-glucopyranoside
+55	P77791	acetyl-CoA
+56	P77791	n-nonyl beta-D-glucopyranoside
+57	P77791	acetyl-CoA
+58	P77791	n-octyl alpha-glucopyranoside
+59	P77791	acetyl-CoA
+60	P77791	n-octyl beta-D-glucopyranoside
+61	P77791	acetyl-CoA
+62	P77791	n-octyl beta-D-thioglucopyranoside
+63	P77791	acetyl-CoA
+64	P77791	nigerose
+65	P77791	acetyl-CoA
+66	P77791	sucrose
+67	P37515	acetyl-CoA
+68	P37515	maltose
+0	P41790	acetyl-CoA
+1	P41790	phosphate
+2	P41790	acetyl-CoA
+3	P41790	phosphate
+4	P41790	acetyl-CoA
+5	P41790	phosphate
+6	P41790	CoA
+7	P41790	acetyl phosphate
+8	P41790	CoA
+9	P41790	acetyl phosphate
+10	Q8ZND6	acetyl-CoA
+11	Q8ZND6	phosphate
+12	Q8ZND6	acetyl-CoA
+13	Q8ZND6	phosphate
+14	Q8ZND6	acetyl-CoA
+15	Q8ZND6	phosphate
+16	Q8ZND6	CoA
+17	Q8ZND6	acetyl phosphate
+18	Q8ZND6	CoA
+19	Q8ZND6	acetyl phosphate
+20	Q5LMK3	CoA
+21	Q5LMK3	acetyl phosphate
+22	Q5LMK3	CoA
+23	Q5LMK3	acetyl phosphate
+24	P38503	acetyl-phosphate
+25	P38503	CoA
+26	P38503	acetyl-phosphate
+27	P38503	CoA
+28	P0A9M8	acetyl phosphate
+29	P0A9M8	CoA
+30	P0A9M8	acetyl phosphate
+31	P0A9M8	CoA
+32	P0A9M8	acetyl-CoA
+33	P0A9M8	phosphate
+34	P0A9M8	acetyl-CoA
+35	P0A9M8	phosphate
+36	C1DQG8	acetyl phosphate
+37	C1DQG8	CoA
+38	C1DQG8	acetyl phosphate
+39	C1DQG8	CoA
+40	C1DQG8	acetyl-CoA
+41	C1DQG8	phosphate
+42	C1DQG8	acetyl-CoA
+43	C1DQG8	phosphate
+44	C1DER7	acetyl phosphate
+45	C1DER7	CoA
+46	C1DER7	acetyl phosphate
+47	C1DER7	CoA
+48	C1DER7	acetyl-CoA
+49	C1DER7	phosphate
+50	C1DER7	acetyl-CoA
+51	C1DER7	phosphate
+52	Q2RK58	acetyl-CoA
+53	Q2RK58	phosphate
+54	Q2RK58	acetyl-CoA
+55	Q2RK58	phosphate
+56	Q2RK58	acetyl-CoA
+57	Q2RK58	phosphate
+58	Q2RK58	more
+59	Q2RK58	propionyl-CoA
+60	Q2RK58	phosphate
+61	Q2RJ94	acetyl-CoA
+62	Q2RJ94	phosphate
+63	Q2RJ94	acetyl-CoA
+64	Q2RJ94	phosphate
+65	Q2RJ94	acetyl-CoA
+66	Q2RJ94	phosphate
+67	Q2RJ94	more
+68	Q2RJ94	CoA
+69	Q2RJ94	acetyl phosphate
+70	Q2RJ94	CoA
+71	Q2RJ94	acetyl phosphate
+72	B2RK03	acetyl-CoA
+73	B2RK03	carnitine
+0	Q9UHE5	more
+1	Q9UHE5	acetyl-CoA
+2	Q9UHE5	S-benzyl-L-cysteine
+3	Q9UHE5	acetyl-CoA
+4	Q9UHE5	S-1-menaphthyl-L-cysteine
+5	Q9UHE5	acetyl-CoA
+6	Q9UHE5	S-4-nitrobenzyl-L-cysteine
+7	Q9UHE5	acetyl-CoA
+8	Q9UHE5	leukotriene E4
+0	Q83V16	acetyl-CoA
+1	Q83V16	netilmicin
+2	Q83V16	acetyl-CoA
+3	Q83V16	tobramycin
+4	Q83V16	acetyl-CoA
+5	Q83V16	sisomicin
+6	Q83V16	acetyl-CoA
+7	Q83V16	isepamycin
+8	Q83V16	acetyl-CoA
+9	Q83V16	neomycin
+10	Q83V16	acetyl-CoA
+11	Q83V16	spectinomycin
+12	Q83V16	acetyl-CoA
+13	Q83V16	streptomycin
+14	Q83V16	acetyl-CoA
+15	Q83V16	amikacin
+16	Q83V16	acetyl-CoA
+17	Q83V16	gentamicin
+18	Q83V16	acetyl-CoA
+19	Q83V16	kanamycin
+20	Q306W4	acetyl-CoA
+21	Q306W4	netilmicin
+22	Q306W4	acetyl-CoA
+23	Q306W4	tobramycin
+24	Q306W4	acetyl-CoA
+25	Q306W4	apramycin
+26	Q306W4	acetyl-CoA
+27	Q306W4	amikacin
+28	Q306W4	acetyl-CoA
+29	Q306W4	butirosin
+30	Q306W4	acetyl-CoA
+31	Q306W4	neomycin
+32	Q306W4	acetyl-CoA
+33	Q306W4	paromomycin
+34	Q306W4	butyryl-CoA
+35	Q306W4	ribostamycin
+36	Q306W4	desulfo-CoA
+37	Q306W4	ribostamycin
+38	Q306W4	malonyl-CoA
+39	Q306W4	ribostamycin
+40	Q306W4	propionyl-CoA
+41	Q306W4	ribostamycin
+42	Q306W4	acetyl-CoA
+43	Q306W4	ribostamycin
+44	Q306W4	acetyl-CoA
+45	Q306W4	sisomycin
+46	Q306W4	acetyl-CoA
+47	Q306W4	gentamicin
+48	Q306W4	acetyl-CoA
+49	Q306W4	kanamycin
+50	Q4R0X5	acetyl-CoA
+51	Q4R0X5	aminoglycoside-aminocyclitol
+52	Q51405	acetyl-CoA
+53	Q51405	tobramycin
+54	Q51405	more
+55	Q51405	acetyl-CoA
+56	Q51405	kanamycin A
+57	Q51405	acetyl-CoA
+58	Q51405	neomycin
+59	Q51405	acetyl-CoA
+60	Q51405	paromomycin
+61	Q51405	acetyl-CoA
+62	Q51405	ribostamycin
+63	Q51405	acetyl-CoA
+64	Q51405	kanamycin B
+65	Q51405	acetyl-CoA
+66	Q51405	sisomycin
+67	A0A0K2X0F2	more
+68	A0A0K2X0F2	acetyl-CoA
+69	A0A0K2X0F2	a 2-deoxystreptamine antibiotic
+70	A0A0K2X0F2	acetyl-CoA
+71	A0A0K2X0F2	dibekacin
+72	A0A0K2X0F2	acetyl-CoA
+73	A0A0K2X0F2	fortimicin
+74	A0A0K2X0F2	acetyl-CoA
+75	A0A0K2X0F2	gentamicin C1A
+76	A0A0K2X0F2	acetyl-CoA
+77	A0A0K2X0F2	kanamycin B
+78	A0A0K2X0F2	acetyl-CoA
+79	A0A0K2X0F2	sisomicin
+80	A0A0K2X0F2	acetyl-CoA
+81	A0A0K2X0F2	tobramycin
+82	P29807	more
+83	B1MKV6	acetyl-CoA
+84	B1MKV6	kanamycin
+0	Q47764	more
+1	Q47764	acetyl-CoA
+2	Q47764	histone
+3	Q47764	acetyl-CoA
+4	Q47764	myelin basic protein
+5	Q47764	acetyl-CoA
+6	Q47764	poly-L-Lys
+7	Q93TA5	more
+8	Q93TA6	more
+9	Q93TA7	more
+10	Q93TA8	more
+11	Q93TA9	more
+12	Q93TB0	more
+13	Q93TB1	more
+14	Q93TB2	more
+15	Q93TB3	more
+16	Q93TB4	more
+17	Q93TB5	more
+18	P19650	more
+19	P10051	more
+20	P50858	more
+21	P20092	more
+22	Q93TC3	more
+23	Q93TC2	more
+24	Q93TC1	more
+25	Q93TC0	more
+26	Q93TB9	more
+27	Q93TB8	more
+28	Q93TB7	more
+29	Q93TB6	more
+30	Q764C8	more
+31	Q764C8	acetyl-CoA
+32	Q764C8	tobramycin
+33	Q764C8	acetyl-CoA
+34	Q764C8	sisomicin
+35	Q764C8	acetyl-CoA
+36	Q764C8	amikacin
+37	Q764C8	acetyl-CoA
+38	Q764C8	kanamycin A
+39	Q764C8	acetyl-CoA
+40	Q764C8	dibekacin
+41	Q764C8	acetyl-CoA
+42	Q764C8	lividomycin A
+43	Q764C8	acetyl-CoA
+44	Q764C8	neomycin B
+45	Q764C8	malonyl-CoA
+46	Q764C8	sisomycin
+47	Q764C8	n-butyryl-CoA
+48	Q764C8	sisomycin
+49	Q764C8	n-propionyl-CoA
+50	Q764C8	sisomycin
+51	C4TGI5	more
+52	C4TGI5	acetyl-CoA
+53	C4TGI5	gentamicin
+54	C4TGI5	acetyl-CoA
+55	C4TGI5	neomycin
+56	A0A0B6VRK1	more
+57	A0A0B6VRK1	acetyl-CoA
+58	A0A0B6VRK1	amikacin
+59	A0A0B6VRK1	acetyl-CoA
+60	A0A0B6VRK1	kanamycin
+61	A0A0B6VRK1	acetyl-CoA
+62	A0A0B6VRK1	sisomicin
+63	A0A0B6VRK1	acetyl-CoA
+64	A0A0B6VRK1	tobramycin
+65	A0A0B6VRK1	acetyl-CoA
+66	A0A0B6VRK1	netilmicin
+67	A0A0B6VRK1	acetyl-CoA
+68	A0A0B6VRK1	isepamicin
+69	A0A0B6VRK1	acetyl-CoA
+70	A0A0B6VRK1	ribostamycin
+71	A0A0B6VRK1	acetyl-CoA
+72	A0A0B6VRK1	arbekacin
+73	A0A0B6VRK1	acetyl-CoA
+74	A0A0B6VRK1	gentamicin
+75	A0A0B6VRK1	acetyl-CoA
+76	A0A0B6VRK1	neomycin
+77	Q8RPU6	acetyl-CoA
+78	Q8RPU6	sisomicin
+79	Q8RPU6	acetyl-CoA
+80	Q8RPU6	amikacin
+81	Q7B8A1	acetyl-CoA
+82	Q7B8A1	amikacin
+83	V5XKM9	more
+84	V5XKM9	acetyl-CoA
+85	V5XKM9	amikacin
+86	V5XKM9	acetyl-CoA
+87	V5XKM9	kanamycin
+88	V5XKM9	acetyl-CoA
+89	V5XKM9	sisomicin
+90	V5XKM9	acetyl-CoA
+91	V5XKM9	tobramycin
+92	V5XKM9	acetyl-CoA
+93	V5XKM9	netilmicin
+94	V5XKM9	acetyl-CoA
+95	V5XKM9	isepamicin
+96	V5XKM9	acetyl-CoA
+97	V5XKM9	neomycin
+98	V5XKM9	acetyl-CoA
+99	V5XKM9	dibekacin
+100	V5XKM9	acetyl-CoA
+101	V5XKM9	arbekacin
+102	K0IV17	more
+103	K0IV17	acetyl-CoA
+104	K0IV17	amikacin
+105	K0IV17	acetyl-CoA
+106	K0IV17	kanamycin
+107	K0IV17	acetyl-CoA
+108	K0IV17	sisomicin
+109	K0IV17	acetyl-CoA
+110	K0IV17	tobramycin
+111	K0IV17	acetyl-CoA
+112	K0IV17	netilmicin
+113	K0IV17	acetyl-CoA
+114	K0IV17	isepamicin
+115	K0IV17	acetyl-CoA
+116	K0IV17	neomycin
+117	K0IV17	acetyl-CoA
+118	K0IV17	dibekacin
+119	K0IV17	acetyl-CoA
+120	K0IV17	arbekacin
+121	Q8VQN7	acetyl-CoA
+122	Q8VQN7	amikacin
+123	Q8VQN7	acetyl-CoA
+124	Q8VQN7	kanamycin
+125	Q8VQN7	acetyl-CoA
+126	Q8VQN7	gentamicin
+127	Q8VQN7	acetyl-CoA
+128	Q8VQN7	sisomicin
+129	Q8VQN7	acetyl-CoA
+130	Q8VQN7	tobramycin
+131	Q8VQN7	acetyl-CoA
+132	Q8VQN7	netilmicin
+133	Q8VQN7	acetyl-CoA
+134	Q8VQN7	ribostamycin
+135	Q8VQN7	acetyl-CoA
+136	Q8VQN7	neomycin
+137	Q6SJ71	acetyl-CoA
+138	Q6SJ71	kanamycin A
+139	A0A059WZ16	acetyl-CoA
+140	A0A059WZ16	tobramycin
+141	A0A059WZ16	acetyl-CoA
+142	A0A059WZ16	sisomicin
+143	A0A059WZ16	acetyl-CoA
+144	A0A059WZ16	kanamycin
+145	A0A059WZ16	acetyl-CoA
+146	A0A059WZ16	kanamycin A
+147	A0A059WZ16	acetyl-CoA
+148	A0A059WZ16	sisomicin
+149	A0A059WZ16	acetyl-CoA
+150	A0A059WZ16	tobramycin
+151	A0A059WZ16	acetyl-CoA
+152	A0A059WZ16	gentamycin
+153	A0A059WZ16	acetyl-CoA
+154	A0A059WZ16	kanamycin C
+155	Q93ET8	more
+156	Q93ET8	acetyl-CoA
+157	Q93ET8	tobramycin
+158	Q93ET8	acetyl-CoA
+159	Q93ET8	kanamycin B
+160	Q93ET8	acetyl-CoA
+161	Q93ET8	amikacin
+162	Q93ET8	acetyl-CoA
+163	Q93ET8	kanamycin A
+164	Q93ET8	acetyl-CoA
+165	Q93ET8	dibekacin
+166	Q93ET8	acetyl-CoA
+167	Q93ET8	neomycin
+168	Q44057	acetyl-CoA
+169	Q44057	kanamycin B
+170	Q44057	acetyl-CoA
+171	Q44057	amikacin
+172	Q44057	acetyl-CoA
+173	Q44057	2'-N-ethylnetilmicin
+174	Q44057	acetyl-CoA
+175	Q44057	gentamicin
+176	Q44057	acetyl-CoA
+177	Q44057	sisomicin
+178	Q44057	acetyl-CoA
+179	Q44057	ribostamycin
+180	Q44057	acetyl-CoA
+181	Q44057	arbekacin
+182	Q44057	acetyl-CoA
+183	Q44057	dibekacin
+184	Q44057	acetyl-CoA
+185	Q44057	4,5-disubstituted butirosin A
+186	Q44057	acetyl-CoA
+187	Q44057	neomycin C
+188	Q44057	acetyl-CoA
+189	Q44057	tobramicin
+190	Q44057	cetyl-CoA
+191	Q44057	isepamicin
+192	Q43899	acetyl-CoA
+193	Q43899	kanamycin B
+194	Q43899	acetyl-CoA
+195	Q43899	amikacin
+196	Q43899	acetyl-CoA
+197	Q43899	gentamicin
+198	Q43899	acetyl-CoA
+199	Q43899	sisomicin
+200	Q43899	acetyl-CoA
+201	Q43899	ribostamycin
+202	Q43899	acetyl-CoA
+203	Q43899	arbekacin
+204	Q43899	acetyl-CoA
+205	Q43899	dibekacin
+206	Q43899	acetyl-CoA
+207	Q43899	4,5-disubstituted butirosin A
+208	Q43899	acetyl-CoA
+209	Q43899	neomycin C
+210	Q43899	acetyl-CoA
+211	Q43899	tobramicin
+212	Q43899	cetyl-CoA
+213	Q43899	isepamicin
+214	Q43899	acetyl-CoA
+215	Q43899	2'-N-ethyl netilmicin
+216	V5YUM6	more
+217	V5YUM6	acetyl-CoA
+218	V5YUM6	kanamycin
+219	V5YUM6	acetyl-CoA
+220	V5YUM6	amikacin
+221	V5YUM6	acetyl-CoA
+222	V5YUM6	dibekacin
+223	V5YUM6	acetyl-CoA
+224	V5YUM6	sisomicin
+225	V5YUM6	acetyl-CoA
+226	V5YUM6	tobramycin
+227	V5YUM6	acetyl-CoA
+228	V5YUM6	netilmicin
+229	V5YUM6	acetyl-CoA
+230	V5YUM6	isepamicin
+231	V5YUM6	acetyl-CoA
+232	V5YUM6	neomycin
+233	V5YUM6	acetyl-CoA
+234	V5YUM6	arbekacin
+0	Q5I6B5	phenylethanol
+1	Q5I6B5	acetyl-CoA
+2	Q5I6B5	geraniol
+3	Q5I6B5	acetyl-CoA
+4	Q5I6B5	octanol
+5	Q5I6B5	acetyl-CoA
+6	Q5I6B5	benzyl alcohol
+7	Q5I6B5	acetyl-CoA
+8	Q6XBT0	more
+9	D0QJ94	acetyl-CoA
+10	D0QJ94	octanol
+11	D0QJ94	acetyl-CoA
+12	D0QJ94	butanol
+13	D0QJ94	acetyl-CoA
+14	D0QJ94	ethanol
+15	D0QJ94	acetyl-CoA
+16	D0QJ94	hexanol
+17	D0QJ94	more
+18	D0QJ94	acetyl-CoA
+19	D0QJ94	geranyl alcohol
+20	D0QJ94	acetyl-CoA
+21	D0QJ94	phenylethanol
+22	D0QJ94	butanoyl-CoA
+23	D0QJ94	butanol
+24	D0QJ94	butanoyl-CoA
+25	D0QJ94	ethanol
+26	D0QJ94	hexanoyl-CoA
+27	D0QJ94	butanol
+28	D0QJ94	hexanoyl-CoA
+29	D0QJ94	ethanol
+30	D0QJ94	hexanoyl-CoA
+31	D0QJ94	methanol
+32	D0QJ94	acetyl-CoA
+33	D0QJ94	cinnamyl alcohol
+34	D0QJ94	acetyl-CoA
+35	D0QJ94	benzyl alcohol
+36	G1EFQ3	acetyl-CoA
+37	G1EFQ3	geraniol
+38	G1EFQ3	acetyl-CoA
+39	G1EFQ3	octanol
+40	G1EFQ3	acetyl-CoA
+41	G1EFQ3	heptanol
+42	G1EFQ3	acetyl-CoA
+43	G1EFQ3	butanol
+44	G1EFQ3	acetyl-CoA
+45	G1EFQ3	ethanol
+46	G1EFQ3	acetyl-CoA
+47	G1EFQ3	hexanol
+48	G1EFQ3	acetyl-CoA
+49	G1EFQ3	cinnamyl alcohol
+50	G1EFQ3	acetyl-CoA
+51	G1EFQ3	eugenol
+52	G1EFQ3	acetyl-CoA
+53	G1EFQ3	methanol
+54	G1EFQ3	acetyl-CoA
+55	G1EFQ3	pentanol
+56	G1EFQ3	acetyl-CoA
+57	G1EFQ3	propanol
+58	G1EFQ3	butanoyl-CoA
+59	G1EFQ3	cinnamyl alcohol
+60	G1EFQ3	hexanoyl-CoA
+61	G1EFQ3	cinnamyl alcohol
+62	G1EFQ3	propionyl-CoA
+63	G1EFQ3	cinnamyl alcohol
+64	G1EFQ3	acetyl-CoA
+65	G1EFQ3	benzyl alcohol
+66	G1EFQ3	acetyl-CoA
+67	G1EFQ3	2-phenylethanol
+68	A1XWY7	geraniol
+69	A1XWY7	acetyl-CoA
+70	A1XWY7	1-octanol
+71	A1XWY7	acetyl-CoA
+72	A1XWY7	2-phenylethanol
+73	A1XWY7	acetyl-CoA
+74	A1XWY7	cinnamyl alcohol
+75	A1XWY7	acetyl-CoA
+76	A1XWY7	coniferyl alcohol
+77	A1XWY7	acetyl-CoA
+78	A1XWY7	sinapyl alcohol
+79	A1XWY7	acetyl-CoA
+80	A1XWY7	benzyl alcohol
+81	A1XWY7	acetyl-CoA
+82	P40353	more
+83	P40353	acetyl-CoA
+84	P40353	(Z)-11-tetradecen-1-ol
+85	P40353	acetyl-CoA
+86	P40353	(Z)-9-dodecen-1-ol
+87	P40353	acetyl-CoA
+88	P40353	(Z)-9-hexadecen-1-ol
+89	P40353	acetyl-CoA
+90	P40353	(Z)-9-tetradecen-1-ol
+91	P40353	acetyl-CoA
+92	P40353	an alcohol
+93	P40353	acetyl-CoA
+94	P40353	dodecan-1-ol
+0	P49327	acetyl-CoA
+1	P49327	7 malonyl-CoA
+2	P49327	14 NADPH
+3	P49327	14 H+
+4	Q71SP7	acetyl-CoA
+5	Q71SP7	7 malonyl-CoA
+6	Q71SP7	14 NADPH
+7	Q71SP7	14 H+
+8	P19096	more
+9	P19096	acetoacetyl-CoA
+10	P19096	an [acyl-carrier protein]
+11	P19096	acetoacetyl-CoA
+12	P19096	n malonyl-CoA
+13	P19096	2n NADPH
+14	P19096	2n H+
+15	P19096	acetyl-CoA
+16	P19096	an [acyl-carrier protein]
+17	P19096	acetyl-CoA
+18	P19096	n malonyl-CoA
+19	P19096	2n NADPH
+20	P19096	2n H+
+21	P19096	butanoyl-CoA
+22	P19096	an [acyl-carrier protein]
+23	P19096	butanoyl-CoA
+24	P19096	n malonyl-CoA
+25	P19096	2n NADPH
+26	P19096	2n H+
+27	P19096	crotonyl-CoA
+28	P19096	an [acyl-carrier protein]
+29	P19096	hydroxybutanoyl-CoA
+30	P19096	an [acyl-carrier protein]
+31	P19096	malonyl-CoA
+32	P19096	an [acyl-carrier protein]
+33	P19096	methylbutanoyl-CoA
+34	P19096	an [acyl-carrier protein]
+35	P19096	methylmalonyl-CoA
+36	P19096	an [acyl-carrier protein]
+37	P19096	octanoyl-CoA
+38	P19096	an [acyl-carrier protein]
+39	P19096	octanoyl-CoA
+40	P19096	n malonyl-CoA
+41	P19096	2n NADPH
+42	P19096	2n H+
+43	P19096	palmitoyl-CoA
+44	P19096	an [acyl-carrier protein]
+45	P19096	phenylacetyl-CoA
+46	P19096	an [acyl-carrier protein]
+47	P19096	succinyl-CoA
+48	P19096	an [acyl-carrier protein]
+0	Q64666	acetyl-CoA
+1	Q64666	serotonin
+2	Q64666	acetyl-CoA
+3	Q64666	tryptamine
+4	Q64666	more
+5	Q64666	acetyl-CoA
+6	Q64666	2-phenylethylamine
+7	Q68SL7	acetyl-CoA
+8	Q68SL7	serotonin
+9	Q68SL7	acetyl-CoA
+10	Q68SL7	tryptamine
+11	Q68SL7	more
+12	Q68SL7	acetyl-CoA
+13	Q68SL7	tyramine
+14	Q68SL7	acetyl-CoA
+15	Q68SL7	dopamine
+16	Q68SL7	acetyl-CoA
+17	Q68SL7	phenylethylamine
+18	Q68SL6	acetyl-CoA
+19	Q68SL6	serotonin
+20	Q68SL6	acetyl-CoA
+21	Q68SL6	tryptamine
+22	Q68SL6	more
+23	Q29495	acetyl-CoA
+24	Q29495	serotonin
+25	Q29495	acetyl-CoA
+26	Q29495	tryptamine
+27	Q9PT39	more
+28	A0EM56	acetyl-CoA
+29	A0EM56	serotonin
+30	A0EM56	acetyl-CoA
+31	A0EM56	tryptamine
+32	A0EM56	acetyl-CoA
+33	A0EM56	tyramine
+34	A0EM56	acetyl-CoA
+35	A0EM56	octopamine
+36	A0EM56	acetyl-CoA
+37	A0EM56	dopamine
+38	A0EM56	acetyl-CoA
+39	A0EM56	norepinephrine
+40	Q6V7J8	acetyl-CoA
+41	Q6V7J8	tryptamine
+42	Q6V7J8	acetyl-CoA
+43	Q6V7J8	dopamine
+44	Q16613	acetyl-CoA
+45	Q16613	serotonin
+46	Q16613	more
+47	Q16613	acetyl-CoA
+48	Q16613	2,5-dimethoxyphenylethylamine
+49	Q16613	acetyl-CoA
+50	Q16613	2-fluorophenylethylamine
+51	Q16613	acetyl-CoA
+52	Q16613	3-hydroxy-4-methoxyphenethylamine
+53	Q16613	acetyl-CoA
+54	Q16613	3-hydroxyphenethylamine
+55	Q16613	acetyl-CoA
+56	Q16613	3-methoxy-2-phenylethylamine
+57	Q16613	acetyl-CoA
+58	Q16613	3-methoxytyramine
+59	Q16613	acetyl-CoA
+60	Q16613	6-hydroxydopamine
+61	Q16613	acetyl-CoA
+62	Q16613	tyramine
+63	Q16613	acetyl-CoA
+64	Q16613	2-phenylethylamine
+65	Q16613	acetyl-CoA
+66	Q16613	2-(2,3-dichlorophenyl)-ethylamine
+67	Q16613	acetyl-CoA
+68	Q16613	2-(2-chlorophenyl)-ethylamine
+69	Q16613	acetyl-CoA
+70	Q16613	2-(3,4-dihydroxyphenyl)-ethylamine
+71	Q16613	acetyl-CoA
+72	Q16613	2-(3,4-dimethoxyphenyl)-ethylamine
+73	Q16613	acetyl-CoA
+74	Q16613	2-(3-chlorophenyl)-ethylamine
+75	Q16613	acetyl-CoA
+76	Q16613	2-(3-fluorophenyl)-ethylamine
+77	Q16613	acetyl-CoA
+78	Q16613	2-(4-bromophenyl)-ethylamine
+79	Q16613	acetyl-CoA
+80	Q16613	2-(4-chlorophenyl)ethylamine
+81	Q16613	acetyl-CoA
+82	Q16613	2-(4-fluorophenyl)-ethylamine
+83	Q16613	acetyl-CoA
+84	Q16613	2-(p-fluorophenyl)-ethylamine
+85	Q16613	acetyl-CoA
+86	Q16613	2-(p-nitrophenyl)-ethylamine
+87	Q16613	acetyl-CoA
+88	Q16613	2-(p-tolyl)-ethylamine
+89	Q16613	acetyl-CoA
+90	Q16613	2-methoxyphenylethylamine
+91	Q16613	acetyl-CoA
+92	Q16613	4-(2-aminoethyl)-benzenesulfonyl fluoride
+93	Q16613	acetyl-CoA
+94	Q16613	4-methoxyphenylethylamine
+95	G5EDH7	acetyl-CoA
+96	G5EDH7	serotonin
+97	Q16KL9	more
+98	Q16KL9	acetyl-CoA
+99	Q16KL9	a 2-arylethylamine
+100	Q16KL9	acetyl-CoA
+101	Q16KL9	histamine
+102	B9TU30	acetyl-CoA
+103	B9TU30	serotonin
+104	B9TU30	acetyl-CoA
+105	B9TU30	tryptamine
+106	B9TU30	acetyl-CoA
+107	B9TU30	phenylethylamine
+108	B9TU30	acetyl-CoA
+109	B9TU30	dopamine
+110	B9TU31	acetyl-CoA
+111	B9TU31	serotonin
+112	B9TU31	acetyl-CoA
+113	B9TU31	tryptamine
+114	B9TU31	acetyl-CoA
+115	B9TU31	phenylethylamine
+116	B9TU31	acetyl-CoA
+117	B9TU31	dopamine
+118	A2SZ52	acetyl-CoA
+119	A2SZ52	serotonin
+120	A2SZ52	acetyl-CoA
+121	A2SZ52	tryptamine
+122	A2SZ52	more
+123	A2SZ52	acetyl-CoA
+124	A2SZ52	norepinephrine
+125	A2SZ52	acetyl-CoA
+126	A2SZ52	tyramine
+127	A2SZ52	acetyl-CoA
+128	A2SZ52	octopamine
+129	A2SZ52	acetyl-CoA
+130	A2SZ52	dopamine
+131	Q9VMG0	acetyl-CoA
+132	Q9VMG0	serotonin
+133	Q9VMG0	acetyl-CoA
+134	Q9VMG0	tyramine
+135	Q9VMG0	arachidonoyl-CoA
+136	Q9VMG0	octopamine
+137	Q9VMG0	butanoyl-CoA
+138	Q9VMG0	dopamine
+139	Q9VMG0	oleoyl-CoA
+140	Q9VMG0	octopamine
+141	Q9VMG0	palmitoyl-CoA
+142	Q9VMG0	octopamine
+143	Q9VMG0	stearoyl-CoA
+144	Q9VMG0	octopamine
+145	P9WFK7	acetyl-CoA
+146	P9WFK7	histamine
+147	P9WFK7	acetyl-CoA
+148	P9WFK7	octopamine
+149	P9WFK7	propionyl-CoA
+150	P9WFK7	histamine
+151	Q6Z1Y6	acetyl-CoA
+152	Q6Z1Y6	serotonin
+153	Q6Z1Y6	acetyl-CoA
+154	Q6Z1Y6	tryptamine
+155	Q6Z1Y6	acetyl-CoA
+156	Q6Z1Y6	5-methoxytryptamine
+157	Q6Z1Y6	acetyl-CoA
+158	Q6Z1Y6	tyramine
+159	A0A1J0AHX8	acetyl-CoA
+160	A0A1J0AHX8	tryptamine
+161	A0A1J0AHX8	acetyl-CoA
+162	A0A1J0AHX8	norepinephrine
+163	A0A1J0AHX8	acetyl-CoA
+164	A0A1J0AHX8	tyramine
+165	A0A1J0AHX8	acetyl-CoA
+166	A0A1J0AHX8	octopamine
+167	A0A1J0AHX8	acetyl-CoA
+168	A0A1J0AHX8	dopamine
+169	A0QY29	propionyl-CoA
+170	A0QY29	tyramine
+171	A0QY29	acetyl-CoA
+172	A0QY29	tyramine
+173	A0QY29	acetyl-CoA
+174	A0QY29	octopamine
+175	A0QY29	propionyl-CoA
+176	A0QY29	histamine
+0	P07256	CoA
+1	P07256	acetoacetyl-CoA
+2	P07256	CoA
+3	P07256	acetoacetyl-CoA
+4	P07256	CoA
+5	P07256	acetoacetyl-CoA
+6	D2IH11	acetoacetyl-CoA
+7	D2IH11	CoA
+8	D2IH11	acetoacetyl-CoA
+9	D2IH11	CoA
+10	B7XEI5	2 acetyl-CoA
+11	Q12598	CoA
+12	Q12598	acetoacetyl-CoA
+13	Q12598	CoA
+14	Q12598	acetoacetyl-CoA
+15	Q12598	CoA
+16	Q12598	acetoacetyl-CoA
+17	P07097	CoA
+18	P07097	acetoacetyl-CoA
+19	P07097	CoA
+20	P07097	acetoacetyl-CoA
+21	P07097	CoA
+22	P07097	acetoacetyl-CoA
+23	P07097	acetyl-CoA
+24	P07097	acetyl-CoA
+25	P07097	acetyl-CoA
+26	P07097	acetyl-CoA
+27	Q9BWD1	acetyl-CoA
+28	Q9BWD1	acetyl-CoA
+29	Q9BWD1	acetyl-CoA
+30	Q9BWD1	acetyl-CoA
+31	Q86AD9	acetoacetyl-CoA
+32	Q86AD9	CoA
+33	Q86AD9	acetoacetyl-CoA
+34	Q86AD9	CoA
+35	I3RA72	more
+36	I3RA72	2 acetyl-CoA
+37	I3RA72	2 acetyl-CoA
+38	I3RA72	2 acetyl-CoA
+39	I3RA72	acetyl-CoA
+40	I3RA72	propionyl-CoA
+41	I3R3D1	more
+42	I3R3D1	2 acetyl-CoA
+43	I3R3D1	2 acetyl-CoA
+44	I3R3D1	2 acetyl-CoA
+45	A4YEH9	CoA
+46	A4YEH9	acetoacetyl-CoA
+47	A4YEH9	CoA
+48	A4YEH9	acetoacetyl-CoA
+49	B1YB71	CoA
+50	B1YB71	acetoacetyl-CoA
+51	B1YB71	CoA
+52	B1YB71	acetoacetyl-CoA
+53	Q0KAI3	more
+54	Q0KAI3	CoA
+55	Q0KAI3	acetoacetyl-CoA
+56	Q0KAI3	CoA
+57	Q0KAI3	acetoacetyl-CoA
+58	Q0KAI3	2 acetyl-CoA
+59	Q0KAI3	2 acetyl-CoA
+60	Q0KAI3	2 acetyl-CoA
+61	P45359	2 acetyl-CoA
+62	P45359	2 acetyl-CoA
+63	P45359	2 acetyl-CoA
+64	G7YHN5	2 acetyl-CoA
+65	G7YHN5	2 acetyl-CoA
+66	G7YHN5	2 acetyl-CoA
+67	Q0K368	more
+68	Q0K368	CoA
+69	Q0K368	acetoacetyl-CoA
+70	Q0K368	CoA
+71	Q0K368	acetoacetyl-CoA
+72	D9U856	CoA
+73	D9U856	acetoacetyl-CoA
+74	D9U856	CoA
+75	D9U856	acetoacetyl-CoA
+76	D9U856	2 acetyl-CoA
+77	D9U856	2 acetyl-CoA
+78	D9U856	2 acetyl-CoA
+79	A0A384E138	2 acetyl-CoA
+80	A0A384E138	2 acetyl-CoA
+81	A0A384E138	2 acetyl-CoA
+82	P76461	CoA
+83	P76461	acetoacetyl-CoA
+84	P76461	CoA
+85	P76461	acetoacetyl-CoA
+86	P76461	2 acetyl-CoA
+87	P76461	2 acetyl-CoA
+88	P76461	2 acetyl-CoA
+89	B0XMC1	more
+90	B0XMC1	CoA
+91	B0XMC1	acetoacetyl-CoA
+92	B0XMC1	CoA
+93	B0XMC1	acetoacetyl-CoA
+94	B0XMC1	2 acetyl-CoA
+95	B0XMC1	2 acetyl-CoA
+96	B0XMC1	2 acetyl-CoA
+0	Q8VZU3	1-O-sinapoyl-beta-D-glucose
+1	Q8VZU3	choline
+2	Q8VZU3	1-O-sinapoyl-beta-D-glucose
+3	Q8VZU3	choline
+4	A4VB85	1-O-sinapoyl-beta-D-glucose
+5	A4VB85	choline
+6	A4VB85	1-O-sinapoyl-beta-D-glucose
+7	A4VB85	choline
+8	A4VB84	1-O-sinapoyl-beta-D-glucose
+9	A4VB84	choline
+10	A4VB84	1-O-sinapoyl-beta-D-glucose
+11	A4VB84	choline
+0	Q8RUW5	1-O-sinapoyl-beta-D-glucose
+1	Q8RUW5	L-malate
+2	Q8RUW5	1-O-sinapoyl-beta-D-glucose
+3	Q8RUW5	L-malate
+4	Q8RUW5	1-O-sinapoyl-beta-D-glucose
+5	Q8RUW5	L-malate
+0	Q5H873	tigloyl-CoA
+1	Q5H873	13-alpha-hydroxymultiflorine
+2	Q5H873	benzoyl-CoA
+3	Q5H873	13-hydroxylupanine
+4	Q5H873	benzoyl-CoA
+5	Q5H873	13-hydroxylupanine
+6	Q5H873	more
+7	Q5H873	tigloyl-CoA
+8	Q5H873	13-hydroxylupanine
+9	Q5H873	tigloyl-CoA
+10	Q5H873	13-hydroxylupanine
+11	Q5H873	benzoyl-CoA
+12	Q5H873	13-alpha-hydroxymultiflorine
+0	Q03133	propanoyl-CoA
+1	Q03133	6 (2S)-methylmalonyl-CoA
+2	Q03133	6 NADPH
+3	Q03133	6 H+
+4	Q03131	propanoyl-CoA
+5	Q03131	6 (2S)-methylmalonyl-CoA
+6	Q03131	6 NADPH
+7	Q03131	6 H+
+8	Q03132	propanoyl-CoA
+9	Q03132	6 (2S)-methylmalonyl-CoA
+10	Q03132	6 NADPH
+11	Q03132	6 H+
+12	Q03131	propanoyl-CoA
+13	Q03131	6 (2S)-methylmalonyl-CoA
+14	Q03131	6 NADPH
+15	Q03131	6 H+
+16	Q03131	more
+17	Q03131	propanoyl-CoA
+18	Q03131	(2S)-methylmalonyl-CoA
+19	Q03131	NADPH
+20	Q03131	propanoyl-CoA
+21	Q03131	5 (2S)-methylmalonyl-CoA
+22	Q03131	(2S)-ethylmalonyl-CoA
+23	Q03131	6 NADPH
+24	Q03131	6 H+
+25	Q03131	propanoyl-CoA
+26	Q03131	5 (2S)-methylmalonyl-CoA
+27	Q03131	(2S)-ethylmalonyl-CoA
+28	Q03131	6 NADPH
+29	Q03131	6 H+
+30	Q03131	propanoyl-CoA
+31	Q03131	5 (2S)-methylmalonyl-CoA
+32	Q03131	(2S)-ethylmalonyl-CoA
+33	Q03131	6 NADPH
+34	Q03131	6 H+
+0	Q84Q58	cinnamoyl-CoA
+1	Q84Q58	malonyl-CoA
+2	Q84Q58	4-coumaroyl-CoA
+3	Q84Q58	malonyl-CoA
+4	Q84Q58	acetyl-CoA
+5	Q84Q58	malonyl-CoA
+6	Q84Q58	benzoyl-CoA
+7	Q84Q58	malonyl-CoA
+8	Q84Q58	isovaleryl-CoA
+9	Q84Q58	malonyl-CoA
+10	Q84Q58	n-butyryl-CoA
+11	Q84Q58	malonyl-CoA
+12	Q84Q58	n-hexanoyl-CoA
+13	Q84Q58	malonyl-CoA
+14	A8I4W6	3 malonyl-CoA
+15	A8I4W6	4-coumaroyl-CoA
+16	K7XD27	3 malonyl-CoA
+17	K7XD27	4-coumaroyl-CoA
+18	K7X0B4	more
+19	P51069	3 malonyl-CoA
+20	P51069	4-coumaroyl-CoA
+21	P51069	4-coumaroyl-CoA
+22	P51069	malonyl-CoA
+23	P51069	4-fluorocinnamoyl-CoA
+24	P51069	malonyl-CoA
+25	P51069	trans-3-(3-thienyl)acryloyl-CoA
+26	P51069	malonyl-CoA
+27	P51069	trans-3-furanacryloyl-CoA
+28	P51069	malonyl-CoA
+0	P30419	myristoyl-CoA
+1	P30419	glycylpeptide
+2	P30419	myristoyl-CoA
+3	P30419	glycylpeptide
+4	P30419	myristoyl-CoA
+5	P30419	Gly-Asn-Ala-Ala-Ala-Ala-Arg-Arg
+6	P30419	myristoyl-CoA
+7	P30419	cAMP-dependent protein kinase-derived peptide
+8	P30419	myristoyl-CoA
+9	P30419	p60src-derived peptide
+10	P30419	more
+11	P30419	myristoyl-CoA
+12	P30419	GNAASARR
+13	P30419	myristoyl-CoA
+14	P30419	Gly-Cys-Ser-Val-Ser-Lys-Lys-Lys
+15	P30419	myristoyl-CoA
+16	P30419	HIV-1 negative regulatory factor
+17	P30419	myristoyl-CoA
+18	P30419	HIV1 Gag protein N-terminal peptide
+19	P30419	myristoyl-CoA
+20	P30419	HIV1 Nef protein N-terminal peptide
+21	P30419	myristoyl-CoA
+22	P30419	tumor necrosis factor-derived peptide
+23	P30419	tetradecanoyl-CoA
+24	P30419	glycyl-HIV1 Gag protein N-terminal peptide
+25	P30419	tetradecanoyl-CoA
+26	P30419	glycyl-HIV1 Nef protein N-terminal peptide
+27	O60551	myristoyl-CoA
+28	O60551	glycylpeptide
+29	O60551	myristoyl-CoA
+30	O60551	glycylpeptide
+31	O60551	myristoyl-CoA
+32	O60551	Gly-Asn-Ala-Ala-Ala-Ala-Arg-Arg
+33	O60551	myristoyl-CoA
+34	O60551	cAMP-dependent protein kinase-derived peptide
+35	O60551	myristoyl-CoA
+36	O60551	p60src-derived peptide
+37	O60551	more
+38	O60551	myristoyl-CoA
+39	O60551	HIV1 Gag protein N-terminal peptide
+40	O60551	myristoyl-CoA
+41	O60551	HIV1 Nef protein N-terminal peptide
+42	O60551	myristoyl-CoA
+43	O60551	tumor necrosis factor-derived peptide
+44	O60551	tetradecanoyl-CoA
+45	O60551	glycyl-HIV1 Gag protein N-terminal peptide
+46	O60551	tetradecanoyl-CoA
+47	O60551	glycyl-HIV1 Nef protein N-terminal peptide
+48	O70310	myristoyl-CoA
+49	O70310	glycylpeptide
+50	O70310	myristoyl-CoA
+51	O70310	glycylpeptide
+52	O70310	more
+53	O70310	tetradecanoyl-CoA
+54	O70310	glycyl-pp60cSrc
+55	O70311	myristoyl-CoA
+56	O70311	glycylpeptide
+57	O70311	myristoyl-CoA
+58	O70311	glycylpeptide
+59	O70311	more
+60	O70311	tetradecanoyl-CoA
+61	O70311	glycyl-pp60c Src
+62	Q9LTR9	myristoyl-CoA
+63	Q9LTR9	glycylpeptide
+64	Q9LTR9	myristoyl-CoA
+65	Q9LTR9	glycylpeptide
+66	Q9LTR9	myristoyl-CoA
+67	Q9LTR9	p60src-derived peptide
+68	Q9LTR9	myristoyl-CoA
+69	Q9LTR9	Arabidopsis thaliana protein CDPK6-derived peptide
+70	Q9LTR9	myristoyl-CoA
+71	Q9LTR9	Fen kinase-derived peptide
+72	Q9LTR9	stearoyl-CoA
+73	Q9LTR9	glycylpeptide
+74	Q9LTR9	lauroyl-CoA
+75	Q9LTR9	glycylpeptide
+76	Q9LTR9	n-decanoyl-CoA
+77	Q9LTR9	glycylpeptide
+78	Q9LTR9	palmitoyl-CoA
+79	Q9LTR9	glycylpeptide
+80	Q9LTR9	myristoyl-CoA
+81	Q9LTR9	protein
+82	Q9LTR9	myristoyl-CoA
+83	Q9LTR9	protein
+84	Q9GPZ4	myristoyl-CoA
+85	Q9GPZ4	glycylpeptide
+86	Q9GPZ4	myristoyl-CoA
+87	Q9GPZ4	glycylpeptide
+88	Q9GPZ4	more
+89	Q9GPZ4	myristoyl-CoA
+90	Q9GPZ4	GQLFTSLN
+91	Q9GPZ4	tetradecanoyl-CoA
+92	Q9GPZ4	glycylpeptide
+93	Q388H8	myristoyl-CoA
+94	Q388H8	GCGGSKVK
+95	P30418	myristoyl-CoA
+96	P30418	GLTISKLFRR
+97	P30418	myristoyl-CoA
+98	P30418	GLTISKLFRR-NH2
+99	Q8K1Q0	myristoyl-CoA
+100	Q8K1Q0	GAQLSTLSRV
+101	Q700Q7	myristoyl-CoA
+102	Q700Q7	GAQLSTLSRV
+103	P14743	myristoyl-CoA
+104	P14743	glycylpeptide
+105	P14743	myristoyl-CoA
+106	P14743	glycylpeptide
+107	Q9U419	more
+108	Q9U419	tetradecanoyl-CoA
+109	Q9U419	glycylpeptide
+110	D0AB09	tetradecanoyl-CoA
+111	D0AB09	glycylpeptide
+112	D0AB09	more
+113	D0AB09	myristoyl-CoA
+114	D0AB09	ARF peptide
+115	D0AB09	tetradecanoyl-CoA
+116	D0AB09	GAAPSKIV-NH2
+117	D0AB09	tetradecanoyl-CoA
+118	D0AB09	GLTISKLFRR
+119	D0AB09	tetradecanoyl-CoA
+120	D0AB09	GLYVSRLFNRLFQKK(biotin)
+121	Q8ILW6	myristoyl-CoA
+122	Q8ILW6	peptide CAP5.5
+123	D0A003	more
+124	Q9UVX3	myristoleoyl-CoA
+125	Q9UVX3	CAP5.5
+0	E7AIM3	chlorogenate
+1	E7AIM3	glucarate
+0	Q8GSM7	more
+1	Q8GSM7	caffeoyl-CoA
+2	Q8GSM7	quinate
+3	Q8GSM7	caffeoyl-CoA
+4	Q8GSM7	quinate
+5	Q8GSM7	caffeoyl-CoA
+6	Q8GSM7	shikimate
+7	Q8GSM7	p-coumaroyl-CoA
+8	Q8GSM7	quinate
+9	Q8GSM7	feruloyl-CoA
+10	Q8GSM7	shikimate
+11	Q8GSM7	p-coumaroyl-CoA
+12	Q8GSM7	shikimate
+13	Q70G33	more
+14	Q70G33	caffeoyl-CoA
+15	Q70G33	quinate
+16	Q70G33	caffeoyl-CoA
+17	Q70G33	quinate
+18	Q70G33	caffeoyl-CoA
+19	Q70G33	shikimate
+20	Q70G33	p-coumaroyl-CoA
+21	Q70G33	quinate
+22	Q70G33	p-coumaroyl-CoA
+23	Q70G33	shikimate
+24	Q70G32	more
+25	Q70G32	caffeoyl-CoA
+26	Q70G32	quinate
+27	Q70G32	caffeoyl-CoA
+28	Q70G32	quinate
+29	Q70G32	caffeoyl-CoA
+30	Q70G32	shikimate
+31	Q70G32	p-coumaroyl-CoA
+32	Q70G32	quinate
+33	Q70G32	p-coumaroyl-CoA
+34	Q70G32	shikimate
+35	A4U7G0	caffeoyl-CoA
+36	A4U7G0	quinate
+37	A4U7G0	caffeoyl-CoA
+38	A4U7G0	quinate
+39	A4U7G0	4-coumaroyl-CoA
+40	A4U7G0	quinate
+41	A4U7G0	4-coumaroyl-CoA
+42	A4U7G0	quinate
+43	C3PTS7	caffeoyl-CoA
+44	C3PTS7	quinate
+45	C3PTS7	p-coumaroyl-CoA
+46	C3PTS7	quinate
+47	C3PTS8	caffeoyl-CoA
+48	C3PTS8	quinate
+49	C3PTS8	p-coumaroyl-CoA
+50	C3PTS8	quinate
+51	D1L8A9	caffeoyl-CoA
+52	D1L8A9	quinate
+53	A0A346FEE6	more
+54	A0A346FEE6	4-coumaroyl-CoA
+55	A0A346FEE6	quinate
+56	A0A346FEE6	4-coumaroyl-CoA
+57	A0A346FEE6	quinate
+58	A0A346FEE6	feruloyl-CoA
+59	A0A346FEE6	shikimate
+60	A0A346FEE6	4-coumaroyl-CoA
+61	A0A346FEE6	shikimate
+62	A0A346FEE6	caffeoyl-CoA
+63	A0A346FEE6	shikimate
+64	A0A346FEE6	caffeoyl-CoA
+65	A0A346FEE6	shikimate
+66	A0A346FEE5	more
+67	A0A346FEE5	4-coumaroyl-CoA
+68	A0A346FEE5	quinate
+69	A0A346FEE5	4-coumaroyl-CoA
+70	A0A346FEE5	quinate
+71	A0A346FEE5	feruloyl-CoA
+72	A0A346FEE5	shikimate
+73	A0A346FEE5	4-coumaroyl-CoA
+74	A0A346FEE5	shikimate
+75	A0A346FEE5	caffeoyl-CoA
+76	A0A346FEE5	shikimate
+77	A0A346FEE5	caffeoyl-CoA
+78	A0A346FEE5	shikimate
+79	A0A4D6ZMT8	caffeoyl-CoA
+80	A0A4D6ZMT8	quinate
+81	A0A4D6ZMT8	caffeoyl-CoA
+82	A0A4D6ZMT8	quinate
+83	A0A4D6ZMT8	caffeoyl-CoA
+84	A0A4D6ZMT8	shikimate
+85	A0A4D6ZMT8	caffeoyl-CoA
+86	A0A4D6ZMT8	shikimate
+87	A0A4D6ZMT8	CoA
+88	A0A4D6ZMT8	5-O-caffeoylquinate
+89	A0A4D6ZMT8	CoA
+90	A0A4D6ZMT8	5-O-caffeoylquinate
+91	A0A482LP01	caffeoyl-CoA
+92	A0A482LP01	quinate
+93	A0A482LP01	caffeoyl-CoA
+94	A0A482LP01	quinate
+95	A0A482LP01	caffeoyl-CoA
+96	A0A482LP01	shikimate
+97	A0A482LP01	caffeoyl-CoA
+98	A0A482LP01	shikimate
+99	A0A482LP01	CoA
+100	A0A482LP01	5-O-caffeoylquinate
+101	A0A482LP01	CoA
+102	A0A482LP01	5-O-caffeoylquinate
+103	G0ZDQ5	caffeoyl-CoA
+104	G0ZDQ5	quinate
+105	G0ZDQ5	caffeoyl-CoA
+106	G0ZDQ5	quinate
+107	G0ZDQ5	4-coumaroyl-CoA
+108	G0ZDQ5	quinate
+109	G0ZDQ5	4-coumaroyl-CoA
+110	G0ZDQ5	quinate
+111	G0ZDQ5	CoA
+112	G0ZDQ5	5-O-caffeoylquinate
+113	G0ZDQ5	CoA
+114	G0ZDQ5	5-O-caffeoylquinate
+115	G0ZDQ5	4-coumaroyl-CoA
+116	G0ZDQ5	shikimate
+0	Q9EY50	L-alanyl-tRNAAla
+1	Q9EY50	UDP-N-acetylmuramoyl-L-alanyl-D-glutamyl-L-lysyl-D-alanyl-D-alanine
+2	Q9EY50	L-alanyl-tRNAAla
+3	Q9EY50	UDP-N-acetylmuramoyl-L-alanyl-D-glutamyl-L-lysyl-D-alanyl-D-alanine
+0	Q9I537	L-alanyl-tRNAAla
+1	Q9I537	phosphatidylglycerol
+0	O53223	peptidyl-tRNA1
+1	O53223	aminoacyl-tRNA2
+2	P9WKV2	more
+3	P9WKV2	peptidyl-tRNA1
+4	P9WKV2	aminoacyl-tRNA2
+0	Q8T316	GTP
+1	Q8T316	H2O
+2	Q8T316	putrescine
+3	Q8T316	N,N-dimethylcasein
+4	P08587	Cbz-L-Glu(gamma-p-nitrophenyl ester)-Gly
+5	P08587	?
+6	P21980	protein-bound gamma-glutamine
+7	P21980	alkylamine
+8	P21980	[protein]-L-glutamine
+9	P21980	alkylamine
+10	P21980	2-aminobenzoyl-APE(gamma-Cad-2,4-dinitrophenyl)QEA
+11	P21980	Gly-OMe
+12	P21980	5-(biotinamido)pentylamine
+13	P21980	N,N-dimethylated casein
+14	P21980	Ac-PNPQLPF-OH
+15	P21980	alkylamine
+16	P21980	Ac-PQLPF-NH2
+17	P21980	putrescine
+18	P21980	N,N-dimethylated casein-bound gamma-glutamine
+19	P21980	dansyl-labeled amine nucleophile
+20	P21980	N-Cbz-Glu(gamma-4-nitrophenylester)Gly
+21	P21980	alkylamine
+22	P21980	N-Cbz-L-glutaminyl(gamma-4-nitrophenylester)glycine
+23	P21980	alkylamine
+24	P21980	N-acetyl-PNPQLPF
+25	P21980	alkylamine
+26	P21980	alpha2 plasmin inhibitor
+27	P21980	?
+28	Q8BZH1	more
+29	Q8BZH1	SVS I
+30	Q8BZH1	?
+31	Q8BZH1	SVS II
+32	Q8BZH1	?
+33	Q8BZH1	SVS III
+34	Q8BZH1	?
+35	P81453	more
+36	P81453	N-carbobenzoxy-L-glutaminyl-glycine
+37	P81453	ovalbumin
+38	P81453	fluorescein-4-isothiocyanate-beta-AQG
+39	P81453	NK6-AP
+40	P81453	fluorescein-4-isothiocyanate-epsilon-aminocaproate-QG
+41	P81453	NK6-AP
+42	P81453	sulforhodamine-beta-AQG
+43	P81453	NK6-AP
+44	Q7M0F8	fibronectin-bound gamma-glutamine
+45	Q7M0F8	alkylamine
+46	A5JSJ3	N-carbobenzoxy-Gln-Gly
+47	A5JSJ3	cadaverine
+48	A0A0S3Q1B1	[protein]-L-glutamine
+49	A0A0S3Q1B1	alkylamine
+50	A0A0S3Q1B1	[casein]-L-glutamine
+51	A0A0S3Q1B1	biotin-labeled pentylamine
+52	A0A0S3Q197	[protein]-L-glutamine
+53	A0A0S3Q197	alkylamine
+54	A0A0S3Q197	[casein]-L-glutamine
+55	A0A0S3Q197	biotin-labeled pentylamine
+56	A0A024GWU1	[protein]-L-glutamine
+57	A0A024GWU1	alkylamine
+58	A0A024GWU1	[casein]-L-glutamine
+59	A0A024GWU1	alkylamine
+60	D9J009	[protein]-L-glutamine
+61	D9J009	alkylamine
+62	D9J009	N-Cbz-Gln-Gly
+63	D9J009	alkylamine
+64	Q2VI01	[protein]-L-glutamine
+65	Q2VI01	alkylamine
+66	Q2VI01	Cbz-Gln-Gly
+67	Q2VI01	hydroxylamine
+0	Q948S0	glutathione
+1	Q948S0	[Glu(-Cys)]n-Gly
+2	Q4QY91	glutathione
+3	Q4QY91	[Glu(-Cys)]n-Gly
+4	C7DSA8	glutathione
+5	C7DSA8	[Glu(-Cys)]n-Gly
+6	Q9S7Z3	glutathione
+7	Q9S7Z3	[Glu(-Cys)]n-Gly
+8	Q9S7Z3	glutathione
+9	Q9S7Z3	[Glu(-Cys)]n -Gly
+10	Q1L734	glutathione
+11	Q1L734	[Glu(-Cys)]n-Gly
+12	C7DSA6	glutathione
+13	C7DSA6	[Glu(-Cys)]n-Gly
+14	C7DSA3	glutathione
+15	C7DSA3	[Glu(-Cys)]n-Gly
+16	G5ECE4	glutathione
+17	G5ECE4	[Glu(-Cys)]n-Gly
+18	F1KLT6	glutathione
+19	F1KLT6	[Glu(-Cys)]n-Gly
+20	B3FMV8	glutathione
+21	B3FMV8	[Glu(-Cys)]n-Gly
+22	H2DFA2	glutathione
+23	H2DFA2	[Glu(-Cys)]n-Gly
+24	E5GCW5	glutathione
+25	E5GCW5	[Glu(-Cys)]n-Gly
+26	Q698X7	glutathione
+27	Q698X7	[Glu(-Cys)]n-Gly
+28	Q56VL5	glutathione
+29	Q56VL5	[Glu(-Cys)]n-Gly
+30	A0A075TCK5	more
+31	A0A075TCK5	Cd2+-bis-glutathionate
+32	A0A075TCK5	[Glu(-Cys)]n-Gly
+33	A0A075TCK5	Zn2+-bis-glutathionate
+34	A0A075TCK5	[Glu(-Cys)]n-Gly
+35	A0A075TCK5	metal-bis-glutathionate
+36	A0A075TCK5	[Glu(-Cys)]n-Gly
+0	Q9EY50	L-alanyl-tRNA(E.coli)
+1	Q9EY50	UDP-MurNAc-Ala-D-Glu-Lys-D-Ala-D-Ala
+2	Q9EY50	L-seryl-tRNA(E.coli)
+3	Q9EY50	UDP-MurNAc-Ala-D-Glu-Lys-D-Ala-D-Ala
+4	Q9EY50	glycyl-tRNA(E.coli)
+5	Q9EY50	UDP-MurNAc-Ala-D-Glu-Lys-D-Ala-D-Ala
+6	Q9EY50	more
+0	Q39078	(5-L-glutamyl)-peptide
+1	Q39078	acceptor
+2	Q39078	H+
+3	Q39078	(5-L-glutamyl)-peptide
+4	Q39078	acceptor
+5	Q39078	H+
+6	Q39078	(5-L-glutamyl)-peptide
+7	Q39078	acceptor
+8	Q39078	H+
+9	Q39078	5-L-glutamyl-4-nitroanilide
+10	Q39078	glycylglycine
+11	Q39078	5-L-glutamyl-4-nitroanilide
+12	Q39078	glycylglycine
+13	Q39078	glutathione
+14	Q39078	an amino acid
+15	Q39078	L-Glu-4-nitroanilide
+16	Q39078	glutathione
+17	Q39078	5-D-glutamyl-4-nitroanilide
+18	Q39078	acceptor
+19	Q39078	5-L-glutamyl-7-amido-4-methylcoumarin
+20	Q39078	acceptor
+21	P19440	5-L-glutamyl-4-nitroanilide
+22	P19440	glycylglycine
+23	P19440	L-gamma-glutamyl-4-nitroanilide
+24	P19440	glycylglycine
+25	P19440	a (5-L-glutamyl)-peptide
+26	P19440	an amino acid
+27	P19440	L-gamma-glutamyl-4-nitroanilide
+28	P19440	glycine methylester
+29	P19440	L-gamma-glutamyl-4-nitroanilide
+30	P19440	glycylglycine methylester
+31	P19440	glutathione sulfonic acid
+32	P19440	glycylglycine
+33	P19440	5-L-glutamyl-(3-carboxyl)-4-nitroanilide
+34	P19440	glycylglycine
+35	P19440	(5-L-glutamyl)-peptide
+36	P19440	an amino acid
+37	P19440	5-L-glutamyl-4-nitroanilide
+38	P19440	glycylglycine
+39	P19440	5-L-glutamyl-L-leucine
+40	P19440	glycylglycine
+41	P19440	GSH
+42	P19440	glycylglycine
+43	P19440	GSSG
+44	P19440	glycylglycine
+45	P19440	S-(4-nitro-benzyl)glutathione
+46	P19440	glycylglycine
+47	P19440	S-methylglutathione
+48	P19440	glycylglycine
+49	P19440	leukotriene C4
+50	P19440	glycylglycine
+51	P19440	more
+52	O65652	5-L-glutamyl 4-nitroanilide
+53	O65652	Gly-Gly
+54	O65652	more
+55	Q9M0G0	5-L-glutamyl-4-nitroanilide
+56	Q9M0G0	glycylglycine
+57	Q9M0G0	5-L-glutamyl-4-methoxy-2-naphthylamide
+58	Q9M0G0	glycylglycine
+59	Q9M0G0	5-L-glutamyl 4-nitroanilide
+60	Q9M0G0	Gly-Gly
+61	Q9M0G0	more
+62	O14194	more
+63	Q65KZ6	5-L-glutamyl-4-nitroanilide
+64	Q65KZ6	glycylglycine
+65	Q65KZ6	L-gamma-glutamyl-4-nitroanilide
+66	Q65KZ6	glycylglycine
+67	Q65KZ6	a (5-L-glutamyl)-peptide
+68	Q65KZ6	an amino acid
+69	Q65KZ6	5-L-glutamyl-2-naphthylamide
+70	Q65KZ6	glycylglycine
+71	Q65KZ6	5-L-glutamyl-4-nitroanilide
+72	Q65KZ6	ethylamine
+73	Q65KZ6	D-Gln
+74	Q65KZ6	ethylamine
+75	Q65KZ6	GSH
+76	Q65KZ6	ethylamine
+77	Q65KZ6	GSSG
+78	Q65KZ6	ethylamine
+79	Q65KZ6	L-Gln
+80	Q65KZ6	ethylamine
+81	Q65KZ6	L-Glu-gamma-3-carboxy-4-hydroxy-anilide
+82	Q65KZ6	ethylamine
+83	Q65KZ6	L-Glu-gamma-monohydroxamate
+84	Q65KZ6	ethylamine
+85	Q65KZ6	L-Glu-gamma-monomethyl ester
+86	Q65KZ6	ethylamine
+87	Q65KZ6	L-gamma-glutamyl-4-nitroanilide
+88	Q65KZ6	L-proline
+89	Q65KZ6	S-methyl-glutathione
+90	Q65KZ6	ethylamine
+91	Q65KZ6	gamma-Glu-L-Tyr
+92	Q65KZ6	ethylamine
+93	Q65KZ6	gamma-Glu-Leu
+94	Q65KZ6	ethylamine
+95	Q65KZ6	L-gamma-glutamyl-4-nitroanilide
+96	Q65KZ6	L-phenylalanine
+97	Q65KZ6	L-gamma-glutamyl-4-nitroanilide
+98	Q65KZ6	L-leucine
+99	Q65KZ6	L-gamma-glutamyl-4-nitroanilide
+100	Q65KZ6	L-methionine
+101	Q65KZ6	L-gamma-glutamyl-4-nitroanilide
+102	Q65KZ6	L-valine
+103	Q65KZ6	L-gamma-glutamyl-4-nitroanilide
+104	Q65KZ6	L-arginine
+105	Q65KZ6	L-gamma-glutamyl-4-nitroanilide
+106	Q65KZ6	L-asparagine
+107	Q65KZ6	L-gamma-glutamyl-4-nitroanilide
+108	Q65KZ6	L-histidine
+109	Q65KZ6	L-gamma-glutamyl-4-nitroanilide
+110	Q65KZ6	L-isoleucine
+111	Q65KZ6	L-gamma-glutamyl-4-nitroanilide
+112	Q65KZ6	L-lysine
+113	Q65KZ6	L-gamma-glutamyl-4-nitroanilide
+114	Q65KZ6	L-threonine
+115	Q65KZ6	L-gamma-glutamyl-4-nitroanilide
+116	Q65KZ6	L-tryptophan
+117	Q65KZ6	more
+118	Q680I5	5-L-glutamyl-4-nitroanilide
+119	Q680I5	glycylglycine
+120	Q680I5	5-L-glutamyl-4-methoxy-2-naphthylamide
+121	Q680I5	glycylglycine
+122	Q680I5	5-L-glutamyl 4-nitroanilide
+123	Q680I5	Gly-Gly
+124	Q9CAR5	5-L-glutamyl 4-nitroanilide
+125	Q9CAR5	Gly-Gly
+126	Q9LR30	more
+127	P07314	L-gamma-glutamyl-3-carboxy-4-nitroanilide
+128	P07314	H2O
+129	P18956	5-L-glutamyl-4-nitroanilide
+130	P18956	Gly-Gly
+131	P18956	a (5-L-glutamyl)-peptide
+132	P18956	an amino acid
+133	P18956	L-glutamylhydrazine
+134	P18956	methylamine
+135	Q83XQ6	poly(gamma-glutamic acid)
+136	Q83XQ6	H2O
+137	Q8VYW6	5-L-glutamyl-4-nitroanilide
+138	Q8VYW6	glycylglycine
+139	Q8VYW6	5-L-glutamyl-4-methoxy-2-naphthylamide
+140	Q8VYW6	glycylglycine
+141	P54422	(5-L-glutamyl)-4-nitroanilide
+142	P54422	glycylglycine
+143	P54422	L-gamma-glutamyl-4-nitroanilide
+144	P54422	glycylglycine
+145	P54422	a (5-L-glutamyl)-peptide
+146	P54422	an amino acid
+147	P54422	5-L-glutamyl-(3-carboxyl)-4-nitroanilide
+148	P54422	glycylglycine
+149	P54422	L-gamma-glutamyl-4-nitroanilide
+150	P54422	L-phenylalanine
+151	P54422	L-gamma-glutamyl-4-nitroanilide
+152	P54422	L-leucine
+153	P54422	L-gamma-glutamyl-4-nitroanilide
+154	P54422	L-methionine
+155	P54422	L-gamma-glutamyl-4-nitroanilide
+156	P54422	L-valine
+157	P54422	L-gamma-glutamyl-4-nitroanilide
+158	P54422	L-arginine
+159	P54422	L-gamma-glutamyl-4-nitroanilide
+160	P54422	L-asparagine
+161	P54422	L-gamma-glutamyl-4-nitroanilide
+162	P54422	L-histidine
+163	P54422	L-gamma-glutamyl-4-nitroanilide
+164	P54422	L-isoleucine
+165	P54422	L-gamma-glutamyl-4-nitroanilide
+166	P54422	L-lysine
+167	P54422	L-gamma-glutamyl-4-nitroanilide
+168	P54422	L-threonine
+169	P54422	L-gamma-glutamyl-4-nitroanilide
+170	P54422	L-tryptophan
+171	P54422	(5-L-glutamyl)-peptide
+172	P54422	an amino acid
+173	P54422	5-L-glutamyl-4-nitroanilide
+174	P54422	glycylglycine
+175	P54422	more
+176	Q6KZT2	gamma-L-glutamyl-4-nitroanilide
+177	Q6KZT2	Gly-Gly
+178	A9YTT0	(5-L-glutamyl)-4-nitroanilide
+179	A9YTT0	glycylglycine
+180	A9YTT0	L-gamma-glutamyl-4-nitroanilide
+181	A9YTT0	glycylglycine
+182	A9YTT0	a (5-L-glutamyl)-peptide
+183	A9YTT0	an amino acid
+184	A9YTT0	L-gamma-glutamyl-4-nitroanilide
+185	A9YTT0	L-phenylalanine
+186	A9YTT0	L-gamma-glutamyl-4-nitroanilide
+187	A9YTT0	L-leucine
+188	A9YTT0	L-gamma-glutamyl-4-nitroanilide
+189	A9YTT0	L-methionine
+190	A9YTT0	L-gamma-glutamyl-4-nitroanilide
+191	A9YTT0	L-valine
+192	A9YTT0	L-gamma-glutamyl-4-nitroanilide
+193	A9YTT0	L-arginine
+194	A9YTT0	L-gamma-glutamyl-4-nitroanilide
+195	A9YTT0	L-asparagine
+196	A9YTT0	L-gamma-glutamyl-4-nitroanilide
+197	A9YTT0	L-histidine
+198	A9YTT0	L-gamma-glutamyl-4-nitroanilide
+199	A9YTT0	L-isoleucine
+200	A9YTT0	L-gamma-glutamyl-4-nitroanilide
+201	A9YTT0	L-lysine
+202	A9YTT0	L-gamma-glutamyl-4-nitroanilide
+203	A9YTT0	L-threonine
+204	A9YTT0	L-gamma-glutamyl-4-nitroanilide
+205	A9YTT0	L-tryptophan
+206	A9YTT0	more
+207	A9YTT0	L-gamma-glutamyl-4-nitroanilide
+208	A9YTT0	L-alanine
+209	A9YTT0	L-gamma-glutamyl-4-nitroanilide
+210	A9YTT0	L-aspartate
+211	A9YTT0	L-gamma-glutamyl-4-nitroanilide
+212	A9YTT0	L-serine
+213	A9YTT0	L-gamma-glutamyl-4-nitroanilide
+214	A9YTT0	ethylamine
+215	A9YTT0	L-glutamine
+216	A9YTT0	ethylamine
+217	A9YTT0	L-gamma-glutamyl-4-nitroanilide
+218	A9YTT0	L-glutamate
+219	A9YTT0	L-gamma-glutamyl-4-nitroanilide
+220	A9YTT0	L-glutamine
+221	A9YTT0	L-gamma-glutamyl-4-nitroanilide
+222	A9YTT0	glycine
+223	A0A0B6VSN3	more
+224	Q6R2X1	more
+225	Q62WE3	L-gamma-glutamyl-4-nitroanilide
+226	Q62WE3	glycylglycine
+227	Q62WE3	a (5-L-glutamyl)-peptide
+228	Q62WE3	an amino acid
+229	A0A415J2H1	L-gamma-glutamyl-4-nitroanilide
+230	A0A415J2H1	glycylglycine
+231	A0A415J2H1	a (5-L-glutamyl)-peptide
+232	A0A415J2H1	an amino acid
+233	A0A415J2H1	L-gamma-glutamyl-4-nitroanilide
+234	A0A415J2H1	L-phenylalanine
+235	A0A415J2H1	more
+236	A0A5C8IYM0	L-gamma-glutamyl-4-nitroanilide
+237	A0A5C8IYM0	glycylglycine
+238	A0A5C8IYM0	a (5-L-glutamyl)-peptide
+239	A0A5C8IYM0	an amino acid
+240	A0A5C8IYM0	L-glutamine
+241	A0A5C8IYM0	ethylamine
+242	Q8NRT7	L-gamma-glutamyl-4-nitroanilide
+243	Q8NRT7	glycylglycine
+244	Q8NRT7	a (5-L-glutamyl)-peptide
+245	Q8NRT7	an amino acid
+246	Q8NRT7	L-gamma-glutamyl-4-nitroanilide
+247	Q8NRT7	L-leucine
+248	Q8NRT7	L-gamma-glutamyl-4-nitroanilide
+249	Q8NRT7	L-methionine
+250	Q8NRT7	L-gamma-glutamyl-4-nitroanilide
+251	Q8NRT7	L-valine
+252	Q8NRT7	more
+253	Q8NRT7	L-gamma-glutamyl-4-nitroanilide
+254	Q8NRT7	L-glutamate
+255	Q8NRT7	L-gamma-glutamyl-4-nitroanilide
+256	Q8NRT7	L-glutamine
+257	A0A1S5V3K5	L-gamma-glutamyl-4-nitroanilide
+258	A0A1S5V3K5	glycylglycine
+259	A0A1S5V3K5	a (5-L-glutamyl)-peptide
+260	A0A1S5V3K5	an amino acid
+261	A0A1S5V3K5	L-gamma-glutamyl-4-nitroanilide
+262	A0A1S5V3K5	L-phenylalanine
+263	A0A1S5V3K5	L-gamma-glutamyl-4-nitroanilide
+264	A0A1S5V3K5	L-leucine
+265	A0A1S5V3K5	L-gamma-glutamyl-4-nitroanilide
+266	A0A1S5V3K5	L-methionine
+267	A0A1S5V3K5	L-gamma-glutamyl-4-nitroanilide
+268	A0A1S5V3K5	L-valine
+269	A0A1S5V3K5	L-gamma-glutamyl-4-nitroanilide
+270	A0A1S5V3K5	L-arginine
+271	A0A1S5V3K5	L-gamma-glutamyl-4-nitroanilide
+272	A0A1S5V3K5	L-asparagine
+273	A0A1S5V3K5	L-gamma-glutamyl-4-nitroanilide
+274	A0A1S5V3K5	L-histidine
+275	A0A1S5V3K5	L-gamma-glutamyl-4-nitroanilide
+276	A0A1S5V3K5	L-isoleucine
+277	A0A1S5V3K5	L-gamma-glutamyl-4-nitroanilide
+278	A0A1S5V3K5	L-lysine
+279	A0A1S5V3K5	L-gamma-glutamyl-4-nitroanilide
+280	A0A1S5V3K5	L-threonine
+281	A0A1S5V3K5	L-gamma-glutamyl-4-nitroanilide
+282	A0A1S5V3K5	L-tryptophan
+283	A0A1S5V3K5	more
+284	A0A1S5V3K5	L-gamma-glutamyl-4-nitroanilide
+285	A0A1S5V3K5	glycine
+286	A7Z5E0	L-gamma-glutamyl-4-nitroanilide
+287	A7Z5E0	glycylglycine
+288	A7Z5E0	a (5-L-glutamyl)-peptide
+289	A7Z5E0	an amino acid
+290	E5G727	L-gamma-glutamyl-4-nitroanilide
+291	E5G727	glycylglycine
+292	E5G727	a (5-L-glutamyl)-peptide
+293	E5G727	an amino acid
+294	E0D5C2	more
+295	E0D5C2	gamma-glutamyl-4-nitroanilide
+296	E0D5C2	hyroxamate
+0	Q8GED7	L-leucyl-tRNALeu
+1	Q8GED7	L-phenylalanyl-tRNAPhe
+2	Q8GED7	L-phenylalanyl-tRNAPhe
+3	Q8GED7	L-phenylalanyl-tRNAPhe
+4	Q8GED7	more
+0	P9WPF9	2 L-tyrosyl-tRNATyr
+0	Q8GED7	2 L-leucyl-tRNALeu
+1	Q8GED7	more
+0	P22314	more
+1	P22314	[ubiquitin-activating protein Uba1]-S-ubiquitinyl-L-cysteine
+2	P22314	[ubiquitin-carrier-protein Ubc2b]-L-cysteine
+3	P51668	S-ubiquitinyl-[Uba1]-L-cysteine
+4	P51668	[Ubc5a]-L-cysteine
+5	P62837	[ubiquitin-activating protein E1]-S-ubiquitinyl-L-cysteine
+6	P62837	[ubiquitin carrier protein Ubc4]-L-cysteine
+7	P62837	[ubiquitin-activating protein Uba6]-S-ubiquitinyl-L-cysteine
+8	P62837	[ubiquitin carrier protein UbcH5B]-L-cysteine
+9	Q969T4	more
+10	P62253	more
+11	Q8TBC4	more
+12	Q8TBC4	[ubiquitin-activating protein Uba3]-S-ubiquitinyl-L-cysteine
+13	Q8TBC4	[ubiquitin-carrier-protein Ubc12]-L-cysteine
+14	Q9Z1K5	[ubiquitin-activating protein E1]-S-ubiquitinyl-L-cysteine
+15	Q9Z1K5	[ubiquitin carrier protein UbcH7]-L-cysteine
+16	P92974	[ubiquitin-activating protein UBA2]-S-ubiquitinyl-L-cysteine
+17	P92974	[ubiquitin carrier protein E2]-L-cysteine
+18	Q21633	more
+19	P63279	S-SUMOyl-[E1 SUMO-activating enzyme]-L-cysteine
+20	P63279	[Ubc9]-L-cysteine
+0	O00762	more
+1	O00762	S-ubiquitinyl-[E1 ubiquitin-activating enzyme]-L-cysteine
+2	O00762	UbcH10-L-cysteine
+3	P62256	more
+4	P61086	more
+5	P61086	2 N6-monoubiquitinyl-[Ube2K]-L-lysine
+6	P61086	S-ubiquitinyl-[E1 ubiquitin-activating enzyme]-L-cysteine
+7	P61086	S-(ubiquitin)n-Ube2K-L-cysteine
+8	P61086	S-ubiquitinyl-[E1 ubiquitin-activating enzyme]-L-cysteine
+9	P61086	Ube2K-L-cysteine
+10	P61088	more
+11	Q16763	more
+12	Q9NPD8	more
+13	Q96B02	more
+14	P51668	more
+15	P62837	more
+16	P61077	more
+17	Q9Y2X8	more
+18	Q13404	more
+19	Q15819	more
+20	P49459	more
+21	P51965	more
+22	Q96LR5	more
+23	Q969T4	more
+24	P62253	more
+25	Q5USN4	S-ubiquitinyl-[E1 ubiquitin-activating enzyme]-L-cysteine
+26	Q5USN4	[histone H2A]-L-lysine
+27	Q5USN4	S-ubiquitinyl-[E1 ubiquitin-activating enzyme]-L-cysteine
+28	Q5USN4	N6-(ubiquitin)n-[histone H2A]-L-lysine
+29	P21734	2 N6-monoubiquitinyl-[Ubc1]-L-lysine
+30	P60604	more
+31	P60604	S-ubiquitinyl-[E1 ubiquitin-activating enzyme]-L-cysteine
+32	P60604	S-(ubiquitin)n-Ube2g2-L-cysteine
+33	P60604	S-ubiquitinyl-[E1 ubiquitin-activating enzyme]-L-cysteine
+34	P60604	Ube2g2-L-cysteine
+35	P68036	more
+36	Q8WVN8	more
+37	Q712K3	more
+38	P49427	more
+39	P63146	more

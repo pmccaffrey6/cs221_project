@@ -1,0 +1,2357 @@
+	uniprot_ids	substrates
+0	Q9PT41	more
+1	Q9PT41	factor V
+2	Q9PT41	H2O
+3	Q9PT41	Benzoylarginine ethyl ester
+4	Q9PT41	H2O
+5	Q9PT41	tosylarginine methyl ester
+6	Q9PT41	H2O
+7	Q9PT41	Nalpha-CBZ L-arginine-4-nitroanilide
+8	Q9PT41	H2O
+9	Q9PT41	Pro-Phe-Arg-7-amido-4-methyl coumarin
+10	Q9PT41	H2O
+11	Q9PT41	fibrinogen Aalpha chain
+12	Q9PT41	H2O
+13	Q9PT41	fibrinogen Bbeta chain
+14	Q9PT41	H2O
+15	P18964	factor V
+16	P18964	H2O
+0	Q49SG9	alpha(S1)-casein
+1	Q49SG9	H2O
+2	Q49SH0	alpha(S1)-casein
+3	Q49SH0	H2O
+0	O92972	EDVVPCSMSYN
+1	O92972	H2O
+2	O92972	more
+3	A8DX91	Hepatitis virus C polyprotein NS5A/NS5B
+4	A8DX91	H2O
+5	A8DXI7	Hepatitis virus C polyprotein NS5A/NS5B
+6	A8DXI7	H2O
+7	A8DXT5	Hepatitis virus C polyprotein NS5A/NS5B
+8	A8DXT5	H2O
+9	Q8JRC7	Hepatitis virus C polyprotein NS5A/NS5B
+10	Q8JRC7	H2O
+11	B0L492	Hepatitis virus C polyprotein NS5A/NS5B
+12	B0L492	H2O
+13	B0L493	Hepatitis virus C polyprotein NS5A/NS5B
+14	B0L493	H2O
+15	P26663	Ac-L-Asp-L-Glu-L-Asp-(EDANS)-L-Glu-L-Glu-alpha-aminobutyric acid-PSI[COO]-L-Ala-L-Ser-L-Lys-(DABCYL)-NH2
+16	P26663	H2O
+17	P26663	DDICPCSMSYTW-OH
+18	P26663	H2O
+19	P27958	Ac-DTEDVVP(Nva)-O-4-phenylazophenyl ester
+20	P27958	H2O
+21	Q99IB8	more
+22	P26662	more
+23	O39929	Ac-Asp-Glu-Asp(5-((2-aminoethyl)amino)naphthalene-1-sulfonic acid)-Glu-Glu-aminobutyryl-Psi-[COO]Ala-Ser-Lys-(4 (dimethylaminoazo)benzene-4-carboxylic acid)-NH2
+24	O39929	H2O
+25	B0L494	Hepatitis virus C polyprotein NS5A/NS5B
+26	B0L494	H2O
+27	B0L495	Hepatitis virus C polyprotein NS5A/NS5B
+28	B0L495	H2O
+29	B0L496	Hepatitis virus C polyprotein NS5A/NS5B
+30	B0L496	H2O
+31	B0L497	Hepatitis virus C polyprotein NS5A/NS5B
+32	B0L497	H2O
+0	Q966V2	more
+1	Q966V2	tert-butyloxycarbonyl-Val-Pro-Arg-4-methylcoumarin 7-amide
+2	Q966V2	H2O
+0	P07688	5-dimethylaminonaphthalene-1-sulfonyl-Phe-Arg-Phe(NO2)-Leu
+1	P07688	H2O
+2	P07688	Z-Phe-Arg-4-methylcoumarin-7-amide
+3	P07688	H2O
+4	Q4VRW5	more
+5	Q4VRW4	more
+6	P07858	more
+7	P07858	2-aminobenzoyl-Gly-Ile-Val-Arg-Ala-Lys(Dnp)-OH
+8	P07858	H2O
+9	P07858	Nalpha-benzoyl-Arg-Arg-7-amido-4-methylcoumarin
+10	P07858	H2O
+11	P07858	Z-Phe-Arg-4-methylcoumarin-7-amide
+12	P07858	H2O
+13	P07858	Abz-Ala-Phe-Arg-Ser-Ala-X-Gln-EDDnp
+14	P07858	H2O
+15	P07858	Abz-Ala-Phe-Arg-Ser-X-Arg-Ser-Ala-Gln-EDDnp
+16	P07858	H2O
+17	P07858	Abz-Ala-X-Ala-Phe-Arg-Ser-Ala-Gln-EDDnp
+18	P07858	H2O
+19	P07858	Abz-Ala-X-Arg-Ser-Ala-Ala-Gln-EDDnp
+20	P07858	H2O
+21	P07858	Abz-GIVRAK(Dnp)-OH
+22	P07858	H2O
+23	P07858	Abz-GXXRZK(Dnp)-OH
+24	P07858	H2O
+25	P07858	Abz-GXXZXK(Dnp)-OH
+26	P07858	H2O
+27	P07858	Abz-GXZRXK(Dnp)-OH
+28	P07858	H2O
+29	P07858	Abz-GZXRXK(Dnp)-OH
+30	P07858	H2O
+31	P07858	Abz-X-Ala-Phe-Arg-Ser-Ala-Gln-EDDnp
+32	P07858	H2O
+33	P07858	Ac-Arg-Arg-7-amido-4-trifluoromethylcoumarin
+34	P07858	H2O
+35	P07858	CBZ-Arg-Arg-4-nitroanilide
+36	P07858	H2O
+37	P07858	Cbz-FR-7-amido-4-methylcoumarin
+38	P07858	H2O
+39	P07858	Dnp-Gly-Phe-Arg-Trp-X-OH
+40	P07858	H2O
+41	P07858	Dnp-Gly-Phe-Arg-X-Trp-OH
+42	P07858	H2O
+43	P07858	Dnp-Gly-Phe-X-Phe-Trp-OH
+44	P07858	H2O
+45	P07858	Dnp-Gly-X-Arg-Phe-Trp-OH
+46	P07858	H2O
+47	P07858	N,N'-diBoc-dityrosine-Gly-(isoniazid)2
+48	P07858	H2O
+49	P07858	N,N'-diBoc-dityrosine-Lys-(isoniazid)2
+50	P07858	H2O
+51	P07858	N-CBZ-L-Arg-L-Arg-7-amido- 4-methylcoumarin
+52	P07858	H2O
+53	P07858	Nalpha-CBZ-Arg-Arg 7-amido-4-methylcoumarin
+54	P07858	H2O
+55	P07858	Z-Arg-Arg-cresyl violet
+56	P07858	H2O
+57	P07858	benzyloxycarbonyl-Arg-Arg-7-amido-4-methylcoumarin
+58	P07858	H2O
+59	P07858	benzyloxycarbonyl-Phe-Arg-AMC
+60	P07858	H2O
+61	P07858	benzyloxycarbonyl-phenylalanyl-arginyl-7-amido-4-methylcoumarin
+62	P07858	H2O
+63	P07858	herpes simplex virus type 1 origin binding protein
+64	P07858	H2O
+65	P07858	trypsinogen
+66	P07858	H2O
+67	P07858	trypsinogen activation peptide
+68	P07858	H2O
+69	P07858	Z-Arg-Arg-7-amido-4-methylcoumarin
+70	P07858	H2O
+71	P07858	Nalpha-benzoyl-Phe-Arg-7-amido-4-methylcoumarin
+72	P07858	H2O
+73	P00787	benzyloxycarbonyl-Arg-Arg-7-amido-4-methylcoumarin
+74	P00787	H2O
+75	P00787	Z-Arg-Arg-7-amido-4-methylcoumarin
+76	P00787	H2O
+77	P00787	Ac-Arg-Arg-7-amido-4-trifluoromethylcoumarin
+78	P00787	H2O
+79	Q6XPZ9	Z-Arg-Arg-7-amido-4-methylcoumarin
+80	Q6XPZ9	H2O
+81	P10605	Nalpha-benzoyl-Arg-Arg-7-amido-4-methylcoumarin
+82	P10605	H2O
+83	P10605	Z-Arg-Arg-7-amido-4-methylcoumarin
+84	P10605	H2O
+85	P10605	Nalpha-benzoyl-Phe-Arg-7-amido-4-methylcoumarin
+86	P10605	H2O
+87	P10605	mouse T7 trypsinogen mutant D22A/K24G
+88	P10605	H2O
+89	Q6SSE0	Z-arginyl-arginyl-7-amido-4-methylcoumarin
+90	Q6SSE0	H2O
+91	Q4VRW9	more
+92	Q4VRW9	Z-Arg-Arg-7-amido-4-methylcoumarin
+93	Q4VRW9	H2O
+94	Q4VRW9	benzyloxycarbonyl-phenylalanyl-arginine-7-amido-4-methylcoumarin
+95	Q4VRW9	H2O
+96	Q4VRW9	Z-Arg-Leu-7-amido-4-methylcoumarin
+97	Q4VRW9	H2O
+98	Q4VRW9	Z-Arg-Phe-7-amido-4-methylcoumarin
+99	Q4VRW9	H2O
+100	Q4VRW9	Z-Arg-Val-7-amido-4-methylcoumarin
+101	Q4VRW9	H2O
+102	Q4VRW9	myelin basic protein
+103	Q4VRW9	H2O
+104	Q4VRW8	Z-Arg-Arg-7-amido-4-methylcoumarin
+105	Q4VRW8	H2O
+106	Q4VRW8	benzyloxycarbonyl-phenylalanyl-arginine-7-amido-4-methylcoumarin
+107	Q4VRW8	H2O
+108	Q4VRW7	Z-Arg-Arg-7-amido-4-methylcoumarin
+109	Q4VRW7	H2O
+110	Q4VRW7	benzyloxycarbonyl-phenylalanyl-arginine-7-amido-4-methylcoumarin
+111	Q4VRW7	H2O
+112	Q4VRW6	more
+113	Q4VRW6	Z-Arg-Arg-7-amido-4-methylcoumarin
+114	Q4VRW6	H2O
+115	Q4VRW6	benzyloxycarbonyl-phenylalanyl-arginine-7-amido-4-methylcoumarin
+116	Q4VRW6	H2O
+117	Q4VRW6	Z-Arg-Leu-7-amido-4-methylcoumarin
+118	Q4VRW6	H2O
+119	Q4VRW6	Z-Arg-Phe-7-amido-4-methylcoumarin
+120	Q4VRW6	H2O
+121	Q4VRW6	Z-Arg-Val-7-amido-4-methylcoumarin
+122	Q4VRW6	H2O
+123	Q4VRW6	myelin basic protein
+124	Q4VRW6	H2O
+125	Q3V5Y3	benzyloxycarbonyl-L-Arg-Arg-7-amido-4-methylcoumarin
+126	Q3V5Y3	H2O
+127	Q1HER6	benzyloxycarbonyl-Arg-Arg-7-amido-4-methylcoumarin
+128	Q1HER6	H2O
+129	Q1HER6	benzyloxycarbonyl-Phe-Arg-7-amido-4-methylcoumarin
+130	Q1HER6	H2O
+131	Q1HER6	N-benzyloxycarbonyl-L-Arg-Arg-7-amido-4-methylcoumarin
+132	Q1HER6	H2O
+133	Q1HER6	Abz-FRF(NO2)A
+134	Q1HER6	H2O
+135	Q1HER6	Abz-GIVRAK-Dnp
+136	Q1HER6	H2O
+137	Q1HER6	human anti-HIV-1 antibody
+138	Q1HER6	H2O
+139	Q5VJM8	protein rGSII-D88N
+140	Q5VJM8	H2O
+141	Q5VJM8	N-benzoyl-Arg-Arg-4-nitroanilide
+142	Q5VJM8	H2O
+143	B2XVS9	more
+144	Q68J69	more
+145	A7LM75	more
+146	A7LM75	carbobenzoxy-Phe-Arg-7-amido-4-methylcoumarin
+147	A7LM75	H2O
+148	Q6PH75	N-benzyloxycarbonyl-Arg-Arg-4-methyl-7-amidocoumarin
+149	Q6PH75	H2O
+150	G9FTP5	L-Arg-L-Arg-4-nitroanilide
+151	G9FTP5	H2O
+152	B6CPA2	Nalpha-benzyloxycarbonyl-L-Arg-L-Arg-7-amido-4-trifluoromethylcoumarin
+153	B6CPA2	H2O
+154	A0A0F8AU16	more
+155	A0A0F8AU16	Z-L-Phe-L-Arg 7-amido-4-methylcoumarin
+156	A0A0F8AU16	H2O
+157	Q27HX3	CBZ-L-Arg-L-Arg-4-nitroanilide
+158	Q27HX3	H2O
+159	Q86MW7	Gelatin
+160	Q86MW7	H2O
+161	Q86MW7	CBZ-Phe-Arg-7-amido-4-methylcoumarin
+162	Q86MW7	H2O
+163	Q86MW7	Type I collagen
+164	Q86MW7	H2O
+165	Q86MW7	IgG
+166	Q86MW7	H2O
+167	H9B8T9	N-benzoyl-L-Arg-2-naphthylamide
+168	H9B8T9	H2O
+169	A1YLF1	benzyloxycarbonyl-Arg-Arg-7-amido-4-methylcoumarin
+170	A1YLF1	H2O
+171	A1YLF1	benzyloxycarbonyl-Phe-Arg-7-amido-4-methylcoumarin
+172	A1YLF1	H2O
+173	A1YLF1	human IgG
+174	A1YLF1	H2O
+175	A1YLF1	human fibronectin
+176	A1YLF1	H2O
+177	A1YLF1	human hemoglobin
+178	A1YLF1	H2O
+179	A1YLF1	human serum albumin
+180	A1YLF1	H2O
+181	A1YLF2	benzyloxycarbonyl-Arg-Arg-7-amido-4-methylcoumarin
+182	A1YLF2	H2O
+183	A1YLF2	benzyloxycarbonyl-Phe-Arg-7-amido-4-methylcoumarin
+184	A1YLF2	H2O
+185	A1YLF2	human IgG
+186	A1YLF2	H2O
+187	A1YLF2	human fibronectin
+188	A1YLF2	H2O
+189	A1YLF2	human hemoglobin
+190	A1YLF2	H2O
+191	A1YLF2	human serum albumin
+192	A1YLF2	H2O
+193	B0L0Y4	benzyloxycarbonyl-Arg-Arg-7-amido-4-methylcoumarin
+194	B0L0Y4	H2O
+195	B0L0Y4	benzyloxycarbonyl-Phe-Arg-7-amido-4-methylcoumarin
+196	B0L0Y4	H2O
+197	B0L0Y4	human IgG
+198	B0L0Y4	H2O
+199	B0L0Y4	human fibronectin
+200	B0L0Y4	H2O
+201	B0L0Y4	human hemoglobin
+202	B0L0Y4	H2O
+203	B0L0Y4	human serum albumin
+204	B0L0Y4	H2O
+205	X5D761	Hemoglobin
+206	X5D761	H2O
+207	X5D761	Collagen
+208	X5D761	H2O
+209	X5D761	IgG
+210	X5D761	H2O
+211	X5D761	Albumin
+212	X5D761	H2O
+213	X5D761	Fibronectin
+214	X5D761	H2O
+215	X5D761	IgA
+216	X5D761	H2O
+217	X5D761	benzyloxycarbonyl-L-leucyl-L-arginine-4-methylcoumaryl-7-amide
+218	X5D761	H2O
+219	X5D761	benzyloxycarbonyl-L-phenylalaninyl-L-arginine 4-methylcoumaryl-7-amide
+220	X5D761	H2O
+221	X5D911	Hemoglobin
+222	X5D911	H2O
+223	X5D911	Collagen
+224	X5D911	H2O
+225	X5D911	IgG
+226	X5D911	H2O
+227	X5D911	Albumin
+228	X5D911	H2O
+229	X5D911	Fibronectin
+230	X5D911	H2O
+231	X5D911	IgA
+232	X5D911	H2O
+233	X5D911	benzyloxycarbonyl-L-leucyl-L-arginine-4-methylcoumaryl-7-amide
+234	X5D911	H2O
+235	X5D911	benzyloxycarbonyl-L-phenylalaninyl-L-arginine 4-methylcoumaryl-7-amide
+236	X5D911	H2O
+237	A0A0U4HGR1	benzyloxycarbonyl-Arg-Arg-7-amido-4-methylcoumarin
+238	A0A0U4HGR1	H2O
+239	A0A0U4HGR1	more
+240	F2E819	Abeta peptide
+241	F2E819	H2O
+242	A0A2U8JGA6	benzyloxycarbonyl-Arg-Arg-4-methyl-7-coumarylamide
+243	A0A2U8JGA6	H2O
+244	A0A0P0YP15	benzyloxycarbonyl-Arg-Arg-7-amido-4-methylcoumarin
+245	A0A0P0YP15	H2O
+246	A0A0P0YP15	benzyloxycarbonyl-Phe-Arg-7-amido-4-methylcoumarin
+247	A0A0P0YP15	H2O
+248	A0A0P0YP15	more
+249	A0A0P0YP15	Boc-Phe-Ser-Arg-7-amido-4-methylcoumarin
+250	A0A0P0YP15	H2O
+251	A0A0P0YP15	Boc-Val-Pro-Arg-7-amido-4-methylcoumarin
+252	A0A0P0YP15	H2O
+253	A0A0P0YP15	Suc-Leu-Leu-Val-Tyr-7-amido-4-methylcoumarin
+254	A0A0P0YP15	H2O
+0	P0C0J1	casein
+1	P0C0J1	H2O
+2	P0C0J1	proSpeB
+3	P0C0J1	H2O
+4	P0C0J0	more
+5	P0C0J0	FAAIKAGARY
+6	P0C0J0	H2O
+0	P00785	casein
+1	P00785	H2O
+2	A5HII1	casein
+3	A5HII1	H2O
+4	A5HII1	Collagen type I
+5	A5HII1	H2O
+6	A5HII1	collagen type II
+7	A5HII1	H2O
+8	A5HII1	amylase
+9	A5HII1	H2O
+10	A5HII1	human occludin
+11	A5HII1	H2O
+0	Q7JNQ9	more
+1	Q7JNQ9	benzyloxycarbonyl-L-Val-L-Leu-L-Lys-7-amido-4-methylcoumarin
+2	Q7JNQ9	H2O
+3	Q6UB44	benzyloxycarbonyl-Phe-Arg-7-amido-4-methylcoumarin
+4	Q6UB44	H2O
+5	P07711	histone H3
+6	P07711	H2O
+7	P07711	benzyloxycarbonyl-L-Phe-L-Arg-7-amido-4-methylcoumarin
+8	P07711	H2O
+9	P07711	benzyloxycarbonyl-Phe-Arg-7-amido-4-methylcoumarin
+10	P07711	H2O
+11	P07711	more
+12	P07711	Gelatin
+13	P07711	H2O
+14	P07711	Abz-PR-acetyl-K-QLATKAARKSAK-Dnp
+15	P07711	H2O
+16	P07711	Abz-PRKQLAT-acetyl-K-AARKSAK-Dnp
+17	P07711	H2O
+18	P07711	Abz-PRKQLATKAAR-dimethyl-K-SAK-Dnp
+19	P07711	H2O
+20	P07711	Abz-PRKQLATKAARKSAK-Dnp
+21	P07711	H2O
+22	P07711	CV-(L-Phe-Arg)2
+23	P07711	H2O
+24	P07711	L-Leu-L-Arg-7-amido-4-methylcoumarin
+25	P07711	H2O
+26	P07711	N-benzyloxycarbonyl-Phe-Arg-7-amido-4-methylcoumarin
+27	P07711	H2O
+28	P07711	Z-Val-Val-Arg-AMC
+29	P07711	H2O
+30	P07711	alpha-casein
+31	P07711	H2O
+32	P07711	benzyloxycarbonyl-Phe-Arg-7-amido-4-methylcoumarin
+33	P07711	H2O
+34	P07711	dynamin
+35	P07711	H2O
+36	P07711	procathepsin L
+37	P07711	H2O
+38	P07711	soluble type I collagen
+39	P07711	H2O
+40	P07711	benzyloxycarbonyl-Phe-Arg-4-methylcoumarin-7-amide
+41	P07711	H2O
+42	P07711	benzyloxycarbonyl-L-Arg-L-Arg-7-amido-4-methylcoumarin
+43	P07711	H2O
+44	P07711	benzyloxycarbonyl-Phe-Arg-7-amido-4-methylcoumarin
+45	P07711	H2O
+46	P07711	Z-Phe-Arg-7-amido-4-methylcoumarin
+47	P07711	H2O
+48	P06797	benzyloxycarbonyl-Phe-Arg-7-amido-4-methylcoumarin
+49	P06797	H2O
+50	P06797	more
+51	P06797	benzyloxycarbonyl-Phe-Arg-4-methylcoumarin-7-amide
+52	P06797	H2O
+53	P06797	pro-neuropeptide Y
+54	P06797	H2O
+55	Q8IT42	more
+56	B3TM67	tosyl-Gly-L-Pro-L-Arg-7-amido-4-methylcoumarin
+57	B3TM67	H2O
+58	B3TM67	more
+59	B3TM67	acetyl-AGPRNAA-N-methyl amide
+60	B3TM67	H2O
+61	E5DHH4	Gelatin
+62	E5DHH4	H2O
+63	E5DHH4	Nalpha-benzyloxycarbonyl-L-Phe-L-Arg-7-amido-4-methylcoumarin
+64	E5DHH4	H2O
+65	A5HJW4	benzyloxycarbonyl-L-Phe-L-Arg-7-amido-4-methylcoumarin
+66	A5HJW4	H2O
+67	A5HJW4	more
+68	A5HJW4	Gelatin
+69	A5HJW4	H2O
+70	A5HJW4	benzyloxycarbonyl-L-Arg-L-Arg-7-amido-4-methylcoumarin
+71	A5HJW4	H2O
+72	A5HJW4	L-Ala-L-Ala-L-Phe-7-amido-4-methylcoumarin
+73	A5HJW4	H2O
+74	A5HJW4	benzyloxycarbonyl-Gly-L-Pro-L-Arg-7-amido-4-methylcoumarin
+75	A5HJW4	H2O
+76	A5HJW4	benzyloxycarbonyl-L-Leu-L-Leu-L-Glu-7-amido-4-methylcoumarin
+77	A5HJW4	H2O
+78	Q6DMN0	benzyloxycarbonyl-L-Phe-L-Arg-7-amido-4-methylcoumarin
+79	Q6DMN0	H2O
+80	E3TGS2	benzoyl-Phe-Ala-Arg-4-methoxy-2-naphtylamide
+81	E3TGS2	H2O
+82	Q83UF3	azocasein
+83	Q83UF3	H2O
+84	Q83UF3	more
+85	Q83UF3	Fibronectin
+86	Q83UF3	H2O
+87	Q83UF3	fibronectin
+88	Q83UF3	H2
+89	Q83UF3	laminin
+90	Q83UF3	H2
+91	Q83UF3	vitronectin
+92	Q83UF3	H2
+93	G9F9V4	Gelatin
+94	G9F9V4	H2O
+95	E4W4G9	Gelatin
+96	E4W4G9	H2O
+97	B5G4Y8	benzyloxycarbonyl-L-Phe-L-Arg-7-amido-4-methylcoumarin
+98	B5G4Y8	H2O
+99	B5G4Y8	more
+100	B5G4Y8	Gelatin
+101	B5G4Y8	H2O
+102	B5G4Y8	Bovine serum albumin
+103	B5G4Y8	H2O
+104	Q6T857	benzyloxycarbonyl-Phe-Arg-7-amido-4-methylcoumarin
+105	Q6T857	H2O
+106	Q6T857	Type I collagen
+107	Q6T857	H2O
+108	Q6T857	Gelatin
+109	Q6T857	H2O
+110	Q6T857	benzyloxycarbonyl-Gly-Pro-Arg-7-amido-4-methylcoumarin
+111	Q6T857	H2O
+112	Q6T857	immunoglobulin G
+113	Q6T857	H2O
+114	Q6T857	Laminin
+115	Q6T857	H2O
+116	I6QMK7	benzyloxycarbonyl-Phe-Arg-7-amido-4-methylcoumarin
+117	I6QMK7	H2O
+118	I6QMK7	more
+119	I6QMK7	Gelatin
+120	I6QMK7	H2O
+121	I6QMK7	benzyloxycarbonyl-Gly-Pro-Arg-7-amido-4-methylcoumarin
+122	I6QMK7	H2O
+123	I6QMK7	benzyloxycarbonyl-Gly-Gly-Arg-7-amido-4-methylcoumarin
+124	I6QMK7	H2O
+125	I6QMK7	benzyloxycarbonyl-Val-Val-Arg-7-amido-4-methylcoumarin
+126	I6QMK7	H2O
+127	Q95PM0	benzyloxycarbonyl-L-Phe-L-Arg-7-amido-4-methylcoumarin
+128	Q95PM0	H2O
+129	Q95PM0	benzyloxycarbonyl-L-Phe-L-Arg-7-amido-4-methylcoumarin
+130	Q95PM0	H2O
+131	E9AMH6	benzyloxycarbonyl-L-Phe-L-Arg-7-amido-4-methylcoumarin
+132	E9AMH6	H2O
+133	A0A0K0M968	benzyloxycarbonyl-L-Phe-L-Arg-4-nitroanilide
+134	A0A0K0M968	H2O
+135	K7QTY9	benzyloxycarbonyl-L-Phe-L-Arg-7-amido-4-methylcoumarin
+136	K7QTY9	H2O
+137	A0A1S5WII4	benzyloxycarbonyl-L-Phe-L-Arg-7-amido-4-methylcoumarin
+138	A0A1S5WII4	H2O
+139	A0A1S5WII4	more
+140	A0A1S5WII4	Bovine serum albumin
+141	A0A1S5WII4	H2O
+142	G3INC5	more
+143	G3INC5	FabA antibody
+144	G3INC5	H2O
+0	P09668	Arg-7-amido-4-trifluoromethylcoumarin
+1	P09668	H2O
+2	P09668	Arg-4-methylcoumaryl-7-amide
+3	P09668	H2O
+4	P09668	Arg-4-methylcoumaryl-7-amide
+5	P09668	H2O
+6	P09668	more
+7	P09668	benzoyl-L-Phe-L-Val-L-Arg-4-methylcoumaryl-7-amide
+8	P09668	H2O
+9	Q86MW6	Fibronectin
+10	Q86MW6	H2O
+11	Q86MW6	Gelatin
+12	Q86MW6	H2O
+13	Q86MW6	benzyloxycarbonyl-Phe-Arg-7-amido-4-methylcoumarin
+14	Q86MW6	H2O
+15	A0A060INS8	Leu-2-naphthylamide
+16	A0A060INS8	H2O
+0	P00784	casein
+1	P00784	H2O
+2	P00784	more
+3	P00784	Nalpha-benzoyl-DL-Arg-4-nitroanilide
+4	P00784	H2O
+5	P00784	Nalpha-benzoyl-DL-arginine-4-nitroanilide
+6	P00784	H2O
+7	P00784	azocasein
+8	P00784	H2O
+9	P00784	benzyloxycarbonyl-Ala-OMe
+10	P00784	4-aminoantipyrine
+11	P00784	benzyloxycarbonyl-Gly-OMe
+12	P00784	4-aminoantipyrine
+13	P00784	benzyloxycarbonyl-Ser-OMe
+14	P00784	4-aminoantipyrine
+15	P00784	carboxybenzoyl-Phe-Arg-7-(4-methyl)coumarylamide
+16	P00784	H2O
+17	P00784	chitosan
+18	P00784	H2O
+19	P00784	tarocystatin
+20	P00784	H2O
+0	P05994	more
+1	P05994	benzyloxycarbonyl-Gly-Leu-NH
+2	P05994	H2O
+3	P05994	benzyloxycarbonyl-Gly-Phe-NH
+4	P05994	H2O
+5	P05994	benzyloxycarbonyl-Gly-Tyr-NH
+6	P05994	H2O
+7	P05994	benzyloxycarbonyl-Gly-Tyr-Oet
+8	P05994	H2O
+9	P05994	tert-butyloxycarbonyl-Ala-Ala-Gly-p-nitroanilide
+10	P05994	H2O
+0	O70370	protease-activated receptor-2
+1	O70370	H2O
+2	Q02765	Z-Leu-Leu-Arg-7-amido-4-methylcoumarin
+3	Q02765	H2O
+4	P25774	Z-Leu-Leu-Arg-7-amido-4-methylcoumarin
+5	P25774	H2O
+6	P25774	more
+7	P25774	protease-activated receptor-2
+8	P25774	H2O
+9	P25774	CBZ-Val-Val-Arg- 7-amino-4-trifluoromethyl coumarin
+10	P25774	H2O
+11	P25774	CX3CL1
+12	P25774	H2O
+13	P25774	GRWHKFSVRWE
+14	P25774	H2O
+15	P25774	GRWHKISVRWE
+16	P25774	H2O
+17	P25774	GRWHKLSVRWE
+18	P25774	H2O
+19	P25774	GRWHKVSVRWE
+20	P25774	H2O
+21	P25774	L-Leu-Leu-Arg-7-amido-4-methylcoumarin
+22	P25774	H2O
+23	P25774	cathepsin K
+24	P25774	H2O
+25	P25774	laminin alpha5-chain
+26	P25774	H2O
+27	P25774	benzyloxycarbonyl-Val-Val-Arg-7-amido-4-methylcoumarin
+28	P25774	H2O
+29	P25774	Elastin
+30	P25774	H2O
+31	P25774	Collagen
+32	P25774	H2O
+33	A0A0K0M968	N-benzyloxycarbonyl-Phe-Arg-4-nitroanilide
+34	A0A0K0M968	H2O
+0	E9LTP4	Dabcyl-RTATVQGPSLDFE-EDANS
+1	E9LTP4	H2O
+2	Q82122	more
+3	Q82122	receptor-interacting protein kinase-1
+4	Q82122	H2O
+5	E7E815	(2-(N-methylamino)benzoyl)-IEALFQGPPK(2,4-dinitrophenyl)-FR
+6	E7E815	H2O
+7	E7E815	2-(N-methylamino)benzoyl-DEAMEQGVSDYIK-2,4-dinitrophenyl
+8	E7E815	H2O
+9	E7E815	2-(N-methylamino)benzoyl-IAALFQGPPK(2,4-dinitrophenyl)FR
+10	E7E815	H2O
+11	E7E815	2-(N-methylamino)benzoyl-IEAAFQGPPK(2,4-dinitrophenyl)FR
+12	E7E815	H2O
+13	E7E815	2-(N-methylamino)benzoyl-IEALAQGPPK(2,4-dinitrophenyl)FR
+14	E7E815	H2O
+15	E7E815	2-(N-methylamino)benzoyl-IEALFQSPPK(2,4-dinitrophenyl)FR
+16	E7E815	H2O
+17	E7E815	2-(N-methylamino)benzoyl-IEALKQGPPK(2,4-dinitrophenyl)FR
+18	E7E815	H2O
+19	E7E815	2-(N-methylamino)benzoyl-IEFLFQGPPK(2,4-dinitrophenyl)FR
+20	E7E815	H2O
+21	E7E815	2-(N-methylamino)benzoyl-IELLFQGPPK(2,4-dinitrophenyl)FR
+22	E7E815	H2O
+23	E7E815	2-(N-methylamino)benzoyl-LFAGFQGAYSGAK-2,4-dinitrophenyl
+24	E7E815	H2O
+25	E7E815	2-(N-methylamino)benzoyl-QTGTIQGDRVADK-2,4-dinitrophenyl
+26	E7E815	H2O
+27	E7E815	2-(N-methylamino)benzoyl-RQAVTQGFPTELK-2,4-dinitrophenyl
+28	E7E815	H2O
+29	E7E815	2-(N-methylamino)benzoyl-RTATVQGPSLDFK-2,4-dinitrophenyl
+30	E7E815	H2O
+31	E7E815	2-(N-methylamino)benzoyl-TSAVLQSGFRK-(2,4-dinitrophenyl)-Met
+32	E7E815	H2O
+33	E7E815	Dabcyl-IEALFQGPPKFRE-Edans
+34	E7E815	H2O
+35	E7E815	Dabcyl-RTATVQGPSLDFKE-Edans
+36	E7E815	H2O
+37	E7E815	Dabcyl-TSAVLQSGFRKM-Edans
+38	E7E815	H2O
+39	A9XG43	Dabcyl-KRTATVQGPSLDFE-Edans
+40	A9XG43	H2O
+41	Q04544	Ac-DEFQLQ-4-nitroanilide
+42	Q04544	H2O
+43	Q04544	Ac-EFQLQ-4-nitroanilide
+44	Q04544	H2O
+45	Q04544	Ac-FQLQ-4-nitroanilide
+46	Q04544	H2O
+0	Q66282	eukaryotic initiation factor 4G
+1	Q66282	H2O
+2	Q66478	eukaryotic translation initiation factor 4G
+3	Q66478	H2O
+4	Q66478	eukaryotic initiation factor 4G
+5	Q66478	H2O
+6	Q66478	polyadenylate-binding protein 1
+7	Q66478	H2O
+8	Q66478	more
+9	Q9QF31	eukaryotic translation initiation factor 4G I
+10	Q9QF31	H2O
+11	Q9QF31	eukaryotic translation initiation factor 4G II
+12	Q9QF31	H2O
+13	Q9QF31	thrombin
+14	Q9QF31	H2O
+15	T1WTS3	eukaryotic translation initiation factor 4G
+16	T1WTS3	H2O
+17	A0A2P1DXU1	human eukaryotic translation initiation factor 4 G I
+18	A0A2P1DXU1	H2O
+19	A0A2P1DXU1	human eukaryotic translation initiation factor 4 G II
+20	A0A2P1DXU1	H2O
+0	P10056	Gliadin
+1	P10056	H2O
+2	P10056	protein
+3	P10056	H2O
+4	P10056	Nalpha-benzoyl-L-Arg-4-nitroanilide
+5	P10056	H2O
+6	P10056	gliadin
+7	P10056	H2O
+8	P10056	pyr-Glu-Phe-Leu-4-nitroanilide
+9	P10056	H2O
+0	P80884	protein
+1	P80884	H2O
+2	P80884	pyr-Glu-Phe-Leu-4-nitroanilide
+3	P80884	H2O
+0	P14518	casein
+1	P14518	H2O
+2	P14518	benzyl-Phe-Val-Arg-4-nitroanilide
+3	P14518	H2O
+4	P14518	benzyloxycarbonyl-Arg-Arg-4-nitroanilide
+5	P14518	H2O
+0	O23791	Gelatin
+1	O23791	H2O
+2	O23791	azocasein
+3	O23791	H2O
+4	O23791	casein
+5	O23791	H2O
+6	O23791	Azoalbumin
+7	O23791	H2O
+8	O23791	Fibrin
+9	O23791	H2O
+10	O23791	Hemoglobin
+11	O23791	H2O
+12	O23791	benzyl-Phe-Val-Arg-4-nitroanilide
+13	O23791	H2O
+14	O23791	benzyloxycarbonyl-Arg-Arg-4-nitroanilide
+15	O23791	H2O
+16	O23791	casein
+17	O23791	H2O
+18	O23791	sodium caseinate
+19	O23791	H2O
+20	Q6Q2T4	casein
+21	Q6Q2T4	H2O
+22	Q6Q2T4	N-alpha-benzoyl-DL-arginine-2-naphthylamide
+23	Q6Q2T4	H2O
+24	Q6Q2T4	benzyloxyxarbonyl-Phe-Arg-7-amido-4-methylcoumarin
+25	Q6Q2T4	H2O
+26	Q6Q2T4	epsilon-NH2-Cap-Ala-Cys(S-Bzl)-7-amido-4-methylcoumarin
+27	Q6Q2T4	H2O
+28	Q6Q2T4	epsilon-NH2-Cap-Cys(S-Bzl)-Leu-7-amido-4-methylcoumarin
+29	Q6Q2T4	H2O
+30	Q6Q2T4	epsilon-NH2-Cap-Leu-Cys(S-Bzl)-7-amido-4-methylcoumarin
+31	Q6Q2T4	H2O
+32	Q6Q2T4	epsilon-NH2-Cap-Leu-Gly-7-amido-4-methylcoumarin
+33	Q6Q2T4	H2O
+34	Q6Q2T4	epsilon-NH2-Cap-Phe-Arg-7-amido-4-methylcoumarin
+35	Q6Q2T4	H2O
+36	Q6Q2T4	epsilon-NH2-Cap-Pro-Cys(S-Bzl)-7-amido-4-methylcoumarin
+37	Q6Q2T4	H2O
+38	O23801	casein
+39	O23801	H2O
+0	Q99538	more
+1	Q99538	protein
+2	Q99538	H2O
+3	Q99538	benzyloxycarbonyl-Ala-Ala-Asn-4-methylcoumarin-7-amide
+4	Q99538	H2O
+5	Q99538	Ac-Tyr-Val-Ala-Asp-4-nitroanilide
+6	Q99538	H2O
+7	Q99538	benzoyl-L-Arg-4-nitroanilide
+8	Q99538	H2O
+9	Q99538	benzyloxycarbonyl-Ala-Ala-Asp-7-amido-4-methylcoumarin
+10	Q99538	H2O
+11	Q99538	cystatin E
+12	Q99538	H2O
+13	Q99538	benzyloxycarbonyl-Ala-Ala-Asn-7-amido-4-methylcoumarin
+14	Q99538	H2O
+15	Q9XG75	more
+16	Q9XG75	protein
+17	Q9XG75	H2O
+18	Q9XG75	11S proglobulin
+19	Q9XG75	H2O
+20	Q95M12	more
+21	Q95M12	benzyloxycarbonyl-Ala-Ala-Asn-4-methylcoumarin-7-amide
+22	Q95M12	H2O
+23	Q95M12	GSVKAYTNFDAERD
+24	Q95M12	H2O
+25	Q95M12	ZN-alpha2-glycoprotein
+26	Q95M12	H2O
+27	Q95M12	annexin II
+28	Q95M12	H2O
+29	Q95M12	benzyloxycarbonyl-Ile-Ser-Asn-4-methylcoumarin-7-amide
+30	Q95M12	H2O
+31	Q95M12	serum albumin
+32	Q95M12	H2O
+33	Q95M12	transferrin
+34	Q95M12	H2O
+35	Q95M12	vitamin D-binding protein
+36	Q95M12	H2O
+37	Q95M12	benzyloxycarbonyl-Ala-Ala-Asn-7-amido-4-methylcoumarin
+38	Q95M12	H2O
+39	O24325	casein
+40	O24325	H2O
+41	O24325	phaseolin
+42	O24325	H2O
+43	O89017	more
+44	O89017	protein
+45	O89017	H2O
+46	O89017	benzyloxycarbonyl-Ala-Ala-Asn-4-methylcoumarin-7-amide
+47	O89017	H2O
+48	O89017	acetoacetyl-CoA synthetase
+49	O89017	H2O
+50	P09841	more
+51	P09841	Z-Ala-Ala-Asn-7-amido-4-methylcoumarin
+52	P09841	H2O
+53	P09841	Schistosoma cathepsin B
+54	P09841	H2O
+55	P09841	Z-Ala-Pro-Asn-7-amido-4-methylcoumarin
+56	P09841	H2O
+57	P09841	Z-Ala-Ser-Asn-7-amido-4-methylcoumarin
+58	P09841	H2O
+59	P09841	Bovine serum albumin
+60	P09841	H2O
+61	P09841	prolegumain
+62	P09841	H2O
+63	P09841	Hemoglobin
+64	P09841	H2O
+65	P42665	Hemoglobin
+66	P42665	H2O
+67	Q2UVF3	Z-Ala-Ala-Asn-7-amido-4-methylcoumarin
+68	Q2UVF3	H2O
+69	Q9NFY9	more
+70	Q9NFY9	Z-Ala-Ala-Asn-7-amido-4-methylcoumarin
+71	Q9NFY9	H2O
+72	Q9NFY9	Z-Ala-Pro-Asn-7-amido-4-methylcoumarin
+73	Q9NFY9	H2O
+74	Q9NFY9	Z-Ala-Ser-Asn-7-amido-4-methylcoumarin
+75	Q9NFY9	H2O
+76	Q9NFY9	Hemoglobin
+77	Q9NFY9	H2O
+78	A4PF00	benzyloxycarbonyl-Ala-Ala-Asn-4-methylcoumarin-7-amide
+79	A4PF00	H2O
+80	A4PF00	Bovine serum albumin
+81	A4PF00	H2O
+82	A4PF00	Hemoglobin
+83	A4PF00	H2O
+84	Q6PRC7	benzyloxycarbonyl-Ala-Ala-Asn-4-methylcoumarin-7-amide
+85	Q6PRC7	H2O
+86	Q6PRC7	cathepsin B proform
+87	Q6PRC7	H2O
+88	Q6PRC7	Hemoglobin
+89	Q6PRC7	H2O
+90	A6Y9U8	benzoyl-Asn-4-nitroanilide
+91	A6Y9U8	H2O
+92	A6Y9U9	benzoyl-Asn-4-nitroanilide
+93	A6Y9U9	H2O
+94	Q0ZHB0	more
+95	Q208S4	more
+96	Q208S4	Z-Ala-Ala-Asn-7-amido-4-methylcoumarin
+97	Q208S4	H2O
+98	A9CQC1	more
+99	A9CQC1	benzyloxycarbonyl-Ala-Ala-Asn-7-amido-4-methylcoumarin
+100	A9CQC1	H2O
+101	A9CQC1	Ac-Asp-Asn-Leu-Asp alpha-(4-methylcoumaryl-7-amide)
+102	A9CQC1	H2O
+103	A9CQC1	bovine albumin
+104	A9CQC1	H2O
+105	A9CQC1	bovine haemoglobin
+106	A9CQC1	H2O
+107	Q6EHZ7	Cbz-Ala-Ala-Asn-7-amido-4-methylcoumarin
+108	Q6EHZ7	H2O
+109	C1K3M8	benzyloxycarbonyl-Ala-Ala-Asn-7-amido-4-methylcoumarin
+110	C1K3M8	H2O
+111	D1M8Z4	benzyloxycarbonyl-Ala-Ala-Asn-7-amido-4-methylcoumarin
+112	D1M8Z4	H2O
+113	H2EUL5	Z-Ala-Ala-Asn-7-amido-4-methylcoumarin
+114	H2EUL5	H2O
+115	H2EUL5	Z-Val-Ala-Asn-7-amido-4-methylcoumarin
+116	H2EUL5	H2O
+117	I6R478	benzyloxycarbonyl-Ala-Ala-Asn-7-amido-4-methylcoumarin
+118	I6R478	H2O
+119	I6R478	bovine collagen types I
+120	I6R478	H2O
+121	I6R478	bovine collagen types II
+122	I6R478	H2O
+123	D8M176	benzyloxycarbonyl-Ala-Ala-Asn-7-amido-4-methylcoumarin
+124	D8M176	H2O
+125	Q39119	more
+0	Q95030	protein
+1	Q95030	H2O
+2	Q95030	more
+3	Q95030	benzyloxycarbonyl-L-arginyl-L-arginine 4-nitroanilide
+4	Q95030	H2O
+5	Q95030	complement factor C3
+6	Q95030	H2O
+7	Q95030	complement factor C9
+8	Q95030	H2O
+9	Q95030	fibronectin
+10	Q95030	H2O
+11	Q95030	immunoglobulin G
+12	Q95030	H2O
+13	Q01957	more
+14	Q01957	Z-Arg-Arg-7-amido-4-trifluoromethylcoumarin
+15	Q01957	H2O
+16	Q01957	benzyloxycarbonyl-Arg-Arg-7-amido-4-methylcoumarin
+17	Q01957	H2O
+18	Q01958	more
+19	Q01958	Z-Arg-Arg-7-amido-4-trifluoromethylcoumarin
+20	Q01958	H2O
+21	Q01958	benzyloxycarbonyl-Arg-Arg-7-amido-4-methylcoumarin
+22	Q01958	H2O
+23	C4LSI6	Gelatin
+24	C4LSI6	H2O
+25	C4LSI6	azocasein
+26	C4LSI6	H2O
+0	P29452	more
+1	P29452	pro-interleukin-1beta
+2	P29452	H2O
+3	P29452	pre-interleukin-1beta
+4	P29452	H2O
+5	P89116	more
+6	P89116	nuclear immunophilin FKBP46
+7	P89116	H2O
+8	P89116	p35
+9	P89116	H2O
+10	O02002	more
+11	B6EEC1	N-acetyl-Asp-Glu-Val-Asp-7-amido-4-methylcoumarin
+12	B6EEC1	H2O
+13	F8UU16	pro-interleukin-1beta
+14	F8UU16	H2O
+15	P29466	pro-interleukin-18
+16	P29466	H2O
+17	P29466	pro-interleukin-1beta
+18	P29466	H2O
+19	P29466	pro-interleukin-1beta
+20	P29466	H2O
+21	P29466	succinyl-YVAD-4-nitroanilide
+22	P29466	H2O
+23	P29466	pre-interleukin-1beta
+24	P29466	H2O
+25	P29466	4-[[4'-(dimethylamino)phenyl]azo]-benzoic acid-YVADAPV-5-[(2'-aminoethyl)-amino]naphthalenesulfonic acid
+26	P29466	H2O
+27	P29466	N-acetyl-WEHD-7-amido-4-trifluoromethylcoumarin
+28	P29466	H2O
+29	P29466	acetyl-YVAD-7-amido-4-methylcoumarin
+30	P29466	H2O
+31	P29466	poly(ADP-ribose)polymerase
+32	P29466	H2O
+0	Q51844	azocasein
+1	Q51844	H2O
+2	Q51844	benzoyl-L-arginine-4-nitroanilide
+3	Q51844	H2O
+4	Q51844	more
+5	Q51844	protein
+6	Q51844	H2O
+7	Q51844	Leu-Tyr-Arg-4-nitroanilide
+8	Q51844	H2O
+9	Q51844	Z-Arg-Arg-4-nitroanilide
+10	Q51844	H2O
+11	Q51844	alpha1-Antichymotrypsin
+12	Q51844	H2O
+13	Q51844	denatured alpha1-proteinase inhibitor
+14	Q51844	H2O
+15	Q51844	denatured type I collagen
+16	Q51844	H2O
+17	Q51844	tosyl-GPR-4-nitroanilide
+18	Q51844	H2O
+19	P95493	N-alpha-benzoyl-DL-arginine-4-nitroanilide
+20	P95493	H2O
+21	P95493	MeoSuc-Ala-Ala-Pro-Val-4-nitroanilide
+22	P95493	H2O
+23	P95493	elafin
+24	P95493	H2O
+25	P28784	N-alpha-benzoyl-DL-arginine-4-nitroanilide
+26	P28784	H2O
+27	P28784	MeoSuc-Ala-Ala-Pro-Val-4-nitroanilide
+28	P28784	H2O
+29	P28784	elafin
+30	P28784	H2O
+31	B2RKK0	Z-Phe-Arg-7-amido-4-methylcoumarin
+32	B2RKK0	H2O
+0	O35186	2-aminobenzoyl-Gly-Pro-Hyp-Gly-Phe(NO2)-Gly-OH
+1	O35186	H2O
+2	O35186	carbobenzyloxy-Leu-Arg-4-methylcoumaryl-7-amide
+3	O35186	H2O
+4	O35186	collagen I
+5	O35186	H2O
+6	O35186	more
+7	P43235	carbobenzyloxy-Leu-Arg-4-methylcoumaryl-7-amide
+8	P43235	H2O
+9	P43235	Abz-HPGGPQ-EDDnp
+10	P43235	H2O
+11	P43235	Z-Gly-Pro-Arg-7-amido-4-methylcoumarin
+12	P43235	H2O
+13	P43235	bradykinin
+14	P43235	H2O
+15	P43235	calf skin collagen type I
+16	P43235	H2O
+17	P43235	carbobenzoxy-Phe-Arg-7-amido-4-methylcoumarin
+18	P43235	H2O
+19	P43235	chemo-attractant stromal-derived factor-1alpha
+20	P43235	H2O
+21	P43235	matrix-metalloproteinase-9
+22	P43235	H2O
+23	P43235	tissue growth factor beta1
+24	P43235	H2O
+25	P43235	Elastin
+26	P43235	H2O
+27	P43235	Gelatin
+28	P43235	H2O
+29	P43235	collagen I
+30	P43235	H2O
+31	P43235	Collagen type I
+32	P43235	H2O
+33	P43235	more
+34	P43235	Collagen
+35	P43235	H2O
+36	P43235	Z-Leu-Arg-7-amido-4-methylcoumarin
+37	P43235	H2O
+38	P43235	azocasein
+39	P43235	H2O
+40	P43235	soluble calf-skin collagen
+41	P43235	H2O
+42	P43235	benzyloxycarbonyl-Phe-Arg-7-amido-4-methylcoumarin
+43	P43235	H2O
+44	P43235	Z-Phe-Arg-7-amido-4-methylcoumarin
+45	P43235	H2O
+46	P43235	CBZ-Phe-Arg-4-methylcoumarin 7-amide
+47	P43235	H2O
+48	B2Z447	Ala-Ala-Phe-7-amido-4-methylcoumarin
+49	B2Z447	H2O
+50	B2Z447	N-succinyl-Ala-Ala-Pro-Phe-7-amido-4-methylcoumarin
+51	B2Z447	H2O
+52	B2Z447	N-succinyl-Ile-Ala-7-amido-4-methylcoumarin
+53	B2Z447	H2O
+54	B2Z447	N-succinyl-Leu-Leu-Val-Tyr-7-amido-4-methylcoumarin
+55	B2Z447	H2O
+56	B2Z447	N-succinyl-Leu-Tyr-7-amido-4-methylcoumarin
+57	B2Z447	H2O
+58	B2Z447	benzyloxycarbonyl-Arg-Arg-7-amido-4-methylcoumarin
+59	B2Z447	H2O
+60	B2Z447	benzyloxycarbonyl-Gly-Gly-Arg-7-amido-4-methylcoumarin
+61	B2Z447	H2O
+62	B2Z447	benzyloxycarbonyl-Leu-Leu-Glu-7-amido-4-methylcoumarin
+63	B2Z447	H2O
+64	B2Z447	collagen III
+65	B2Z447	H2O
+66	B2Z447	collagen VI
+67	B2Z447	H2O
+68	B2Z447	Collagen IV
+69	B2Z447	H2O
+70	B2Z447	collagen I
+71	B2Z447	H2O
+72	B2Z447	more
+73	B2Z447	benzyloxycarbonyl-Phe-Arg-7-amido-4-methylcoumarin
+74	B2Z447	H2O
+75	B2Z447	benzyloxycarbonyl-Gly-L-Pro-L-Arg-7-amido-4-methylcoumarin
+76	B2Z447	H2O
+77	B2Z447	collagen II
+78	B2Z447	H2O
+0	P03252	core polypeptide pVI
+1	P03252	H2O
+0	Q8J219	L-tyrosine-p-nitroanilide
+1	Q8J219	H2O
+2	Q8J219	phenylalanine-betanaphthylamide
+3	Q8J219	H2O
+4	Q8J219	phenylalanine-p-nitroanilide
+5	Q8J219	H2O
+6	Q13867	6'-deoxy bleomycin A2
+7	Q13867	H2O
+8	Q13867	6'-deoxy bleomycin Z
+9	Q13867	H2O
+10	Q13867	6'-deoxy tallysomycin H1
+11	Q13867	H2O
+12	Q13867	bleomycin A2
+13	Q13867	H2O
+14	Q13867	bleomycin B2
+15	Q13867	H2O
+16	Q13867	bleomycin Z
+17	Q13867	H2O
+18	Q13867	tallysomycin H1
+19	Q13867	H2O
+20	Q13867	more
+21	Q8R016	Lys(2-Cl-benzyloxycarbonyl)-ACC
+22	Q8R016	H2O
+23	Q8R016	more
+24	Q01532	bleomycin
+25	Q01532	H2O
+26	Q01532	L-Arg-7-amido-4-methylcoumarin
+27	Q01532	H2O
+0	B2Z446	Gelatin
+1	B2Z446	H2O
+2	B2Z446	benzyloxycarbonyl-L-Phe-L-Arg-7-amido-4-methylcoumarin
+3	B2Z446	H2O
+4	B2Z446	more
+5	Q9UBX1	N-benzyloxycarbonyl-L-Leu-L-Arg-4-methylcoumarin 7-amide
+6	Q9UBX1	H2O
+7	Q9UBX1	N-benzyloxycarbonyl-L-Arg-L-Arg-4-methylcoumarin 7-amide
+8	Q9UBX1	H2O
+9	Q9UBX1	N-benzyloxycarbonyl-L-Phe-L-Arg-4-methylcoumarin 7-amide
+10	Q9UBX1	H2O
+11	Q9UBX1	N-benzyloxycarbonyl-L-Val-L-Arg-4-methylcoumarin 7-amide
+12	Q9UBX1	H2O
+13	Q218Y2	more
+14	Q499S6	benzyloxycarbonyl-Arg-Arg-4-methylcoumaryl-7-amide
+15	Q499S6	H2O
+16	Q499S6	benzyloxycarbonyl-Leu-Arg-4-methylcoumaryl-7-amide
+17	Q499S6	H2O
+18	Q5PXS3	benzyloxycarbonyl-Leu-Arg-4-methylcoumarin-7-amide
+19	Q5PXS3	H2O
+20	Q5PXS3	benzyloxycarbonyl-Phe-Arg-4-methylcoumarin-7-amide
+21	Q5PXS3	H2O
+0	O60911	Elastin
+1	O60911	H2O
+2	O60911	N-benzyloxycarbonyl-L-Phe-L-Arg-4-methylcoumarin 7-amide
+3	O60911	H2O
+4	O60911	Z-Phe-Arg-7-amido-4-methylcoumarin
+5	O60911	H2O
+6	O60911	benzyloxycarbonyl-Phe-Arg-7-amido-4-methylcoumarin
+7	O60911	H2O
+8	O60911	more
+9	O60911	plasminogen
+10	O60911	H2O
+11	O60911	Boc-Gly-Lys-Arg-7-amido-4-methylcoumarin
+12	O60911	H2O
+13	O60911	Z-Arg-Arg-7-amido-4-methylcoumarin
+14	O60911	H2O
+15	O60911	benzyloxycarbonyl-Leu-Arg-7-amido-4-methylcoumarin
+16	O60911	H2O
+17	O60911	benzyloxycarbonyl-Val-Val-Arg-7-amido-4-methylcoumarin
+18	O60911	H2O
+19	O60911	neuropeptide Y
+20	O60911	H2O
+21	O60911	proenkephalin
+22	O60911	H2O
+0	Q9J0W2	RETVRFQSD
+1	Q9J0W2	H2O
+2	Q9J0W2	TETVRFQSGTRR
+3	Q9J0W2	H2O
+4	Q9J0W2	more
+0	P18479	more
+1	Q9DIC2	potyvirus helper component
+2	Q9DIC2	H2O
+3	Q9DIC2	more
+4	G2ZHC9	more
+5	Q000U0	more
+6	A1DU45	more
+0	P03305	eukaryotic initiation factor eIF4G
+1	P03305	H2O
+2	P03305	SFANLGRTTL
+3	P03305	H2O
+4	P03305	VQRKLGAAGQ
+5	P03305	H2O
+6	P03305	VQRKLGRAGQ
+7	P03305	H2O
+8	P03305	VQRKLKGAGQ
+9	P03305	H2O
+10	P03305	VQRKLKRAGQ
+11	P03305	H2O
+12	D9IXC0	more
+13	D9IXC0	Edans-EGAVSVRSQEIK-Dabcyl
+14	D9IXC0	H2O
+15	D9IXC0	nisin
+16	D9IXC0	H2O
+17	Q07596	nisin-(leader peptide)
+18	Q07596	H2O
+0	B2RLK2	MeoSuc-Ala-Ala-Pro-Val-4-nitroanilide
+1	B2RLK2	H2O
+2	B2RLK2	elafin
+3	B2RLK2	H2O
+0	P81297	cystatin C
+1	P81297	H2O
+2	P81297	cystatin D
+3	P81297	H2O
+4	P0C1S6	Collagen
+5	P0C1S6	H2O
+6	P0C1S6	cystatin C
+7	P0C1S6	H2O
+8	P0C1S6	cystatin D
+9	P0C1S6	H2O
+10	Q2FZL3	more
+11	Q2FZL3	Galectin-3
+12	Q2FZL3	H2O
+13	Q2G2R8	Galectin-3
+14	Q2G2R8	H2O
+15	Q2G2R8	Z-Phe-Leu-Glu-p-nitroanilide
+16	Q2G2R8	H2O
+0	Q5IBC5	cohesin
+1	Q5IBC5	H2O
+2	Q5IBC5	SYN1
+3	Q5IBC5	H2O
+4	Q03018	cohesin
+5	Q03018	H2O
+6	Q03018	Rec8
+7	Q03018	H2O
+8	Q03018	Scc1
+9	Q03018	H2O
+10	Q03018	more
+11	P60330	cohesin
+12	P60330	H2O
+13	P60330	Rec8
+14	P60330	H2O
+15	P60330	Scc1
+16	P60330	H2O
+17	Q14674	cohesin
+18	Q14674	H2O
+19	Q14674	Scc1
+20	Q14674	H2O
+21	Q14674	[Cy5-D-R-E-I-M-R]2-rhodamine-110
+22	Q14674	H2O
+23	Q14674	kendrin
+24	Q14674	H2O
+25	G5ED39	CPAR-1 protein
+26	G5ED39	H2O
+27	G0SHM3	cohesin
+28	G0SHM3	H2O
+0	P41721	Azocoll
+1	P41721	H2O
+2	P25783	N-benzyloxycarbonyl-Arg-Arg-7-amido-4-methylcoumarin
+3	P25783	H2O
+4	P25783	N-benzyloxycarbonyl-Leu-Arg-7-amido-4-methylcoumarin
+5	P25783	H2O
+6	P25783	N-benzyloxycarbonyl-Phe-Arg-7-amido-4-methylcoumarin
+7	P25783	H2O
+8	P25783	N-benzyloxycarbonyl-Val-Arg-7-amido-4-methylcoumarin
+9	P25783	H2O
+10	P25783	N-benzyloxycarbonyl-Val-Val-Arg-7-amido-4-methylcoumarin
+11	P25783	H2O
+12	P25783	Z-Leu-Arg 7-amido-4-methylcoumarin
+13	P25783	azocasein
+14	P25783	H2O
+15	P41715	azocasein
+16	P41715	H2O
+17	P25783	azocasein
+18	P25783	H2O
+0	D0QZL8	Gelatin
+1	D0QZL8	H2O
+2	D0QZL8	benzyloxycarbonyl-L-Phe-L-Arg-7-amido-4-methylcoumarin
+3	D0QZL8	H2O
+4	D0QZM9	Gelatin
+5	D0QZM9	H2O
+6	D0QZM9	benzyloxycarbonyl-L-Phe-L-Arg-7-amido-4-methylcoumarin
+7	D0QZM9	H2O
+8	D0QZM5	Gelatin
+9	D0QZM5	H2O
+10	D0QZM5	benzyloxycarbonyl-L-Phe-L-Arg-7-amido-4-methylcoumarin
+11	D0QZM5	H2O
+12	D0QZM6	Gelatin
+13	D0QZM6	H2O
+14	D0QZM6	benzyloxycarbonyl-L-Phe-L-Arg-7-amido-4-methylcoumarin
+15	D0QZM6	H2O
+16	D0QZM2	Gelatin
+17	D0QZM2	H2O
+18	D0QZM2	benzyloxycarbonyl-L-Phe-L-Arg-7-amido-4-methylcoumarin
+19	D0QZM2	H2O
+20	Q598P5	more
+21	Q598P5	Hemoglobin
+22	Q598P5	H2O
+23	Q598P5	2-aminobenzoic acid-ALRFSKQ-N-(2,4-dinitrophenyl)ethylenediamine
+24	Q598P5	H2O
+25	Q598P5	2-aminobenzoic acid-KLGFSKQ-N-(2,4-dinitrophenyl)ethylenediamine
+26	Q598P5	H2O
+27	Q598P5	2-aminobenzoic acid-KLRFSKQ-N-(2,4-dinitrophenyl)ethylenediamine
+28	Q598P5	H2O
+29	Q598P5	2-aminobenzoic acid-peptidyl-N-(2,4-dinitrophenyl)ethylenediamine
+30	Q598P5	H2O
+31	Q598P5	2-aminobenzoyl-LGMISLMKRPQ-N-(2,4-dinitrophenyl)ethylenediamine
+32	Q598P5	H2O
+33	Q598P5	Bovine serum albumin
+34	Q598P5	H2O
+35	Q598P5	Immunoglobulin G1
+36	Q598P5	H2O
+37	Q598P5	Immunoglobulin G3
+38	Q598P5	H2O
+39	Q598P5	KEEASSAVVGGPG
+40	Q598P5	H2O
+41	Q598P5	KEEASSAVVRGPG
+42	Q598P5	H2O
+43	Q598P5	N-carbobenzoxy-Arg-Arg-2-(4-methoxy)-naphthylamide
+44	Q598P5	H2O
+45	Q598P5	N-carbobenzoxy-VVR-4-nitroanilide
+46	Q598P5	H2O
+47	Q598P5	N-carbobenzoxy-Val-Val-Arg-4-nitroanilide
+48	Q598P5	H2O
+49	Q598P5	azocasein
+50	Q598P5	H2O
+51	Q598P5	benzoyl-FR-4-methylcoumarin 7-amide
+52	Q598P5	H2O
+53	Q598P5	benzoyl-HR-4-methylcoumarin 7-amide
+54	Q598P5	H2O
+55	Q598P5	benzoyl-His-Arg-7-amido-4-methylcoumarin
+56	Q598P5	H2O
+57	Q598P5	benzoyl-PFR-4-nitroanilide
+58	Q598P5	H2O
+59	Q598P5	benzoyl-Phe-Arg-4-methylcoumarin-7-amide
+60	Q598P5	H2O
+61	Q598P5	benzoyl-Phe-Arg-7-amido-4-methylcoumarin
+62	Q598P5	H2O
+63	Q598P5	benzoyl-RR-4-methylcoumarin 7-amide
+64	Q598P5	H2O
+65	Q598P5	benzoyl-Tyr-Arg-7-amido-4-methylcoumarin
+66	Q598P5	H2O
+67	Q598P5	benzoyl-YR-4-methylcoumarin 7-amide
+68	Q598P5	H2O
+69	Q598P5	casein
+70	Q598P5	H2O
+71	Q598P5	insulin A
+72	Q598P5	H2O
+73	Q598P5	insulin B
+74	Q598P5	H2O
+75	Q598P5	peptidyl-4-nitroanilide
+76	Q598P5	H2O
+77	Q598P5	peptidyl-beta-naphthylamide
+78	Q598P5	H2O
+79	Q598P5	peptidyl-methylcoumarin amide
+80	Q598P5	H2O
+81	Q598P5	benzyloxycarbonyl-Phe-Arg-4-methylcoumarin 7-amide
+82	Q598P5	H2O
+83	Q26909	more
+84	Q26909	benzyloxycarbonyl-Phe-Arg-4-methylcoumarin 7-amide
+85	Q26909	H2O
+86	P25779	benzyloxycarbonyl-Phe-Arg-7-amido-4-methylcoumarin
+87	P25779	H2O
+88	P25779	(7-[[(2S)-2-(4-[(1S)-1 2-dimethyl-1-[(morpholin-4-ylcarbonyl)amino]propyl]-1H-1,2 3-triazol-1-yl)hexanoyl]amino]-4-methyl-2-oxo-3 4-dihydro-2H-chromen-3-yl)acetic acid
+89	P25779	H2O
+90	P25779	(7-[[(2S)-2-(4-[(1S)-1 2-dimethyl-1-[(naphthalen-2-ylcarbonyl)amino]propyl]-1H-1,2 3-triazol-1-yl)hexanoyl]amino]-4-methyl-2-oxo-3 4-dihydro-2H-chromen-3-yl)acetic acid
+91	P25779	H2O
+92	P25779	(7-[[(2S)-2-(4-[(1S)-1 2-dimethyl-1-[(quinolin-6-ylcarbonyl)amino]propyl]-1H-1,2 3-triazol-1-yl)hexanoyl]amino]-4-methyl-2-oxo-3 4-dihydro-2H-chromen-3-yl)acetic acid
+93	P25779	H2O
+94	P25779	(7-[[(2S)-2-(4-[(1S)-1 2-dimethyl-1-[(quinolin-6-ylmethyl)amino]propyl]-1H-1,2 3-triazol-1-yl)hexanoyl]amino]-4-methyl-2-oxo-3 4-dihydro-2H-chromen-3-yl)acetic acid
+95	P25779	H2O
+96	P25779	(7-[[(2S)-2-(4-[(1S)-1,2-dimethyl-1-[(phenylcarbonyl)amino]propyl]-1H-1 2,3-triazol-1-yl)hexanoyl]amino]-4-methyl-2-oxo-3 4-dihydro-2H-chromen-3-yl)acetic acid
+97	P25779	H2O
+98	P25779	(7-[[(2S)-2-(4-[(1S)-1-[(1,3-benzothiazol-6-ylcarbonyl)amino]-1 2-dimethylpropyl]-1H-1,2 3-triazol-1-yl)hexanoyl]amino]-4-methyl-2-oxo-3 4-dihydro-2H-chromen-3-yl)acetic acid
+99	P25779	H2O
+100	P25779	(7-[[(2S)-2-(4-[(1S)-1-[(1,3-benzothiazol-6-ylmethyl)amino]-1 2-dimethylpropyl]-1H-1,2 3-triazol-1-yl)hexanoyl]amino]-4-methyl-2-oxo-3 4-dihydro-2H-chromen-3-yl)acetic acid
+101	P25779	H2O
+102	P25779	(7-[[(2S)-2-(4-[(1S)-1-[(1-benzofuran-6-ylcarbonyl)amino]-1 2-dimethylpropyl]-1H-1,2 3-triazol-1-yl)hexanoyl]amino]-4-methyl-2-oxo-3 4-dihydro-2H-chromen-3-yl)acetic acid
+103	P25779	H2O
+104	P25779	(7-[[(2S)-2-(4-[(1S)-1-[(1-benzothiophen-6-ylcarbonyl)amino]-1 2-dimethylpropyl]-1H-1,2 3-triazol-1-yl)hexanoyl]amino]-4-methyl-2-oxo-3 4-dihydro-2H-chromen-3-yl)acetic acid
+105	P25779	H2O
+106	P25779	(7-[[(2S)-2-(4-[(1S)-1-[(1H-benzotriazol-5-ylcarbonyl)amino]-1 2-dimethylpropyl]-1H-1,2 3-triazol-1-yl)hexanoyl]amino]-4-methyl-2-oxo-3 4-dihydro-2H-chromen-3-yl)acetic acid
+107	P25779	H2O
+108	P25779	(7-[[(2S)-2-(4-[(1S)-1-[(1H-indol-5-ylcarbonyl)amino]-1 2-dimethylpropyl]-1H-1,2 3-triazol-1-yl)hexanoyl]amino]-4-methyl-2-oxo-3 4-dihydro-2H-chromen-3-yl)acetic acid
+109	P25779	H2O
+110	P25779	(7-[[(2S)-2-(4-[(1S)-1-[(1H-indol-6-ylcarbonyl)amino]-1 2-dimethylpropyl]-1H-1,2 3-triazol-1-yl)hexanoyl]amino]-4-methyl-2-oxo-3 4-dihydro-2H-chromen-3-yl)acetic acid
+111	P25779	H2O
+112	P25779	(7-[[(2S)-2-(4-[(1S)-1-[(4-methoxybenzyl)amino]-1 2-dimethylpropyl]-1H-1,2 3-triazol-1-yl)hexanoyl]amino]-4-methyl-2-oxo-3 4-dihydro-2H-chromen-3-yl)acetic acid
+113	P25779	H2O
+114	P25779	(7-[[(2S)-2-[4-[(1S)-1 2-dimethyl-1-[[(1-methyl-1H-indol-6-yl)carbonyl]amino]propyl]-1H-1,2 3-triazol-1-yl]hexanoyl]amino]-4-methyl-2-oxo-3 4-dihydro-2H-chromen-3-yl)acetic acid
+115	P25779	H2O
+116	P25779	(7-[[(2S)-2-[4-[(1S)-1 2-dimethyl-1-[[(2-methylphenyl)carbonyl]amino]propyl]-1H-1,2 3-triazol-1-yl]hexanoyl]amino]-4-methyl-2-oxo-3 4-dihydro-2H-chromen-3-yl)acetic acid
+117	P25779	H2O
+118	P25779	(7-[[(2S)-2-[4-[(1S)-1 2-dimethyl-1-[[(3-methylphenyl)carbonyl]amino]propyl]-1H-1,2 3-triazol-1-yl]hexanoyl]amino]-4-methyl-2-oxo-3 4-dihydro-2H-chromen-3-yl)acetic acid
+119	P25779	H2O
+120	P25779	(7-[[(2S)-2-[4-[(1S)-1 2-dimethyl-1-[[(4-methylphenyl)carbonyl]amino]propyl]-1H-1,2 3-triazol-1-yl]hexanoyl]amino]-4-methyl-2-oxo-3 4-dihydro-2H-chromen-3-yl)acetic acid
+121	P25779	H2O
+122	P25779	(7-[[(2S)-2-[4-[(1S)-1-(benzylamino)-1,2-dimethylpropyl]-1H-1,2 3-triazol-1-yl]hexanoyl]amino]-4-methyl-2-oxo-3 4-dihydro-2H-chromen-3-yl)acetic acid
+123	P25779	H2O
+124	P25779	(7-[[(2S)-2-[4-[(1S)-1-[[(2-methoxyphenyl)carbonyl]amino]-1 2-dimethylpropyl]-1H-1,2 3-triazol-1-yl]hexanoyl]amino]-4-methyl-2-oxo-3 4-dihydro-2H-chromen-3-yl)acetic acid
+125	P25779	H2O
+126	P25779	(7-[[(2S)-2-[4-[(1S)-1-[[(3-methoxyphenyl)carbonyl]amino]-1 2-dimethylpropyl]-1H-1,2 3-triazol-1-yl]hexanoyl]amino]-4-methyl-2-oxo-3 4-dihydro-2H-chromen-3-yl)acetic acid
+127	P25779	H2O
+128	P25779	(7-[[(2S)-2-[4-[(1S)-1-[[(4-methoxyphenyl)carbonyl]amino]-1 2-dimethylpropyl]-1H-1,2 3-triazol-1-yl]hexanoyl]amino]-4-methyl-2-oxo-3 4-dihydro-2H-chromen-3-yl)acetic acid
+129	P25779	H2O
+130	P25779	benzyloxycarbonyl-Arg-Ala-7-amido-4-methylcoumarin
+131	P25779	H2O
+132	P25779	benzyloxycarbonyl-Arg-Arg-7-amido-4-methylcoumarin
+133	P25779	H2O
+134	D0QZM0	Gelatin
+135	D0QZM0	H2O
+136	D0QZM0	benzyloxycarbonyl-L-Phe-L-Arg-7-amido-4-methylcoumarin
+137	D0QZM0	H2O
+138	D0QZL7	Gelatin
+139	D0QZL7	H2O
+140	D0QZL7	benzyloxycarbonyl-L-Phe-L-Arg-7-amido-4-methylcoumarin
+141	D0QZL7	H2O
+0	P35750	more
+1	P35750	casein
+2	P35750	H2O
+3	P07384	H-Lys(FAM)-Glu-Val-Tyr-Gly-Met-Met-Lys(Dabcyl)-OH
+4	P07384	H2O
+5	P07384	apoptosis inducing factor
+6	P07384	H2O
+7	P07384	complex I subunits
+8	P07384	H2O
+9	P07384	dynamin-like protein 1
+10	P07384	H2O
+11	P07384	more
+12	O35350	ATP synthase-alpha (ATP5A1)
+13	O35350	H2O
+14	O35350	PH domain
+15	O35350	H2O
+16	O35350	leucine-rich repeat protein phosphatase 1
+17	O35350	H2O
+18	O35350	prostacyclin synthase
+19	O35350	H2O
+0	P07384	more
+1	P17655	more
+2	Q07009	FRET-based substrate PLFAER
+3	Q07009	H2O
+4	Q07009	calmodulin-dependent protein kinase II deltaB
+5	Q07009	H2O
+6	P43367	more
+7	P43367	MARCKS protein
+8	P43367	H2O
+9	O08529	more
+10	O08529	striatal-enriched protein tyrosine phosphatase
+11	O08529	H2O
+0	P20807	26S proteasome regulatory subunit 6A
+1	P20807	H2O
+2	P20807	ALDOA protein
+3	P20807	H2O
+4	P20807	ANKRD23/CARP/MARP1 protein
+5	P20807	H2O
+6	P20807	C/EBPa protein
+7	P20807	H2O
+8	P20807	CTBP1 protein
+9	P20807	H2O
+10	P20807	IkappaB protein
+11	P20807	H2O
+12	P20807	MyoD protein
+13	P20807	H2O
+14	P20807	annexin A1
+15	P20807	H2O
+16	P20807	annexin A2
+17	P20807	H2O
+18	P20807	annexin A7
+19	P20807	H2O
+20	P20807	beta-oxidation enzyme
+21	P20807	H2O
+22	P20807	cardiac ankyrin repeat protein
+23	P20807	H2O
+24	P20807	eukaryotic elongation factor 1-alpha 1
+25	P20807	H2O
+26	P20807	eukaryotic elongation factor 1-alpha 2
+27	P20807	H2O
+28	P20807	eukaryotic elongation factor 2
+29	P20807	H2O
+30	P20807	eukaryotic translation initiation factor 3 subunit 7
+31	P20807	H2O
+32	P20807	filamin-A
+33	P20807	H2O
+34	P20807	fructose bisphosphatealdolase A
+35	P20807	H2O
+36	P20807	glyceraldehyde-3-phosphate dehydrogenase
+37	P20807	H2O
+38	P20807	importin-7
+39	P20807	H2O
+40	P20807	p94
+41	P20807	H2O
+42	P20807	spectrin
+43	P20807	H2O
+44	P20807	thioredoxin
+45	P20807	H2O
+46	P20807	triosephosphate isomerase
+47	P20807	H2O
+48	P20807	vimentin
+49	P20807	H2O
+50	P20807	MARP2/Ankrd2
+51	P20807	H2O
+52	P20807	connectin
+53	P20807	H2O
+54	P20807	filamin C
+55	P20807	H2O
+56	P20807	more
+57	P20807	titin
+58	P20807	H2O
+59	P20807	ezrin
+60	P20807	H2O
+61	P20807	talin
+62	P20807	H2O
+63	P20807	vinexin
+64	P20807	H2O
+65	P51186	titin
+66	P51186	H2O
+67	Q64691	MARP2/Ankrd2
+68	Q64691	H2O
+69	Q64691	connectin
+70	Q64691	H2O
+71	Q64691	more
+72	Q64691	titin
+73	Q64691	H2O
+0	P42575	ICAD
+1	P42575	H2O
+2	P42575	golgin-160
+3	P42575	H2O
+4	P42575	more
+5	P42575	CUX1
+6	P42575	H2O
+7	P42575	BID
+8	P42575	H2O
+9	P42575	Ac-DEVD-7-amino-4-trifluoromethyl coumarin
+10	P42575	H2O
+11	P42575	Ac-VDVAD-7-amido-4-trifluoromethylcoumarin
+12	P42575	H2O
+13	P42575	Cip1/p21 Bid
+14	P42575	H2O
+15	P42575	DEVD-AFC
+16	P42575	H2O
+17	P42575	DNp63a
+18	P42575	H2O
+19	P42575	MDM-2
+20	P42575	H2O
+21	P42575	Mdm2 protein
+22	P42575	H2O
+23	P42575	N-acetyl-VDVAD-7-amido-4-methylcoumarin
+24	P42575	H2O
+25	P42575	N-acetyl-Val-Asp-Val-Ala-Asp-7-amido-4-methylcoumarin
+26	P42575	H2O
+27	P42575	PKC-delta
+28	P42575	H2O
+29	P42575	PRP31 pre-mRNA processing factor 31 homolog
+30	P42575	H2O
+31	P42575	Rho kinase-2
+32	P42575	H2O
+33	P42575	VDVAD
+34	P42575	H2O
+35	P42575	VDVAD-4-nitroanilide
+36	P42575	H2O
+37	P42575	Z-VDVAD-7-amino-4-trifluoromethyl coumarin
+38	P42575	H2O
+39	P42575	all-spectrin
+40	P42575	H2O
+41	P42575	alpha-II-spectrin
+42	P42575	H2O
+43	P42575	catalytically inactive pro-caspase-2
+44	P42575	H2O
+45	P42575	cyclophilin A
+46	P42575	H2O
+47	P42575	desmoplakin
+48	P42575	H2O
+49	P42575	eukaryotic translation initiation factor 4B
+50	P42575	H2O
+51	P42575	fatty acid binding protein 5
+52	P42575	H2O
+53	P42575	liposomes
+54	P42575	H2O
+55	P42575	myotrophin
+56	P42575	H2O
+57	P42575	plakin
+58	P42575	H2O
+59	P42575	poly(ADP-ribose) polymerase
+60	P42575	H2O
+61	P42575	pro-caspase-7
+62	P42575	H2O
+63	P42575	procaspase-8
+64	P42575	H2O
+65	P42575	profilin 1
+66	P42575	H2O
+67	P42575	soluble superoxide dismutase 1
+68	P42575	H2O
+69	P42575	stathmin 1
+70	P42575	H2O
+71	P42575	thioredoxin
+72	P42575	H2O
+73	P42575	tropomyosin 2beta
+74	P42575	H2O
+75	P42575	tropomyosin 3
+76	P42575	H2O
+77	P42575	HDAC4
+78	P42575	H2O
+79	P42575	PARP
+80	P42575	H2O
+81	P42575	huntingtin
+82	P42575	H2O
+83	P42575	protein kinase Cdelta
+84	P42575	H2O
+85	P42575	tau protein
+86	P42575	H2O
+87	P29594	ICAD
+88	P29594	H2O
+89	P29594	golgin-160
+90	P29594	H2O
+91	P29594	more
+92	P29594	BID
+93	P29594	H2O
+94	P29594	HDAC4
+95	P29594	H2O
+96	P29594	PARP
+97	P29594	H2O
+98	P29594	huntingtin
+99	P29594	H2O
+100	P29594	protein kinase Cdelta
+101	P29594	H2O
+102	P29594	tau protein
+103	P29594	H2O
+104	P29594	CERT
+105	P29594	H2O
+106	P29594	DELTANp63
+107	P29594	H2O
+108	P29594	MDM2
+109	P29594	H2O
+110	P29594	ROCK1
+111	P29594	H2O
+112	P29594	ROCK2
+113	P29594	H2O
+114	P29594	alpha-all-spectrin
+115	P29594	H2O
+116	P29594	caspase-2
+117	P29594	H2O
+118	P29594	elF4B
+119	P29594	H2O
+120	P29594	mouse double minute 2 homolog
+121	P29594	H2O
+122	P29594	pakin
+123	P29594	H2O
+124	P29594	VDVADAFC
+125	P29594	H2O
+126	P55215	CUX1
+127	P55215	H2O
+128	Q9IB67	BID
+129	Q9IB67	H2O
+130	Q9IB67	VDVADAFC
+131	Q9IB67	H2O
+0	P42574	more
+1	P42574	DEVD-amido-4-trifluoromethylcoumarin
+2	P42574	H2O
+3	P42574	N-(5(6)-carboxyfluoresceinyl)-6-aminohexanoyl-Asp-Ala-Pro-Asp-6 aminohexanoyl-N6-[methyl red]-Lys-[N-(6-aminohexyl)-Gly]8-N2-(6-aminohexyl)-Gly-NH2
+4	P42574	H2O
+5	P42574	N-(5(6)-carboxyfluoresceinyl)-6-aminohexanoyl-Asp-Ala-Val-Asp-6 aminohexanoyl-N6-[methyl red]-Lys-[N-(6-aminohexyl)-Gly]8-N2-(6-aminohexyl)-Gly-NH2
+6	P42574	H2O
+7	P42574	N-(5(6)-carboxyfluoresceinyl)-6-aminohexanoyl-Asp-Asn-Pro-Asp-6 aminohexanoyl-N6-[methyl red]-Lys-[N-(6-aminohexyl)-Gly]8-N2-(6-aminohexyl)-Gly-NH2
+8	P42574	H2O
+9	P42574	N-(5(6)-carboxyfluoresceinyl)-6-aminohexanoyl-Asp-Asn-Val-Asp-6 aminohexanoyl-N6-[methyl red]-Lys-[N-(6-aminohexyl)-Gly]8-N2-(6-aminohexyl)-Gly-NH2
+10	P42574	H2O
+11	P42574	N-(5(6)-carboxyfluoresceinyl)-6-aminohexanoyl-Asp-Glu-Val-Asp-6 aminohexanoyl-N6-[methyl red]-Lys-[N-(6-aminohexyl)-Gly]8-N2-(6-aminohexyl)-Gly-NH2
+12	P42574	H2O
+13	P42574	N-(5(6)-carboxyfluoresceinyl)-6-aminohexanoyl-Asp-Gly-Pro-Asp-6 aminohexanoyl-N6-[methyl red]-Lys-[N-(6-aminohexyl)-Gly]8-N2-(6-aminohexyl)-Gly-NH2
+14	P42574	H2O
+15	P42574	N-(5(6)-carboxyfluoresceinyl)-6-aminohexanoyl-Asp-Gly-Val-Asp-6 aminohexanoyl-N6-[methyl red]-Lys-[N-(6-aminohexyl)-Gly]8-N2-(6-aminohexyl)-Gly-NH2
+16	P42574	H2O
+17	P42574	N-(5(6)-carboxyfluoresceinyl)-6-aminohexanoyl-Asp-Leu-Pro-Asp-6 aminohexanoyl-N6-[methyl red]-Lys-[N-(6-aminohexyl)-Gly]8-N2-(6-aminohexyl)-Gly-NH2
+18	P42574	H2O
+19	P42574	N-(5(6)-carboxyfluoresceinyl)-6-aminohexanoyl-Asp-Leu-Pro-Asp-N6 [methyl red]-Lys-6-aminohexanoyl-[N-(6-aminohexyl)-Gly]8-N2-(6-aminohexyl)-Gly NH2
+20	P42574	H2O
+21	P42574	N-(5(6)-carboxyfluoresceinyl)-6-aminohexanoyl-Asp-Leu-Val-Asp-6 aminohexanoyl-N6-[methyl red]-Lys-[N-(6-aminohexyl)-Gly]8-N2-(6-aminohexyl)-Gly-NH2
+22	P42574	H2O
+23	P42574	N-(5(6)-carboxyfluoresceinyl)-6-aminohexanoyl-Asp-Val-Pro-Asp-6 aminohexanoyl-N6-[methyl red]-Lys-[N-(6-aminohexyl)-Gly]8-N2-(6-aminohexyl)-Gly-NH2
+24	P42574	H2O
+25	P42574	N-(5(6)-carboxyfluoresceinyl)-6-aminohexanoyl-Asp-Val-Val-Asp-6 aminohexanoyl-N6-[methyl red]-Lys-[N-(6-aminohexyl)-Gly]8-N2-(6-aminohexyl)-Gly-NH2
+26	P42574	H2O
+27	P42574	SETbeta
+28	P42574	H2O
+29	P42574	acetyl-L-Asp-L-Glu-L-Val-L-Asp-4-nitroanilide
+30	P42574	H2O
+31	P42574	acetyl-L-Asp-L-Glu-L-Val-L-Asp-7-amido-4-methylcoumarin
+32	P42574	H2O
+33	P42574	acetyl-L-Asp-L-Met-L-Gln-L-Asp-4-nitroanilide
+34	P42574	H2O
+35	P42574	acetyl-L-Asp-L-Val-L-Ala-L-Asp-4-nitroanilide
+36	P42574	H2O
+37	P42574	acetyl-L-Leu-L-Asp-L-Val-L-Ala-L-Asp-4-nitroanilide
+38	P42574	H2O
+39	P42574	acetyl-L-Val-L-Asp-L-Val-L-Ala-L-Asp-4-nitroanilide
+40	P42574	H2O
+41	P42574	benzoyl-L-Asp-L-Glu-L-Val-L-Asp-7-amido-4-methylcoumarin
+42	P42574	H2O
+43	P42574	tau protein
+44	P42574	H2O
+45	P42574	procaspase-6
+46	P42574	H2O
+47	P42574	acetyl-DEVD-7-amido-4-methylcoumarin
+48	P42574	H2O
+49	P42574	huntingtin
+50	P42574	H2O
+51	P42574	poly(ADP-ribose) polymerase
+52	P42574	H2O
+53	P42574	DEVD-4-nitroanilide
+54	P42574	H2O
+55	P70677	poly(ADP-ribose) polymerase
+56	P70677	H2O
+57	P70677	pre-interleukin-1beta
+58	P70677	H2O
+59	P70677	transcription factor Pax7
+60	P70677	H2O
+61	P70677	poly(ADP-ribose) polymerase
+62	P70677	H2O
+63	C6ZH48	Ac-IETD-4-nitroanilide
+64	C6ZH48	H2O
+65	C6ZH48	Ac-LEHD-4-nitroanilide
+66	C6ZH48	H2O
+67	C6ZH48	Ac-DEVD-4-nitroanilide
+68	C6ZH48	H2O
+69	A0A2I4K7Z9	Ac-DEVD-4-nitroanilide
+70	A0A2I4K7Z9	H2O
+71	K1QSW8	Ac-DMQD-4-nitroanilide
+72	K1QSW8	H2O
+73	K1QSW8	Ac-VDQQD-4-nitroanilide
+74	K1QSW8	H2O
+75	K1QSW8	Ac-DEVD-4-nitroanilide
+76	K1QSW8	H2O
+0	P49662	more
+1	P49662	pro-interleukin-1beta
+2	P49662	H2O
+3	P49662	succinyl-YVAD-4-nitroanilide
+4	P49662	H2O
+5	P49662	acetyl-Tyr-Val-Ala-Asp-4-nitroanilide
+6	P49662	H2O
+0	P51878	more
+1	P51878	pro-caspase-5
+2	P51878	H2O
+0	P55212	more
+1	P55212	alpha-tubulin
+2	P55212	H2O
+3	P55212	lamin A
+4	P55212	H2O
+5	P55212	lamin c
+6	P55212	H2O
+7	P55212	tau protein
+8	P55212	H2O
+9	P55212	actinin-4
+10	P55212	H2O
+11	P55212	amyloid precursor protein
+12	P55212	H2O
+13	P55212	drebrin
+14	P55212	H2O
+15	P55212	p97
+16	P55212	H2O
+17	P55212	pro-caspase-6
+18	P55212	H2O
+19	P55212	spinophilin
+20	P55212	H2O
+21	P55212	Ac-Val-Glu-Ile-Asp-7-amido-4-trifluoromethylcoumarin
+22	P55212	H2O
+23	P55212	N-acetyl-VEID-7-amido-4-methylcoumarin
+24	P55212	H2O
+25	P55212	ezrin
+26	P55212	H2O
+27	P55212	lamin A/C
+28	P55212	H2O
+29	P55212	(N-acetyl-VEID)2-rhodamine110
+30	P55212	H2O
+31	P55212	DEVD-7-amido-4-methylcoumarin
+32	P55212	H2O
+33	P55212	GEP100
+34	P55212	H2O
+35	P55212	N-acetyl-Asp-Glu-Val-Asp-7-amido-4-methylcoumarin
+36	P55212	H2O
+37	P55212	N-acetyl-Asp-Glu-Val-Asp-7-amido-4-trifluoromethylcoumarin
+38	P55212	H2O
+39	P55212	N-acetyl-Asp-Leu-Asn-Asp-7-amido-4-methylcoumarin
+40	P55212	H2O
+41	P55212	N-acetyl-Asp-Val-Val-Asp-7-amido-4-methylcoumarin
+42	P55212	H2O
+43	P55212	N-acetyl-Ile-Val-Leu-Asp-7-amido-4-methylcoumarin
+44	P55212	H2O
+45	P55212	N-acetyl-Thr-Glu-Val-Asp-7-amido-4-methylcoumarin
+46	P55212	H2O
+47	P55212	N-acetyl-VEID-4-nitroanilide
+48	P55212	H2O
+49	P55212	N-acetyl-Val-Glu-His-Asp-7-amido-4-methylcoumarin
+50	P55212	H2O
+51	P55212	N-acetyl-Val-Glu-Ile-Asp-7-amido-4-methylcoumarin
+52	P55212	H2O
+53	P55212	Z-VEID-R110
+54	P55212	H2O
+55	P55212	actin
+56	P55212	H2O
+57	P55212	herpesvirus associated ubiquitin-specific protease
+58	P55212	H2O
+59	P55212	kinesin5B
+60	P55212	H2O
+61	P55212	partitioning-defective 3-like protein splice variant c
+62	P55212	H2O
+63	P55212	poly(ADP-ribose)polymerase
+64	P55212	H2O
+65	P55212	procaspase-6 mutant C163S
+66	P55212	H2O
+67	P55212	serologically defined colon cancer antigen 3
+68	P55212	H2O
+69	P55212	tubulin
+70	P55212	H2O
+71	P55212	vimentin
+72	P55212	H2O
+73	O08738	more
+74	O08738	Val-Glu-Ile-Asp-7-amido-4-trifluoromethylcoumarin
+75	O08738	H2O
+0	P14080	2,4-dichlorocyclohexan-1-one
+1	P14080	cyclohexanone
+2	P14080	2,6-dichlorocyclohexan-1-one
+3	P14080	cyclohexanone
+4	P14080	2-chlorocyclohexan-1-one
+5	P14080	cyclohexanone
+6	P14080	2-nitrocyclohexan-1-one
+7	P14080	cyclohexanone
+8	P14080	3-chlorocyclohexan-1-one
+9	P14080	cyclohexanone
+10	P14080	3-nitrocyclohexan-1-one
+11	P14080	cyclohexanone
+12	P14080	4-bromocyclohexan-1-one
+13	P14080	cyclohexanone
+14	P14080	4-chlorocyclohexan-1-one
+15	P14080	cyclohexanone
+16	P14080	4-cyanobenzaldehyde
+17	P14080	cyclohexanone
+18	P14080	4-cyanocyclohexan-1-one
+19	P14080	cyclohexanone
+20	P14080	4-methylcyclohexan-1-one
+21	P14080	cyclohexanone
+22	P14080	4-nitrocyclohexan-1-one
+23	P14080	acetaldehyde
+24	P14080	4-nitrocyclohexan-1-one
+25	P14080	cycloheptanone
+26	P14080	4-nitrocyclohexan-1-one
+27	P14080	cyclohexanone
+28	P14080	4-nitrocyclohexan-1-one
+29	P14080	cyclopentanone
+30	P14080	N,N-diBoc-dityrosine-(isoniacid)2
+31	P14080	H2O
+32	P14080	furan-2-carbaldehyde
+33	P14080	cyclohexanone
+0	P55210	more
+1	P55210	Ac-DEVD-7-amido-4-methylcoumarin
+2	P55210	H2O
+3	P55210	poly(ADP-ribose) polymerase
+4	P55210	H2O
+5	P55210	Ac-VEID-7-amido-4-methylcoumarin
+6	P55210	H2O
+7	P55210	DEVD-4-nitroanilide
+8	P55210	H2O
+9	P55210	DEVD-7-amido-4-methylcoumarin
+10	P55210	H2O
+11	P55210	N-acetyl-DEVD-7-amido-4-fluoromethylcoumarin
+12	P55210	H2O
+13	P55210	N-acetyl-DEVD-7-amido-4-trifluoromethylcoumarin
+14	P55210	H2O
+15	P55210	N-acetyl-PEVD-7-amido-4-trifluoromethylcoumarin
+16	P55210	H2O
+17	P55210	SETbeta
+18	P55210	H2O
+19	P55210	p23
+20	P55210	H2O
+21	P55210	poly(ADP ribose) polymerase 1
+22	P55210	H2O
+23	P97864	more
+24	P55214	poly(ADP-ribose) polymerase
+25	P55214	H2O
+26	P55214	sterol regulatory element binding protein-2
+27	P55214	H2O
+0	Q14790	more
+1	Q14790	Ac-IEPD-7-amido-4-methylcoumarin
+2	Q14790	H2O
+3	Q14790	Ac-IEPD-AMC
+4	Q14790	H2O
+5	Q14790	Atg3 protein
+6	Q14790	H2O
+7	Q14790	BAP31
+8	Q14790	H2O
+9	Q14790	BH3-only protein Bid
+10	Q14790	H2O
+11	Q14790	Bcl-2 protein Bid
+12	Q14790	H2O
+13	Q14790	Ca2+/calmodulin-dependent protein kinase-like kinase
+14	Q14790	H2O
+15	Q14790	FLICE2
+16	Q14790	H2O
+17	Q14790	LAP3
+18	Q14790	H2O
+19	Q14790	LAP6
+20	Q14790	H2O
+21	Q14790	Tx
+22	Q14790	H2O
+23	Q14790	Yama
+24	Q14790	H2O
+25	Q14790	acetyl-DEVD-4-nitroanilide
+26	Q14790	H2O
+27	Q14790	acetyl-Ile-Glu-Thr-Asp-7-amino-4-fluoromethylcoumarin
+28	Q14790	H2O
+29	Q14790	cellular inhibitor of apoptosis 1
+30	Q14790	H2O
+31	Q14790	p21-activated kinase 2
+32	Q14790	H2O
+33	Q14790	p28Bap31
+34	Q14790	H2O
+35	Q14790	receptor-indicating protein
+36	Q14790	H2O
+37	Q14790	IETD-7-amido-4-trifluoromethylcoumarin
+38	Q14790	H2O
+39	Q14790	HER-2
+40	Q14790	H2O
+41	Q14790	acetyl-IETD-4-nitroanilide
+42	Q14790	H2O
+43	Q14790	acetyl-IETD-7-amido-4-fluoromethylcoumarin
+44	Q14790	H2O
+45	Q14790	procaspase-3
+46	Q14790	H2O
+47	Q14790	IETD-4-nitroanilide
+48	Q14790	H2O
+49	O89110	more
+50	O89110	receptor-indicating protein
+51	O89110	H2O
+52	O89110	DEVD-rhodamine
+53	O89110	H2O
+54	O89110	cellular FLIP long form
+55	O89110	H2O
+56	O89110	fluorescein isothiocyanate
+57	O89110	H2O
+58	O89110	IETD-4-nitroanilide
+59	O89110	H2O
+60	Q9JHX4	FLICE
+61	Q9JHX4	H2O
+62	Q9JHX4	IETD-4-nitroanilide
+63	Q9JHX4	H2O
+64	A0A097BW92	N-acetyl-IETD-4-nitroanilide
+65	A0A097BW92	H2O
+66	A0A097BW92	N-acetyl-IETD-4-nitroanilide
+67	A0A097BW92	H2O
+68	A0A097BW98	N-acetyl-IETD-4-nitroanilide
+69	A0A097BW98	H2O
+70	A0A097BW98	N-acetyl-IETD-4-nitroanilide
+71	A0A097BW98	H2O
+72	Q56VC3	Ac-Leu-Glu-Thr-Asp-7-amido-4-trifluoromethylcoumarin
+73	Q56VC3	H2O
+0	P55211	acetyl-Leu-Glu-His-Asp-p-nitroanilide
+1	P55211	H2O
+2	P55211	more
+3	P55211	acetyl-Asp-Glu-Val-Asp-p-nitroanilide
+4	P55211	H2O
+5	P55211	poly(ADP-ribose) polymerase
+6	P55211	H2O
+7	P55211	procaspase-3
+8	P55211	H2O
+9	P55211	acetyl-LEHD-7-amido-4-trifluoromethyl coumarin
+10	P55211	H2O
+11	P55211	acetyl-LEHD-7-amido-4-trifluoromethylcoumarin
+12	P55211	H2O
+13	P55211	pro-caspase-3
+14	P55211	H2O
+15	P55211	acetyl-DEVD-7-amido-4-trifluoromethylcoumarin
+16	P55211	H2O
+17	Q9R0T0	acetyl-Leu-Glu-His-Asp-p-nitroanilide
+18	Q9R0T0	H2O
+19	Q9R0T0	more
+20	Q9R0T0	pro-caspase-2L
+21	Q9R0T0	H2O
+22	Q9R0T0	pro-caspase-9
+23	Q9R0T0	H2O
+24	Q9R0T0	pro-caspase-7
+25	Q9R0T0	H2O
+26	Q9R0T0	pro-caspase-3
+27	Q9R0T0	H2O
+0	Q92851	more
+1	Q92851	Ac-IETD-4-trifluoromethylcoumarin-7-amide
+2	Q92851	H2O
+3	Q92851	BID
+4	Q92851	H2O
+5	Q92851	CPP32
+6	Q92851	H2O
+7	Q92851	DEVD-7-amido-4-methylcoumarin
+8	Q92851	H2O
+9	Q92851	RIPK1
+10	Q92851	H2O
+11	Q92851	YVAD-7-amido-4-methylcoumarin
+12	Q92851	H2O
+13	Q92851	pro-Mch3
+14	Q92851	H2O
+15	Q92851	procaspase-3
+16	Q92851	H2O
+17	Q92851	procaspase-7
+18	Q92851	H2O
+19	T1RRM8	AEVD-4-nitroanilide
+20	T1RRM8	H2O
+0	P70343	more
+1	P70343	caspase-1
+2	P70343	H2O
+3	P70343	gasdermin D
+4	P70343	H2O
+5	Q91XW7	more
+0	P08176	pro-Der p 3
+1	P08176	H2O
+2	P08176	pro-Der p 6
+3	P08176	H2O
+4	P08176	pro-Der p 9
+5	P08176	H2O
+6	P49273	more
+7	P49273	Z-Phe-Arg-4-methylcoumarin 7-amide
+8	P49273	H2O
+9	P16311	more
+10	P16311	N-succinyl-Leu-Leu-Val-Tyr-7-amido-4-methylcoumarin
+11	P16311	H2O
+12	P16311	mas-related G-protein-coupled receptor C11
+13	P16311	H2O
+14	P16311	mas-related G-protein-coupled receptor X1
+15	P16311	H2O
+0	Q66914	Poly(A)-binding protein
+1	Q66914	H2O
+2	Q83883	ORF1 polyprotein
+3	Q83883	H2O
+4	Q83883	Edans-DFHLQGP-Dabcyl
+5	Q83883	H2O
+6	P0C6V2	Dabcyl-KTSAVLQSGFRKME-EDANS
+7	P0C6V2	H2O
+0	P82474	more
+0	Q8GYL3	small ubiquitin-related modifier-protein
+1	Q8GYL3	H2O
+2	Q8GYL3	more
+3	Q02724	more
+4	Q02724	SUMO-1 protein
+5	Q02724	H2O
+6	Q02724	His6-Smt3-Leu-beta-galactosidase
+7	Q02724	H2O
+8	Q02724	His6-Smt3-Met-beta-galactosidase
+9	Q02724	H2O
+10	Q02724	His6-Smt3-hemagglutinin fusion protein
+11	Q02724	H2O
+12	Q02724	SUMO-GFP fusion substrate
+13	Q02724	H2O
+14	Q02724	SUMO-MMP13
+15	Q02724	H2O
+16	Q02724	small ubiquitin-like modifier protein
+17	Q02724	H2O
+18	O42957	small ubiquitin-like modifier protein
+19	O42957	H2O
+0	P0C6X7	H-Thr-Ser-Ala-Val-Leu-Gln-Ser-Gly-Phe-Arg-Lys-NH2
+1	P0C6X7	H2O
+2	P0C6X7	N-methylanthranilyl-TSAVLQSGFRK(2,4-dinitrophenyl)
+3	P0C6X7	H2O
+4	P0C6X7	Thr-Ser-Ala-Val-Leu-Gln-Ser-Gly-Phe-Arg-Lys
+5	P0C6X7	H2O
+6	P0C6X7	coronavirus polyprotein
+7	P0C6X7	H2O
+8	P0C6X7	Dabcyl-KTSAVLQSGFRKME-EDANS
+9	P0C6X7	H2O
+10	P0C6X7	H-Thr-Ser-Ala-Val-Leu-Gln-Ser-Gly-Phe-Arg-Lys-NH2
+11	P0C6X7	H2O
+12	P0C6U8	H-Thr-Ser-Ala-Val-Leu-Gln-Ser-Gly-Phe-Arg-Lys-NH2
+13	P0C6U8	H2O
+14	P0C6U8	more
+15	P0C6U8	Dabcyl-KTSAVLQSGFRKME-EDANS-amide
+16	P0C6U8	H2O
+17	P0C6U8	SWTSAVAQSGFRKWA
+18	P0C6U8	H2O
+19	P0C6U8	SWTSAVCQSGFRKWA
+20	P0C6U8	H2O
+21	P0C6U8	SWTSAVFQSGFRKWA
+22	P0C6U8	H2O
+23	P0C6U8	SWTSAVHQSGFRKWA
+24	P0C6U8	H2O
+25	P0C6U8	SWTSAVIQSGFRKWA
+26	P0C6U8	H2O
+27	P0C6U8	SWTSAVLQSGFRKWA
+28	P0C6U8	H2O
+29	P0C6U8	SWTSAVMQSGFRKWA
+30	P0C6U8	H2O
+31	P0C6U8	SWTSAVNQSGFRKWA
+32	P0C6U8	H2O
+33	P0C6U8	SWTSAVPQSGFRKWA
+34	P0C6U8	H2O
+35	P0C6U8	SWTSAVQQSGFRKWA
+36	P0C6U8	H2O
+37	P0C6U8	SWTSAVSQSGFRKWA
+38	P0C6U8	H2O
+39	P0C6U8	SWTSAVTQSGFRKWA
+40	P0C6U8	H2O
+41	P0C6U8	SWTSAVVQSGFRKWA
+42	P0C6U8	H2O
+43	P0C6U8	SWTSAVWQSGFRKWA
+44	P0C6U8	H2O
+45	P0C6U8	SWTSAVYQSGFRKWA
+46	P0C6U8	H2O
+47	P0C6U8	TSAVLQ-4-nitroanilide
+48	P0C6U8	H2O
+49	P0C6U8	pp1a
+50	P0C6U8	H2O
+51	P0C6U8	pp1ab
+52	P0C6U8	H2O
+0	B7VF65	more
+1	B7VF65	Nalpha-CBZ-L-Gln-4-nitrophenyl ester
+2	B7VF65	H2O
+3	B7VF64	more
+4	B7VF64	Nalpha-CBZ-L-Gln-4-nitrophenyl ester
+5	B7VF64	H2O
+6	B5BLP0	oxidized insulin B chain
+7	B5BLP0	H2O
+8	B5BLP0	more
+9	B5BLP0	pGlu-Phe-Leu 4-nitroanilide
+10	B5BLP0	H2O
+11	B5BLP0	pGlu-Phe-Leu-p-nitroanilide
+12	B5BLP0	H2O
+13	B5BLP0	soybean protein
+14	B5BLP0	H2O
+0	Q9S446	more
+1	Q99ZN4	Abz-LPETGG-Dap(Dnp)-NH2
+2	Q99ZN4	Ala-Ala
+3	B9DS55	more
+0	I1ZJ31	2 amylase-binding adhesin AbpA
+1	I1ZJ31	AbpA-LPKTSAVKLE-green fluorescent protein
+2	I1ZJ31	H2O
+3	Q183F3	PPKTG
+4	Q183F3	H2O
+0	P09870	Nalpha-benzoyl-L-arginine-4-nitroanilide
+1	P09870	H2O
+2	P09870	acyl-L-lysine-4-nitroanilide
+3	P09870	H2O
+0	Q6HA05	more
+1	Q6HA05	Pro-Thr-Glu-Phe-(p-nitro-Phe)-Arg-Leu-OH
+2	Q6HA05	H2O
+3	Q6HA04	more
+4	Q6HA04	Pro-Thr-Glu-Phe-(p-nitro-Phe)-Arg-Leu-OH
+5	Q6HA04	H2O
+6	E2IKQ9	Hemoglobin
+7	E2IKQ9	H2O
+8	E2IKQ9	more
+9	A1S3N8	more
+10	A1S3N8	Mca-KKPAEFFALK-Dnp
+11	A1S3N8	H2O
+12	A1S3N8	Mca-KLHPEVLFVLEK-Dnp
+13	A1S3N8	H2O
+14	A1S3N8	oxidized insulin B chain
+15	A1S3N8	H2O
+16	P00791	more
+17	P00791	Bovine hemoglobin
+18	P00791	H2O
+19	Q12R32	more
+20	Q12R32	((7-methoxycoumarin-4-yl)acetyl)-Lys-Lys-Pro-Ala-Glu-Phe-Phe-Ala-Leu Lys-(2,4-dinitrophenyl)
+21	Q12R32	H2O
+22	A0A172Q3Y6	trypsinogen
+23	A0A172Q3Y6	H2O
+24	A0A125SQG9	more
+25	A0A125SQG9	KPAEFFRL
+26	A0A125SQG9	H2O
+27	A0A125SQG9	KPAEFIRL
+28	A0A125SQG9	H2O
+29	A0A125SQG9	KPAEFWRL
+30	A0A125SQG9	H2O
+31	A0A125SQG9	KPAEFRRL
+32	A0A125SQG9	H2O
+33	A0A125SQG8	more
+34	A0A125SQG8	KPAEFFRL
+35	A0A125SQG8	H2O
+36	A0A125SQG8	KPAEFIRL
+37	A0A125SQG8	H2O
+38	A0A125SQG8	KPAEFWRL
+39	A0A125SQG8	H2O
+40	A0A125SQG8	KPAEFRRL
+41	A0A125SQG8	H2O
+0	K4ML82	PFU-093
+1	K4ML82	H2O
+2	Q766C2	more
+3	Q766C2	aprataxin and PNKP-like factor
+4	Q766C2	H2O
+5	Q766C2	Bovine serum albumin
+6	Q766C2	H2O
+7	Q766C3	more
+8	Q766C3	aprataxin and PNKP-like factor
+9	Q766C3	H2O
+10	Q766C3	Bovine serum albumin
+11	Q766C3	H2O
+0	Q8IYK8	angiotensinogen
+1	Q8IYK8	H2O
+2	Q8IYK8	more
+3	Q6DYE7	4-(4'-(dimethylaminophenylazo))-benzoyl-gamma-aminobutyryl-Ile-His-Pro Phe-His-Leu-Val-Ile-His-Thr-EDANS
+4	Q6DYE7	H2O
+5	Q6DYE7	acetyl-Asp-Arg-Val-Tyr-Ile-His-Pro-Phe-His-Leu-Leu-Val-Tyr-Ser
+6	Q6DYE7	H2O
+7	P00797	angiotensinogen
+8	P00797	H2O
+9	P00797	Arg-Glu(EDANS)-Ile-His-Pro-Phe-His-Leu-Val-Ile-His-Thr-Lys(DABCYL)-Arg
+10	P00797	H2O
+11	P00797	DABCYL-c-Abu-Ile-His-Pro-Phe-His-Leu-Val-Ile-His-Thr-EDANS
+12	P00797	H2O
+0	P03369	KARVLAEAMS
+1	P03369	H2O
+2	P03369	Arg-Glu(EDANS)-Ser-Gln-Asn-Tyr-Pro-Ile-Val-Gln Lys-(DABCYL)-Arg
+3	P03369	H2O
+4	Q90VT5	Arg-Pro-Gly-Asn-Phe-Leu-Gln-Ser-Arg-Pro
+5	Q90VT5	H2O
+6	P03367	KARVLAEAMS
+7	P03367	H2O
+8	P03367	AETFYVDGAA
+9	P03367	H2O
+10	P03367	Lys-Ala-Arg-Val-Nle-(4-nitrophenylalanine)-Glu-Ala-Nle-NH2
+11	P03367	H2O
+12	P03367	Gag polyprotein
+13	P03367	H2O
+14	P03367	Gag-Pol polyprotein
+15	P03367	H2O
+16	P03367	KARV-Nle-Phe(NO2)-EA-Nle-NH2
+17	P03367	H2O
+18	P03367	CTLNFPISP
+19	P03367	H2O
+20	P03367	IRKILFLDG
+21	P03367	H2O
+22	P03367	VSFNFPQITL
+23	P03367	H2O
+24	Q7SSE3	Gag polyprotein
+25	Q7SSE3	H2O
+26	Q7SSE3	Gag-Pol polyprotein
+27	Q7SSE3	H2O
+28	Q7SSE3	VLQNYPIVQ
+29	Q7SSE3	H2O
+30	Q7SSE3	VVQNYPIVQ
+31	Q7SSE3	H2O
+32	Q7SSE3	IPFAAAQQRK
+33	Q7SSE3	H2O
+34	Q7SSE3	KARLMAEALK
+35	Q7SSE3	H2O
+36	Q7SSE3	VSQLYPIVQ
+37	Q7SSE3	H2O
+38	Q7SSE3	VSQVYPIVQ
+39	Q7SSE3	H2O
+40	P04585	KARV-Nle-Phe(NO2)-EA-Nle-NH2
+41	P04585	H2O
+42	P04587	more
+43	P04587	Val-Ser-Gln-Ala-Tyr-Pro-Ile-Val-Gln
+44	P04587	H2O
+45	P04587	Val-Ser-Gln-Asn-Tyr-Pro-Ile-Val-Gln
+46	P04587	H2O
+47	P04587	Val-Ser-Gln-Cys-Tyr-Pro-Ile-Val-Gln
+48	P04587	H2O
+49	P04587	Val-Ser-Gln-Gly-Tyr-Pro-Ile-Val-Gln
+50	P04587	H2O
+51	P04587	Val-Ser-Gln-Ile-Tyr-Pro-Ile-Val-Gln
+52	P04587	H2O
+53	P04587	Val-Ser-Gln-Leu-Tyr-Pro-Ile-Val-Gln
+54	P04587	H2O
+55	P04587	Val-Ser-Gln-Phe-Tyr-Pro-Ile-Val-Gln
+56	P04587	H2O
+57	P04587	Val-Ser-Gln-Thr-Tyr-Pro-Ile-Val-Gln
+58	P04587	H2O
+59	P04587	Val-Ser-Gln-Val-Tyr-Pro-Ile-Val-Gln
+60	P04587	H2O
+61	Q7SSI0	Gag polyprotein
+62	Q7SSI0	H2O
+63	Q7SSI0	Gag-Pol polyprotein
+64	Q7SSI0	H2O
+65	Q7SSI0	ARVLAEAM
+66	Q7SSI0	H2O
+67	Q7SSI0	ATIMMQRG
+68	Q7SSI0	H2O
+69	Q7SSI0	SQNYPIVQ
+70	Q7SSI0	H2O
+71	Q7SSI0	TLNFPISP
+72	Q7SSI0	H2O
+73	Q7SSI0	AETFYVDG
+74	Q7SSI0	H2O
+75	Q7SSI0	DCAWLEAQ
+76	Q7SSI0	H2O
+77	Q7SSI0	NLAFPQGE
+78	Q7SSI0	H2O
+79	Q7SSI0	PGNFLQSR
+80	Q7SSI0	H2O
+81	Q7SSI0	RKVLFLDG
+82	Q7SSI0	H2O
+83	Q7SSI0	RQANFLGK
+84	Q7SSI0	H2O
+85	Q7SSI0	RQANFLRE
+86	Q7SSI0	H2O
+87	Q7SSI0	TLNFPQIT
+88	Q7SSI0	H2O
+89	Q7SSI0	TNIMMQKS
+90	Q7SSI0	H2O
+91	Q5RZ08	Gag polyprotein
+92	Q5RZ08	H2O
+93	Q5RZ08	SGIFLETS
+94	Q5RZ08	H2O
+95	Q5RZ08	acetyl-KDKTK-Abz-VLF-NO2-VQPKK-NH2
+96	Q5RZ08	H2O
+97	Q5RZ08	matrix-capsid polyprotein
+98	Q5RZ08	H2O
+0	O60022	resorufin-labelled casein
+1	O60022	H2O
+2	Q334I5	casein
+3	Q334I5	H2O
+4	A0A146F0J0	casein
+5	A0A146F0J0	H2O
+6	A0A146F0J0	more
+7	A0A146F0J0	milk protein
+8	A0A146F0J0	H2O
+9	A0A146F0J0	soy protein
+10	A0A146F0J0	H2O
+0	Q2AB25	Hemoglobin
+1	Q2AB25	H2O
+2	Q2AB25	Gelatin
+3	Q2AB25	H2O
+4	Q2AB25	KPAAFFRL
+5	Q2AB25	H2O
+6	Q2AB25	KPAEFARL
+7	Q2AB25	H2O
+8	Q2AB25	KPAEFFRL
+9	Q2AB25	H2O
+10	Q2AB25	KPAEFLRL
+11	Q2AB25	H2O
+12	Q2AB25	KPAGFARL
+13	Q2AB25	H2O
+14	Q2AB25	KPAGFFRL
+15	Q2AB25	H2O
+16	Q2AB25	KPAGFGRL
+17	Q2AB25	H2O
+18	Q2AB25	KPAGFLRL
+19	Q2AB25	H2O
+20	Q2AB25	KPAGFVRL
+21	Q2AB25	H2O
+22	Q2AB25	KPAKFLRL
+23	Q2AB25	H2O
+24	Q2AB25	KPEEFFRL
+25	Q2AB25	H2O
+26	Q2AB25	KPEGFLRL
+27	Q2AB25	H2O
+28	Q2AB25	KPGEFARL
+29	Q2AB25	H2O
+30	Q2AB25	KPGGF
+31	Q2AB25	LRL
+32	Q2AB25	KPGGFARL
+33	Q2AB25	H2O
+34	Q2AB25	KPIGFLRL
+35	Q2AB25	H2O
+36	Q2AB25	KPKEFFRL
+37	Q2AB25	H2O
+38	Q2AB25	KPKGFLRL
+39	Q2AB25	H2O
+40	Q2AB25	KPTGFLRL
+41	Q2AB25	H2O
+0	P78735	more
+1	P78735	Ac-(Ala)n-Lys-Nph-(Ala)m-amide
+2	P78735	H2O
+3	Q9HEZ3	more
+0	P11838	Abz-Thr-Ile-Nle-4-nitro-Phe-Gln-Arg-NH2
+1	P11838	H2O
+0	U5HT00	N,N-dimethyl-casein
+1	U5HT00	H2O
+2	U5HT00	skimmed milk
+3	U5HT00	H2O
+0	P43094	FRETS-25Xaa
+1	P43094	H2O
+2	P43094	more
+3	Q5AC08	fluorescein-labeled casein
+4	Q5AC08	H2O
+5	Q5AC08	more
+6	P0DJ06	4-(4-dimethylaminophenylazo)benzoyl-gamma-aminobutyryl-Ile-His-Pro-Phe His-Leu-Val-Ile-His-Thr-[5-(2-aminoethyl)-amino]naphthalene-1-sulfonic acid
+7	P0DJ06	H2O
+8	P0DJ06	Lys-Pro-Ala-Arg-Phe-Nph-Arg-Leu
+9	P0DJ06	H2O
+10	P0DJ06	oxidized insulin B chain
+11	P0DJ06	H2O
+12	P0DJ06	FRETS-25Xaa
+13	P0DJ06	H2O
+14	P0DJ06	Albumin
+15	P0DJ06	H2O
+16	P0DJ06	more
+17	P0CY27	4-(4-dimethylaminophenylazo)benzoyl-gamma-aminobutyryl-Ile-His-Pro-Phe His-Leu-Val-Ile-His-Thr-[5-(2-aminoethyl)-amino]naphthalene-1-sulfonic acid
+18	P0CY27	H2O
+19	P0CY27	FRETS-25Ala
+20	P0CY27	H2O
+21	P0CY27	Lys-Pro-Ala-Arg-Phe-Nph-Arg-Leu
+22	P0CY27	H2O
+23	P0CY27	FRETS-25Xaa
+24	P0CY27	H2O
+25	P0CY27	more
+26	P0CY29	FRETS-25Xaa
+27	P0CY29	H2O
+28	P0CY29	more
+29	Q5A8N2	more
+30	P32951	4-(4-dimethylaminophenylazo)benzyl-Glu-His-Val-Lys-Leu-Val-Glu-5-(2 aminoethylamino)-1-naphthalenesulfonic acid
+31	P32951	H2O
+32	P32951	ELSKRSSPS
+33	P32951	H2O
+34	P32951	LPVNATSE
+35	P32951	H2O
+36	P32951	LTEKRDSIS
+37	P32951	H2O
+38	P32951	PMVELAGE
+39	P32951	H2O
+40	P32951	PMVELGGE
+41	P32951	H2O
+42	P32951	PMVELHGE
+43	P32951	H2O
+44	P32951	PMVELPGE
+45	P32951	H2O
+46	P32951	PMVELQGE
+47	P32951	H2O
+48	P32951	PMVELTGE
+49	P32951	H2O
+50	P32951	PMVELWGE
+51	P32951	H2O
+52	P32951	PMVEMWGE
+53	P32951	H2O
+54	P32951	complement component 3b
+55	P32951	H2O
+56	P32951	complement component 4b
+57	P32951	H2O
+58	P32951	factor H-related protein 5
+59	P32951	H2O
+60	P32951	4-(4-dimethylaminophenylazo)benzyl-Pro-Lys-Val-Glu-Leu-Thr-Gly-Glu-5-(2 aminoethylamino)-1-naphthalenesulfonic acid
+61	P32951	H2O
+62	P32951	PMVMLWGE
+63	P32951	H2O
+64	P32951	factor H
+65	P32951	H2O
+66	P32950	4-(4-dimethylaminophenylazo)benzyl-Pro-Lys-Val-Glu-Leu-Thr-Gly-Glu-5-(2 aminoethylamino)-1-naphthalenesulfonic acid
+67	P32950	H2O
+68	P32950	PMVMLWGE
+69	P32950	H2O
+70	P32950	4-(4-dimethylaminophenylazo)benzyl-Glu-His-Val-Lys-Leu-Val-Glu-5-(2 aminoethylamino)-1-naphthalenesulfonic acid
+71	P32950	H2O
+72	P32950	PMVELAGE
+73	P32950	H2O
+74	P32950	PMVELQGE
+75	P32950	H2O
+76	P32950	PMVELTGE
+77	P32950	H2O
+78	P32950	PMVELWGE
+79	P32950	H2O
+80	P32950	dabcyl-Glu-His-Val-Lys-Leu-Val-Glu-EDANS
+81	P32950	dabcyl-Pro-Lys-Val-Glu-Leu-Thr-Gly-Glu-EDANS
+82	P32950	more
+83	G8B6Y8	casein
+84	G8B6Y8	H2O
+85	Q6FTZ7	2-methoxy-2,4-diphenyl-3(2H)furanone
+86	Q6FTZ7	H2O
+87	Q6FTZ7	L-Arg-7-amido-4-methylcoumarin
+88	Q6FTZ7	H2O
+0	P07267	more
+1	P07267	A-L-S-A-F-(4NO2)F-R-L
+2	P07267	H2O
+3	P07267	A-P-A-K-F-(4NO2)F-R-L
+4	P07267	H2O
+5	P07267	K-L-A-K-F-(4NO2)F-R-L
+6	P07267	H2O
+7	P07267	K-P-A-A-F-(4NO2)F-R-L
+8	P07267	H2O
+9	P07267	K-P-A-K-F-(4NO2)F-R-L
+10	P07267	H2O
+11	P07267	K-P-S-K-F-(4NO2)F-R-L
+12	P07267	H2O
+13	P07267	proproteinase A
+14	P07267	H2O
+0	P20142	acid-denatured bovine hemoglobin
+1	P20142	H2O

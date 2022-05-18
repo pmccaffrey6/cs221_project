@@ -1,0 +1,2138 @@
+	uniprot_ids	substrates
+0	A0A218NGS0	vinorine
+1	A0A218NGS0	[reduced NADPH-hemoprotein reductase]
+2	A0A218NGS0	O2
+3	A0A218NGS0	more
+4	A0A218NGS0	more
+0	Q9AXM6	cytochrome c
+1	Q9AXM6	FAD
+2	Q9AXM6	FMN
+3	Q9AXM6	O2
+4	Q9AXM6	taxadien-5alpha-yl acetate
+5	Q9AXM6	[reduced NADPH-hemoprotein reductase]
+6	Q9AXM6	O2
+0	Q8W4T9	taxa-4(20),11-dien-5alpha-ol
+1	Q8W4T9	[reduced NADPH-hemoprotein reductase]
+2	Q8W4T9	O2
+3	Q8W4T9	taxa-4(20),11-dien-5alpha-yl-acetate
+4	Q8W4T9	[reduced NADPH-hemoprotein reductase]
+5	Q8W4T9	O2
+0	C7T4G3	ent-kaur-16-en-19-oate
+1	C7T4G3	[reduced NADPH-hemoprotein reductase]
+2	C7T4G3	O2
+3	C7T4G8	ent-kaur-16-en-19-oate
+4	C7T4G8	[reduced NADPH-hemoprotein reductase]
+5	C7T4G8	O2
+6	C7T4H1	ent-kaur-16-en-19-oate
+7	C7T4H1	[reduced NADPH-hemoprotein reductase]
+8	C7T4H1	O2
+9	C7T4G4	ent-kaur-16-en-19-oate
+10	C7T4G4	[reduced NADPH-hemoprotein reductase]
+11	C7T4G4	O2
+12	C7T4G6	ent-kaur-16-en-19-oate
+13	C7T4G6	[reduced NADPH-hemoprotein reductase]
+14	C7T4G6	O2
+15	C7T4G9	ent-kaur-16-en-19-oate
+16	C7T4G9	[reduced NADPH-hemoprotein reductase]
+17	C7T4G9	O2
+18	C7T4H2	ent-kaur-16-en-19-oate
+19	C7T4H2	[reduced NADPH-hemoprotein reductase]
+20	C7T4H2	O2
+21	Q9AXH9	ent-7alpha-hydroxykaur-16-en-19-oate
+22	Q9AXH9	[reduced NADPH-hemoprotein reductase]
+23	Q9AXH9	O2
+24	Q9AXH9	gibberellin A12 aldehyde
+25	Q9AXH9	[reduced NADPH-hemoprotein reductase]
+26	Q9AXH9	O2
+27	Q9AXH9	ent-kaur-16-en-19-oate
+28	Q9AXH9	[reduced NADPH-hemoprotein reductase]
+29	Q9AXH9	O2
+30	Q9AXH9	ent-kaur-16-en-19-oate
+31	Q9AXH9	[reduced NADPH-hemoprotein reductase]
+32	Q9AXH9	O2
+33	O23051	ent-kaur-16-en-19-oate
+34	O23051	[reduced NADPH-hemoprotein reductase]
+35	O23051	O2
+36	Q9C5Y2	ent-kaur-16-en-19-oate
+37	Q9C5Y2	[reduced NADPH-hemoprotein reductase]
+38	Q9C5Y2	O2
+39	M9R757	ent-kaur-16-en-19-oate
+40	M9R757	[reduced NADPH-hemoprotein reductase]
+41	M9R757	O2
+42	Q33DK1	ent-kaur-16-en-19-oate
+43	Q33DK1	[reduced NADPH-hemoprotein reductase]
+44	Q33DK1	O2
+45	B5MEX7	more
+46	C7T4H3	ent-kaur-16-en-19-oate
+47	C7T4H3	[reduced NADPH-hemoprotein reductase]
+48	C7T4H3	O2
+49	C7T4H4	ent-kaur-16-en-19-oate
+50	C7T4H4	[reduced NADPH-hemoprotein reductase]
+51	C7T4H4	O2
+52	C7T4G2	ent-kaur-16-en-19-oate
+53	C7T4G2	[reduced NADPH-hemoprotein reductase]
+54	C7T4G2	O2
+55	C7T4G7	ent-kaur-16-en-19-oate
+56	C7T4G7	[reduced NADPH-hemoprotein reductase]
+57	C7T4G7	O2
+0	Q6STM1	(+)-bornane-2,5-dione
+1	Q6STM1	FMNH2
+2	Q6STM1	O2
+3	Q6STM1	(+)-camphor
+4	Q6STM1	FMNH2
+5	Q6STM1	O2
+6	M5AWY0	(+)-bornane-2,5-dione
+7	M5AWY0	FMNH2
+8	M5AWY0	O2
+9	M5AWY0	(+)-camphor
+10	M5AWY0	FMNH2
+11	M5AWY0	O2
+0	Q43250	3-hydroxyindolin-2-one
+1	Q43250	[reduced NADPH-hemoprotein reductase]
+2	Q43250	O2
+0	B1NY94	indene
+1	B1NY94	FADH2
+2	B1NY94	O2
+3	B1NY94	styrene
+4	B1NY94	FADH2
+5	B1NY94	O2
+6	G3XEX2	styrene
+7	G3XEX2	FADH2
+8	G3XEX2	O2
+9	G3XEX2	1-hexene
+10	G3XEX2	FADH2
+11	G3XEX2	O2
+12	G3XEX2	1-octene
+13	G3XEX2	FADH2
+14	G3XEX2	O2
+15	G3XEX2	2-chlorostyrene
+16	G3XEX2	FADH2
+17	G3XEX2	O2
+18	G3XEX2	3-chlorostyrene
+19	G3XEX2	FADH2
+20	G3XEX2	O2
+21	G3XEX2	4-bromostyrene
+22	G3XEX2	FADH2
+23	G3XEX2	O2
+24	G3XEX2	4-chlorostyrene
+25	G3XEX2	FADH2
+26	G3XEX2	O2
+27	G3XEX2	4-fluorostyrene
+28	G3XEX2	FADH2
+29	G3XEX2	O2
+30	G3XEX2	allylbenzene
+31	G3XEX2	FADH2
+32	G3XEX2	O2
+33	G3XEX2	indole
+34	G3XEX2	FADH2
+35	G3XEX2	O2
+36	G3XEX5	styrene
+37	G3XEX5	FADH2
+38	G3XEX5	O2
+39	G3XEX5	1-hexene
+40	G3XEX5	FADH2
+41	G3XEX5	O2
+42	G3XEX5	1-octene
+43	G3XEX5	FADH2
+44	G3XEX5	O2
+45	G3XEX5	2-chlorostyrene
+46	G3XEX5	FADH2
+47	G3XEX5	O2
+48	G3XEX5	3-chlorostyrene
+49	G3XEX5	FADH2
+50	G3XEX5	O2
+51	G3XEX5	4-bromostyrene
+52	G3XEX5	FADH2
+53	G3XEX5	O2
+54	G3XEX5	4-chlorostyrene
+55	G3XEX5	FADH2
+56	G3XEX5	O2
+57	G3XEX5	4-fluorostyrene
+58	G3XEX5	FADH2
+59	G3XEX5	O2
+60	G3XEX5	allylbenzene
+61	G3XEX5	FADH2
+62	G3XEX5	O2
+63	G3XEX5	indole
+64	G3XEX5	FADH2
+65	G3XEX5	O2
+66	C7ACG0	styrene
+67	C7ACG0	FADH2
+68	C7ACG0	O2
+69	C7ACG0	phenyl vinyl sulfide
+70	C7ACG0	FADH2
+71	C7ACG0	O2
+72	C7ACG1	styrene
+73	C7ACG1	FADH2
+74	C7ACG1	O2
+75	C7ACG1	phenyl vinyl sulfide
+76	C7ACG1	FADH2
+77	C7ACG1	O2
+78	A0A076JVU4	styrene
+79	A0A076JVU4	FADH2
+80	A0A076JVU4	O2
+81	A0A076JVU4	phenyl vinyl sulfide
+82	A0A076JVU4	FADH2
+83	A0A076JVU4	O2
+84	A0A076JVU4	1-methylindole
+85	A0A076JVU4	FADH2
+86	A0A076JVU4	O2
+87	A0A076JVU4	1-methylindole-5-carboxylate
+88	A0A076JVU4	FADH2
+89	A0A076JVU4	O2
+90	A0A076JVU4	4-methoxyindole
+91	A0A076JVU4	FADH2
+92	A0A076JVU4	O2
+93	A0A076JVU4	5-methoxyindole
+94	A0A076JVU4	FADH2
+95	A0A076JVU4	O2
+96	A0A076JVU4	6-bromoindole
+97	A0A076JVU4	FADH2
+98	A0A076JVU4	O2
+99	A0A076JVU4	6-chloroindole
+100	A0A076JVU4	FADH2
+101	A0A076JVU4	O2
+102	A0A076JVU4	6-methoxyindole
+103	A0A076JVU4	FADH2
+104	A0A076JVU4	O2
+105	A0A076JVU4	7-azaindole
+106	A0A076JVU4	FADH2
+107	A0A076JVU4	O2
+108	A0A076JVU4	7-methoxyindole
+109	A0A076JVU4	FADH2
+110	A0A076JVU4	O2
+111	A0A076JVU4	indole
+112	A0A076JVU4	FADH2
+113	A0A076JVU4	O2
+114	G3XEX2	more
+115	G3XEX2	styrene
+116	G3XEX2	FADH2
+117	G3XEX2	O2
+118	G3XEX2	2-methylhex-1-ene
+119	G3XEX2	FADH2
+120	G3XEX2	O2
+121	G3XEX2	6-bromohex-1-ene
+122	G3XEX2	FADH2
+123	G3XEX2	O2
+124	G3XEX2	6-chlorohex-1-ene
+125	G3XEX2	FADH2
+126	G3XEX2	O2
+127	G3XEX2	hept-1-ene
+128	G3XEX2	FADH2
+129	G3XEX2	O2
+130	O33471	styrene
+131	O33471	FADH2
+132	O33471	O2
+133	O33471	2-ethylstyrene
+134	O33471	FADH2
+135	O33471	O2
+136	O33471	2-methylstyrene
+137	O33471	FADH2
+138	O33471	O2
+139	A8BQ92	more
+140	A8BQ92	styrene
+141	A8BQ92	FADH2
+142	A8BQ92	O2
+143	A8BQ92	3-chlorostyrene
+144	A8BQ92	FADH2
+145	A8BQ92	O2
+146	A8BQ92	4-chlorostyrene
+147	A8BQ92	FADH2
+148	A8BQ92	O2
+149	A8BQ92	2-chlorostyrene
+150	A8BQ92	FADH2
+151	A8BQ92	O2
+152	C7ACG0	styrene
+153	C7ACG0	FADH2
+154	C7ACG0	O2
+155	C7ACG0	3-chlorostyrene
+156	C7ACG0	FADH2
+157	C7ACG0	O2
+158	C7ACG0	4-chlorostyrene
+159	C7ACG0	FADH2
+160	C7ACG0	O2
+161	C7ACG0	2-chlorostyrene
+162	C7ACG0	FADH2
+163	C7ACG0	O2
+164	C7ACG0	4-methylstyrene
+165	C7ACG0	FADH2
+166	C7ACG0	O2
+0	Q0JF01	more
+1	Q0JF01	syn-pimara-7,15-diene
+2	Q0JF01	[reduced NADPH-hemoprotein reductase]
+3	Q0JF01	O2
+4	Q0JF01	syn-pimaradien-19-al
+5	Q0JF01	[reduced NADPH-hemoprotein reductase]
+6	Q0JF01	O2
+7	Q0JF01	syn-pimaradien-19-ol
+8	Q0JF01	[reduced NADPH-hemoprotein reductase]
+9	Q0JF01	O2
+10	Q0JF01	syn-stemod-13(17)-ene
+11	Q0JF01	[reduced NADPH-hemoprotein reductase]
+12	Q0JF01	O2
+13	Q0JF01	syn-stemoden-19-al
+14	Q0JF01	[reduced NADPH-hemoprotein reductase]
+15	Q0JF01	O2
+16	Q0JF01	syn-stemoden-19-ol
+17	Q0JF01	[reduced NADPH-hemoprotein reductase]
+18	Q0JF01	O2
+0	Q6YTE2	ent-cassa-12,15-diene
+1	Q6YTE2	[reduced NADPH-hemoprotein reductase]
+2	Q6YTE2	O2
+3	Q6YTE2	more
+0	E3W9C4	alpha-humulene
+1	E3W9C4	O2
+2	E3W9C4	[reduced NADPH-hemoprotein reductase]
+0	Q1PS23	amorpha-4,11-diene
+1	Q1PS23	[reduced NADPH-hemoprotein reductase]
+2	Q1PS23	O2
+3	Q1PS23	artemisinic alcohol
+4	Q1PS23	[reduced NADPH-hemoprotein reductase]
+5	Q1PS23	O2
+6	Q1PS23	artemisinic aldehyde
+7	Q1PS23	[reduced NADPH-hemoprotein reductase]
+8	Q1PS23	O2
+9	Q1PS23	more
+10	Q1PS23	amorpha-4,11-diene
+11	Q1PS23	O2
+12	Q1PS23	[reduced NADPH-hemoprotein reductase]
+13	Q1PS23	artemisinic alcohol
+14	Q1PS23	O2
+15	Q1PS23	[reduced NADPH-hemoprotein reductase]
+16	Q1PS23	artemisinic aldehyde
+17	Q1PS23	O2
+18	Q1PS23	[reduced NADPH-hemoprotein reductase]
+19	Q1PS23	amorpha-4,11-diene
+20	Q1PS23	3 O2
+21	Q1PS23	[reduced NADPH-hemoprotein reductase]
+22	C5I9X1	amorpha-4,11-diene
+23	C5I9X1	[reduced NADPH-hemoprotein reductase]
+24	C5I9X1	O2
+25	C5I9X1	artemisinic alcohol
+26	C5I9X1	[reduced NADPH-hemoprotein reductase]
+27	C5I9X1	O2
+28	C5I9X1	artemisinic aldehyde
+29	C5I9X1	[reduced NADPH-hemoprotein reductase]
+30	C5I9X1	O2
+31	C5I9X1	more
+32	C5I9X1	dihydroartemisinic alcohol
+33	C5I9X1	[reduced NADPH-hemoprotein reductase]
+34	C5I9X1	O2
+35	C5I9X1	2-nonenal
+36	C5I9X1	[reduced NADPH-hemoprotein reductase]
+37	C5I9X1	O2
+38	C5I9X1	dihydroartemisinic aldehyde
+39	C5I9X1	[reduced NADPH-hemoprotein reductase]
+40	C5I9X1	O2
+41	C5I9X1	octanal
+42	C5I9X1	[reduced NADPH-hemoprotein reductase]
+43	C5I9X1	O2
+44	K7ZR99	amorpha-4,11-diene
+45	K7ZR99	3 O2
+46	K7ZR99	[reduced NADPH-hemoprotein reductase]
+47	K7ZPJ9	amorpha-4,11-diene
+48	K7ZPJ9	3 O2
+49	K7ZPJ9	[reduced NADPH-hemoprotein reductase]
+0	A0A1I9Q5Z0	beta-amyrin
+1	A0A1I9Q5Z0	[reduced NADPH-hemoprotein reductase]
+2	A0A1I9Q5Z0	O2
+3	A0A1I9Q5Z0	beta-amyrin
+4	A0A1I9Q5Z0	[reduced NADPH-hemoprotein reductase]
+5	A0A1I9Q5Z0	O2
+6	A0A1I9Q5Z0	maniladiol
+7	A0A1I9Q5Z0	[reduced NADPH-hemoprotein reductase]
+8	A0A1I9Q5Z0	O2
+9	A0A1I9Q5Z0	more
+10	A0A1I9Q5Z0	oleanolic acid
+11	A0A1I9Q5Z0	[reduced NADPH-hemoprotein reductase]
+12	A0A1I9Q5Z0	O2
+0	Q12732	(1'S)-averantin
+1	Q12732	[reduced NADPH-hemoprotein reductase]
+2	Q12732	O2
+3	Q12732	(1'S)-averantin
+4	Q12732	[reduced NADPH-hemoprotein reductase]
+5	Q12732	O2
+0	O13345	8-O-methyldihydrosterigmatocystin
+1	O13345	[reduced NADPH-hemoprotein reductase]
+2	O13345	O2
+3	O13345	8-O-methylsterigmatocystin
+4	O13345	[reduced NADPH-hemoprotein reductase]
+5	O13345	O2
+0	B9WZX1	tryprostatin B
+1	B9WZX1	[reduced NADPH-hemoprotein reductase]
+2	B9WZX1	O2
+0	B9WZX6	fumitremorgin C
+1	B9WZX6	2 [reduced NADPH-hemoprotein reductase]
+2	B9WZX6	2 O2
+0	P9WJA1	3,17-dihydroxy-9,10-seconandrost-1,3,5(10)-triene-9-one
+1	P9WJA1	FMNH2
+2	P9WJA1	O2
+3	P9WJA1	3-hydroxy-9,10-seconandrost-1,3,5(10)-triene-9,17-dione
+4	P9WJA1	FADH2
+5	P9WJA1	O2
+6	P9WJA1	3-hydroxy-9,10-seconandrost-1,3,5(10)-triene-9,17-dione
+7	P9WJA1	FMNH2
+8	P9WJA1	O2
+9	P9WJA1	3-hydroxybiphenyl
+10	P9WJA1	FMNH2
+11	P9WJA1	O2
+12	P9WJA1	more
+0	K4K542	dammarenediol-II
+1	K4K542	[reduced NADPH-hemoprotein reductase]
+2	K4K542	O2
+3	H2DH16	dammarenediol-II
+4	H2DH16	[reduced NADPH-hemoprotein reductase]
+5	H2DH16	O2
+0	I7CT85	protopanaxadiol
+1	I7CT85	[reduced NADPH-hemoprotein reductase]
+2	I7CT85	O2
+3	I7CT85	protopanaxadiol
+4	I7CT85	[reduced NADPH-hemoprotein reductase]
+5	I7CT85	O2
+6	I7C6E8	protopanaxadiol
+7	I7C6E8	[reduced NADPH-hemoprotein reductase]
+8	I7C6E8	O2
+9	I7C6E8	protopanaxadiol
+10	I7C6E8	[reduced NADPH-hemoprotein reductase]
+11	I7C6E8	O2
+12	L7TF20	protopanaxadiol
+13	L7TF20	[reduced NADPH-hemoprotein reductase]
+14	L7TF20	O2
+15	L7TF20	protopanaxadiol
+16	L7TF20	[reduced NADPH-hemoprotein reductase]
+17	L7TF20	O2
+0	Q9Y7C8	dihydromonacolin L acid
+1	Q9Y7C8	[reduced NADPH-hemoprotein reductase]
+2	Q9Y7C8	O2
+3	Q9Y7C8	3alpha-hydroxy-3,5-dihydromonacolin L acid
+4	Q9Y7C8	dihydromonacolin L acid
+5	Q9Y7C8	[reduced NADPH-hemoprotein reductase]
+6	Q9Y7C8	O2
+0	Q9Y7C8	monacolin L acid
+1	Q9Y7C8	[reduced NADPH-hemoprotein reductase]
+2	Q9Y7C8	O2
+0	I7C6E8	beta-amyrin
+1	I7C6E8	[reduced NADPH-hemoprotein reductase]
+2	I7C6E8	O2
+3	A0A1L7NXK5	alpha-amyrin
+4	A0A1L7NXK5	3 [reduced NADPH-hemoprotein reductase]
+5	A0A1L7NXK5	3 O2
+6	A0A1L7NXK5	alpha-amyrin
+7	A0A1L7NXK5	[reduced NADPH-hemoprotein reductase]
+8	A0A1L7NXK5	O2
+9	A0A1L7NXK5	betulin
+10	A0A1L7NXK5	[reduced NADPH-hemoprotein reductase]
+11	A0A1L7NXK5	O2
+12	A0A1L7NXK5	betulinic aldehyde
+13	A0A1L7NXK5	[reduced NADPH-hemoprotein reductase]
+14	A0A1L7NXK5	O2
+15	A0A1L7NXK5	lupeol
+16	A0A1L7NXK5	3 [reduced NADPH-hemoprotein reductase]
+17	A0A1L7NXK5	3 O2
+18	A0A1L7NXK5	lupeol
+19	A0A1L7NXK5	3 [reduced NADPH-hemoprotein reductase]
+20	A0A1L7NXK5	3 O2
+21	A0A1L7NXK5	ursolic aldehyde
+22	A0A1L7NXK5	[reduced NADPH-hemoprotein reductase]
+23	A0A1L7NXK5	O2
+24	A0A1L7NXK5	uvaol
+25	A0A1L7NXK5	[reduced NADPH-hemoprotein reductase]
+26	A0A1L7NXK5	O2
+27	A0A1L7NXK5	beta-amyrin
+28	A0A1L7NXK5	[reduced NADPH-hemoprotein reductase]
+29	A0A1L7NXK5	O2
+30	A0A1L7NXK5	oleanolic aldehyde
+31	A0A1L7NXK5	[reduced NADPH-hemoprotein reductase]
+32	A0A1L7NXK5	O2
+33	A0A1L7NXK5	more
+34	A0A1L7NXK5	beta-amyrin
+35	A0A1L7NXK5	3 [reduced NADPH-hemoprotein reductase]
+36	A0A1L7NXK5	3 O2
+37	A0A1L7NXK5	erythrodiol
+38	A0A1L7NXK5	[reduced NADPH-hemoprotein reductase]
+39	A0A1L7NXK5	O2
+40	I7C6E8	more
+41	I7C6E8	beta-amyrin
+42	I7C6E8	3 [reduced NADPH-hemoprotein reductase]
+43	I7C6E8	3 O2
+44	A0A161ABB0	beta-amyrin
+45	A0A161ABB0	[reduced NADPH-hemoprotein reductase]
+46	A0A161ABB0	O2
+47	A0A161ABB0	oleanolic aldehyde
+48	A0A161ABB0	[reduced NADPH-hemoprotein reductase]
+49	A0A161ABB0	O2
+50	A0A161ABB0	more
+51	A0A161ABB0	beta-amyrin
+52	A0A161ABB0	3 [reduced NADPH-hemoprotein reductase]
+53	A0A161ABB0	3 O2
+54	A0A161ABB0	erythrodiol
+55	A0A161ABB0	[reduced NADPH-hemoprotein reductase]
+56	A0A161ABB0	O2
+57	A0A3Q7HBJ5	more
+58	A0A3Q7HBJ5	beta-amyrin
+59	A0A3Q7HBJ5	O2
+60	A0A3Q7HBJ5	NADPH
+61	A0A3Q7HBJ5	H+
+62	A0A3Q7HBJ5	beta-amyrin
+63	A0A3Q7HBJ5	3 O2
+64	A0A3Q7HBJ5	3 NADPH
+65	A0A3Q7HBJ5	3 H+
+66	K4CEE8	more
+67	K4CEE8	beta-amyrin
+68	K4CEE8	O2
+69	K4CEE8	NADPH
+70	K4CEE8	H+
+71	K4CEE8	beta-amyrin
+72	K4CEE8	3 O2
+73	K4CEE8	3 NADPH
+74	K4CEE8	3 H+
+75	F8J4R7	beta-amyrin
+76	F8J4R7	[reduced NADPH-hemoprotein reductase]
+77	F8J4R7	O2
+78	F8J4R7	erythrodiol
+79	F8J4R7	[reduced NADPH-hemoprotein reductase]
+80	F8J4R7	O2
+81	Q2MJ20	beta-amyrin
+82	Q2MJ20	[reduced NADPH-hemoprotein reductase]
+83	Q2MJ20	O2
+84	Q2MJ20	erythrodiol
+85	Q2MJ20	[reduced NADPH-hemoprotein reductase]
+86	Q2MJ20	O2
+87	Q2MJ20	alpha-amyrin
+88	Q2MJ20	[reduced NADPH-hemoprotein reductase]
+89	Q2MJ20	O2
+90	Q2MJ20	lupeol
+91	Q2MJ20	[reduced NADPH-hemoprotein reductase]
+92	Q2MJ20	O2
+93	Q2MJ20	beta-amyrin
+94	Q2MJ20	[reduced NADPH-hemoprotein reductase]
+95	Q2MJ20	O2
+96	Q2MJ20	oleanolic aldehyde
+97	Q2MJ20	[reduced NADPH-hemoprotein reductase]
+98	Q2MJ20	O2
+99	F1T282	beta-amyrin
+100	F1T282	[reduced NADPH-hemoprotein reductase]
+101	F1T282	O2
+102	F1T282	erythrodiol
+103	F1T282	[reduced NADPH-hemoprotein reductase]
+104	F1T282	O2
+105	F1T282	alpha-amyrin
+106	F1T282	[reduced NADPH-hemoprotein reductase]
+107	F1T282	O2
+108	F1T282	lupeol
+109	F1T282	[reduced NADPH-hemoprotein reductase]
+110	F1T282	O2
+111	F1T282	beta-amyrin
+112	F1T282	[reduced NADPH-hemoprotein reductase]
+113	F1T282	O2
+114	F1T282	oleanolic aldehyde
+115	F1T282	[reduced NADPH-hemoprotein reductase]
+116	F1T282	O2
+117	F1T283	beta-amyrin
+118	F1T283	[reduced NADPH-hemoprotein reductase]
+119	F1T283	O2
+120	F1T283	erythrodiol
+121	F1T283	[reduced NADPH-hemoprotein reductase]
+122	F1T283	O2
+123	F1T283	beta-amyrin
+124	F1T283	[reduced NADPH-hemoprotein reductase]
+125	F1T283	O2
+126	F1T283	oleanolic aldehyde
+127	F1T283	[reduced NADPH-hemoprotein reductase]
+128	F1T283	O2
+129	A0A1I9Q5Z0	beta-amyrin
+130	A0A1I9Q5Z0	[reduced NADPH-hemoprotein reductase]
+131	A0A1I9Q5Z0	O2
+132	A0A1I9Q5Z0	beta-amyrin
+133	A0A1I9Q5Z0	[reduced NADPH-hemoprotein reductase]
+134	A0A1I9Q5Z0	O2
+135	A0A1I9Q5Z0	oleanolic acid
+136	A0A1I9Q5Z0	[reduced NADPH-hemoprotein reductase]
+137	A0A1I9Q5Z0	O2
+138	A0A1I9Q5Z0	more
+139	A0A1I9Q5Z0	maniladiol
+140	A0A1I9Q5Z0	[reduced NADPH-hemoprotein reductase]
+141	A0A1I9Q5Z0	O2
+142	A0A0S2II38	beta-amyrin
+143	A0A0S2II38	3 [reduced NADPH-hemoprotein reductase]
+144	A0A0S2II38	3 O2
+145	A0A1P8W705	beta-amyrin
+146	A0A1P8W705	[reduced NADPH-hemoprotein reductase]
+147	A0A1P8W705	O2
+148	A0A1P8W705	more
+149	A0A1P8W705	erythrodiol
+150	A0A1P8W705	[reduced NADPH-hemoprotein reductase]
+151	A0A1P8W705	O2
+152	A0A1P8W705	beta-amyrin
+153	A0A1P8W705	O2
+154	A0A1P8W705	NADPH
+155	A0A1P8W705	H+
+156	A0A1P8W705	beta-amyrin
+157	A0A1P8W705	3 O2
+158	A0A1P8W705	3 NADPH
+159	A0A1P8W705	3 H+
+160	A0A1P8W705	beta-amyrin
+161	A0A1P8W705	3 [reduced NADPH-hemoprotein reductase]
+162	A0A1P8W705	3 O2
+163	A0A1V1FHP8	beta-amyrin
+164	A0A1V1FHP8	[reduced NADPH-hemoprotein reductase]
+165	A0A1V1FHP8	O2
+166	A0A1V1FHP8	oleanolic aldehyde
+167	A0A1V1FHP8	[reduced NADPH-hemoprotein reductase]
+168	A0A1V1FHP8	O2
+169	A0A1V1FHP8	more
+170	A0A1V1FHP8	maniladiol
+171	A0A1V1FHP8	[reduced NADPH-hemoprotein reductase]
+172	A0A1V1FHP8	O2
+173	A0A1V1FHP8	beta-amyrin
+174	A0A1V1FHP8	3 [reduced NADPH-hemoprotein reductase]
+175	A0A1V1FHP8	3 O2
+176	A0A1V1FHP8	erythrodiol
+177	A0A1V1FHP8	[reduced NADPH-hemoprotein reductase]
+178	A0A1V1FHP8	O2
+0	Q6R7M4	methyl (2E,6E)-farnesoate
+1	Q6R7M4	[reduced NADPH-hemoprotein reductase]
+2	Q6R7M4	O2
+3	Q6R7M4	methyl (2E,6E)-farnesoate
+4	Q6R7M4	[reduced NADPH-hemoprotein reductase]
+5	Q6R7M4	O2
+6	Q6R7M4	more
+7	D6WFY6	methyl (2E,6E)-farnesoate
+8	D6WFY6	[reduced NADPH-hemoprotein reductase]
+9	D6WFY6	O2
+10	D6WFY6	(2E,6E)-farnesoate
+11	D6WFY6	[reduced NADPH-hemoprotein reductase]
+12	D6WFY6	O2
+13	A0A2C9DK12	methyl (2E,6E)-farnesoate
+14	A0A2C9DK12	[reduced NADPH-hemoprotein reductase]
+15	A0A2C9DK12	O2
+16	D6CJJ9	methyl (2E,6E)-farnesoate
+17	D6CJJ9	[reduced NADPH-hemoprotein reductase]
+18	D6CJJ9	O2
+19	A0A286LD89	methyl (2E,6E)-farnesoate
+20	A0A286LD89	[reduced NADPH-hemoprotein reductase]
+21	A0A286LD89	O2
+0	C0SPF7	(2E,6E)-farnesoate
+1	C0SPF7	[reduced NADPH-hemoprotein reductase]
+2	C0SPF7	O2
+0	B3RFJ6	more
+1	B3RFJ6	oleate
+2	B3RFJ6	[reduced NADPH-hemoprotein reductase]
+3	B3RFJ6	O2
+4	B3RFJ6	oleoyl-CoA
+5	B3RFJ6	[reduced NADPH-hemoprotein reductase]
+6	B3RFJ6	O2
+7	B3RFJ6	palmitoyl-CoA
+8	B3RFJ6	[reduced NADPH-hemoprotein reductase]
+9	B3RFJ6	O2
+10	B3RFJ6	stearoyl-CoA
+11	B3RFJ6	[reduced NADPH-hemoprotein reductase]
+12	B3RFJ6	O2
+0	Q4H4E5	4-(L-gamma-glutamylamino)butanoyl-[BtrI acyl-carrier protein]
+1	Q4H4E5	FMNH2
+2	Q4H4E5	O2
+3	Q4H4E5	butanoyl-[BtrI acyl-carrier protein]
+4	Q4H4E5	FMNH2
+5	Q4H4E5	O2
+6	Q4H4E5	more
+7	Q4H4E5	octanoyl-[BtrI acyl-carrier protein]
+8	Q4H4E5	FMNH2
+9	Q4H4E5	O2
+0	Q9LNJ4	dodecanoate
+1	Q9LNJ4	[reduced NADPH-hemoprotein reductase]
+2	Q9LNJ4	O2
+0	A0A0N9HTU1	(-)-5'-demethoxyyatein
+1	A0A0N9HTU1	[reduced NADPH-hemoprotein reductase]
+2	A0A0N9HTU1	O2
+0	A0A0N7F297	(-)-4'-demethyl-deoxypodophyllotoxin
+1	A0A0N7F297	[reduced NADPH-hemoprotein reductase]
+2	A0A0N7F297	O2
+0	Q8VQF6	1,8-cineole
+1	Q8VQF6	[reduced NADPH-hemoprotein reductase]
+2	Q8VQF6	O2
+3	Q8VQF6	1,8-cineole
+4	Q8VQF6	[reduced flavodoxin]
+5	Q8VQF6	O2
+6	Q8VQF6	1,8-cineole
+7	Q8VQF6	[reduced flavodoxin]
+8	Q8VQF6	O2
+9	Q8VQF6	2,2-dimethylbicyclo[2.2.2]octane
+10	Q8VQF6	[reduced flavodoxin]
+11	Q8VQF6	O2
+12	Q8VQF6	camphane
+13	Q8VQF6	[reduced flavodoxin]
+14	Q8VQF6	O2
+15	Q8VQF6	more
+0	Q9XHC6	beta-amyrin
+1	Q9XHC6	[reduced NADPH-hemoprotein reductase]
+2	Q9XHC6	O2
+3	Q9XHC6	sophoradiol
+4	Q9XHC6	[reduced NADPH-hemoprotein reductase]
+5	Q9XHC6	O2
+0	Q6ZDE3	more
+1	Q0J185	more
+2	O81077	(+)-abscisic acid
+3	O81077	[reduced NADPH-hemoprotein reductase]
+4	O81077	O2
+5	O81077	more
+6	A9QNE7	(+)-abscisic acid
+7	A9QNE7	[reduced NADPH-hemoprotein reductase]
+8	A9QNE7	O2
+9	Q949P1	(+)-abscisic acid
+10	Q949P1	[reduced NADPH-hemoprotein reductase]
+11	Q949P1	O2
+12	Q9FH76	(+)-abscisic acid
+13	Q9FH76	[reduced NADPH-hemoprotein reductase]
+14	Q9FH76	O2
+15	Q9FH76	(+)-abscisate
+16	Q9FH76	[reduced NADPH-hemoprotein reductase]
+17	Q9FH76	O2
+18	Q9LJK2	(+)-abscisic acid
+19	Q9LJK2	[reduced NADPH-hemoprotein reductase]
+20	Q9LJK2	O2
+21	E3TB04	(+)-abscisic acid
+22	E3TB04	[reduced NADPH-hemoprotein reductase]
+23	E3TB04	O2
+24	E3TB05	(+)-abscisic acid
+25	E3TB05	[reduced NADPH-hemoprotein reductase]
+26	E3TB05	O2
+27	E3TB07	(+)-abscisic acid
+28	E3TB07	[reduced NADPH-hemoprotein reductase]
+29	E3TB07	O2
+30	E3TB06	(+)-abscisic acid
+31	E3TB06	[reduced NADPH-hemoprotein reductase]
+32	E3TB06	O2
+33	R4X4I5	(+)-abscisic acid
+34	R4X4I5	[reduced NADPH-hemoprotein reductase]
+35	R4X4I5	O2
+36	R4WUP9	(+)-abscisic acid
+37	R4WUP9	[reduced NADPH-hemoprotein reductase]
+38	R4WUP9	O2
+39	B8QBY2	(+)-abscisic acid
+40	B8QBY2	[reduced NADPH-hemoprotein reductase]
+41	B8QBY2	O2
+42	B8QBY2	(+)-abscisate
+43	B8QBY2	[reduced NADPH-hemoprotein reductase]
+44	B8QBY2	O2
+45	W9SMK4	(+)-abscisate
+46	W9SMK4	[reduced NADPH-hemoprotein reductase]
+47	W9SMK4	O2
+48	W9SAM9	(+)-abscisate
+49	W9SAM9	[reduced NADPH-hemoprotein reductase]
+50	W9SAM9	O2
+51	W9ST04	(+)-abscisate
+52	W9ST04	[reduced NADPH-hemoprotein reductase]
+53	W9ST04	O2
+54	U6NHS3	(+)-abscisate
+55	U6NHS3	[reduced NADPH-hemoprotein reductase]
+56	U6NHS3	O2
+57	U6NJF1	(+)-abscisate
+58	U6NJF1	[reduced NADPH-hemoprotein reductase]
+59	U6NJF1	O2
+60	F1T0M7	(+)-abscisate
+61	F1T0M7	[reduced NADPH-hemoprotein reductase]
+62	F1T0M7	O2
+63	W9SJA3	(+)-abscisate
+64	W9SJA3	[reduced NADPH-hemoprotein reductase]
+65	W9SJA3	O2
+66	W9S4Y0	(+)-abscisate
+67	W9S4Y0	[reduced NADPH-hemoprotein reductase]
+68	W9S4Y0	O2
+69	W9SPF5	(+)-abscisate
+70	W9SPF5	[reduced NADPH-hemoprotein reductase]
+71	W9SPF5	O2
+72	Q05JG2	more
+0	P11511	androst-4-ene-3,17-dione
+1	P11511	3 O2
+2	P11511	3 reduced flavoproteins
+3	P79304	androst-4-ene-3,17-dione
+4	P79304	3 O2
+5	P79304	3 reduced flavoproteins
+0	Q6QNI4	more
+1	Q6QNI4	(+)-marmesin
+2	Q6QNI4	[reduced NADPH-hemoprotein reductase]
+3	Q6QNI4	O2
+4	Q6QNI4	5-hydroxymarmesin
+5	Q6QNI4	[reduced NADPH-hemoprotein reductase]
+6	Q6QNI4	O2
+7	C0SJS4	(+)-marmesin
+8	C0SJS4	[reduced NADPH-hemoprotein reductase]
+9	C0SJS4	O2
+10	C0SJS4	5-hydroxymarmesin
+11	C0SJS4	[reduced NADPH-hemoprotein reductase]
+12	C0SJS4	O2
+13	C0SJS2	(+)-marmesin
+14	C0SJS2	[reduced NADPH-hemoprotein reductase]
+15	C0SJS2	O2
+16	C0SJS2	5-hydroxymarmesin
+17	C0SJS2	[reduced NADPH-hemoprotein reductase]
+18	C0SJS2	O2
+0	Q947B7	(+)-pulegone
+1	Q947B7	[reduced NADPH-hemoprotein reductase]
+2	Q947B7	O2
+0	Q50EK6	dehydroabietadienol
+1	Q50EK6	[reduced NADPH-hemoprotein reductase]
+2	Q50EK6	O2
+3	Q50EK6	isopimara-7,15-dienol
+4	Q50EK6	[reduced NADPH-hemoprotein reductase]
+5	Q50EK6	O2
+6	Q50EK6	levopimaradienol
+7	Q50EK6	[reduced NADPH-hemoprotein reductase]
+8	Q50EK6	O2
+9	Q50EK6	more
+10	Q50EK6	abieta-7,13-dien-18-ol
+11	Q50EK6	[reduced NADPH-hemoprotein reductase]
+12	Q50EK6	O2
+13	Q50EK6	(13S)-pimara-7,15-dien-18-al
+14	Q50EK6	[reduced NADPH-hemoprotein reductase]
+15	Q50EK6	O2
+16	Q50EK6	abieta-7,13-dien-18-al
+17	Q50EK6	[reduced NADPH-hemoprotein reductase]
+18	Q50EK6	O2
+19	Q50EK5	more
+20	Q50EK4	more
+21	Q50EK3	more
+22	Q50EK1	more
+23	Q50EK0	more
+0	Q9M066	(22S)-22-hydroxycampest-4-en-3-one
+1	Q9M066	[reduced NADPH-hemoprotein reductase]
+2	Q9M066	O2
+3	Q9M066	(22S)-22-hydroxycampesterol
+4	Q9M066	[reduced NADPH-hemoprotein reductase]
+5	Q9M066	O2
+6	Q9M066	(22S,24R)-22-hydroxy-5alpha-ergostan-3-one
+7	Q9M066	[reduced NADPH-hemoprotein reductase]
+8	Q9M066	O2
+9	Q9M066	3-epi-6-deoxocathasterone
+10	Q9M066	[reduced NADPH-hemoprotein reductase]
+11	Q9M066	O2
+12	Q9M066	6-deoxocathasterone
+13	Q9M066	[reduced NADPH-hemoprotein reductase]
+14	Q9M066	O2
+0	C0SJS3	(+)-columbianetin
+1	C0SJS3	[reduced NADPH-hemoprotein reductase]
+2	C0SJS3	O2
+3	C0SJS3	syn-[3'D]columbianetin
+4	C0SJS3	[reduced NADPH-hemoprotein reductase]
+5	C0SJS3	O2
+0	Q94FM7	1-deoxycapsidiol
+1	Q94FM7	[reduced NADPH-hemoprotein reductase]
+2	Q94FM7	O2
+3	Q94FM7	1beta-hydroxy-5-epiaristolochene
+4	Q94FM7	[reduced NADPH-hemoprotein reductase]
+5	Q94FM7	O2
+6	Q94FM7	3-deoxycapsidiol
+7	Q94FM7	[reduced NADPH-hemoprotein reductase]
+8	Q94FM7	O2
+9	Q94FM7	3alpha-hydroxy-5-epiaristolochene
+10	Q94FM7	[reduced NADPH-hemoprotein reductase]
+11	Q94FM7	O2
+12	Q94FM7	5-epiaristolochene
+13	Q94FM7	[reduced NADPH-hemoprotein reductase]
+14	Q94FM7	O2
+15	Q94FM7	5-epiaristolochene
+16	Q94FM7	[reduced NADPH-hemoprotein reductase]
+17	Q94FM7	O2
+18	Q94FM7	5-epiaristolochene
+19	Q94FM7	[reduced NADPH-hemoprotein reductase]
+20	Q94FM7	O2
+21	Q94FM7	5-epiaristolochene
+22	Q94FM7	[reduced NADPH-hemoprotein reductase]
+23	Q94FM7	O2
+24	Q94FM7	premnaspirodiene
+25	Q94FM7	[reduced NADPH-hemoprotein reductase]
+26	Q94FM7	O2
+0	Q8GME2	more
+0	G3GBK0	germacra-1(10),4,11(13)-trien-12-oate
+1	G3GBK0	[reduced NADPH-hemoprotein reductase]
+2	G3GBK0	O2
+3	G3GBK0	germacra-1(10),4,11(13)-trien-12-oate
+4	G3GBK0	[reduced NADPH-hemoprotein reductase]
+5	G3GBK0	O2
+6	F8S1I0	germacra-1(10),4,11(13)-trien-12-oate
+7	F8S1I0	[reduced NADPH-hemoprotein reductase]
+8	F8S1I0	O2
+9	F8S1I0	germacra-1(10),4,11(13)-trien-12-oate
+10	F8S1I0	[reduced NADPH-hemoprotein reductase]
+11	F8S1I0	O2
+12	A0A059WMF6	germacra-1(10),4,11(13)-trien-12-oate
+13	A0A059WMF6	[reduced NADPH-hemoprotein reductase]
+14	A0A059WMF6	O2
+0	A6YIH8	(+)-valencene
+1	A6YIH8	[reduced NADPH-hemoprotein reductase]
+2	A6YIH8	O2
+3	A6YIH8	(-)-vetispiradiene
+4	A6YIH8	[reduced NADPH-hemoprotein reductase]
+5	A6YIH8	O2
+6	A6YIH8	4-epi-eremophilene
+7	A6YIH8	[reduced NADPH-hemoprotein reductase]
+8	A6YIH8	O2
+9	A6YIH8	5-epiaristolochene
+10	A6YIH8	3 [reduced NADPH-hemoprotein reductase]
+11	A6YIH8	3 O2
+12	A6YIH8	cedr-8-ene
+13	A6YIH8	[reduced NADPH-hemoprotein reductase]
+14	A6YIH8	O2
+15	A6YIH8	more
+16	A6YIH8	valencene
+17	A6YIH8	2 [reduced NADPH-hemoprotein reductase]
+18	A6YIH8	2 O2
+0	Q43257	indole
+1	Q43257	[reduced NADPH-hemoprotein reductase]
+2	Q43257	O2
+0	P10613	lanosterol
+1	P10613	[reduced NADPH-hemoprotein reductase]
+2	P10613	O2
+3	Q673E9	obtusifoliol
+4	Q673E9	[reduced NADPH-hemoprotein reductase]
+5	Q673E9	O2
+6	Q673E9	lanosterol
+7	Q673E9	[reduced NADPH-hemoprotein reductase]
+8	Q673E9	O2
+9	Q7Z1V1	more
+10	Q7Z1V1	obtusifoliol
+11	Q7Z1V1	[reduced NADPH-hemoprotein reductase]
+12	Q7Z1V1	O2
+13	Q7Z1V1	norlanosterol
+14	Q7Z1V1	[reduced NADPH-hemoprotein reductase]
+15	Q7Z1V1	O2
+16	Q7Z1V1	24,25-dihydrolanosterol
+17	Q7Z1V1	[reduced NADPH-hemoprotein reductase]
+18	Q7Z1V1	O2
+19	Q7Z1V1	lanosterol
+20	Q7Z1V1	[reduced NADPH-hemoprotein reductase]
+21	Q7Z1V1	O2
+22	Q7Z1V1	24-methylenedihydrolanosterol
+23	Q7Z1V1	[reduced NADPH-hemoprotein reductase]
+24	Q7Z1V1	O2
+25	Q7Z1V1	eburicol
+26	Q7Z1V1	[reduced NADPH-hemoprotein reductase]
+27	Q7Z1V1	O2
+28	Q7Z1V1	lanosterol
+29	Q7Z1V1	[reduced NADPH-hemoprotein reductase]
+30	Q7Z1V1	O2
+31	Q3HTM1	obtusifoliol
+32	Q3HTM1	[reduced NADPH-hemoprotein reductase]
+33	Q3HTM1	O2
+34	Q3HTM1	lanosterol
+35	Q3HTM1	[reduced NADPH-hemoprotein reductase]
+36	Q3HTM1	O2
+37	A7LM25	more
+38	A1XG20	more
+39	P10614	lanosterol
+40	P10614	NADPH
+41	P10614	O2
+42	Q16850	lanosterol
+43	Q16850	[reduced NADPH-hemoprotein reductase]
+44	Q16850	O2
+45	Q16850	lanosterol
+46	Q16850	[reduced NADPH-hemoprotein reductase]
+47	Q16850	O2
+48	Q16850	obtusifoliol
+49	Q16850	[reduced NADPH-hemoprotein reductase]
+50	Q16850	O2
+51	Q16850	24,25-dihydrolanosterol
+52	Q16850	[reduced NADPH-hemoprotein reductase]
+53	Q16850	O2
+54	Q870D1	24(28)-methylene-24,25-dihydrolanosterol
+55	Q870D1	[reduced NADPH-hemoprotein reductase]
+56	Q870D1	O2
+57	A8DBU6	lanosterol
+58	A8DBU6	[reduced NADPH-hemoprotein reductase]
+59	A8DBU6	O2
+60	P9WPP9	lanosterol
+61	P9WPP9	[reduced NADPH-hemoprotein reductase]
+62	P9WPP9	O2
+63	P9WPP9	more
+64	P9WPP9	lanosterol
+65	P9WPP9	O2
+66	P9WPP9	NADPH
+67	P9WPP9	H+
+68	P9WPP9	lanosterol
+69	P9WPP9	[reduced NADPH-hemoprotein reductase]
+70	P9WPP9	O2
+71	P9WPP9	24,25-dihydrolanosterol
+72	P9WPP9	[reduced NADPH-hemoprotein reductase]
+73	P9WPP9	O2
+74	P9WPP9	eburicol
+75	P9WPP9	[reduced NADPH-hemoprotein reductase]
+76	P9WPP9	O2
+77	P9WPP9	lanosterol
+78	P9WPP9	[reduced NADPH-hemoprotein reductase]
+79	P9WPP9	O2
+80	P9WPP9	obtusifoliol
+81	P9WPP9	[reduced NADPH-hemoprotein reductase]
+82	P9WPP9	O2
+83	P9WPP9	estriol
+84	P9WPP9	[reduced NADPH-hemoprotein reductase]
+85	P9WPP9	O2
+86	Q4PJW3	lanosterol
+87	Q4PJW3	[reduced NADPH-hemoprotein reductase]
+88	Q4PJW3	O2
+89	Q64654	lanosterol
+90	Q64654	[reduced NADPH-hemoprotein reductase]
+91	Q64654	O2
+92	Q64654	more
+93	A2TEF2	lanosterol
+94	A2TEF2	[reduced NADPH-hemoprotein reductase]
+95	A2TEF2	O2
+96	A2TEF2	norlanosterol
+97	A2TEF2	[reduced NADPH-hemoprotein reductase]
+98	A2TEF2	O2
+99	A2TEF2	24,25-dihydrolanosterol
+100	A2TEF2	[reduced NADPH-hemoprotein reductase]
+101	A2TEF2	O2
+102	A2TEF2	lanosterol
+103	A2TEF2	[reduced NADPH-hemoprotein reductase]
+104	A2TEF2	O2
+105	A2TEF2	14alpha-methylzymosterol
+106	A2TEF2	[reduced NADPH-hemoprotein reductase]
+107	A2TEF2	O2
+108	A2TEF2	obtusifoliol
+109	A2TEF2	[reduced NADPH-hemoprotein reductase]
+110	A2TEF2	O2
+111	A2TEF2	eburicol
+112	A2TEF2	[reduced NADPH-hemoprotein reductase]
+113	A2TEF2	O2
+114	A2TEF2	obtusifoliol
+115	A2TEF2	[reduced NADPH-hemoprotein reductase]
+116	A2TEF2	O2
+117	C8XRD8	lanosterol
+118	C8XRD8	[reduced NADPH-hemoprotein reductase]
+119	C8XRD8	O2
+120	A8Q3I7	lanosterol
+121	A8Q3I7	[reduced NADPH-hemoprotein reductase]
+122	A8Q3I7	O2
+123	A8Q3I7	obtusifoliol
+124	A8Q3I7	[reduced NADPH-hemoprotein reductase]
+125	A8Q3I7	O2
+126	A8Q3I7	eburicol
+127	A8Q3I7	[reduced NADPH-hemoprotein reductase]
+128	A8Q3I7	O2
+129	Q9P4W0	lanosterol
+130	Q9P4W0	[reduced NADPH-hemoprotein reductase]
+131	Q9P4W0	O2
+0	D7UER1	(+)-camphor
+1	D7UER1	FMNH2
+2	D7UER1	O2
+3	D7UER1	more
+4	D7UER1	(+/-)-cis-bicyclo[3.2.0]hept-2-en-6-one
+5	D7UER1	FMNH2
+6	D7UER1	O2
+7	D7UER1	(-)-bornane-2,5-dione
+8	D7UER1	O2
+9	D7UER1	FMNH2
+10	D7UER1	(-)-camphor
+11	D7UER1	FMNH2
+12	D7UER1	O2
+13	D7UER1	(-)-camphor
+14	D7UER1	FMNH2
+15	D7UER1	O2
+16	D7UER1	(R,R)-bicyclo[2.2.1]heptane-2,5-dione
+17	D7UER1	FMNH2
+18	D7UER1	O2
+19	D7UER1	2,3,4,5-tetramethyl-2-cyclopenten-1-one
+20	D7UER1	FMNH2
+21	D7UER1	O2
+22	D7UER1	2-cyclohexen-1-one
+23	D7UER1	FMNH2
+24	D7UER1	O2
+25	D7UER1	2-cyclopenten-1-one
+26	D7UER1	FMNH2
+27	D7UER1	O2
+28	D7UER1	2-decanone
+29	D7UER1	FMNH2
+30	D7UER1	O2
+31	D7UER1	3,5,5-trimethyl-2-cyclohexen-1-one
+32	D7UER1	FMNH2
+33	D7UER1	O2
+34	D7UER1	3-methyl-2-cyclohexen-1-one
+35	D7UER1	FMNH2
+36	D7UER1	O2
+37	D7UER1	3-methyl-2-cyclopenten-1-one
+38	D7UER1	FMNH2
+39	D7UER1	O2
+40	D7UER1	4-phenyl-2-butanone
+41	D7UER1	FMNH2
+42	D7UER1	O2
+43	D7UER1	acetophenone
+44	D7UER1	FMNH2
+45	D7UER1	O2
+46	D7UER1	cyclobutanone
+47	D7UER1	FMNH2
+48	D7UER1	O2
+49	D7UER1	cyclohexanone
+50	D7UER1	FMNH2
+51	D7UER1	O2
+52	D7UER1	cyclopentanone
+53	D7UER1	FMNH2
+54	D7UER1	O2
+55	D7UER1	norcamphor
+56	D7UER1	FMNH2
+57	D7UER1	O2
+0	O81346	L-tryptophan
+1	O81346	2 [reduced NADPH-hemoprotein reductase]
+2	O81346	2 O2
+3	Q501D8	L-tryptophan
+4	Q501D8	2 [reduced NADPH-hemoprotein reductase]
+5	Q501D8	2 O2
+0	Q43255	indolin-2-one
+1	Q43255	[reduced NADPH-hemoprotein reductase]
+2	Q43255	O2
+0	Q6TBX7	more
+1	Q6TBX7	alpha-carotene
+2	Q6TBX7	[reduced NADPH-hemoprotein reductase]
+3	Q6TBX7	O2
+4	Q6TBX7	beta-carotene
+5	Q6TBX7	reduced cytochrome P-450
+6	Q6TBX7	O2
+7	Q93VK5	more
+8	Q93VK5	alpha-carotene
+9	Q93VK5	[reduced NADPH-hemoprotein reductase]
+10	Q93VK5	O2
+11	Q93VK5	beta-carotene
+12	Q93VK5	reduced cytochrome P-450
+13	Q93VK5	O2
+14	A0A1L7NT18	zeinoxanthin
+15	A0A1L7NT18	[reduced NADPH-hemoprotein reductase]
+16	A0A1L7NT18	O2
+17	K9J9Z8	zeinoxanthin
+18	K9J9Z8	[reduced NADPH-hemoprotein reductase]
+19	K9J9Z8	O2
+20	A0A0E4B3I0	zeinoxanthin
+21	A0A0E4B3I0	[reduced NADPH-hemoprotein reductase]
+22	A0A0E4B3I0	O2
+0	P00191	17alpha-hydroxyprogesterone
+1	P00191	[reduced NADPH-P450 reductase]
+2	P00191	O2
+3	P00191	17alpha-hydroxyprogesterone
+4	P00191	[reduced NADPH-hemoprotein reductase]
+5	P00191	O2
+6	P00191	progesterone
+7	P00191	[reduced NADPH-P450 reductase]
+8	P00191	O2
+9	P00191	progesterone
+10	P00191	[reduced NADPH-hemoprotein reductase]
+11	P00191	O2
+12	P00191	progesterone
+13	P00191	NADPH
+14	P00191	O2
+15	P00191	17alpha-hydroxyprogesterone
+16	P00191	NADPH
+17	P00191	O2
+18	P08686	progesterone
+19	P08686	NADPH
+20	P08686	H+
+21	P08686	O2
+22	P08686	more
+23	P08686	17alpha-hydroxyprogesterone
+24	P08686	[reduced NADPH-P450 reductase]
+25	P08686	O2
+26	P08686	17alpha-hydroxyprogesterone
+27	P08686	[reduced NADPH-hemoprotein reductase]
+28	P08686	O2
+29	P08686	progesterone
+30	P08686	[reduced NADPH-P450 reductase]
+31	P08686	O2
+32	P08686	progesterone
+33	P08686	[reduced NADPH-hemoprotein reductase]
+34	P08686	O2
+35	P08686	17-hydroxyprogesterone
+36	P08686	NADPH
+37	P08686	H+
+38	P08686	O2
+39	P08686	progesterone
+40	P08686	NADPH
+41	P08686	H+
+42	P08686	O2
+43	P08686	16,17-dehydroprogesterone
+44	P08686	NADPH
+45	P08686	O2
+46	P08686	17-hydroxyprogesterone
+47	P08686	[reduced NADPH-hemoprotein reductase]
+48	P08686	O2
+49	P08686	17alpha-hydroxyprogesterone
+50	P08686	NADPH
+51	P08686	H+
+52	P08686	O2
+53	P08686	progesterone
+54	P08686	[reduced NADPH-hemoprotein reductase]
+55	P08686	O2
+0	B4FVP3	(4S)-4-(5,5-dimethylcyclohex-1-en-1-yl)cyclohex-1-ene-1-carbaldehyde
+1	B4FVP3	O2
+2	B4FVP3	[reduced NADPH-hemoprotein reductase]
+3	B4FVP3	(S)-beta-macrocarpene
+4	B4FVP3	3 O2
+5	B4FVP3	3 [reduced NADPH-hemoprotein reductase]
+6	B4FVP3	(S)-beta-macrocarpene
+7	B4FVP3	O2
+8	B4FVP3	[reduced NADPH-hemoprotein reductase]
+9	B4FVP3	[(4S)-4-(5,5-dimethylcyclohex-1-en-1-yl)-cyclohex-1-en-1-yl] methanol
+10	B4FVP3	O2
+11	B4FVP3	[reduced NADPH-hemoprotein reductase]
+0	W8JIS5	(+)-cis,trans-nepetalactol
+1	W8JIS5	3 [reduced NADPH-hemoprotein reductase]
+2	W8JIS5	3 O2
+3	W8JIS5	(+)-cis,trans-nepetalactol
+4	W8JIS5	[reduced NADPH-hemoprotein reductase]
+5	W8JIS5	O2
+6	W8JIS5	7-deoxyloganetic alcohol
+7	W8JIS5	[reduced NADPH-hemoprotein reductase]
+8	W8JIS5	O2
+9	W8JIS5	iridotrial
+10	W8JIS5	[reduced NADPH-hemoprotein reductase]
+11	W8JIS5	O2
+0	P93149	(2S)-liquiritigenin
+1	P93149	[reduced NADPH-hemoprotein reductase]
+2	P93149	O2
+3	P93149	(2S)-naringenin
+4	P93149	[reduced NADPH-hemoprotein reductase]
+5	P93149	O2
+6	P93149	more
+7	P93149	eriodictyol
+8	P93149	[reduced NADPH-hemoprotein reductase]
+9	P93149	O2
+10	Q5VRI5	eriodictyol+ [reduced NADPH-hemoprotein reductase]
+11	Q5VRI5	O2
+12	Q5VRI5	naringenin
+13	Q5VRI5	[reduced NADPH-hemoprotein reductase]
+14	Q5VRI5	O2
+15	Q5VRI5	eriodictyol+ [reduced NADPH-hemoprotein reductase]
+16	Q5VRI5	O2
+17	Q5VRI5	naringenin
+18	Q5VRI5	[reduced NADPH-hemoprotein reductase]
+19	Q5VRI5	O2
+0	I3PLR0	(S)-1-hydroxy-N-methylcanadine
+1	I3PLR0	[reduced NADPH-hemoprotein reductase]
+2	I3PLR0	O2
+0	Q9SZ46	8-methoxypsoralen
+1	Q9SZ46	[reduced NADPH-hemoprotein reductase]
+2	Q9SZ46	O2
+3	Q9SZ46	fraxetin
+4	Q9SZ46	[reduced NADPH-hemoprotein reductase]
+5	Q9SZ46	O2
+0	O49394	8-methoxypsoralen
+1	O49394	[reduced NADPH-hemoprotein reductase]
+2	O49394	O2
+3	O49394	indole-3-carbonyl nitrile
+4	O49394	[reduced NADPH-hemoprotein reductase]
+5	O49394	O2
+0	I3PLR1	(S)-N-methylcanadine
+1	I3PLR1	[reduced NADPH-hemoprotein reductase]
+2	I3PLR1	O2
+0	I3V6B7	(13S,14R)-13-O-acetyl-1-hydroxy-N-methylcanadine
+1	I3V6B7	[reduced NADPH-hemoprotein reductase]
+2	I3V6B7	O2
+3	I3V6B7	(S)-1-hydroxy-N-methylcanadine
+4	I3V6B7	[reduced NADPH-hemoprotein reductase]
+5	I3V6B7	O2
+0	F8S1H3	germacra-1(10),4,11(13)-trien-12-oate
+1	F8S1H3	[reduced NADPH-hemoprotein reductase]
+2	F8S1H3	O2
+0	O65403	more
+1	O65403	squalene
+2	O65403	AH2
+3	O65403	O2
+4	Q1PID4	squalene
+5	Q1PID4	AH2
+6	Q1PID4	O2
+7	Q603D5	squalene
+8	Q603D5	reduced cytochrome P450
+9	Q603D5	H+
+10	Q603D5	O2
+11	Q603D5	squalene
+12	Q603D5	reduced cytochrome P450
+13	Q603D5	O2
+14	Q9SM02	more
+15	Q9SM02	squalene
+16	Q9SM02	AH2
+17	Q9SM02	O2
+18	O81000	more
+19	O81000	squalene
+20	O81000	AH2
+21	O81000	O2
+22	Q8VYH2	more
+23	Q8VYH2	squalene
+24	Q8VYH2	AH2
+25	Q8VYH2	O2
+26	A0A0K0VH94	squalene
+27	A0A0K0VH94	AH2
+28	A0A0K0VH94	O2
+0	A0A0B4KZX8	beta-amyrin
+1	A0A0B4KZX8	[reduced NADPH-hemoprotein reductase]
+2	A0A0B4KZX8	O2
+0	L7VFL7	3,5,6-trichloropyridin-2-ol
+1	L7VFL7	FADH2
+2	L7VFL7	O2
+3	L7VFL7	3,6-dichloropyridine-2,5-diol
+4	L7VFL7	FADH2
+5	L7VFL7	O2
+6	L7VFL7	6-chloropyridine-2,3,5-triol
+7	L7VFL7	FADH2
+8	L7VFL7	O2
+0	Q8KTD8	2,4,6-trichlorophenol
+1	Q8KTD8	FADH2
+2	Q8KTD8	O2
+3	Q8KTD8	2,6-dichlorohydroquinone
+4	Q8KTD8	FADH2
+5	Q8KTD8	O2
+6	Q8KTD8	more
+0	A0A3Q9R4N5	geranylhydroquinone
+1	A0A3Q9R4N5	[reduced NADPH-hemoprotein reductase]
+2	A0A3Q9R4N5	O2
+0	S4UX02	abieta-8,11,13-triene
+1	S4UX02	[reduced NADPH-hemoprotein reductase]
+2	S4UX02	O2
+3	S4UX02	abieta-8,11,13-triene
+4	S4UX02	[reduced NADPH-hemoprotein reductase]
+5	S4UX02	O2
+6	S4UX02	more
+7	A0A0C5Q4Y6	abieta-8,11,13-triene
+8	A0A0C5Q4Y6	[reduced NADPH-hemoprotein reductase]
+9	A0A0C5Q4Y6	O2
+10	A0A0C5QEW3	abieta-8,11,13-triene
+11	A0A0C5QEW3	[reduced NADPH-hemoprotein reductase]
+12	A0A0C5QEW3	O2
+13	A0A0C5QRZ2	abieta-8,11,13-triene
+14	A0A0C5QRZ2	[reduced NADPH-hemoprotein reductase]
+15	A0A0C5QRZ2	O2
+0	Q6WG30	taxa-4,11-diene
+1	Q6WG30	[reduced NADPH-hemoprotein reductase]
+2	Q6WG30	O2
+3	Q6WG30	more
+4	Q6WG30	taxa-4(20),11(12)-diene
+5	Q6WG30	[reduced NADPH-hemoprotein reductase]
+6	Q6WG30	O2
+7	Q6WG30	taxa-4(5),11(12)-diene
+8	Q6WG30	[reduced NADPH-hemoprotein reductase]
+9	Q6WG30	O2
+10	Q6WG30	taxa-4(5),11(12)-diene
+11	Q6WG30	[reduced NADPH-hemoprotein reductase]
+12	Q6WG30	O2
+13	Q6WG30	taxadiene
+14	Q6WG30	[reduced NADPH-hemoprotein reductase]
+15	Q6WG30	O2
+0	P09601	heme
+1	P09601	2 NADPH
+2	P09601	2 H+
+3	P09601	2 O2
+4	P09601	heme
+5	P09601	NADPH
+6	P09601	O2
+7	P09601	heme
+8	P09601	AH2
+9	P09601	O2
+10	P09601	15-phenylheme
+11	P09601	electron donor
+12	P09601	O2
+13	P09601	5-phenylheme
+14	P09601	electron donor
+15	P09601	O2
+16	P09601	heme
+17	P09601	NADPH
+18	P09601	O2
+19	P09601	protoheme
+20	P09601	[reduced cytochrome P450 reductase]
+21	P09601	O2
+22	P09601	heme
+23	P09601	electron donor
+24	P09601	O2
+25	P09601	more
+26	P09601	heme
+27	P09601	3 AH2
+28	P09601	3 O2
+29	P14901	heme
+30	P14901	AH2
+31	P14901	O2
+32	P14901	more
+33	P06762	heme
+34	P06762	electron donor
+35	P06762	O2
+36	P06762	heme
+37	P06762	AH2
+38	P06762	O2
+39	P06762	heme
+40	P06762	electron donor
+41	P06762	O2
+42	P06762	more
+43	P06762	heme
+44	P06762	3 AH2
+45	P06762	3 O2
+46	O70252	heme
+47	O70252	AH2
+48	O70252	O2
+49	P30519	heme
+50	P30519	AH2
+51	P30519	O2
+52	P30519	protoheme
+53	P30519	[reduced cytochrome P450 reductase]
+54	P30519	O2
+55	P30519	more
+56	P30519	heme
+57	P30519	3 AH2
+58	P30519	3 O2
+59	Q5E9F2	heme
+60	Q5E9F2	AH2
+61	Q5E9F2	O2
+62	Q5E9F2	more
+63	P23711	heme
+64	P23711	electron donor
+65	P23711	O2
+66	P23711	heme
+67	P23711	3 AH2
+68	P23711	3 O2
+69	Q54AI1	protoheme
+70	Q54AI1	[reduced NADPH-hemoprotein reductase]
+71	Q54AI1	O2
+72	Q54AI1	heme
+73	Q54AI1	3 AH2
+74	Q54AI1	3 O2
+75	H8XZ68	heme
+76	H8XZ68	3 AH2
+77	H8XZ68	3 O2
+78	D9IWR7	heme
+79	D9IWR7	3 AH2
+80	D9IWR7	3 O2
+81	A0A5C7DYC5	heme
+82	A0A5C7DYC5	3 reduced ascorbate
+83	A0A5C7DYC5	3 O2
+84	A0A5C7DYC5	heme
+85	A0A5C7DYC5	3 AH2
+86	A0A5C7DYC5	3 O2
+87	O69002	protoheme
+88	O69002	[reduced NADPH-hemoprotein reductase]
+89	O69002	O2
+0	Q64410	more
+1	Q64410	progesterone
+2	Q64410	[reduced NADPH-hemoprotein reductase]
+3	Q64410	O2
+4	Q64410	pregnenolone
+5	Q64410	AH2
+6	Q64410	O2
+7	C7B608	more
+8	C7B608	progesterone
+9	C7B608	2 NADPH
+10	C7B608	2 H+
+11	C7B608	2 O2
+12	A6P663	progesterone
+13	A6P663	2 AH2
+14	A6P663	2 O2
+15	P05093	more
+16	P05093	progesterone
+17	P05093	[reduced NADPH-hemoprotein reductase]
+18	P05093	O2
+19	P05093	pregnenolone
+20	P05093	AH2
+21	P05093	O2
+22	P05093	16,17-dehydropregnenolone
+23	P05093	[reduced NADPH-hemoprotein reductase]
+24	P05093	O2
+25	P05093	16,17-dehydroprogesterone
+26	P05093	[reduced NADPH-hemoprotein reductase]
+27	P05093	O2
+28	P05093	7-dehydropregnenolone
+29	P05093	[reduced NADPH-hemoprotein reductase]
+30	P05093	O2
+31	P05093	a C21-steroid
+32	P05093	[reduced NADPH-hemoprotein reductase]
+33	P05093	O2
+34	P05093	progesterone
+35	P05093	[reduced NADPH-hemoprotein reductase]
+36	P05093	O2
+37	P05093	progesterone
+38	P05093	[reduced NADPH-hemoprotein reductase]
+39	P05093	O2
+40	P05093	pregnenolone
+41	P05093	[reduced NADPH-hemoprotein reductase]
+42	P05093	O2
+43	Q29497	more
+44	Q29497	progesterone
+45	Q29497	[reduced NADPH-hemoprotein reductase]
+46	Q29497	O2
+47	Q29497	pregnenolone
+48	Q29497	[reduced NADPH-hemoprotein reductase]
+49	Q29497	O2
+50	A7U483	more
+51	A7U483	progesterone
+52	A7U483	[reduced NADPH-hemoprotein reductase]
+53	A7U483	O2
+54	A7U483	pregnenolone
+55	A7U483	[reduced NADPH-hemoprotein reductase]
+56	A7U483	O2
+57	B3DH80	more
+58	B3DH80	progesterone
+59	B3DH80	[reduced NADPH-hemoprotein reductase]
+60	B3DH80	O2
+61	B3DH80	pregnenolone
+62	B3DH80	[reduced NADPH-hemoprotein reductase]
+63	B3DH80	O2
+0	A7LCL0	phenol
+1	A7LCL0	NAD(P)H
+2	A7LCL0	H+
+3	A7LCL0	O2
+4	A7LCL0	more
+5	A7LCL0	phenol
+6	A7LCL0	FADH2
+7	A7LCL0	O2
+8	A7LCL0	3-nitrophenol
+9	A7LCL0	NAD(P)H
+10	A7LCL0	H+
+11	A7LCL0	O2
+12	A7LCL0	4-nitrophenol
+13	A7LCL0	NAD(P)H
+14	A7LCL0	H+
+15	A7LCL0	O2
+16	A7LCL0	resorcinol
+17	A7LCL0	NAD(P)H
+18	A7LCL0	H+
+19	A7LCL0	O2
+20	A7LCL1	phenol
+21	A7LCL1	NAD(P)H
+22	A7LCL1	H+
+23	A7LCL1	O2
+24	A7LCL1	more
+25	A7LCL1	phenol
+26	A7LCL1	FADH2
+27	A7LCL1	O2
+28	A7LCL1	phenol
+29	A7LCL1	NADH
+30	A7LCL1	H+
+31	A7LCL1	O2
+32	A7LCL1	phenol
+33	A7LCL1	NADH
+34	A7LCL1	H+
+35	A7LCL1	O2
+36	A7LCL1	3-nitrophenol
+37	A7LCL1	NAD(P)H
+38	A7LCL1	H+
+39	A7LCL1	O2
+40	A7LCL1	4-nitrophenol
+41	A7LCL1	NAD(P)H
+42	A7LCL1	H+
+43	A7LCL1	O2
+44	A7LCL1	resorcinol
+45	A7LCL1	NAD(P)H
+46	A7LCL1	H+
+47	A7LCL1	O2
+48	A7LCL1	catechol
+49	A7LCL1	FMN
+50	A7LCL1	H2O
+51	A7LCL1	catechol
+52	A7LCL1	riboflavin
+53	A7LCL1	H2O
+54	Q9LAG3	more
+55	Q9LAG3	phenol
+56	Q9LAG3	FADH2
+57	Q9LAG3	O2
+58	Q9LAG2	more
+59	Q9LAG2	phenol
+60	Q9LAG2	FADH2
+61	Q9LAG2	O2
+62	Q9LAG2	phenol
+63	Q9LAG2	FMNH2
+64	Q9LAG2	O2
+65	Q9LAG2	phenol
+66	Q9LAG2	reduced riboflavin
+67	Q9LAG2	O2
+68	A0A069AW73	more
+69	A0A069AW73	phenol
+70	A0A069AW73	FADH2
+71	A0A069AW73	O2
+72	A0A069AW73	2,4-dichlorophenol
+73	A0A069AW73	FADH2
+74	A0A069AW73	O2
+75	A0A069AW73	2-chlorophenol
+76	A0A069AW73	FADH2
+77	A0A069AW73	O2
+78	A0A069AW73	4-chlorophenol
+79	A0A069AW73	FADH2
+80	A0A069AW73	O2
+81	A0A069AW73	4-methylphenol
+82	A0A069AW73	FADH2
+83	A0A069AW73	O2
+0	Q6WNP1	dibenzothiophene
+1	Q6WNP1	2 FMNH2
+2	Q6WNP1	2 O2
+3	Q6WNP1	more
+4	Q6WNP1	dibenzothiophene
+5	Q6WNP1	FMNH2
+6	Q6WNP1	O2
+7	Q6WNP1	dibenzothiophene-5-oxide
+8	Q6WNP1	FMNH2
+9	Q6WNP1	O2
+10	Q9LBX2	2-methyldibenzothiophene
+11	Q9LBX2	2 FMNH2
+12	Q9LBX2	2 O2
+13	Q9LBX2	3-methyldibenzothiophene
+14	Q9LBX2	2 FMNH2
+15	Q9LBX2	2 O2
+16	Q9LBX2	4,6-diethyldibenzothiophene
+17	Q9LBX2	2 FMNH2
+18	Q9LBX2	2 O2
+19	Q9LBX2	dibenzothiophene
+20	Q9LBX2	2 FMNH2
+21	Q9LBX2	2 O2
+22	Q9LBX2	more
+23	Q9LBX2	4,6-dimethyldibenzothiophene
+24	Q9LBX2	2 FMNH2
+25	Q9LBX2	2 O2
+26	Q9LBX2	4-methyldibenzothiophene
+27	Q9LBX2	2 FMNH2
+28	Q9LBX2	2 O2
+29	Q9LBX2	3-methylbenzothiophene
+30	Q9LBX2	2 FMNH2
+31	Q9LBX2	2 O2
+32	Q9LBX2	5-methylbenzothiophene
+33	Q9LBX2	2 FMNH2
+34	Q9LBX2	2 O2
+35	Q9LBX2	dibenzothiophene
+36	Q9LBX2	FMNH2
+37	Q9LBX2	O2
+38	Q9LBX2	dibenzothiophene-5-oxide
+39	Q9LBX2	FMNH2
+40	Q9LBX2	O2
+41	Q9LBX2	benzothiophene
+42	Q9LBX2	2 FMNH2
+43	Q9LBX2	2 O2
+44	U3GN22	dibenzothiophene
+45	U3GN22	2 FMNH2
+46	U3GN22	2 O2
+47	P54998	dibenzothiophene
+48	P54998	2 FMNH2
+49	P54998	2 O2
+50	P54998	more
+51	P54998	dibenzothiophene
+52	P54998	2 reduced riboflavin
+53	P54998	2 O2
+54	P54998	dibenzothiophene
+55	P54998	FMNH2
+56	P54998	O2
+57	P54998	dibenzothiophene-5-oxide
+58	P54998	FMNH2
+59	P54998	O2
+60	B2CML6	dibenzothiophene
+61	B2CML6	2 FMNH2
+62	B2CML6	2 O2
+63	B2CML6	more
+64	B2CML6	dibenzothiophene
+65	B2CML6	2 FADH2
+66	B2CML6	2 O2
+67	A0A0C6DRW4	dibenzothiophene
+68	A0A0C6DRW4	2 FMNH2
+69	A0A0C6DRW4	2 O2
+70	A0A0C6DRW4	more
+71	A0A0C6DRW4	3,4-benzo-dibenzothiophene
+72	A0A0C6DRW4	2 FMNH2
+73	A0A0C6DRW4	2 O2
+74	A0A0C6DRW4	thioxanthen-9-one
+75	A0A0C6DRW4	2 FMNH2
+76	A0A0C6DRW4	2 O2
+77	A0A0C6DRW4	2,8-dimethyldibenzothiophene
+78	A0A0C6DRW4	2 FMNH2
+79	A0A0C6DRW4	2 O2
+80	A0A0C6DRW4	4,6-dimethyldibenzothiophene
+81	A0A0C6DRW4	2 FMNH2
+82	A0A0C6DRW4	2 O2
+83	A0A0C6DRW4	thioxanthen-9-one
+84	A0A0C6DRW4	FMNH2
+85	A0A0C6DRW4	O2
+86	Q3HSE4	dibenzothiophene
+87	Q3HSE4	2 FMNH2
+88	Q3HSE4	2 O2
+89	A0SWL2	dibenzothiophene
+90	A0SWL2	2 FMNH2
+91	A0SWL2	2 O2
+92	A0SWL2	more
+93	A0SWL2	2,8-dimethyldibenzothiophene
+94	A0SWL2	2 FMNH2
+95	A0SWL2	2 O2
+96	A0SWL2	4,6-dimethyldibenzothiophene
+97	A0SWL2	2 FMNH2
+98	A0SWL2	2 O2
+99	A0SWL2	4-methyldibenzothiophene
+100	A0SWL2	2 FMNH2
+101	A0SWL2	2 O2
+102	A0SWL2	dibenzothiophene
+103	A0SWL2	FMNH2
+104	A0SWL2	O2
+105	A0SWL2	dibenzothiophene-5-oxide
+106	A0SWL2	FMNH2
+107	A0SWL2	O2
+108	A0SWL2	2-ethyldibenzothiophene
+109	A0SWL2	2 FMNH2
+110	A0SWL2	2 O2
+111	A0SWL2	3,4,6,7-tetramethyldibenzothiophene
+112	A0SWL2	2 FMNH2
+113	A0SWL2	2 O2
+114	A0SWL2	3,4,6-trimethyldibenzothiophene
+115	A0SWL2	2 FMNH2
+116	A0SWL2	2 O2
+117	A0SWL2	3-ethyldibenzothiophene
+118	A0SWL2	2 FMNH2
+119	A0SWL2	2 O2
+120	A0SWL2	dibenzothiophene-5,5-dioxide
+121	A0SWL2	2 FMNH2
+122	A0SWL2	O2
+123	A0SWL2	benzothiophene
+124	A0SWL2	2 FMNH2
+125	A0SWL2	2 O2
+0	Q6WE15	dibenzothiophene-5,5-dioxide
+1	Q6WE15	2 FMNH2
+2	Q6WE15	O2
+3	Q6WE15	more
+4	Q6WE15	dibenz[c,e][1,2] oxathiin 6-oxide
+5	Q6WE15	2 FMNH2
+6	Q6WE15	O2
+7	Q6WE15	dibenz[c,e][1,2]oxathiin 6,6-dioxide
+8	Q6WE15	2 FMNH2
+9	Q6WE15	O2
+10	U3GQJ5	dibenzothiophene-5,5-dioxide
+11	U3GQJ5	2 FMNH2
+12	U3GQJ5	O2
+13	Q9LBX4	dibenzothiophene-5,5-dioxide
+14	Q9LBX4	2 FMNH2
+15	Q9LBX4	O2
+16	Q9LBX4	1-methyldibenzothiophene-5,5-dioxide
+17	Q9LBX4	2 FMNH2
+18	Q9LBX4	O2
+19	Q9LBX4	2-methyldibenzothiophene-5,5-dioxide
+20	Q9LBX4	2 FMNH2
+21	Q9LBX4	O2
+22	Q9LBX4	3,4,6-trimethyldibenzothiophene-5,5-dioxide
+23	Q9LBX4	2 FMNH2
+24	Q9LBX4	O2
+25	Q9LBX4	3,6-dimethyldibenzothiophene-5,5-dioxide
+26	Q9LBX4	2 FMNH2
+27	Q9LBX4	O2
+28	Q9LBX4	3-methyldibenzothiophene-5,5-dioxide
+29	Q9LBX4	2 FMNH2
+30	Q9LBX4	O2
+31	Q9LBX4	4,6-dimethyldibenzothiophene-5,5-dioxide
+32	Q9LBX4	2 FMNH2
+33	Q9LBX4	O2
+34	Q9LBX4	4-methyldibenzothiophene-5,5-dioxide
+35	Q9LBX4	2 FMNH2
+36	Q9LBX4	O2
+0	Q5ILH2	cholesterol
+1	Q5ILH2	[reduced NADPH-hemoprotein reductase]
+2	Q5ILH2	O2
+3	P22680	cholesterol
+4	P22680	[reduced NADPH-hemoprotein reductase]
+5	P22680	O2
+6	P22680	more
+7	P22680	25-hydroxycholesterol
+8	P22680	[reduced NADPH-hemoprotein reductase]
+9	P22680	O2
+10	P22680	27-hydroxycholesterol
+11	P22680	[reduced NADPH-hemoprotein reductase]
+12	P22680	O2
+13	P22680	cholest-4-en-3-one
+14	P22680	[reduced NADPH-hemoprotein reductase]
+15	P22680	O2
+0	P51589	25-hydroxyvitamin D3
+1	P51589	O2
+2	P51589	NADPH
+3	P51589	H+
+4	P51589	vitamin D3
+5	P51589	O2
+6	P51589	NADPH
+7	P51589	H+
+8	P51589	1alpha-hydroxyvitamin D3
+9	P51589	O2
+10	P51589	NADPH
+11	P51589	H+
+12	P51589	vitamin D2
+13	P51589	O2
+14	P51589	NADPH
+15	P51589	H+
+16	C4B644	vitamin D3
+17	C4B644	O2
+18	C4B644	NADPH
+19	C4B644	H+
+20	C4B644	vitamin D3
+21	C4B644	O2
+22	C4B644	NADPH
+23	C4B644	H+
+24	P08683	more
+25	P08683	vitamin D3
+26	P08683	O2
+27	P08683	NADPH
+28	P08683	H+
+29	P08683	1alpha-hydroxyvitamin D3
+30	P08683	O2
+31	P08683	NADPH
+32	P08683	H+
+33	P08683	1alpha,25-dihydroxyvitamin D2
+34	P08683	O2
+35	P08683	[reduced NADPH-hemoprotein reductase]
+36	P08683	H+
+37	P08683	1alpha,25-dihydroxyvitamin D3
+38	P08683	O2
+39	P08683	[reduced NADPH-hemoprotein reductase]
+40	P08683	H+
+41	P08683	1alpha-hydroxyvitamin D2
+42	P08683	O2
+43	P08683	NADPH
+44	P08683	H+
+45	P08683	vitamin D2
+46	P08683	O2
+47	P08683	NADPH
+48	P08683	H+
+49	Q6VVW9	vitamin D3
+50	Q6VVW9	O2
+51	Q6VVW9	NADPH
+52	Q6VVW9	H+
+53	Q6VVW9	calciol
+54	Q6VVW9	O2
+55	Q6VVW9	[reduced NADPH-hemoprotein reductase]
+56	Q6VVX0	more
+57	Q6VVX0	vitamin D3
+58	Q6VVX0	O2
+59	Q6VVX0	NADPH
+60	Q6VVX0	H+
+61	Q6VVX0	1alpha-hydroxyvitamin D3
+62	Q6VVX0	O2
+63	Q6VVX0	NADPH
+64	Q6VVX0	H+
+65	Q6VVX0	1alpha-hydroxyvitamin D2
+66	Q6VVX0	O2
+67	Q6VVX0	NADPH
+68	Q6VVX0	H+
+69	Q6VVX0	calciol
+70	Q6VVX0	O2
+71	Q6VVX0	[reduced NADPH-hemoprotein reductase]
+72	Q6VVX0	calciferol
+73	Q6VVX0	O2
+74	Q6VVX0	[reduced NADPH-hemoprotein reductase]
+75	Q6VVX0	calciferol
+76	Q6VVX0	O2
+77	Q6VVX0	[reduced NADPH-hemoprotein reductase]
+78	P51590	more
+79	P51590	vitamin D3
+80	P51590	O2
+81	P51590	NADPH
+82	P51590	H+
+83	P51590	1alpha-hydroxyvitamin D3
+84	P51590	O2
+85	P51590	NADPH
+86	P51590	H+
+87	P51590	vitamin D2
+88	P51590	O2
+89	P51590	NADPH
+90	P51590	H+
+91	P51590	ebastin
+92	P51590	O2
+93	P51590	NADPH
+94	P51590	H+
+0	Q9Y6A2	cholesterol 3-sulfate
+1	Q9Y6A2	[reduced NADPH-hemoprotein reductase]
+2	Q9Y6A2	H+
+3	Q9Y6A2	O2
+4	Q9Y6A2	cholesterol
+5	Q9Y6A2	[reduced NADPH-hemoprotein reductase]
+6	Q9Y6A2	O2
+7	Q9Y6A2	cholesterol
+8	Q9Y6A2	[reduced NADPH-hemoprotein reductase]
+9	Q9Y6A2	H+
+10	Q9Y6A2	O2
+11	Q9Y6A2	cholesterol
+12	Q9Y6A2	[reduced NADPH-hemoprotein reductase]
+13	Q9Y6A2	H+
+14	Q9Y6A2	O2
+15	Q9Y6A2	more
+16	Q9WVK8	cholesterol
+17	Q9WVK8	[reduced NADPH-hemoprotein reductase]
+18	Q9WVK8	O2
+19	Q9WVK8	cholesterol
+20	Q9WVK8	[reduced NADPH-hemoprotein reductase]
+21	Q9WVK8	H+
+22	Q9WVK8	O2
+23	Q9WVK8	cholesterol
+24	Q9WVK8	[reduced NADPH-hemoprotein reductase]
+25	Q9WVK8	H+
+26	Q9WVK8	O2
+27	Q9WVK8	more
+28	F7EN52	cholesterol
+29	F7EN52	[reduced NADPH-hemoprotein reductase]
+30	F7EN52	O2
+0	Q9JKJ9	(24R)-cholest-5-ene-3beta,24-diol
+1	Q9JKJ9	NADPH
+2	Q9JKJ9	H+
+3	Q9JKJ9	O2
+0	A4IU28	a long-chain alkane
+1	A4IU28	FMNH2
+2	A4IU28	O2
+3	A4IU28	docosan
+4	A4IU28	FMNH2
+5	A4IU28	O2
+6	A4IU28	dotriacontan
+7	A4IU28	FMNH2
+8	A4IU28	O2
+9	A4IU28	hexacosan
+10	A4IU28	FMNH2
+11	A4IU28	O2
+12	A4IU28	hexadecane
+13	A4IU28	FMNH2
+14	A4IU28	O2
+15	A4IU28	hexatriacontan
+16	A4IU28	FMNH2
+17	A4IU28	O2
+18	A4IU28	octacosan
+19	A4IU28	FMNH2
+20	A4IU28	O2
+21	A4IU28	octadecane
+22	A4IU28	FMNH2
+23	A4IU28	O2
+24	A4IU28	pentadecane
+25	A4IU28	FMNH2
+26	A4IU28	O2
+27	A4IU28	tetracosan
+28	A4IU28	FMNH2
+29	A4IU28	O2
+0	O75881	cholest-5-ene-3beta,25-diol
+1	O75881	NADPH
+2	O75881	H+
+3	O75881	O2
+4	O75881	cholest-5-ene-3beta,27-diol
+5	O75881	NADPH
+6	O75881	H+
+7	O75881	O2
+8	O75881	dehydroepiandrosterone
+9	O75881	NADPH
+10	O75881	H+
+11	O75881	O2
+12	O75881	5alpha-androstane-3alpha,17beta-diol
+13	O75881	NADPH
+14	O75881	O2
+15	O75881	25-hydroxycholesterol
+16	O75881	NADPH
+17	O75881	H+
+18	O75881	O2
+19	O75881	27-hydroxycholesterol
+20	O75881	NADPH
+21	O75881	H+
+22	O75881	O2
+23	Q60991	cholest-5-ene-3beta,25-diol
+24	Q60991	NADPH
+25	Q60991	H+
+26	Q60991	O2
+27	Q60991	cholest-5-ene-3beta,27-diol
+28	Q60991	NADPH
+29	Q60991	H+
+30	Q60991	O2
+31	Q60991	5alpha-androstane-3alpha,17beta-diol
+32	Q60991	NADPH
+33	Q60991	O2
+34	Q60991	dehydroepiandrosterone
+35	Q60991	NADPH
+36	Q60991	O2
+0	P07740	decanal
+1	P07740	FMNH
+2	P07740	O2
+3	P07740	decanal
+4	P07740	FMNH
+5	P07740	O2
+6	P07740	dodecanal
+7	P07740	FMNH
+8	P07740	O2
+9	P07740	dodecanal
+10	P07740	FMNH
+11	P07740	O2
+12	P07740	octanal
+13	P07740	FMNH
+14	P07740	O2
+15	P07740	octanal
+16	P07740	FMNH
+17	P07740	O2
+0	Q00G65	(-)-alpha-pinene
+1	Q00G65	NADPH
+2	Q00G65	H+
+3	Q00G65	O2
+4	Q00G65	myrcene
+5	Q00G65	NADPH
+6	Q00G65	H+
+7	Q00G65	O2
+8	Q00G65	(+)-alpha-pinene
+9	Q00G65	NADPH
+10	Q00G65	H+
+11	Q00G65	O2
+12	Q00G65	3-carene
+13	Q00G65	NADPH
+14	Q00G65	H+
+15	Q00G65	O2
+16	Q00G65	R-(+)-limonene
+17	Q00G65	NADPH
+18	Q00G65	H+
+19	Q00G65	O2
+20	Q00G65	more
+21	Q00G65	myrcene
+22	Q00G65	NADPH
+23	Q00G65	H+
+24	Q00G65	O2
+25	M1JEK6	(+)-alpha-pinene
+26	M1JEK6	NADPH
+27	M1JEK6	H+
+28	M1JEK6	O2
+29	M1JEK6	3-carene
+30	M1JEK6	NADPH
+31	M1JEK6	H+
+32	M1JEK6	O2
+33	M1JEK6	R-(+)-limonene
+34	M1JEK6	NADPH
+35	M1JEK6	H+
+36	M1JEK6	O2
+37	M1JEK6	more
+38	M1JEK6	myrcene
+39	M1JEK6	NADPH
+40	M1JEK6	H+
+41	M1JEK6	O2
+42	M1JEK6	(-)-alpha-pinene
+43	M1JEK6	NADPH
+44	M1JEK6	H+
+45	M1JEK6	O2
+46	B8RBV1	myrcene
+47	B8RBV1	NADPH
+48	B8RBV1	H+
+49	B8RBV1	O2
+0	Q64410	more
+1	Q64410	17alpha-hydroxyprogesterone
+2	Q64410	?
+3	P05093	more
+4	P05093	progesterone
+5	P05093	AH2
+6	P05093	O2
+7	P05093	17alpha-hydroxypregnenolone
+8	P05093	AH2
+9	P05093	O2
+10	P05093	17alpha-hydroxyprogesterone
+11	P05093	[reduced NADPH-hemoprotein reductase]
+12	P05093	O2
+13	P05093	17-hydroxy-5alpha-pregnan-3alpha-ol-20-one
+14	P05093	[reduced NADPH-hemoprotein reductase]
+15	P05093	O2
+16	P05093	17alpha-hydroxy-5alpha-dihydroprogesterone
+17	P05093	[reduced NADPH-hemoprotein reductase]
+18	P05093	O2
+19	P05093	17alpha-hydroxypregnenolone
+20	P05093	[reduced NADPH-hemoprotein reductase]
+21	P05093	O2
+22	P05093	17alpha-hydroxypregnenolone
+23	P05093	[reduced NADPH-hemoprotein reductase]
+24	P05093	O2
+25	P05093	5alpha-dihydroprogesterone
+26	P05093	[reduced NADPH-hemoprotein reductase]
+27	P05093	O2
+28	P05093	5alpha-pregnan-3alpha-ol-20-one
+29	P05093	[reduced NADPH-hemoprotein reductase]
+30	P05093	O2
+31	P05093	7,12-dimethylbenz[a]anthracene
+32	P05093	AH2
+33	P05093	O2
+34	P05093	7-dehydro-pregnenolone
+35	P05093	AH2
+36	P05093	O2
+37	P05093	aflatoxin B1
+38	P05093	AH2
+39	P05093	O2
+40	P05093	allopregnanolone
+41	P05093	[reduced NADPH-hemoprotein reductase]
+42	P05093	O2
+43	P05093	pregnenolone
+44	P05093	AH2
+45	P05093	O2
+46	P05093	pregnenolone
+47	P05093	[reduced NADPH-hemoprotein reductase]
+48	P05093	O2
+49	P05093	progesterone
+50	P05093	[reduced NADPH-hemoprotein reductase]
+51	P05093	O2
+52	P05093	progesterone
+53	P05093	reduced acceptor
+54	P05093	O2
+55	P05093	pregnenolone
+56	P05093	[reduced NADPH-hemoprotein reductase]
+57	P05093	O2
+58	P05093	progesterone
+59	P05093	[reduced NADPH-hemoprotein reductase]
+60	P05093	O2
+61	P05093	7-dehydro-17alpha-hydroxypregnenolone
+62	P05093	AH2
+63	P05093	O2
+64	P05093	7-dehydro-pregnenolone
+65	P05093	AH2
+66	P05093	O2
+0	A7LIY3	ethylenediaminetetraacetate
+1	A7LIY3	2 FADH2
+2	A7LIY3	2 O2
+3	A7LIY3	ethylenediaminetetraacetate
+4	A7LIY3	2 FMNH2
+5	A7LIY3	2 O2
+6	A7LKG7	ethylenediaminetetraacetate
+7	A7LKG7	2 FADH2
+8	A7LKG7	2 O2
+9	A7LKG7	ethylenediaminetetraacetate
+10	A7LKG7	2 FMNH2
+11	A7LKG7	2 O2
+12	A7LKG8	ethylenediaminetetraacetate
+13	A7LKG8	2 FADH2
+14	A7LKG8	2 O2
+15	A7LKG8	ethylenediaminetetraacetate
+16	A7LKG8	2 FMNH2
+17	A7LKG8	2 O2
+18	Q9F9T3	ethylenediaminetetraacetate
+19	Q9F9T3	2 FMNH2
+20	Q9F9T3	2 O2
+21	Q9F9T3	diethylenetriaminepentaacetate
+22	Q9F9T3	FMNH2
+23	Q9F9T3	O2
+24	Q9F9T3	nitrilotriacetate
+25	Q9F9T3	FMNH2
+26	Q9F9T3	O2
+27	Q9F9T3	ethylenediaminetetraacetate
+28	Q9F9T3	FMNH2
+29	Q9F9T3	O2
+30	Q9F9T3	ethylenediaminetriacetate
+31	Q9F9T3	FMNH2
+32	Q9F9T3	O2
+33	Q9F9T3	more
+34	A7LKG9	ethylenediaminetetraacetate
+35	A7LKG9	2 FMNH2
+36	A7LKG9	2 O2
+37	A7LKG9	ethylenediaminetetraacetate
+38	A7LKG9	FMNH2
+39	A7LKG9	O2
+40	A7LKG9	ethylenediaminetriacetate
+41	A7LKG9	FMNH2
+42	A7LKG9	O2
+43	A7LKG9	more
+0	O85764	methanesulfonate
+1	O85764	FMNH2
+2	O85764	O2
+3	O85764	more
+4	O85764	pentanesulfonate
+5	O85764	FMNH2
+6	O85764	O2
+7	Q9I1C2	methanesulfonate
+8	Q9I1C2	FMNH2
+9	Q9I1C2	O2
+10	Q9I1C2	pentanesulfonate
+11	Q9I1C2	FMNH2
+12	Q9I1C2	O2
+13	Q9I1C2	ethanesulfonate
+14	Q9I1C2	FMNH2
+15	Q9I1C2	O2
+16	Q9I1C2	isethionate
+17	Q9I1C2	FMNH2
+18	Q9I1C2	O2
+19	Q9I1C2	morpholinepropanesulfonic acid
+20	Q9I1C2	FMNH2
+21	Q9I1C2	O2
+22	Q9I1C2	piperazine-N,N'-bis(2-ethanesulfonic acid)
+23	Q9I1C2	2 FMNH2
+24	Q9I1C2	2 O2
+0	Q3KC85	dimethyl sulfone
+1	Q3KC85	FMNH2
+2	Q3KC85	O2
+3	Q65YW9	dimethyl sulfone
+4	Q65YW9	FMNH2
+5	Q65YW9	O2

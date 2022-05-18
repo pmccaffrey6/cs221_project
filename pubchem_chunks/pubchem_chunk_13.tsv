@@ -1,0 +1,169 @@
+	CID	CanonicalSMILES	IUPACName	Fingerprint2D	Title
+0	6438804	CC(C(=O)NC(CCCCN)C(=O)O)NC(=O)C=CC1=CC=CO1	(2S)-6-amino-2-[[(2S)-2-[[(E)-3-(furan-2-yl)prop-2-enoyl]amino]propanoyl]amino]hexanoic acid	"AAADceB7OAAAAAAAAAAAAAAAAAAAASAAAAAAAAAAAAAAAAABgAAAHgAQCAAACCzhkAYyDILABkCI
+AKnSmACCCAAkIAAIiIGOCMgOZjKEtTqWWSCk1hGYqYeYSAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AA=="	Furylacryloylalanyllysine
+0	96815	C1=CC=C(C=C1)C(=O)NCC(=O)NC(CCCN=C(N)N)C(=O)O	(2S)-2-[(2-benzamidoacetyl)amino]-5-(diaminomethylideneamino)pentanoic acid	"AAADceBzuAAAAAAAAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAABAAAAHgAQCAAADCjBmAQxCILAAgCo
+AiHSPACCAAEkAAAIiIGIBMgKYDKAlTGUYQhklgCYiYeYmQCOAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AA=="	Hippuryl-L-arginine
+0	129673613	C1=CC=C(C=C1)C(=O)NCC(=O)C(CCCN=C(N)N)(C(=O)O)N	(2R)-2-amino-2-(2-benzamidoacetyl)-5-(diaminomethylideneamino)pentanoic acid	"AAADceBzuAAAAAAAAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAABAAAAHgAQCAAADIzBmAQxCILAAgCo
+AqHSPACCAAEkAAAIiIGIBMgKIDaI1TGEYQhktgCIiYe8mQCOAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AA=="	Hippuryl-l-arg
+0	129826816	C1=CC=C(C=C1)C(=O)NCC(=O)C(CCCCN)(C(=O)O)N	(2R)-2,6-diamino-2-(2-benzamidoacetyl)hexanoic acid	"AAADceBzOAAAAAAAAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAABAAAAHgAQCAAADIzBmAQwCILAAgCI
+AqHSGACCAAAkAAAIiIGIBMgKIDaI1TGEYQhktgCIiYe8yACOAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AA=="	alpha-Hippuryllysine
+0	96815	C1=CC=C(C=C1)C(=O)NCC(=O)NC(CCCN=C(N)N)C(=O)O	(2S)-2-[(2-benzamidoacetyl)amino]-5-(diaminomethylideneamino)pentanoic acid	"AAADceBzuAAAAAAAAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAABAAAAHgAQCAAADCjBmAQxCILAAgCo
+AiHSPACCAAEkAAAIiIGIBMgKYDKAlTGUYQhklgCYiYeYmQCOAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AA=="	Hippuryl-L-arginine
+1	259599	C1=CC=C(C=C1)C(=O)NCC(=O)NC(CCCN=C(N)N)C(=O)O	2-[(2-benzamidoacetyl)amino]-5-(diaminomethylideneamino)pentanoic acid	"AAADceBzuAAAAAAAAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAABAAAAHgAQCAAADCjBmAQxCILAAgCo
+AiHSPACCAAEkAAAIiIGIBMgKYDKAlTGUYQhklgCYiYeYmQCOAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AA=="	Hippuryl-Arg
+0	6992083	CC(=O)NC(CC(=O)[O-])C(=O)NC(CCC(=O)[O-])C(=O)[O-]	(2S)-2-[[(2S)-2-acetamido-3-carboxylatopropanoyl]amino]pentanedioate	"AAADccBzPAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHgAQAAAACCjBgAQCCALAAAAI
+AAGQGAAAAAAAAAAAAIGIAAACQBoAgCAUAAAGFgCQAACvJgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AA=="	N-acetyl-L-aspartyl-L-glutamate
+0	6992083	CC(=O)NC(CC(=O)[O-])C(=O)NC(CCC(=O)[O-])C(=O)[O-]	(2S)-2-[[(2S)-2-acetamido-3-carboxylatopropanoyl]amino]pentanedioate	"AAADccBzPAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHgAQAAAACCjBgAQCCALAAAAI
+AAGQGAAAAAAAAAAAAIGIAAACQBoAgCAUAAAGFgCQAACvJgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AA=="	N-acetyl-L-aspartyl-L-glutamate
+0	188803	CC(=O)NC(CC(=O)O)C(=O)NC(CCC(=O)O)C(=O)O	(2S)-2-[[(2S)-2-acetamido-3-carboxypropanoyl]amino]pentanedioic acid	"AAADceBzPAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHgAQCAAACCjBgAQCCALAAgAI
+AAGQGAAAAAAAAAAAAIGIAAACQBoAgCAUQAAGFgCQAACvJgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AA=="	Spaglumic acid
+0	9806448	CCC(C)C(C(=O)NC(CC1=CN=CN1)C(=O)N2CCCC2C(=O)NC(CC3=CC=CC=C3)C(=O)O)N	(2S)-2-[[(2S)-1-[(2S)-2-[[(2S,3S)-2-amino-3-methylpentanoyl]amino]-3-(1H-imidazol-5-yl)propanoyl]pyrrolidine-2-carbonyl]amino]-3-phenylpropanoic acid	"AAADcfB7uAAAAAAAAAAAAAAAAAAAAWLAAAAwAAAAAAAAAAABwAAAHgAQCAAADSjBngQ/mJfJkgCo
+AzX3fAACgC2xEqAJ2YG4cIiKaDLA2TGUYAAslgLYyCecyaCOAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AA=="	Angiotensin I/II (5-8)
+0	16130452	CC(C)CC(C(=O)NC(CO)C(=O)NC(CC1=CN=CN1)C(=O)NC(CCCCN)C(=O)NCC(=O)N2CCCC2C(=O)NC(CCSC)C(=O)N3CCCC3C(=O)NC(CC4=CC=CC=C4)C(=O)O)NC(=O)C(CCCNC(=N)N)NC(=O)C5CCCN5C(=O)C(CCCNC(=N)N)NC(=O)C(CCC(=O)N)NC(=O)C(CCCNC(=N)N)NC(=O)C(CCCNC(=N)N)NC(=O)C(CC6=CC=CC=C6)NC(=O)C(CCCCN)N	(2S)-2-[[(2S)-1-[(2S)-2-[[(2S)-1-[2-[[(2S)-6-amino-2-[[(2S)-2-[[(2S)-2-[[(2S)-2-[[(2S)-2-[[(2S)-1-[(2S)-2-[[(2S)-5-amino-2-[[(2S)-5-carbamimidamido-2-[[(2S)-5-carbamimidamido-2-[[(2S)-2-[[(2S)-2,6-diaminohexanoyl]amino]-3-phenylpropanoyl]amino]pentanoyl]amino]pentanoyl]amino]-5-oxopentanoyl]amino]-5-carbamimidamidopentanoyl]pyrrolidine-2-carbonyl]amino]-5-carbamimidamidopentanoyl]amino]-4-methylpentanoyl]amino]-3-hydroxypropanoyl]amino]-3-(1H-imidazol-5-yl)propanoyl]amino]hexanoyl]amino]acetyl]pyrrolidine-2-carbonyl]amino]-4-methylsulfanylbutanoyl]pyrrolidine-2-carbonyl]amino]-3-phenylpropanoic acid	"AAADcfB//gBAAAAAAAAAAAAAAAAAAWLFiwAwYAAAAAAAAAAB0AAAHgQQCAAADSjl3ga/mJfJkgio
+AzX3fAACgC2xErAJ2YG4cIiKeDbg2TGUYAAutgLYyCecy6COAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AA=="	Apelin precursor (61-77) (human, bovine, mouse, rat) trifluoroacetate
+0	25078060	CC(C)CC(C(=O)NC(CO)C(=O)NC(CC1=CN=CN1)C(=O)NC(CCCCN)C(=O)NCC(=O)N2CCCC2C(=O)NC(CCSC)C(=O)N3CCCC3C(=O)NC(CC4=CC=CC=C4)C(=O)O)NC(=O)C(CCCN=C(N)N)NC(=O)C5CCCN5C(=O)C(CCCN=C(N)N)NC(=O)C(CCC(=O)N)N	(2S)-2-[[(2S)-1-[(2S)-2-[[(2S)-1-[2-[[(2S)-6-amino-2-[[(2S)-2-[[(2S)-2-[[(2S)-2-[[(2S)-5-(diaminomethylideneamino)-2-[[(2S)-1-[(2S)-5-(diaminomethylideneamino)-2-[[(2S)-2,5-diamino-5-oxopentanoyl]amino]pentanoyl]pyrrolidine-2-carbonyl]amino]pentanoyl]amino]-4-methylpentanoyl]amino]-3-hydroxypropanoyl]amino]-3-(1H-imidazol-5-yl)propanoyl]amino]hexanoyl]amino]acetyl]pyrrolidine-2-carbonyl]amino]-4-methylsulfanylbutanoyl]pyrrolidine-2-carbonyl]amino]-3-phenylpropanoic acid	"AAADcfB//gBAAAAAAAAAAAAAAAAAAWLFiwAwAAAAAAAAAAABwAAAHgQQCAAADSjl3ga/mJfJkgio
+AzX3fAACgC2xErAJ2YG4cIiKeDbg2TGUYAAutgLYyCecy6COAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AA=="	Apelin-13
+0	25075996	CCC(C)C(C(=O)NC(CCCN=C(N)N)C(=O)N1CCCC1C(=O)NC(CCCCN)C(=O)NC(CC(C)C)C(=O)NC(CCCCN)C(=O)O)NC(=O)C(CCCN=C(N)N)NC(=O)C(CCCN=C(N)N)NC(=O)C(CC(C)C)NC(=O)C(CC2=CC=CC=C2)NC(=O)CNC(=O)CNC(=O)C(CC3=CC=C(C=C3)O)N	(2S)-6-amino-2-[[(2S)-2-[[(2S)-6-amino-2-[[(2S)-1-[(2S)-2-[[(2S,3S)-2-[[(2S)-2-[[(2S)-2-[[(2S)-2-[[(2S)-2-[[2-[[2-[[(2S)-2-amino-3-(4-hydroxyphenyl)propanoyl]amino]acetyl]amino]acetyl]amino]-3-phenylpropanoyl]amino]-4-methylpentanoyl]amino]-5-(diaminomethylideneamino)pentanoyl]amino]-5-(diaminomethylideneamino)pentanoyl]amino]-3-methylpentanoyl]amino]-5-(diaminomethylideneamino)pentanoyl]pyrrolidine-2-carbonyl]amino]hexanoyl]amino]-4-methylpentanoyl]amino]hexanoic acid	"AAADcfB//AAAAAAAAAAAAAAAAAAAAWAAAAAwYAAAAAAAAAABQAAAHgAQCAAADSzBmAQzDoPAAgCo
+AiHSPAACAAEgIAAIiIGOCIgKZjKCkTOUcAAk1hGYmAeYyaCOIAAAAAAAAABAAAAAAAAAAAAAAAAA
+AA=="	Dynorphin A (1-13)
+0	146170776	CCC(C)C(C(=O)O)NC(=O)C1CCCN1C(=O)C(CCC(=O)O)NC(=O)C(C(C)C)NC(=O)C2CCCN2C(=O)C(CC3=CC=C(C=C3)O)N	(2S,3S)-2-[[(2S)-1-[(2S)-2-[[(2S)-2-[[(2S)-1-[(2S)-2-amino-3-(4-hydroxyphenyl)propanoyl]pyrrolidine-2-carbonyl]amino]-3-methylbutanoyl]amino]-4-carboxybutanoyl]pyrrolidine-2-carbonyl]amino]-3-methylpentanoic acid	"AAADcfB/vAAAAAAAAAAAAAAAAAAAAWLAAAAwAAAAAAAAAAABAAAAHgAQCAAADSzBmAQyDoPAAgCI
+AiHSGAACAAAgIAAIiIGOCIgKZjKCkTOUcAAk1hGYmAe836KOIAAAAAAAAABAAAAAAAAAAAAAAAAA
+AA=="	Neocasomorphin
+0	196178	CC(C)CC(C(=O)NC(CC1=CC=C(C=C1)O)C(=O)NC(CCC(=O)O)C(=O)NC(CC(=O)N)C(=O)NC(CCCCN)C(=O)N2CCCC2C(=O)NC(CCCN=C(N)N)C(=O)O)NC(=O)C3CCC(=O)N3	(4S)-5-[[(2S)-4-amino-1-[[(2S)-6-amino-1-[(2S)-2-[[(1S)-1-carboxy-4-(diaminomethylideneamino)butyl]carbamoyl]pyrrolidin-1-yl]-1-oxohexan-2-yl]amino]-1,4-dioxobutan-2-yl]amino]-4-[[(2S)-3-(4-hydroxyphenyl)-2-[[(2S)-4-methyl-2-[[(2S)-5-oxopyrrolidine-2-carbonyl]amino]pentanoyl]amino]propanoyl]amino]-5-oxopentanoic acid	"AAADcfB//AAAAAAAAAAAAAAAAAAAAWLAAAAwAAAAAAAAAAABAAAAHgAQCAAADSzBmAQzDoPAAgCo
+AiHSPAACAAEgIAAIiIGOCIgKZjqC0TOUcAAk1hGYmAe936KOIAAAAAAAAABAAAAAAAAAAAAAAAAA
+AA=="	Neurotensin (1-8)
+1	146026567	CC(C)CC(C(=O)NC(CC1=CC=C(C=C1)O)C(=O)NC(CCC(=O)[O-])C(=O)NC(CC(=O)N)C(=O)NC(CCCC[NH3+])C(=O)N2CCCC2C(=O)NC(CCC[NH+]=C(N)N)C(=O)[O-])NC(=O)C3CCC(=O)N3	(4S)-5-[[(2S)-4-amino-1-[[(2S)-6-azaniumyl-1-[(2S)-2-[[(1S)-1-carboxylato-4-(diaminomethylideneazaniumyl)butyl]carbamoyl]pyrrolidin-1-yl]-1-oxohexan-2-yl]amino]-1,4-dioxobutan-2-yl]amino]-4-[[(2S)-3-(4-hydroxyphenyl)-2-[[(2S)-4-methyl-2-[[(2S)-5-oxopyrrolidine-2-carbonyl]amino]pentanoyl]amino]propanoyl]amino]-5-oxopentanoate	"AAADcfB//AAAAAAAAAAAAAAAAAAAAWLAAAAwAAAAAAAAAAABAAAAHgAQCAAADSzBmAQzDoPAAgCo
+AiHSPAACAAGgIAAIiIGOCIgKZjqC0TOUcAAk1hGYmAe936KOIAAAAAAAAABAAAAAAAAAAAAAAAAA
+AA=="	Neurotensin (1-8) dizwitterion
+0	131954568	CC(C)CC(C(=O)NC(C(C)C)C(=O)NC(CCCCN)C(=O)N1CCCC1C(=O)NC(CCCNC(=N)N)C(=O)NC(C(C)O)C(=O)NC(CO)C(=O)NC(CCCNC(=N)N)C(=O)NC(C(C)O)C(=O)NCC(=O)N2CCCC2C(=O)NCC(=O)NC(C)C(=O)NC(CC3=CNC4=CC=CC=C43)C(=O)NC(CCC(=O)N)C(=O)NCC(=O)NCC(=O)NC(CCCNC(=N)N)C(=O)NC(CCCNC(=N)N)C(=O)NC(CCCCN)C(=O)NC(CC5=CC=CC=C5)C(=O)NC(CCCNC(=N)N)C(=O)NC(CCCNC(=N)N)C(=O)NC(CCC(=O)N)C(=O)NC(CCCNC(=N)N)C(=O)N6CCCC6C(=O)NC(CCCNC(=N)N)C(=O)NC(CC(C)C)C(=O)NC(CO)C(=O)NC(CC7=CNC=N7)C(=O)NC(CCCCN)C(=O)NCC(=O)N8CCCC8C(=O)NC(CCSC)C(=O)N9CCCC9C(=O)NC(CC1=CC=CC=C1)C(=O)O)N	2-[[1-[2-[[1-[2-[[6-amino-2-[[2-[[2-[[2-[[2-[[1-[2-[[5-amino-2-[[2-[[2-[[2-[[6-amino-2-[[2-[[2-[[2-[[2-[[5-amino-2-[[2-[2-[[2-[[1-[2-[[2-[[2-[[2-[[2-[[2-[[1-[6-amino-2-[[2-[(2-amino-4-methylpentanoyl)amino]-3-methylbutanoyl]amino]hexanoyl]pyrrolidine-2-carbonyl]amino]-5-carbamimidamidopentanoyl]amino]-3-hydroxybutanoyl]amino]-3-hydroxypropanoyl]amino]-5-carbamimidamidopentanoyl]amino]-3-hydroxybutanoyl]amino]acetyl]pyrrolidine-2-carbonyl]amino]acetyl]amino]propanoylamino]-3-(1H-indol-3-yl)propanoyl]amino]-5-oxopentanoyl]amino]acetyl]amino]acetyl]amino]-5-carbamimidamidopentanoyl]amino]-5-carbamimidamidopentanoyl]amino]hexanoyl]amino]-3-phenylpropanoyl]amino]-5-carbamimidamidopentanoyl]amino]-5-carbamimidamidopentanoyl]amino]-5-oxopentanoyl]amino]-5-carbamimidamidopentanoyl]pyrrolidine-2-carbonyl]amino]-5-carbamimidamidopentanoyl]amino]-4-methylpentanoyl]amino]-3-hydroxypropanoyl]amino]-3-(1H-imidazol-4-yl)propanoyl]amino]hexanoyl]amino]acetyl]pyrrolidine-2-carbonyl]amino]-4-methylsulfanylbutanoyl]pyrrolidine-2-carbonyl]amino]-3-phenylpropanoic acid	"AAADcfB//gBAAAAAAAAAAAAAAAAAAWLFixYwYMAAAAAAAFgB/AAAHgQQCAAADTzl3ga/2PfJkgio
+AzX3fACCgC2xErAJ2aG4dJiKePbg2bGUYAhutgLYyCecy+COgAAAAAACAAAAAAAAAAQAAAAAAAAA
+AA=="	Apelin-36
+0	5047642	CC1=CC(=O)OC2=C1C=CC(=C2)NC(=O)C(CCCN=C(N)N)NC(=O)C(CC3=CC=CC=C3)NC(=O)OCC4=CC=CC=C4	benzyl N-[1-[[5-(diaminomethylideneamino)-1-[(4-methyl-2-oxochromen-7-yl)amino]-1-oxopentan-2-yl]amino]-1-oxo-3-phenylpropan-2-yl]carbamate	"AAADcfB/uAAAAAAAAAAAAAAAAAAAAAAAAAAwYMEAAAAAAACBUAAAHgAQAAAADCzhmAYzzoLABACo
+AiXSfACCCAEhIgAIiIGObMkMZjLEsbueOijm1hnI6QeY2aOOCAAAAgAIAAAQAAAEABAAAAAAAAAA
+AA=="	Z-Phe-arg-amc
+0	97591	CC(=O)NCC(=O)NCC(=O)O	2-[(2-acetamidoacetyl)amino]acetic acid	"AAADccBjOAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHgAQCAAAAADBgAQCCALAAgAI
+AAGQGAAAAAAAAAAAAICIAAACQAAAACAQAAAAFgCQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AA=="	N-Acetylglycylglycine
+0	5488264	CC(C(=O)NC(C)C(=O)O)NC(=O)C	(2S)-2-[[(2S)-2-acetamidopropanoyl]amino]propanoic acid	"AAADccBzOAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHgAQCAAACCjBgAQCCALAAgAI
+AAGQGAAAAAAAAAAAAIGIAAACQAAAACAUQAAAFgCQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AA=="	Acetylalanylalanine
+0	100084	CC(C(=O)NC(C)C(=O)NC(C)C(=O)NC(C)C(=O)O)NC(=O)C	2-[2-[2-(2-acetamidopropanoylamino)propanoylamino]propanoylamino]propanoic acid	"AAADceBzuAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHgAQCAAACCjBgAQCCALAAgAI
+AAGQGAAAAAAAAAAAAIGIAAACQAAAACAUQAAAFgCQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AA=="	Acetylalanyl-alanyl-alanyl-alanine
+0	5484352	CC(C(=O)NC(C)C(=O)O)N	(2S)-2-[[(2S)-2-aminopropanoyl]amino]propanoic acid	"AAADccBjMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHgAQCAAACCjBgAQCCALAAgAI
+AAGQGAAAAAAAAAAAAIGIAAACQAAAACAUQAAAFgCQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AA=="	L-Alanyl-L-alanine
+0	5483957	CC(C(=O)NC(C)C(=O)NC(C)C(=O)O)NC(=O)C	(2S)-2-[[(2S)-2-[[(2S)-2-acetamidopropanoyl]amino]propanoyl]amino]propanoic acid	"AAADceBzOAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHgAQCAAACCjBgAQCCALAAgAI
+AAGQGAAAAAAAAAAAAIGIAAACQAAAACAUQAAAFgCQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AA=="	Acetyltrialanine
+0	115260	CSCC(C(=O)NCC(=O)O)NC(=O)CCC(C(=O)O)N	(2S)-2-amino-5-[[(2R)-1-(carboxymethylamino)-3-methylsulfanyl-1-oxopropan-2-yl]amino]-5-oxopentanoic acid	"AAADceBzOABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHgQQCAAACCjFwASCCALAAggI
+AAGQGAAAAAAAABAAAIGIAAACQBIggCAUQAAEFgCQAACcFwIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AA=="	S-Methylglutathione
+0	444104	C(CC(=O)NC(CS(=O)(=O)O)C(=O)NCC(=O)O)C(C(=O)O)N	(2S)-2-amino-5-[[(2R)-1-(carboxymethylamino)-1-oxo-3-sulfopropan-2-yl]amino]-5-oxopentanoic acid	"AAADceBzPABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHgQQCAAACCjFwASACALAAoII
+AAGQGHBAAAAAAAAAAIGIAAACQBIAgCAUQAAEFgCQAACcFwIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AA=="	Glutathionesulfonic acid
+1	3486	C(CC(=O)NC(CS(=O)(=O)O)C(=O)NCC(=O)O)C(C(=O)O)N	2-amino-5-[[1-(carboxymethylamino)-1-oxo-3-sulfopropan-2-yl]amino]-5-oxopentanoic acid	"AAADceBzPABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHgQQCAAACCjFwASACALAAoII
+AAGQGHBAAAAAAAAAAIGIAAACQBIAgCAUQAAEFgCQAACcFwIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AA=="	Glutathione sulfonic acid
+2	13134933	C(CC(=O)NC(CS(=O)(=O)O)C(=O)NCC(=O)O)C(C(=O)O)N	(2S)-2-amino-5-[[(2S)-1-(carboxymethylamino)-1-oxo-3-sulfopropan-2-yl]amino]-5-oxopentanoic acid	"AAADceBzPABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHgQQCAAACCjFwASACALAAoII
+AAGQGHBAAAAAAAAAAIGIAAACQBIAgCAUQAAEFgCQAACcFwIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AA=="	(2S)-2-amino-5-[[(2S)-1-(carboxymethylamino)-1-oxo-3-sulfopropan-2-yl]amino]-5-oxopentanoic acid
+0	5280493	CCCCCC=CCC=CC=CC=CC(C(CCCC(=O)O)O)SCC(C(=O)NCC(=O)O)NC(=O)CCC(C(=O)O)N	(5S,6R,7E,9E,11Z,14Z)-6-[(2R)-2-[[(4S)-4-amino-4-carboxybutanoyl]amino]-3-(carboxymethylamino)-3-oxopropyl]sulfanyl-5-hydroxyicosa-7,9,11,14-tetraenoic acid	"AAADcfB7PABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHgQQCAAACDzlwAaCCALAAgiI
+ACHSGAAAAAAgABAICIGIAAgKUBIggSAUQAAE1gC4gAOc/ybAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AA=="	leukotriene C4
+0	65359	C(CC(=O)NC(CSSCC(C(=O)NCC(=O)O)NC(=O)CCC(C(=O)O)N)C(=O)NCC(=O)O)C(C(=O)O)N	(2S)-2-amino-5-[[(2R)-3-[[(2R)-2-[[(4S)-4-amino-4-carboxybutanoyl]amino]-3-(carboxymethylamino)-3-oxopropyl]disulfanyl]-1-(carboxymethylamino)-1-oxopropan-2-yl]amino]-5-oxopentanoic acid	"AAADcfB7vABgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHgQQCAAACCjFwASACALAAgAI
+AAGQGAAAAAAAAAAAAIGIAAACQBIAgCAUQAAEFgCQAACcFwIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AA=="	Oxiglutatione
+0	124886	C(CC(=O)NC(CS)C(=O)NCC(=O)O)C(C(=O)O)N	(2S)-2-amino-5-[[(2R)-1-(carboxymethylamino)-1-oxo-3-sulfanylpropan-2-yl]amino]-5-oxopentanoic acid	"AAADceBzOABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHgQQCAAACCjFwASACALAAgQI
+AAGQGAAAAAAAAAAAAIGIAAACQBIAgCAUQAAEFgCQAACcFwIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AA=="	Glutathione
+0	124886	C(CC(=O)NC(CS)C(=O)NCC(=O)O)C(C(=O)O)N	(2S)-2-amino-5-[[(2R)-1-(carboxymethylamino)-1-oxo-3-sulfanylpropan-2-yl]amino]-5-oxopentanoic acid	"AAADceBzOABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHgQQCAAACCjFwASACALAAgQI
+AAGQGAAAAAAAAAAAAIGIAAACQBIAgCAUQAAEFgCQAACcFwIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AA=="	Glutathione
+0	5961	C(CC(=O)N)C(C(=O)O)N	(2S)-2,5-diamino-5-oxopentanoic acid	"AAADccBjMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHgAQCAAACCjBgAQACABAAgAI
+AAGQGAAAAAAAAAAAAIGAAAACABIAgAAAQAAEEAAAAACcFwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AA=="	Glutamine
+0	81732	C1=CC(=CC=C1NC(=O)CCC(C(=O)O)N)[N+](=O)[O-]	(2S)-2-amino-5-(4-nitroanilino)-5-oxopentanoic acid	"AAADccBzOAAAAAAAAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAABAAAAHgAUCAAACCjBkAQwyILQQgCJ
+ACXSWwCCAAAhAgAoiIGAZIoKIDLAkZGEYAhklADIyAecFwIAAACAAAAAAAAAAQAAAAAAAAAAAAAA
+AA=="	(S)-2-Amino-5-((4-nitrophenyl)amino)-5-oxopentanoic acid
+1	7090494	C1=CC(=CC=C1NC(=O)CCC(C(=O)[O-])[NH3+])[N+](=O)[O-]	(2S)-2-azaniumyl-5-(4-nitroanilino)-5-oxopentanoate	"AAADccBzOAAAAAAAAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAABAAAAHgAUAAAACCjBkAQwyILQQACJ
+ACXSWwCCAAAhAgAoiIGAZIoKIDLAkZGEIAhklADIyAecFwIAAACAAAAAAAAAAQAAAAAAAAAAAAAA
+AA=="	p-Nitrophenyl glutamyl anilide
+0	90658497	C1=CC=C2C(=C1)C(=CN2)CC(=NO)SCC(C(=O)NCC(=O)[O-])NC(=O)CCC(C(=O)[O-])[NH3+]	(2S)-2-azaniumyl-5-[[(2R)-1-(carboxylatomethylamino)-3-[(E)-N-hydroxy-C-(1H-indol-3-ylmethyl)carbonimidoyl]sulfanyl-1-oxopropan-2-yl]amino]-5-oxopentanoate	"AAADceB7uABAAAAAAAAAAAAAAAAAAWAAAAAwAAAAAAAAAFgB8AAAHgQUCAAADCjF3gS8yPLZkAio
+AzX3XACCgCAxAjAI2aG4ZJgKYPLgkbGUIAhklgD4yAecl8IOgAAAAAACAAAAAAAAAAQAAAAAAAAA
+AA=="	(2S)-2-azaniumyl-5-{[(2R)-1-[(carboxylatomethyl)amino]-3-{[(1E)-N-hydroxy-2-(1H-indol-3-yl)ethanimidoyl]sulfanyl}-1-oxopropan-2-yl]amino}-5-oxopentanoate
+0	91820399	C1=CC=C(C=C1)CC(=NO)SCC(C(=O)NCC(=O)[O-])NC(=O)CCC(C(=O)[O-])[NH3+]	(2S)-2-azaniumyl-5-[[(2R)-3-[(Z)-C-benzyl-N-hydroxycarbonimidoyl]sulfanyl-1-(carboxylatomethylamino)-1-oxopropan-2-yl]amino]-5-oxopentanoate	"AAADceB7uABAAAAAAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAABAAAAHgQUCAAADCjF2ASwCILQAAio
+AiHyGAACAAAgABAIiIG4AIgKYDKgkTCUIAAklgC4iAecl4IOAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AA=="	(Z)-1-(glutathione-S-yl)-2-phenylacetohydroximate
+0	70788956	C1=CC=C2C(=C1)C(=CN2)C(C#N)SCC(C(=O)NCC(=O)[O-])NC(=O)CCC(C(=O)[O-])[NH3+]	(2S)-2-azaniumyl-5-[[(2R)-1-(carboxylatomethylamino)-3-[cyano(1H-indol-3-yl)methyl]sulfanyl-1-oxopropan-2-yl]amino]-5-oxopentanoate	"AAADceB7uABAAAAAAAAAAAAAAAAAAWAAAAAwAAAAAAAAAFgB8AAAHgQQAAAADCjF3gS8yPLJkAi4
+BzX3XACCgCAxAjAI2aG4ZJgK4PLgkbGUIAhklgD4yA+cl8IOgAAAAAACAAAAAAAAAAQAAAAAAAAA
+AA=="	gammaGluCys(IAN)Gly(1-)
+0	3084520	CCC(C)C(C(=O)N1CCCC1C(=O)N2CCCC2C(=O)O)NC(=O)C(CCCCN)NC(=O)C3CCCN3C(=O)C(CCCN=C(N)N)NC(=O)C4CCCN4C(=O)C5CCCN5C(=O)C(CC(C)C)NC(=O)CNC(=O)C6CCC(=O)N6	1-[1-[2-[[6-amino-2-[[1-[5-(diaminomethylideneamino)-2-[[1-[1-[4-methyl-2-[[2-[(5-oxopyrrolidine-2-carbonyl)amino]acetyl]amino]pentanoyl]pyrrolidine-2-carbonyl]pyrrolidine-2-carbonyl]amino]pentanoyl]pyrrolidine-2-carbonyl]amino]hexanoyl]amino]-3-methylpentanoyl]pyrrolidine-2-carbonyl]pyrrolidine-2-carboxylic acid	"AAADcfB//AAAAAAAAAAAAAAAAAAAAWLFixYAAAAAAAAAAAAAAAAAHgAQCAAADSjBgAQDCAPAAgAo
+AAGQPAAAAAEAAAAAAIGIAAACQBIAgCAUQAAEFgCQAAGcGwIOAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AA=="	Bradykinin potentiator B
+0	4400717	CC(C)CC(C(=O)NC(CCCN=C(N)N)C(=O)N1CCCC1C(=O)NCC(=O)O)NC(=O)CNC(=O)C(CC2=CC=C(C=C2)O)NC(=O)C(CO)NC(=O)C(CC3=CNC4=CC=CC=C43)NC(=O)C(CC5=CN=CN5)NC(=O)C6CCC(=O)N6	2-[[1-[5-(diaminomethylideneamino)-2-[[2-[[2-[[2-[[3-hydroxy-2-[[2-[[3-(1H-imidazol-5-yl)-2-[(5-oxopyrrolidine-2-carbonyl)amino]propanoyl]amino]-3-(1H-indol-3-yl)propanoyl]amino]propanoyl]amino]-3-(4-hydroxyphenyl)propanoyl]amino]acetyl]amino]-4-methylpentanoyl]amino]pentanoyl]pyrrolidine-2-carbonyl]amino]acetic acid	"AAADcfB//AAAAAAAAAAAAAAAAAAAAWLFiwAwYAAAAAAAAFgB/AAAHgAQCAAADSzhngY/3vfJkgCo
+AzX3fACCgC2xMqAJ2aG+fJiKfvbC2bOUcAhu9hPY2Cecy+COoAAAAAACAABAAAAAAAQAAAAAAAAA
+AA=="	Luteinizing-hormone-releasing-hormone
+0	638678	C1CC(N(C1)C(=O)C(CC2=CN=CN2)NC(=O)C3CCC(=O)N3)C(=O)N	(2S)-N-[(2S)-1-[(2S)-2-carbamoylpyrrolidin-1-yl]-3-(1H-imidazol-5-yl)-1-oxopropan-2-yl]-5-oxopyrrolidine-2-carboxamide	"AAADceB7uAAAAAAAAAAAAAAAAAAAAWLFgAAAAAAAAAAAAAABgAAAHgAQAAAACCjBlgQtkBfJkACo
+ARV3dAAAgC2xEqABUYG4cAiAaBJA2SGUAAAIlgLAQCAcAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AA=="	Protirelin
+0	2724446	CCOC(=O)C1CCC(=O)N1	ethyl (2S)-5-oxopyrrolidine-2-carboxylate	"AAADccBiMAAAAAAAAAAAAAAAAAAAAWAAAAAAAAAAAAAAAAAAAAAAHgAQAAAACCjhgAYCCALABAAI
+AAGQGAAAAAAAAAAAAIGIAAACABIAgCAHAAAEFgCQAACcFwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AA=="	ethyl (2S)-5-oxopyrrolidine-2-carboxylate
+0	688365	CC1=CC(=O)OC2=C1C=CC(=C2)NC(=O)CC(C(=O)O)N	(2S)-2-amino-4-[(4-methyl-2-oxochromen-7-yl)amino]-4-oxobutanoic acid	"AAADccBzOAAAAAAAAAAAAAAAAAAAAAAAAAAwQAAAAAAAAACBAAAAHgAQCAAADCzBmAQyzoLABgCI
+AiXSWACCCAAhIgAIiIGGbMgOJjrE8ZuGeijm1BnI6Qe30KMOCAAAAgAIAAAQAAAEABAAAAAAAAAA
+AA=="	(2S)-2-azaniumyl-3-[(4-methyl-2-oxo-chromen-7-yl)carbamoyl]propanoate
+0	302430	C(C(C(=O)O)N)C(=O)NCC(=O)O	2-amino-4-(carboxymethylamino)-4-oxobutanoic acid	"AAADccBjOAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHgAQCAAACCjBgAQACALAAgAI
+AAGQGAAAAAAAAAAAAIGIAAACABgAwCAEQAAEFgCQAAAnAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AA=="	beta-Asp-gly
+0	7016063	CC(C)CC(C(=O)O)NC(=O)CC(C(=O)O)N	(2S)-2-[[(3S)-3-amino-3-carboxypropanoyl]amino]-4-methylpentanoic acid	"AAADceBzOAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHgAQCAAADSjBgAQCCALAAgAI
+AAGQGAAAAAAAAAAAAIGIAAACABoAwCAEQAAEFgCQAACvAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AA=="	beta-Asp-Leu
+0	6992367	CC(C)CC(C(=O)O)NC(=O)C(CC(=O)O)N	(2S)-2-[[(2S)-2-amino-3-carboxypropanoyl]amino]-4-methylpentanoic acid	"AAADceBzOAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHgAQCAAADSjBgAQCCALAAgAI
+AAGQGAAAAAAAAAAAAIGIAAACQBoAgCAUQAAGFgCQAACvAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AA=="	(S)-2-((S)-2-Amino-3-carboxypropanamido)-4-methylpentanoic acid
+0	19365658	C1=CC=C(C=C1)CC(C(=O)O)NC(=O)CC(C(=O)O)N	2-amino-4-[(1-carboxy-2-phenylethyl)amino]-4-oxobutanoic acid	"AAADceBzOAAAAAAAAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAABAAAAHgAQCAAADCjBmAQwCILAAgCI
+AiHSGAACAAAgAAAIiIGIAIgKIDqA0TGEYAAklgCYiAe/yKCOAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AA=="	L-beta-aspartyl-L-phenylalanine
+0	6267	C(C(C(=O)O)N)C(=O)N	(2S)-2,4-diamino-4-oxobutanoic acid	"AAADccBjMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHgAQCAAACCjBgAQACABAAgAI
+AAGQGAAAAAAAAAAAAIGAAAACABgAwAAAQAAEEAAAAAAnAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AA=="	Asparagine
+0	6994989	CC(C(=O)O)NC(=O)CCN	(2S)-2-(3-aminopropanoylamino)propanoic acid	"AAADccBjMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHgAQCAAACCjBgAQCCALAAgAI
+AAGQGAAAAAAAAAAAAIGIAAACAAgAQCAEQAAAFgCQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AA=="	beta-Ala-Ala
+0	71058124	CC(C)CC(C(=O)NC1=CC=C(C=C1)[N+](=O)[O-])NC(=O)C2CCCN2C(=O)C(C)NC(=O)C(C)NC(=O)CCC(=O)O	4-[[(2S)-1-[[(2S)-1-[(2S)-2-[[(2S)-4-methyl-1-(4-nitroanilino)-1-oxopentan-2-yl]carbamoyl]pyrrolidin-1-yl]-1-oxopropan-2-yl]amino]-1-oxopropan-2-yl]amino]-4-oxobutanoic acid	"AAADcfB7vAAAAAAAAAAAAAAAAAAAAWAAAAAwAAAAAAAAAAABAAAAHgAUCAAADSjBkAQyyIPQQgCJ
+ACXSWwCCAAAhAgAoiIGIZIoIYDLAkbGUYAhklgDIyAc/AQAMAACAAAAAAAAAAQAAAAAAAAAAAAAA
+AA=="	Suc-ala-ala-pro-leu-pna
+0	95566034	CC(C(=O)NC(C)C(=O)N1CCCC1C(=O)NC(CCSC)C(=O)NC2=CC=C(C=C2)[N+](=O)[O-])NC(=O)CCC(=O)O	4-[[(2S)-1-[[(2S)-1-[(2S)-2-[[(2S)-4-methylsulfanyl-1-(4-nitroanilino)-1-oxobutan-2-yl]carbamoyl]pyrrolidin-1-yl]-1-oxopropan-2-yl]amino]-1-oxopropan-2-yl]amino]-4-oxobutanoic acid	"AAADcfB7vABAAAAAAAAAAAAAAAAAAWAAAAAwAAAAAAAAAAABAAAAHgQUCAAACCjF0ASyyIPQQgiJ
+ACXSWwCCAAAhAhAoiIGIZIoIYDLgkbGUYAhklgDIyAc/AQAAAACAAAAAAAAAAQAAAAAAAAAAAAAA
+AA=="	Suc-Ala-Ala-Pro-Met-pNA
+0	5496888	CC(C(=O)NC(C)C(=O)N1CCCC1C(=O)NC(CC2=CC=CC=C2)C(=O)NC3=CC=C(C=C3)[N+](=O)[O-])NC(=O)CCC(=O)O	4-[[(2S)-1-[[(2S)-1-[(2S)-2-[[(2S)-1-(4-nitroanilino)-1-oxo-3-phenylpropan-2-yl]carbamoyl]pyrrolidin-1-yl]-1-oxopropan-2-yl]amino]-1-oxopropan-2-yl]amino]-4-oxobutanoic acid	"AAADcfB7vAAAAAAAAAAAAAAAAAAAAWAAAAAwYAAAAAAAAAABQAAAHgAUCAAADCjBmAQyyIPQQgCJ
+AiXSWwCCAAAhAgAoiIGIZIoIYDLAkbGUYAhklgDIyAc/iYCOAACAAAAAAAAAAQAAAAAAAAAAAAAA
+AA=="	N-succinyl-ala-ala-pro-phe-p-nitroanilide
+0	70396	C1=CC=C(C=C1)C(=O)OC2=CC=C(C=C2)[N+](=O)[O-]	(4-nitrophenyl) benzoate	"AAADccByOAAAAAAAAAAAAAAAAAAAAAAAAAAwYAAAAAAAAAABQAAAHgAEAAAADAyBmAAwzoAQRACJ
+AiTSSwCCCAAkIgAoiAEGbMoMJjKEtZuCOyDkwBEI6Ye4yCCOAEAAAAAAAAAAgAAAAAAAAAAAAAAA
+AA=="	4-Nitrophenyl benzoate
+0	7408160	C1=CC=C(C=C1)CC(C(=O)NC2=CC=C(C=C2)[N+](=O)[O-])NC(=O)CCC(=O)O	4-[[(2S)-1-(4-nitroanilino)-1-oxo-3-phenylpropan-2-yl]amino]-4-oxobutanoic acid	"AAADceB7OAAAAAAAAAAAAAAAAAAAAAAAAAAwYAAAAAAAAAABQAAAHgAUCAAADCjBmAQwyILQQgCJ
+AiXSWwCCAAAhAgAoiIGIZIoIYDLAkbGUYAhklgDIyAc/iICOAACAAAAAAAAAAQAAAAAAAAAAAAAA
+AA=="	N-Succinyl-L-phenylalanine-p-nitroanilide
+0	3265780	CC1=CC(=O)OC2=C1C=CC(=C2)NC(=O)C(CC3=CC=CC=C3)NC(=O)C(C)NC(=O)C(C)NC(=O)CCC(=O)O	4-[[1-[[1-[[1-[(4-methyl-2-oxochromen-7-yl)amino]-1-oxo-3-phenylpropan-2-yl]amino]-1-oxopropan-2-yl]amino]-1-oxopropan-2-yl]amino]-4-oxobutanoic acid	"AAADcfB7vAAAAAAAAAAAAAAAAAAAAAAAAAAwYIAAAAAAAACBQAAAHgAQCAAADCzBmAQyzoLABgCI
+AiXSWACCCAAhIgAIiIGObMgMZjLEsbuWeijm1hnI6Qe/2KOOCAAAAgAIAAAQAAAEABAAAAAAAAAA
+AA=="	N-Succinyl-Ala-Ala-Phe-7-amido-4-methylcoumarin
+0	25108624	CC1=CC(=O)OC2=C1C=CC(=C2)NC(=O)C(CC3=CC=C(C=C3)O)NC(=O)C(CC(C)C)NC(=O)CCC(=O)O	4-[[(2S)-1-[[(2S)-3-(4-hydroxyphenyl)-1-[(4-methyl-2-oxochromen-7-yl)amino]-1-oxopropan-2-yl]amino]-4-methyl-1-oxopentan-2-yl]amino]-4-oxobutanoic acid	"AAADcfB7PAAAAAAAAAAAAAAAAAAAAAAAAAAwYIAAAAAAAACBQAAAHgAQCAAADSzBmAQyzoLABgCI
+AiXSWACCCAAhIgAIiIGObMgMZjLGsbuWeijm1hnI+Qe/2KOOKAAAAgAIAABQAAAEABAAAAAAAAAA
+AA=="	Suc-Leu-Tyr-AMC
+0	75846	C1=CN=CC=C1SSC2=CC=NC=C2	4-(pyridin-4-yldisulfanyl)pyridine	"AAADccBzAABgAAAAAAAAAAAAAAAAAAAAAAAsWAAAAAAAAAAB4AAAHAQAAAAACADBUgQ8gZIIEACg
+ADBnRACGgCAxAiAI2Dg4ZJgIIGLAkZGEIAxggADIyAYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AA=="	4,4'-Dipyridyl disulfide

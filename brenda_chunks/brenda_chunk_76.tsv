@@ -1,0 +1,1903 @@
+	uniprot_ids	substrates
+0	O83661	ATP
+1	O83661	H2O
+2	O83661	putrescine-[putrescine-binding protein][side 1]
+3	O83661	ATP
+4	O83661	H2O
+5	O83661	spermidine-[spermidine-binding protein][side 1]
+6	O83661	more
+0	P08183	ATP
+1	P08183	H2O
+2	P08183	rhodamine 123/in
+3	P08183	ATP
+4	P08183	H2O
+5	P08183	xenobiotic/in
+6	P08183	more
+7	P08183	ATP
+8	P08183	H2O
+9	P08183	verapamil/in
+10	P08183	ATP
+11	P08183	H2O
+12	P08183	daunorubicin/in
+13	P08183	ATP
+14	P08183	H2O
+15	P08183	doxorubicin[side 1]
+16	P08183	ATP
+17	P08183	H2O
+18	P08183	VP-16/in
+19	P08183	ATP
+20	P08183	H2O
+21	P08183	etoposide/in
+22	P08183	ATP
+23	P08183	H2O
+24	P08183	paclitaxel/in
+25	P08183	ATP
+26	P08183	H2O
+27	P08183	etoposide[side 1]
+28	P08183	ATP
+29	P08183	H2O
+30	P08183	rhodamine 6G[side 1]
+31	P08183	ATP
+32	P08183	H2O
+33	P08183	daunorubicin[side 1]
+34	P08183	ATP
+35	P08183	H2O
+36	P08183	Hoechst33342[side 1]
+37	P08183	ATP
+38	P08183	H2O
+39	P08183	xenobiotic[side 1]
+40	P08183	ATP
+41	P08183	H2O
+42	P08183	ethidium bromide[side 1]
+43	P08183	ATP
+44	P08183	H2O
+45	P08183	verapamil[side 1]
+46	P08183	ATP
+47	P08183	H2O
+48	P08183	vinblastine[side 1]
+49	P08183	ATP
+50	P08183	H2O
+51	P08183	C12E08/in
+52	P08183	ATP
+53	P08183	H2O
+54	P08183	cyclosporine A[side 1]
+55	P08183	ATP
+56	P08183	H2O
+57	P08183	rhodamine [side 1]
+58	P08183	ATP
+59	P08183	H2O
+60	P08183	tariquidar [side 1]
+61	P08183	ATP
+62	P08183	H2O
+63	P08183	temozolomide[side 1]
+64	P08183	ATP
+65	P08183	H2O
+66	P08183	verapamil [side 1]
+67	P08183	ATP
+68	P08183	H2O
+69	P08183	vinblastine sulfate/in
+70	P08183	ATP
+71	P08183	H2O
+72	P08183	vincristine sulfate/in
+73	P08183	ATP
+74	P08183	H2O
+75	P08183	rhodamine 123[side 1]
+76	P08183	ATP
+77	P08183	H2O
+78	P08183	quercetin[side 1]
+79	P08183	ATP
+80	P08183	H2O
+81	P08183	cyclosporine A[side 1]
+82	P08183	ATP
+83	P08183	H2O
+84	P08183	5-fluorouracil[side 1]
+85	P08183	ATP
+86	P08183	H2O
+87	P08183	colchicine[side 1]
+88	P08183	ATP
+89	P08183	H2O
+90	P08183	actinomycin D[side 1]
+91	P08183	ATP
+92	P08183	H2O
+93	P08183	doxorubicin/in
+94	P08183	ATP
+95	P08183	H2O
+96	P08183	diltiazem/in
+97	P08183	ATP
+98	P08183	H2O
+99	P08183	Triton X-100/in
+100	P08183	ATP
+101	P08183	H2O
+102	P08183	Tween 80/in
+103	P97046	ATP
+104	P97046	H2O
+105	P97046	xenobiotic/in
+106	P97046	more
+107	P97046	ATP
+108	P97046	H2O
+109	P97046	2'-(4-ethoxyphenyl)-5-(4-methyl-1-piperazinyl)-2 5'-bis-1H-benzimidazole/in
+110	P97046	ATP
+111	P97046	H2O
+112	P97046	daunomycin/in
+113	P97046	ATP
+114	P97046	H2O
+115	P97046	2',7'-bis-(2-carboxyethyl)-5,6-carboxylfluoresceinacetoxymethyl ester/in
+116	P97046	ATP
+117	P97046	H2O
+118	P97046	ethidium bromide/in
+119	Q08201	ATP
+120	Q08201	H2O
+121	Q08201	phosphatidylcholine/in
+122	P32010	ATP
+123	P32010	H2O
+124	P32010	vinblastine/in
+125	P32010	ATP
+126	P32010	H2O
+127	P32010	verapamil/in
+128	P32010	ATP
+129	P32010	H2O
+130	P32010	rifampicin/in
+131	P32010	GTP
+132	P32010	H2O
+133	P32010	doxorubicin/in
+134	P32010	ATP
+135	P32010	H2O
+136	P32010	ethidium bromide/in
+137	P32010	ATP
+138	P32010	H2O
+139	P32010	doxorubicin/in
+140	P32010	ATP
+141	P32010	H2O
+142	P32010	Hoechst 33342/in
+143	P34712	ATP
+144	P34712	H2O
+145	P34712	paclitaxel/in
+146	P34712	ATP
+147	P34712	H2O
+148	P34712	actinomycin D/in
+149	Q9UNQ0	ATP
+150	Q9UNQ0	H2O
+151	Q9UNQ0	doxorubicin[side 1]
+152	Q9UNQ0	ATP
+153	Q9UNQ0	H2O
+154	Q9UNQ0	etoposide[side 1]
+155	Q9UNQ0	ATP
+156	Q9UNQ0	H2O
+157	Q9UNQ0	mitoxantrone[side 1]
+158	Q9UNQ0	ATP
+159	Q9UNQ0	H2O
+160	Q9UNQ0	topotecan[side 1]
+161	Q9UNQ0	ATP
+162	Q9UNQ0	H2O
+163	Q9UNQ0	ciprofloxacin[side 1]
+164	Q9UNQ0	ATP
+165	Q9UNQ0	H2O
+166	Q9UNQ0	norfloxacin[side 1]
+167	Q9UNQ0	ATP
+168	Q9UNQ0	H2O
+169	Q9UNQ0	daunorubicin[side 1]
+170	Q9UNQ0	ATP
+171	Q9UNQ0	H2O
+172	Q9UNQ0	ofloxacin[side 1]
+173	Q9UNQ0	ATP
+174	Q9UNQ0	H2O
+175	Q9UNQ0	Hoechst 33342[side 1]
+176	Q9UNQ0	ATP
+177	Q9UNQ0	H2O
+178	Q9UNQ0	Hoechst33342[side 1]
+179	Q9UNQ0	ATP
+180	Q9UNQ0	H2O
+181	Q9UNQ0	xenobiotic[side 1]
+182	Q9UNQ0	ATP
+183	Q9UNQ0	H2O
+184	Q9UNQ0	verapamil[side 1]
+185	Q9UNQ0	ATP
+186	Q9UNQ0	H2O
+187	Q9UNQ0	rhodamine 123[side 1]
+188	Q9UNQ0	ATP
+189	Q9UNQ0	H2O
+190	Q9UNQ0	quercetin[side 1]
+191	Q9UNQ0	ATP
+192	Q9UNQ0	H2O
+193	Q9UNQ0	azidothymidine[side 1]
+194	Q9UNQ0	ATP
+195	Q9UNQ0	H2O
+196	Q9UNQ0	cerivastatin[side 1]
+197	Q9UNQ0	ATP
+198	Q9UNQ0	H2O
+199	Q9UNQ0	cholesterol[side 1]
+200	Q9UNQ0	ATP
+201	Q9UNQ0	H2O
+202	Q9UNQ0	chrysin[side 1]
+203	Q9UNQ0	ATP
+204	Q9UNQ0	H2O
+205	Q9UNQ0	daunomycin[side 1]
+206	Q9UNQ0	ATP
+207	Q9UNQ0	H2O
+208	Q9UNQ0	delavirdine[side 1]
+209	Q9UNQ0	ATP
+210	Q9UNQ0	H2O
+211	Q9UNQ0	estrone-3-sulfate[side 1]
+212	Q9UNQ0	ATP
+213	Q9UNQ0	H2O
+214	Q9UNQ0	hematoporphyrin[side 1]
+215	Q9UNQ0	ATP
+216	Q9UNQ0	H2O
+217	Q9UNQ0	imatinib[side 1]
+218	Q9UNQ0	ATP
+219	Q9UNQ0	H2O
+220	Q9UNQ0	iodoarylazidoprazosin[side 1]
+221	Q9UNQ0	ATP
+222	Q9UNQ0	H2O
+223	Q9UNQ0	lamivudine[side 1]
+224	Q9UNQ0	ATP
+225	Q9UNQ0	H2O
+226	Q9UNQ0	lyso-tracker green[side 1]
+227	Q9UNQ0	ATP
+228	Q9UNQ0	H2O
+229	Q9UNQ0	nicardipine[side 1]
+230	Q9UNQ0	ATP
+231	Q9UNQ0	H2O
+232	Q9UNQ0	ortataxel[side 1]
+233	Q9UNQ0	ATP
+234	Q9UNQ0	H2O
+235	Q9UNQ0	pheophorbide A[side 1]
+236	Q9UNQ0	ATP
+237	Q9UNQ0	H2O
+238	Q9UNQ0	pravastatin[side 1]
+239	Q9UNQ0	ATP
+240	Q9UNQ0	H2O
+241	Q9UNQ0	prazosin[side 1]
+242	Q9UNQ0	ATP
+243	Q9UNQ0	H2O
+244	Q9UNQ0	reserpine[side 1]
+245	Q9UNQ0	ATP
+246	Q9UNQ0	H2O
+247	Q9UNQ0	riboflavin[side 1]
+248	Q9UNQ0	ATP
+249	Q9UNQ0	H2O
+250	Q9UNQ0	rosuvastatin[side 1]
+251	Q9UNQ0	ATP
+252	Q9UNQ0	H2O
+253	Q9UNQ0	zidovudine[side 1]
+254	Q9UNQ0	ATP
+255	Q9UNQ0	H2O
+256	Q9UNQ0	SN-38[side 1]
+257	Q9UNQ0	ATP
+258	Q9UNQ0	H2O
+259	Q9UNQ0	2-amino-1-methyl-6-phenylimidazo[4,5-b]pyridine[side 1]
+260	Q9UNQ0	ATP
+261	Q9UNQ0	H2O
+262	Q9UNQ0	methotrexate[side 1]
+263	Q9UNQ0	ATP
+264	Q9UNQ0	H2O
+265	Q9UNQ0	epirubicin[side 1]
+266	Q9UNQ0	ATP
+267	Q9UNQ0	H2O
+268	Q9UNQ0	irinotecan[side 1]
+269	Q9UNQ0	ATP
+270	Q9UNQ0	H2O
+271	Q9UNQ0	lopinavir[side 1]
+272	Q9UNQ0	ATP
+273	Q9UNQ0	H2O
+274	Q9UNQ0	nelfinavir[side 1]
+275	Q9UNQ0	ATP
+276	Q9UNQ0	H2O
+277	Q9UNQ0	cimetidine[side 1]
+278	Q9UNQ0	ATP
+279	Q9UNQ0	H2O
+280	Q9UNQ0	gefitinib[side 1]
+281	Q9UNQ0	ATP
+282	Q9UNQ0	H2O
+283	Q9UNQ0	genistein[side 1]
+284	Q9UNQ0	ATP
+285	Q9UNQ0	H2O
+286	Q9UNQ0	teniposide[side 1]
+287	P21447	ATP
+288	P21447	H2O
+289	P21447	calcein[side 1]
+290	P21447	ATP
+291	P21447	H2O
+292	P21447	xenobiotic[side 1]
+293	P21447	ATP
+294	P21447	H2O
+295	P21447	verapamil[side 1]
+296	P21447	ATP
+297	P21447	H2O
+298	P21447	rhodamine 123[side 1]
+299	P21447	ATP
+300	P21447	H2O
+301	P21447	cyclosporine A[side 1]
+302	P21447	ATP
+303	P21447	H2O
+304	P21447	quinidine[side 1]
+305	P0AEY8	ATP
+306	P0AEY8	H2O
+307	P0AEY8	xenobiotic[side 1]
+308	G7YA78	ATP
+309	G7YA78	H2O
+310	G7YA78	xenobiotic[side 1]
+311	G7YA78	ATP
+312	G7YA78	H2O
+313	G7YA78	chenodeoxycholic acid[side 1]
+314	G7YA78	ATP
+315	G7YA78	H2O
+316	G7YA78	cholic acid[side 1]
+317	G7YA78	ATP
+318	G7YA78	H2O
+319	G7YA78	deoxycholic acid[side 1]
+320	G7YA78	ATP
+321	G7YA78	H2O
+322	G7YA78	glycocholic acid[side 1]
+323	G7YA78	ATP
+324	G7YA78	H2O
+325	G7YA78	lithocholic acid[side 1]
+326	G7YA78	ATP
+327	G7YA78	H2O
+328	G7YA78	taurochenodeoxycholic acid[side 1]
+329	G7YA78	ATP
+330	G7YA78	H2O
+331	G7YA78	taurocholic acid[side 1]
+332	G7YA78	ATP
+333	G7YA78	H2O
+334	G7YA78	taurodeoxycholic acid[side 1]
+335	G7YA78	ATP
+336	G7YA78	H2O
+337	G7YA78	taurolithocholic acid[side 1]
+338	Q92887	ATP
+339	Q92887	H2O
+340	Q92887	doxorubicin[side 1]
+341	Q92887	ATP
+342	Q92887	H2O
+343	Q92887	etoposide[side 1]
+344	Q92887	ATP
+345	Q92887	H2O
+346	Q92887	mitoxantrone[side 1]
+347	Q92887	ATP
+348	Q92887	H2O
+349	Q92887	xenobiotic[side 1]
+350	Q92887	ATP
+351	Q92887	H2O
+352	Q92887	vinblastine[side 1]
+353	Q92887	ATP
+354	Q92887	H2O
+355	Q92887	SN-38[side 1]
+356	Q92887	ATP
+357	Q92887	H2O
+358	Q92887	2-amino-1-methyl-6-phenylimidazo[4,5-b]pyridine[side 1]
+359	Q92887	ATP
+360	Q92887	H2O
+361	Q92887	methotrexate[side 1]
+362	Q92887	ATP
+363	Q92887	H2O
+364	Q92887	epirubicin[side 1]
+365	Q92887	ATP
+366	Q92887	H2O
+367	Q92887	irinotecan[side 1]
+368	Q92887	ATP
+369	Q92887	H2O
+370	Q92887	lopinavir[side 1]
+371	Q92887	ATP
+372	Q92887	H2O
+373	Q92887	nelfinavir[side 1]
+374	Q92887	ATP
+375	Q92887	H2O
+376	Q92887	4-aminohippurate[side 1]
+377	Q92887	ATP
+378	Q92887	H2O
+379	Q92887	adevovir[side 1]
+380	Q92887	ATP
+381	Q92887	H2O
+382	Q92887	ampicillin[side 1]
+383	Q92887	ATP
+384	Q92887	H2O
+385	Q92887	azithromycin[side 1]
+386	Q92887	ATP
+387	Q92887	H2O
+388	Q92887	cefodizime[side 1]
+389	Q92887	ATP
+390	Q92887	H2O
+391	Q92887	cidofovir[side 1]
+392	Q92887	ATP
+393	Q92887	H2O
+394	Q92887	ethinylestradiol-3-O-glucuronide[side 1]
+395	Q92887	ATP
+396	Q92887	H2O
+397	Q92887	genistein-7-glucoside[side 1]
+398	Q92887	ATP
+399	Q92887	H2O
+400	Q92887	grepafloxacine[side 1]
+401	Q92887	ATP
+402	Q92887	H2O
+403	Q92887	olmesartan[side 1]
+404	Q92887	ATP
+405	Q92887	H2O
+406	Q92887	phloridzin[side 1]
+407	Q92887	ATP
+408	Q92887	H2O
+409	Q92887	quercetin 4'-beta-glucoside[side 1]
+410	Q92887	ATP
+411	Q92887	H2O
+412	Q92887	temocaprilate[side 1]
+413	Q92887	ATP
+414	Q92887	H2O
+415	Q92887	2,4-dinitrophenyl-S-glutathione[side 1]
+416	Q92887	ATP
+417	Q92887	H2O
+418	Q92887	ochratoxin A[side 1]
+419	Q92887	ATP
+420	Q92887	H2O
+421	Q92887	trans-resveratrol[side 1]
+422	Q92887	ATP
+423	Q92887	H2O
+424	Q92887	ritonavir[side 1]
+425	Q92887	ATP
+426	Q92887	H2O
+427	Q92887	saquinavir[side 1]
+428	Q92887	ATP
+429	Q92887	H2O
+430	Q92887	ceftriaxone[side 1]
+431	Q92887	ATP
+432	Q92887	H2O
+433	Q92887	indinavir[side 1]
+434	Q92887	ATP
+435	Q92887	H2O
+436	Q92887	cytarabine[side 1]
+437	Q92887	ATP
+438	Q92887	H2O
+439	Q92887	vincristine[side 1]
+440	Q92887	ATP
+441	Q92887	H2O
+442	Q92887	xenobiotic[side 1]
+443	Q92887	ATP
+444	Q92887	H2O
+445	Q92887	vinblastine[side 1]
+446	Q92887	ATP
+447	Q92887	H2O
+448	Q92887	2-amino-1-methyl-6-phenylimidazo[4,5-b]pyridine[side 1]
+449	Q92887	ATP
+450	Q92887	H2O
+451	Q92887	methotrexate[side 1]
+452	Q92887	ATP
+453	Q92887	H2O
+454	Q92887	2,4-dinitrophenyl-S-glutathione[side 1]
+455	Q92887	ATP
+456	Q92887	H2O
+457	Q92887	ochratoxin A[side 1]
+458	Q92887	ATP
+459	Q92887	H2O
+460	Q92887	trans-resveratrol[side 1]
+461	Q92887	ATP
+462	Q92887	H2O
+463	Q92887	ritonavir[side 1]
+464	Q92887	ATP
+465	Q92887	H2O
+466	Q92887	saquinavir[side 1]
+467	Q2M3G0	ATP
+468	Q2M3G0	H2O
+469	Q2M3G0	doxorubicin[side 1]
+470	Q2M3G0	ATP
+471	Q2M3G0	H2O
+472	Q2M3G0	etoposide[side 1]
+473	Q2M3G0	ATP
+474	Q2M3G0	H2O
+475	Q2M3G0	mitoxantrone[side 1]
+476	Q2M3G0	ATP
+477	Q2M3G0	H2O
+478	Q2M3G0	topotecan[side 1]
+479	Q2M3G0	ATP
+480	Q2M3G0	H2O
+481	Q2M3G0	ketoconazole[side 1]
+482	Q2M3G0	ATP
+483	Q2M3G0	H2O
+484	Q2M3G0	daunorubicin[side 1]
+485	Q2M3G0	ATP
+486	Q2M3G0	H2O
+487	Q2M3G0	Hoechst 33342[side 1]
+488	Q2M3G0	ATP
+489	Q2M3G0	H2O
+490	Q2M3G0	tetracycline[side 1]
+491	Q2M3G0	ATP
+492	Q2M3G0	H2O
+493	Q2M3G0	xenobiotic[side 1]
+494	Q2M3G0	ATP
+495	Q2M3G0	H2O
+496	Q2M3G0	verapamil[side 1]
+497	Q2M3G0	ATP
+498	Q2M3G0	H2O
+499	Q2M3G0	vinblastine[side 1]
+500	Q2M3G0	ATP
+501	Q2M3G0	H2O
+502	Q2M3G0	rhodamine 123[side 1]
+503	Q2M3G0	ATP
+504	Q2M3G0	H2O
+505	Q2M3G0	quercetin[side 1]
+506	Q2M3G0	ATP
+507	Q2M3G0	H2O
+508	Q2M3G0	5-fluorouracil[side 1]
+509	Q2M3G0	ATP
+510	Q2M3G0	H2O
+511	Q2M3G0	colchicine[side 1]
+512	Q2M3G0	ATP
+513	Q2M3G0	H2O
+514	Q2M3G0	actinomycin D[side 1]
+515	Q2M3G0	ATP
+516	Q2M3G0	H2O
+517	Q2M3G0	methotrexate[side 1]
+518	Q2M3G0	ATP
+519	Q2M3G0	H2O
+520	Q2M3G0	epirubicin[side 1]
+521	Q2M3G0	ATP
+522	Q2M3G0	H2O
+523	Q2M3G0	irinotecan[side 1]
+524	Q2M3G0	ATP
+525	Q2M3G0	H2O
+526	Q2M3G0	lopinavir[side 1]
+527	Q2M3G0	ATP
+528	Q2M3G0	H2O
+529	Q2M3G0	nelfinavir[side 1]
+530	Q2M3G0	ATP
+531	Q2M3G0	H2O
+532	Q2M3G0	cimetidine[side 1]
+533	Q2M3G0	ATP
+534	Q2M3G0	H2O
+535	Q2M3G0	gefitinib[side 1]
+536	Q2M3G0	ATP
+537	Q2M3G0	H2O
+538	Q2M3G0	genistein[side 1]
+539	Q2M3G0	ATP
+540	Q2M3G0	H2O
+541	Q2M3G0	teniposide[side 1]
+542	Q2M3G0	ATP
+543	Q2M3G0	H2O
+544	Q2M3G0	quinidine[side 1]
+545	Q2M3G0	ATP
+546	Q2M3G0	H2O
+547	Q2M3G0	ritonavir[side 1]
+548	Q2M3G0	ATP
+549	Q2M3G0	H2O
+550	Q2M3G0	saquinavir[side 1]
+551	Q2M3G0	ATP
+552	Q2M3G0	H2O
+553	Q2M3G0	ceftriaxone[side 1]
+554	Q2M3G0	ATP
+555	Q2M3G0	H2O
+556	Q2M3G0	indinavir[side 1]
+557	Q2M3G0	ATP
+558	Q2M3G0	H2O
+559	Q2M3G0	cytarabine[side 1]
+560	Q2M3G0	ATP
+561	Q2M3G0	H2O
+562	Q2M3G0	vincristine[side 1]
+563	Q2M3G0	ATP
+564	Q2M3G0	H2O
+565	Q2M3G0	BCECF-acetoxymethylester[side 1]
+566	Q2M3G0	ATP
+567	Q2M3G0	H2O
+568	Q2M3G0	FK-506[side 1]
+569	Q2M3G0	ATP
+570	Q2M3G0	H2O
+571	Q2M3G0	FK506[side 1]
+572	Q2M3G0	ATP
+573	Q2M3G0	H2O
+574	Q2M3G0	PSC-833[side 1]
+575	Q2M3G0	ATP
+576	Q2M3G0	H2O
+577	Q2M3G0	acridine orange[side 1]
+578	Q2M3G0	ATP
+579	Q2M3G0	H2O
+580	Q2M3G0	amiodarone[side 1]
+581	Q2M3G0	ATP
+582	Q2M3G0	H2O
+583	Q2M3G0	amprenavir[side 1]
+584	Q2M3G0	ATP
+585	Q2M3G0	H2O
+586	Q2M3G0	asimadoline[side 1]
+587	Q2M3G0	ATP
+588	Q2M3G0	H2O
+589	Q2M3G0	azidopine[side 1]
+590	Q2M3G0	ATP
+591	Q2M3G0	H2O
+592	Q2M3G0	bepridil[side 1]
+593	Q2M3G0	ATP
+594	Q2M3G0	H2O
+595	Q2M3G0	bisantrene[side 1]
+596	Q2M3G0	ATP
+597	Q2M3G0	H2O
+598	Q2M3G0	calcein acetoxymethylester[side 1]
+599	Q2M3G0	ATP
+600	Q2M3G0	H2O
+601	Q2M3G0	calcein-acetoxymethylester[side 1]
+602	Q2M3G0	ATP
+603	Q2M3G0	H2O
+604	Q2M3G0	calphostin C[side 1]
+605	Q2M3G0	ATP
+606	Q2M3G0	H2O
+607	Q2M3G0	cefoperazone[side 1]
+608	Q2M3G0	ATP
+609	Q2M3G0	H2O
+610	Q2M3G0	chlorambucil[side 1]
+611	Q2M3G0	ATP
+612	Q2M3G0	H2O
+613	Q2M3G0	chlorpromazine[side 1]
+614	Q2M3G0	ATP
+615	Q2M3G0	H2O
+616	Q2M3G0	cisplatin[side 1]
+617	Q2M3G0	ATP
+618	Q2M3G0	H2O
+619	Q2M3G0	clarithromycin[side 1]
+620	Q2M3G0	ATP
+621	Q2M3G0	H2O
+622	Q2M3G0	cyclosporin A[side 1]
+623	Q2M3G0	ATP
+624	Q2M3G0	H2O
+625	Q2M3G0	cyclosporin H[side 1]
+626	Q2M3G0	ATP
+627	Q2M3G0	H2O
+628	Q2M3G0	cyclosporine[side 1]
+629	Q2M3G0	ATP
+630	Q2M3G0	H2O
+631	Q2M3G0	digoxin[side 1]
+632	Q2M3G0	ATP
+633	Q2M3G0	H2O
+634	Q2M3G0	diltiazem[side 1]
+635	Q2M3G0	ATP
+636	Q2M3G0	H2O
+637	Q2M3G0	dipyridamole[side 1]
+638	Q2M3G0	ATP
+639	Q2M3G0	H2O
+640	Q2M3G0	docetaxel[side 1]
+641	Q2M3G0	ATP
+642	Q2M3G0	H2O
+643	Q2M3G0	doxycycline[side 1]
+644	Q2M3G0	ATP
+645	Q2M3G0	H2O
+646	Q2M3G0	endosulfan[side 1]
+647	Q2M3G0	ATP
+648	Q2M3G0	H2O
+649	Q2M3G0	erythromycin[side 1]
+650	Q2M3G0	ATP
+651	Q2M3G0	H2O
+652	Q2M3G0	felodipine[side 1]
+653	Q2M3G0	ATP
+654	Q2M3G0	H2O
+655	Q2M3G0	fentanyl[side 1]
+656	Q2M3G0	ATP
+657	Q2M3G0	H2O
+658	Q2M3G0	fexofenadine[side 1]
+659	Q2M3G0	ATP
+660	Q2M3G0	H2O
+661	Q2M3G0	gramicidin A[side 1]
+662	Q2M3G0	ATP
+663	Q2M3G0	H2O
+664	Q2M3G0	gramicidin D[side 1]
+665	Q2M3G0	ATP
+666	Q2M3G0	H2O
+667	Q2M3G0	grepafloxacin[side 1]
+668	Q2M3G0	ATP
+669	Q2M3G0	H2O
+670	Q2M3G0	hydroxyurea[side 1]
+671	Q2M3G0	ATP
+672	Q2M3G0	H2O
+673	Q2M3G0	itraconazole[side 1]
+674	Q2M3G0	ATP
+675	Q2M3G0	H2O
+676	Q2M3G0	leupeptin[side 1]
+677	Q2M3G0	ATP
+678	Q2M3G0	H2O
+679	Q2M3G0	levofloxacin[side 1]
+680	Q2M3G0	ATP
+681	Q2M3G0	H2O
+682	Q2M3G0	lidocaine[side 1]
+683	Q2M3G0	ATP
+684	Q2M3G0	H2O
+685	Q2M3G0	lovastatin[side 1]
+686	Q2M3G0	ATP
+687	Q2M3G0	H2O
+688	Q2M3G0	methyl parathion[side 1]
+689	Q2M3G0	ATP
+690	Q2M3G0	H2O
+691	Q2M3G0	mitomycin C[side 1]
+692	Q2M3G0	ATP
+693	Q2M3G0	H2O
+694	Q2M3G0	morphine[side 1]
+695	Q2M3G0	ATP
+696	Q2M3G0	H2O
+697	Q2M3G0	nifedipine[side 1]
+698	Q2M3G0	ATP
+699	Q2M3G0	H2O
+700	Q2M3G0	nisoldipine[side 1]
+701	Q2M3G0	ATP
+702	Q2M3G0	H2O
+703	Q2M3G0	nitrendipine[side 1]
+704	Q2M3G0	ATP
+705	Q2M3G0	H2O
+706	Q2M3G0	paraquat[side 1]
+707	Q2M3G0	ATP
+708	Q2M3G0	H2O
+709	Q2M3G0	pentazocine[side 1]
+710	Q2M3G0	ATP
+711	Q2M3G0	H2O
+712	Q2M3G0	pepstatin A[side 1]
+713	Q2M3G0	ATP
+714	Q2M3G0	H2O
+715	Q2M3G0	phenothiazine[side 1]
+716	Q2M3G0	ATP
+717	Q2M3G0	H2O
+718	Q2M3G0	progesterone[side 1]
+719	Q2M3G0	ATP
+720	Q2M3G0	H2O
+721	Q2M3G0	propafenone[side 1]
+722	Q2M3G0	ATP
+723	Q2M3G0	H2O
+724	Q2M3G0	ranitidine[side 1]
+725	Q2M3G0	ATP
+726	Q2M3G0	H2O
+727	Q2M3G0	rapamycin[side 1]
+728	Q2M3G0	ATP
+729	Q2M3G0	H2O
+730	Q2M3G0	rifampicin[side 1]
+731	Q2M3G0	ATP
+732	Q2M3G0	H2O
+733	Q2M3G0	simvastatin[side 1]
+734	Q2M3G0	ATP
+735	Q2M3G0	H2O
+736	Q2M3G0	sirolimus[side 1]
+737	Q2M3G0	ATP
+738	Q2M3G0	H2O
+739	Q2M3G0	sparfloxacin[side 1]
+740	Q2M3G0	ATP
+741	Q2M3G0	H2O
+742	Q2M3G0	staurosporine[side 1]
+743	Q2M3G0	ATP
+744	Q2M3G0	H2O
+745	Q2M3G0	tacrolimus[side 1]
+746	Q2M3G0	ATP
+747	Q2M3G0	H2O
+748	Q2M3G0	tamoxifen[side 1]
+749	Q2M3G0	ATP
+750	Q2M3G0	H2O
+751	Q2M3G0	taxol[side 1]
+752	Q2M3G0	ATP
+753	Q2M3G0	H2O
+754	Q2M3G0	terfenadine[side 1]
+755	Q2M3G0	ATP
+756	Q2M3G0	H2O
+757	Q2M3G0	tiapamil[side 1]
+758	Q2M3G0	ATP
+759	Q2M3G0	H2O
+760	Q2M3G0	trans-flupentixol[side 1]
+761	Q2M3G0	ATP
+762	Q2M3G0	H2O
+763	Q2M3G0	trifluoperazine[side 1]
+764	Q2M3G0	ATP
+765	Q2M3G0	H2O
+766	Q2M3G0	valinomycin[side 1]
+767	Q2M3G0	ATP
+768	Q2M3G0	H2O
+769	Q2M3G0	valspodar[side 1]
+770	Q8HXQ5	ATP
+771	Q8HXQ5	H2O
+772	Q8HXQ5	etoposide[side 1]
+773	Q8HXQ5	ATP
+774	Q8HXQ5	H2O
+775	Q8HXQ5	calcein[side 1]
+776	Q8HXQ5	ATP
+777	Q8HXQ5	H2O
+778	Q8HXQ5	aflatoxin B[side 1]
+779	Q8HXQ5	ATP
+780	Q8HXQ5	H2O
+781	Q8HXQ5	arsenite[side 1]
+782	Q8HXQ5	ATP
+783	Q8HXQ5	H2O
+784	Q8HXQ5	bilirubin[side 1]
+785	Q8HXQ5	ATP
+786	Q8HXQ5	H2O
+787	Q8HXQ5	clorambucil[side 1]
+788	Q8HXQ5	ATP
+789	Q8HXQ5	H2O
+790	Q8HXQ5	cyclophosphamide[side 1]
+791	Q8HXQ5	ATP
+792	Q8HXQ5	H2O
+793	Q8HXQ5	dehydroepiandrosterone sulfate[side 1]
+794	Q8HXQ5	ATP
+795	Q8HXQ5	H2O
+796	Q8HXQ5	dinitrophenyl[side 1]
+797	Q8HXQ5	ATP
+798	Q8HXQ5	H2O
+799	Q8HXQ5	estradiol[side 1]
+800	Q8HXQ5	ATP
+801	Q8HXQ5	H2O
+802	Q8HXQ5	estrone[side 1]
+803	Q8HXQ5	ATP
+804	Q8HXQ5	H2O
+805	Q8HXQ5	ethacrynic acid[side 1]
+806	Q8HXQ5	ATP
+807	Q8HXQ5	H2O
+808	Q8HXQ5	folic acid[side 1]
+809	Q8HXQ5	ATP
+810	Q8HXQ5	H2O
+811	Q8HXQ5	glutathione disulfide[side 1]
+812	Q8HXQ5	ATP
+813	Q8HXQ5	H2O
+814	Q8HXQ5	leucovorin[side 1]
+815	Q8HXQ5	ATP
+816	Q8HXQ5	H2O
+817	Q8HXQ5	leukotriene C4[side 1]
+818	Q8HXQ5	ATP
+819	Q8HXQ5	H2O
+820	Q8HXQ5	leukotriene D4[side 1]
+821	Q8HXQ5	ATP
+822	Q8HXQ5	H2O
+823	Q8HXQ5	melphalan[side 1]
+824	Q8HXQ5	ATP
+825	Q8HXQ5	H2O
+826	Q8HXQ5	prostaglandin E2[side 1]
+827	P33527	ATP
+828	P33527	H2O
+829	P33527	xenobiotic[side 1]
+830	O15439	ATP
+831	O15439	H2O
+832	O15439	xenobiotic[side 1]
+833	O15439	ATP
+834	O15439	H2O
+835	O15439	methotrexate[side 1]
+836	O15439	ATP
+837	O15439	H2O
+838	O15439	6-thioguanine[side 1]
+839	O15439	ATP
+840	O15439	H2O
+841	O15439	azacytidine[side 1]
+842	Q5T3U5	ATP
+843	Q5T3U5	H2O
+844	Q5T3U5	xenobiotic[side 1]
+845	Q5T3U5	ATP
+846	Q5T3U5	H2O
+847	Q5T3U5	cytarabine[side 1]
+848	Q8HXQ5	ATP
+849	Q8HXQ5	H2O
+850	Q8HXQ5	xenobiotic[side 1]
+851	Q8HXQ5	ATP
+852	Q8HXQ5	H2O
+853	Q8HXQ5	vinblastine[side 1]
+854	Q8HXQ5	ATP
+855	Q8HXQ5	H2O
+856	Q8HXQ5	actinomycin D[side 1]
+857	Q8HXQ5	ATP
+858	Q8HXQ5	H2O
+859	Q8HXQ5	vincristine[side 1]
+860	Q8HXQ5	ATP
+861	Q8HXQ5	H2O
+862	Q8HXQ5	digitonin[side 1]
+0	Q8HXQ5	ATP
+1	Q8HXQ5	H2O
+2	Q8HXQ5	sulforaphane-S-glutathione[side 1]
+3	P33527	ATP
+4	P33527	H2O
+5	P33527	glutathione-S-conjugate[side 1]
+6	P33527	ATP
+7	P33527	H2O
+8	P33527	S-(2,4-dinitrophenyl)glutathione[side 1]
+9	P33527	ATP
+10	P33527	H2O
+11	P33527	S-(N-ethylmaleimidyl)glutathione[side 1]
+12	P33527	ATP
+13	P33527	H2O
+14	P33527	S-(bimanyl)glutathione[side 1]
+15	P33527	ATP
+16	P33527	H2O
+17	P33527	S-(ethacrynic acid)glutathione[side 1]
+18	P33527	ATP
+19	P33527	H2O
+20	P33527	S-decylglutathione[side 1]
+21	P33527	ATP
+22	P33527	H2O
+23	P33527	leukotriene C4[side 1]
+24	P33527	ATP
+25	P33527	H2O
+26	P33527	S-methylglutathione[side 1]
+27	P33527	ATP
+28	P33527	H2O
+29	P33527	3'-(3-methoxymorpholino)doxorubicin[side 1]
+30	P33527	ATP
+31	P33527	H2O
+32	P33527	5-(glutathion-S-yl)-N-methyl-alpha-methyldopamine[side 1]
+33	P33527	ATP
+34	P33527	H2O
+35	P33527	5-chloro-methyl fluorescein diacetate[side 1]
+36	P33527	ATP
+37	P33527	H2O
+38	P33527	GSSG[side 1]
+39	P33527	ATP
+40	P33527	H2O
+41	P33527	MK571[side 1]
+42	P33527	ATP
+43	P33527	H2O
+44	P33527	S-(1-chloro-2,4-dinitrobenzyl)-glutathione[side 1]
+45	P33527	ATP
+46	P33527	H2O
+47	P33527	S-(15-deoxy-D12,14-prostaglandin J2)glutathione[side 1]
+48	P33527	ATP
+49	P33527	H2O
+50	P33527	S-(4-(glutathione-S-yl)-quinoline-1-oxide)glutathione[side 1]
+51	P33527	ATP
+52	P33527	H2O
+53	P33527	S-(4-(methylnitrosamino)-1-(3-pyridyl)1-1-butanol glucuronidyl)glutathione[side 1]
+54	P33527	ATP
+55	P33527	H2O
+56	P33527	S-(4-hydroxy-nonenal)glutathione[side 1]
+57	P33527	ATP
+58	P33527	H2O
+59	P33527	S-(4-hydroxynonenal)glutathione[side 1]
+60	P33527	ATP
+61	P33527	H2O
+62	P33527	S-(4-nitroquinoline-1-oxide)-glutathione[side 1]
+63	P33527	ATP
+64	P33527	H2O
+65	P33527	S-(acetaminophen)glutathione[side 1]
+66	P33527	ATP
+67	P33527	H2O
+68	P33527	S-(aryl-azido)-glutathione[side 1]
+69	P33527	ATP
+70	P33527	H2O
+71	P33527	S-(chelerythrinyl)glutathione[side 1]
+72	P33527	ATP
+73	P33527	H2O
+74	P33527	S-(chlorambucil)glutathione[side 1]
+75	P33527	ATP
+76	P33527	H2O
+77	P33527	S-(daunorubicinyl)glutathione[side 1]
+78	P33527	ATP
+79	P33527	H2O
+80	P33527	S-(estrone 3-sulfate)glutathione[side 1]
+81	P33527	ATP
+82	P33527	H2O
+83	P33527	S-(iodoaryl-azido)-glutathione[side 1]
+84	P33527	ATP
+85	P33527	H2O
+86	P33527	S-(melphalan)glutathione[side 1]
+87	P33527	ATP
+88	P33527	H2O
+89	P33527	S-(methoxychloro)glutathione[side 1]
+90	P33527	ATP
+91	P33527	H2O
+92	P33527	S-(mitoxantronyl)glutathione[side 1]
+93	P33527	ATP
+94	P33527	H2O
+95	P33527	S-(sestamibi)glutathione[side 1]
+96	P33527	ATP
+97	P33527	H2O
+98	P33527	S-(sulforanyl)glutathione[side 1]
+99	P33527	ATP
+100	P33527	H2O
+101	P33527	S-(tetrofosmin)glutathione[side 1]
+102	P33527	ATP
+103	P33527	H2O
+104	P33527	S-(thiotepa)glutathione[side 1]
+105	P33527	ATP
+106	P33527	H2O
+107	P33527	S-glutathionyl-conjugated 3'-(3-methoxymorpholino)doxorubicin[side 1]
+108	P33527	ATP
+109	P33527	H2O
+110	P33527	S-glutathionyl-doxorubicin[side 1]
+111	P33527	ATP
+112	P33527	H2O
+113	P33527	S-hexylglutathione[side 1]
+114	P33527	ATP
+115	P33527	H2O
+116	P33527	S-octylglutathione[side 1]
+117	P33527	ATP
+118	P33527	H2O
+119	P33527	glutathione-S-conjugate[side 1]
+120	P33527	leukotriene C4[side 1]
+121	P33527	ATP
+122	P33527	H2O
+123	P33527	glutathione[side 1]
+124	P33527	vincristine[side 1]
+125	P33527	ATP
+126	P33527	H2O
+127	P33527	menadione-glutathione[side 1]
+128	P33527	ATP
+129	P33527	H2O
+130	P33527	monochlorobimane[side 1]
+131	P33527	ATP
+132	P33527	H2O
+133	P33527	S-(calcein acetoxymethyl ester)glutathione[side 1]
+134	P33527	ATP
+135	P33527	H2O
+136	P33527	S-(daunorubicin)glutathione[side 1]
+137	P33527	ATP
+138	P33527	H2O
+139	P33527	S-(aflatoxin B1)glutathione[side 1]
+140	P33527	ATP
+141	P33527	H2O
+142	P33527	S-ethylglutathione[side 1]
+143	P33527	ATP
+144	P33527	H2O
+145	P33527	doxorubicin[side 1]
+146	P33527	more
+147	P33527	ATP
+148	P33527	H2O
+149	P33527	glutathione disulfide[side 1]
+150	P33527	ATP
+151	P33527	H2O
+152	P33527	S-nitrosoglutathione[side 1]
+153	P33527	ATP
+154	P33527	H2O
+155	P33527	S-(15-deoxy-DELTA12,14-prostaglandin J2)glutathione[side 1]
+156	P33527	ATP
+157	P33527	H2O
+158	P33527	S-(atrazinyl)glutathione[side 1]
+159	P33527	ATP
+160	P33527	H2O
+161	P33527	S-(cyclophosphamidyl)glutathione[side 1]
+162	P33527	ATP
+163	P33527	H2O
+164	P33527	S-(doxorubicinyl)glutathione[side 1]
+165	P33527	ATP
+166	P33527	H2O
+167	P33527	S-(metolachloro)glutathione[side 1]
+168	P33527	ATP
+169	P33527	H2O
+170	P33527	S-(prostaglandin A2)glutathione[side 1]
+171	P33527	ATP
+172	P33527	H2O
+173	P33527	S-(vincristinyl)glutathione[side 1]
+174	P33527	ATP
+175	P33527	H2O
+176	P33527	(+)-10R-(S-glutathionyl)-7S,8R,9R-trihydroxy-7,8,9 10-tetrahydrobenzo[a]pyrene[side 1]
+177	P33527	ATP
+178	P33527	H2O
+179	P33527	(-)-10S-(S-glutathionyl)-7R,8S,9S-trihydroxy-7,8,9 10-tetrahydrobenzo[a]pyrene[side 1]
+180	P33527	ATP
+181	P33527	H2O
+182	P33527	S-(vinblastinyl)glutathione[side 1]
+183	P33527	ATP
+184	P33527	H2O
+185	P33527	arsenic triglutathione[side 1]
+186	P33527	ATP
+187	P33527	H2O
+188	P33527	2,4-dinitrophenyl-S-glutathione[side 1]
+189	O15439	ATP
+190	O15439	H2O
+191	O15439	glutathione-S-conjugate[side 1]
+192	O15439	ATP
+193	O15439	H2O
+194	O15439	S-(2,4-dinitrophenyl)glutathione[side 1]
+195	O15439	ATP
+196	O15439	H2O
+197	O15439	S-(N-ethylmaleimidyl)glutathione[side 1]
+198	O15439	ATP
+199	O15439	H2O
+200	O15439	S-(bimanyl)glutathione[side 1]
+201	O15439	ATP
+202	O15439	H2O
+203	O15439	S-(ethacrynic acid)glutathione[side 1]
+204	O15439	ATP
+205	O15439	H2O
+206	O15439	S-(hydroxynonenyl)glutathione[side 1]
+207	O15439	ATP
+208	O15439	H2O
+209	O15439	S-decylglutathione[side 1]
+210	O15439	ATP
+211	O15439	H2O
+212	O15439	leukotriene C4[side 1]
+213	O15439	ATP
+214	O15439	H2O
+215	O15439	S-methylglutathione[side 1]
+216	O15439	ATP
+217	O15439	H2O
+218	O15439	S-(arsenite)glutathione[side 1]
+219	O15439	ATP
+220	O15439	H2O
+221	O15439	S-(methylmercury)glutathione[side 1]
+222	O15439	ATP
+223	O15439	H2O
+224	O15439	S-(sulfobromophthaleinyl)glutathione[side 1]
+225	O15439	ATP
+226	O15439	H2O
+227	O15439	S-(acetaminophenyl)glutathione[side 1]
+228	O15439	ATP
+229	O15439	H2O
+230	O15439	S-(curcuminyl)glutathione[side 1]
+231	O15439	ATP
+232	O15439	H2O
+233	O15439	S-(deoxyprostaglandin J2)glutathione[side 1]
+234	O15439	ATP
+235	O15439	H2O
+236	O15439	S-(methylfluorescinyl)glutathione[side 1]
+237	O15439	ATP
+238	O15439	H2O
+239	O15439	S-metolachloroglutathione[side 1]
+240	O15439	ATP
+241	O15439	H2O
+242	O15439	S-(17beta-estradiol)glutathione[side 1]
+243	O15439	ATP
+244	O15439	H2O
+245	O15439	S-(cAMP)glutathione[side 1]
+246	O15439	ATP
+247	O15439	H2O
+248	O15439	S-(cholyl)glutathione[side 1]
+249	O15439	ATP
+250	O15439	H2O
+251	O15439	S-(glycocholyl)glutathione[side 1]
+252	O15439	ATP
+253	O15439	H2O
+254	O15439	S-(prostaglandin E1)glutathione[side 1]
+255	O15439	ATP
+256	O15439	H2O
+257	O15439	S-(prostaglandin E2)glutathione[side 1]
+258	O15439	ATP
+259	O15439	H2O
+260	O15439	S-(taurocholyl)glutathione[side 1]
+261	O15439	ATP
+262	O15439	H2O
+263	O15439	S-(6-mercaptopurinyl)glutathione[side 1]
+264	O15439	ATP
+265	O15439	H2O
+266	O15439	S-(6-thioguaninyl)glutathione[side 1]
+267	O15439	more
+268	O15439	ATP
+269	O15439	H2O
+270	O15439	glutathione[side 1]
+271	O15438	ATP
+272	O15438	H2O
+273	O15438	S-(2,4-dinitrophenyl)glutathione[side 1]
+274	O15438	ATP
+275	O15438	H2O
+276	O15438	S-(N-ethylmaleimidyl)glutathione[side 1]
+277	O15438	ATP
+278	O15438	H2O
+279	O15438	S-(bimanyl)glutathione[side 1]
+280	O15438	ATP
+281	O15438	H2O
+282	O15438	S-(ethacrynic acid)glutathione[side 1]
+283	O15438	ATP
+284	O15438	H2O
+285	O15438	S-(hydroxynonenyl)glutathione[side 1]
+286	O15438	ATP
+287	O15438	H2O
+288	O15438	S-decylglutathione[side 1]
+289	O15438	ATP
+290	O15438	H2O
+291	O15438	leukotriene C4[side 1]
+292	O15438	ATP
+293	O15438	H2O
+294	O15438	S-methylglutathione[side 1]
+295	O15438	ATP
+296	O15438	H2O
+297	O15438	S-(arsenite)glutathione[side 1]
+298	O15438	ATP
+299	O15438	H2O
+300	O15438	S-(methylmercury)glutathione[side 1]
+301	O15438	ATP
+302	O15438	H2O
+303	O15438	S-(sulfobromophthaleinyl)glutathione[side 1]
+304	O15438	ATP
+305	O15438	H2O
+306	O15438	S-(acetaminophenyl)glutathione[side 1]
+307	O15438	ATP
+308	O15438	H2O
+309	O15438	S-(curcuminyl)glutathione[side 1]
+310	O15438	ATP
+311	O15438	H2O
+312	O15438	S-(deoxyprostaglandin J2)glutathione[side 1]
+313	O15438	ATP
+314	O15438	H2O
+315	O15438	S-(methylfluorescinyl)glutathione[side 1]
+316	O15438	ATP
+317	O15438	H2O
+318	O15438	S-metolachloroglutathione[side 1]
+319	O15438	ATP
+320	O15438	H2O
+321	O15438	(+)-10R-(S-glutathionyl)-7S,8R,9R-trihydroxy-7,8,9 10-tetrahydrobenzo[a]pyrene[side 1]
+322	O15438	ATP
+323	O15438	H2O
+324	O15438	(-)-10S-(S-glutathionyl)-7R,8S,9S-trihydroxy-7,8,9 10-tetrahydrobenzo[a]pyrene[side 1]
+325	O15438	ATP
+326	O15438	H2O
+327	O15438	glutathione[side 1]
+328	Q6UR05	ATP
+329	Q6UR05	H2O
+330	Q6UR05	glutathione-S-conjugate[side 1]
+331	Q6UR05	ATP
+332	Q6UR05	H2O
+333	Q6UR05	S-(calcein acetoxymethyl ester)glutathione[side 1]
+334	Q6UR05	ATP
+335	Q6UR05	H2O
+336	Q6UR05	S-(daunorubicin)glutathione[side 1]
+337	O95255	ATP
+338	O95255	H2O
+339	O95255	glutathione-S-conjugate[side 1]
+340	O95255	more
+341	O95255	ATP
+342	O95255	H2O
+343	O95255	glutathione disulfide[side 1]
+344	O95255	ATP
+345	O95255	H2O
+346	O95255	S-nitrosoglutathione[side 1]
+347	Q63120	ATP
+348	Q63120	H2O
+349	Q63120	glutathione-S-conjugate[side 1]
+350	Q63120	ATP
+351	Q63120	H2O
+352	Q63120	S-(2,4-dinitrophenyl)glutathione[side 1]
+353	Q63120	ATP
+354	Q63120	H2O
+355	Q63120	S-decylglutathione[side 1]
+356	Q63120	ATP
+357	Q63120	H2O
+358	Q63120	S-(arsenite)glutathione[side 1]
+359	Q63120	ATP
+360	Q63120	H2O
+361	Q63120	S-(methylmercury)glutathione[side 1]
+362	Q63120	ATP
+363	Q63120	H2O
+364	Q63120	S-(sulfobromophthaleinyl)glutathione[side 1]
+365	Q63120	ATP
+366	Q63120	H2O
+367	Q63120	S-(aflatoxin B1)glutathione[side 1]
+368	Q63120	ATP
+369	Q63120	H2O
+370	Q63120	reduced glutathione[side 1]
+371	Q63120	ATP
+372	Q63120	H2O
+373	Q63120	glutathione disulfide[side 1]
+374	Q63120	ATP
+375	Q63120	H2O
+376	Q63120	S-(leukotriene C4)glutathione[side 1]
+377	Q63120	ATP
+378	Q63120	H2O
+379	Q63120	S-(vincristinyl)glutathione[side 1]
+380	Q63120	ATP
+381	Q63120	H2O
+382	Q63120	2,4-dinitrophenyl-S-glutathione[side 1]
+383	Q6QMG6	ATP
+384	Q6QMG6	H2O
+385	Q6QMG6	glutathione-S-conjugate[side 1]
+386	Q6QMG6	ATP
+387	Q6QMG6	H2O
+388	Q6QMG6	S-(2,4-dinitrophenyl)glutathione[side 1]
+389	Q6QMG6	ATP
+390	Q6QMG6	H2O
+391	Q6QMG6	S-decylglutathione[side 1]
+392	Q6QMG6	ATP
+393	Q6QMG6	H2O
+394	Q6QMG6	S-(arsenite)glutathione[side 1]
+395	Q6QMG6	ATP
+396	Q6QMG6	H2O
+397	Q6QMG6	S-(methylmercury)glutathione[side 1]
+398	Q6QMG6	ATP
+399	Q6QMG6	H2O
+400	Q6QMG6	S-(sulfobromophthaleinyl)glutathione[side 1]
+401	Q6QMG6	ATP
+402	Q6QMG6	H2O
+403	Q6QMG6	S-(leukotriene C4)glutathione[side 1]
+404	Q9C8G9	ATP
+405	Q9C8G9	H2O
+406	Q9C8G9	S-(2,4-dinitrophenyl)glutathione[side 1]
+407	Q9C8G9	ATP
+408	Q9C8G9	H2O
+409	Q9C8G9	S-(cyaniding-3-glucosidyl)glutathione[side 1]
+410	Q9C8G9	ATP
+411	Q9C8G9	H2O
+412	Q9C8G9	glutathione disulfide[side 1]
+413	Q9C8G9	ATP
+414	Q9C8G9	H2O
+415	Q9C8G9	S-(metolachlor)glutathione[side 1]
+416	O15440	ATP
+417	O15440	H2O
+418	O15440	glutathione-S-conjugate[side 1]
+419	O15440	ATP
+420	O15440	H2O
+421	O15440	leukotriene C4[side 1]
+422	O15440	ATP
+423	O15440	H2O
+424	O15440	S-(6-mercaptopurinyl)glutathione[side 1]
+425	O15440	ATP
+426	O15440	H2O
+427	O15440	S-(6-thioguaninyl)glutathione[side 1]
+428	O15440	more
+429	Q80W57	ATP
+430	Q80W57	H2O
+431	Q80W57	glutathione-S-conjugate[side 1]
+432	Q80W57	ATP
+433	Q80W57	H2O
+434	Q80W57	S-(2,4-dinitrophenyl)glutathione[side 1]
+435	Q80W57	ATP
+436	Q80W57	H2O
+437	Q80W57	S-decylglutathione[side 1]
+438	Q80W57	ATP
+439	Q80W57	H2O
+440	Q80W57	S-(arsenite)glutathione[side 1]
+441	Q80W57	ATP
+442	Q80W57	H2O
+443	Q80W57	S-(methylmercury)glutathione[side 1]
+444	Q80W57	ATP
+445	Q80W57	H2O
+446	Q80W57	S-(sulfobromophthaleinyl)glutathione[side 1]
+447	Q80W57	ATP
+448	Q80W57	H2O
+449	Q80W57	S-(leukotriene C4)glutathione[side 1]
+450	Q88563	ATP
+451	Q88563	H2O
+452	Q88563	glutathione-S-conjugate[side 1]
+453	Q88563	ATP
+454	Q88563	H2O
+455	Q88563	S-(2,4-dinitrophenyl)glutathione[side 1]
+456	Q88563	ATP
+457	Q88563	H2O
+458	Q88563	S-decylglutathione[side 1]
+459	Q88563	ATP
+460	Q88563	H2O
+461	Q88563	S-(arsenite)glutathione[side 1]
+462	Q88563	ATP
+463	Q88563	H2O
+464	Q88563	S-(methylmercury)glutathione[side 1]
+465	Q88563	ATP
+466	Q88563	H2O
+467	Q88563	S-(sulfobromophthaleinyl)glutathione[side 1]
+468	Q88563	ATP
+469	Q88563	H2O
+470	Q88563	S-(leukotriene C4)glutathione[side 1]
+471	Q8VI47	ATP
+472	Q8VI47	H2O
+473	Q8VI47	glutathione-S-conjugate[side 1]
+474	Q8VI47	ATP
+475	Q8VI47	H2O
+476	Q8VI47	S-(2,4-dinitrophenyl)glutathione[side 1]
+477	Q8VI47	ATP
+478	Q8VI47	H2O
+479	Q8VI47	S-(N-ethylmaleimidyl)glutathione[side 1]
+480	Q8VI47	ATP
+481	Q8VI47	H2O
+482	Q8VI47	S-(bimanyl)glutathione[side 1]
+483	Q8VI47	ATP
+484	Q8VI47	H2O
+485	Q8VI47	S-(ethacrynic acid)glutathione[side 1]
+486	Q8VI47	ATP
+487	Q8VI47	H2O
+488	Q8VI47	S-(hydroxynonenyl)glutathione[side 1]
+489	Q8VI47	ATP
+490	Q8VI47	H2O
+491	Q8VI47	S-decylglutathione[side 1]
+492	Q8VI47	ATP
+493	Q8VI47	H2O
+494	Q8VI47	leukotriene C4[side 1]
+495	Q8VI47	ATP
+496	Q8VI47	H2O
+497	Q8VI47	S-methylglutathione[side 1]
+498	Q8VI47	ATP
+499	Q8VI47	H2O
+500	Q8VI47	S-(arsenite)glutathione[side 1]
+501	Q8VI47	ATP
+502	Q8VI47	H2O
+503	Q8VI47	S-(methylmercury)glutathione[side 1]
+504	Q8VI47	ATP
+505	Q8VI47	H2O
+506	Q8VI47	S-(sulfobromophthaleinyl)glutathione[side 1]
+507	Q8VI47	ATP
+508	Q8VI47	H2O
+509	Q8VI47	S-(acetaminophenyl)glutathione[side 1]
+510	Q8VI47	ATP
+511	Q8VI47	H2O
+512	Q8VI47	S-(curcuminyl)glutathione[side 1]
+513	Q8VI47	ATP
+514	Q8VI47	H2O
+515	Q8VI47	S-(deoxyprostaglandin J2)glutathione[side 1]
+516	Q8VI47	ATP
+517	Q8VI47	H2O
+518	Q8VI47	S-(methylfluorescinyl)glutathione[side 1]
+519	Q8VI47	ATP
+520	Q8VI47	H2O
+521	Q8VI47	S-metolachloroglutathione[side 1]
+522	Q7TMS5	ATP
+523	Q7TMS5	H2O
+524	Q7TMS5	glutathione-S-conjugate[side 1]
+525	Q7TMS5	ATP
+526	Q7TMS5	H2O
+527	Q7TMS5	S-(2,4-dinitrophenyl)glutathione[side 1]
+528	Q7TMS5	ATP
+529	Q7TMS5	H2O
+530	Q7TMS5	S-(N-ethylmaleimidyl)glutathione[side 1]
+531	Q7TMS5	ATP
+532	Q7TMS5	H2O
+533	Q7TMS5	S-(bimanyl)glutathione[side 1]
+534	Q7TMS5	ATP
+535	Q7TMS5	H2O
+536	Q7TMS5	S-(ethacrynic acid)glutathione[side 1]
+537	Q7TMS5	ATP
+538	Q7TMS5	H2O
+539	Q7TMS5	S-(hydroxynonenyl)glutathione[side 1]
+540	Q7TMS5	ATP
+541	Q7TMS5	H2O
+542	Q7TMS5	S-decylglutathione[side 1]
+543	Q7TMS5	ATP
+544	Q7TMS5	H2O
+545	Q7TMS5	leukotriene C4[side 1]
+546	Q7TMS5	ATP
+547	Q7TMS5	H2O
+548	Q7TMS5	S-methylglutathione[side 1]
+549	Q7TMS5	ATP
+550	Q7TMS5	H2O
+551	Q7TMS5	S-(arsenite)glutathione[side 1]
+552	Q7TMS5	ATP
+553	Q7TMS5	H2O
+554	Q7TMS5	S-(methylmercury)glutathione[side 1]
+555	Q7TMS5	ATP
+556	Q7TMS5	H2O
+557	Q7TMS5	S-(sulfobromophthaleinyl)glutathione[side 1]
+558	Q7TMS5	ATP
+559	Q7TMS5	H2O
+560	Q7TMS5	S-(acetaminophenyl)glutathione[side 1]
+561	Q7TMS5	ATP
+562	Q7TMS5	H2O
+563	Q7TMS5	S-(curcuminyl)glutathione[side 1]
+564	Q7TMS5	ATP
+565	Q7TMS5	H2O
+566	Q7TMS5	S-(deoxyprostaglandin J2)glutathione[side 1]
+567	Q7TMS5	ATP
+568	Q7TMS5	H2O
+569	Q7TMS5	S-(methylfluorescinyl)glutathione[side 1]
+570	Q7TMS5	ATP
+571	Q7TMS5	H2O
+572	Q7TMS5	S-metolachloroglutathione[side 1]
+573	P04095	ATP
+574	P04095	H2O
+575	P04095	glutathione-S-conjugate[side 1]
+576	P04095	ATP
+577	P04095	H2O
+578	P04095	S-(2,4-dinitrophenyl)glutathione[side 1]
+579	P04095	ATP
+580	P04095	H2O
+581	P04095	S-(N-ethylmaleimidyl)glutathione[side 1]
+582	P04095	ATP
+583	P04095	H2O
+584	P04095	S-(bimanyl)glutathione[side 1]
+585	P04095	ATP
+586	P04095	H2O
+587	P04095	S-(ethacrynic acid)glutathione[side 1]
+588	P04095	ATP
+589	P04095	H2O
+590	P04095	S-(hydroxynonenyl)glutathione[side 1]
+591	P04095	ATP
+592	P04095	H2O
+593	P04095	S-decylglutathione[side 1]
+594	P04095	ATP
+595	P04095	H2O
+596	P04095	leukotriene C4[side 1]
+597	P04095	ATP
+598	P04095	H2O
+599	P04095	S-methylglutathione[side 1]
+600	P04095	ATP
+601	P04095	H2O
+602	P04095	S-(arsenite)glutathione[side 1]
+603	P04095	ATP
+604	P04095	H2O
+605	P04095	S-(methylmercury)glutathione[side 1]
+606	P04095	ATP
+607	P04095	H2O
+608	P04095	S-(sulfobromophthaleinyl)glutathione[side 1]
+609	P04095	ATP
+610	P04095	H2O
+611	P04095	S-(acetaminophenyl)glutathione[side 1]
+612	P04095	ATP
+613	P04095	H2O
+614	P04095	S-(curcuminyl)glutathione[side 1]
+615	P04095	ATP
+616	P04095	H2O
+617	P04095	S-(deoxyprostaglandin J2)glutathione[side 1]
+618	P04095	ATP
+619	P04095	H2O
+620	P04095	S-(methylfluorescinyl)glutathione[side 1]
+621	P04095	ATP
+622	P04095	H2O
+623	P04095	S-metolachloroglutathione[side 1]
+624	Q15439	ATP
+625	Q15439	H2O
+626	Q15439	glutathione-S-conjugate[side 1]
+627	Q15439	ATP
+628	Q15439	H2O
+629	Q15439	glutathione disulfide[side 1]
+630	Q15439	ATP
+631	Q15439	H2O
+632	Q15439	S-nitrosoglutathione[side 1]
+633	Q15440	ATP
+634	Q15440	H2O
+635	Q15440	glutathione-S-conjugate[side 1]
+636	Q15440	ATP
+637	Q15440	H2O
+638	Q15440	glutathione disulfide[side 1]
+639	Q15440	ATP
+640	Q15440	H2O
+641	Q15440	S-nitrosoglutathione[side 1]
+642	Q8QG98	ATP
+643	Q8QG98	H2O
+644	Q8QG98	S-(2,4-dinitrophenyl)glutathione[side 1]
+645	Q8QG98	ATP
+646	Q8QG98	H2O
+647	Q8QG98	S-ethylglutathione[side 1]
+648	Q8QG98	more
+649	Q8QG98	ATP
+650	Q8QG98	H2O
+651	Q8QG98	S-glutathione[side 1]
+652	Q15311	ATP
+653	Q15311	H2O
+654	Q15311	glutathione-S-conjugate[side 1]
+655	Q15311	ATP
+656	Q15311	H2O
+657	Q15311	S-(2,4-dinitrophenyl)glutathione[side 1]
+658	Q15311	ATP
+659	Q15311	H2O
+660	Q15311	leukotriene C4[side 1]
+661	Q15311	ATP
+662	Q15311	H2O
+663	Q15311	doxorubicin[side 1]
+664	Q15311	ATP
+665	Q15311	H2O
+666	Q15311	4-hydroxynonenal-glutathione[side 1]
+667	P08183	ATP
+668	P08183	H2O
+669	P08183	S-(calcein-AM)glutathione[side 1]
+670	P08183	ATP
+671	P08183	H2O
+672	P08183	S-(2,4-dinitrophenyl)glutathione[side 1]
+673	P08183	ATP
+674	P08183	H2O
+675	P08183	S-(N-ethylmaleimidyl)glutathione[side 1]
+676	P08183	ATP
+677	P08183	H2O
+678	P08183	S-(bimanyl)glutathione[side 1]
+679	P08183	ATP
+680	P08183	H2O
+681	P08183	S-(ethacrynic acid)glutathione[side 1]
+682	P08183	ATP
+683	P08183	H2O
+684	P08183	S-(hydroxynonenyl)glutathione[side 1]
+685	P08183	ATP
+686	P08183	H2O
+687	P08183	S-(4-nitroquinoline-1-oxidyl)glutathione[side 1]
+688	P08183	ATP
+689	P08183	H2O
+690	P08183	S-(aflatoxin B1 epodixyl)glutathione[side 1]
+691	P08183	ATP
+692	P08183	H2O
+693	P08183	S-(arsenic)glutathione[side 1]
+694	P08183	ATP
+695	P08183	H2O
+696	P08183	S-(chlorambucilyl)glutathione[side 1]
+697	P08183	ATP
+698	P08183	H2O
+699	P08183	S-(estrone-3-sulfyl)glutathione[side 1]
+700	P08183	ATP
+701	P08183	H2O
+702	P08183	S-(melphalanyl)glutathione[side 1]
+703	P08183	ATP
+704	P08183	H2O
+705	P08183	S-(sulforaphanyl)glutathione[side 1]
+706	P08183	ATP
+707	P08183	H2O
+708	P08183	S-(thiotepyl)glutathione[side 1]
+709	P08183	ATP
+710	P08183	H2O
+711	P08183	S-(15-deoxy-DELTA12,14-prostaglandin J2)glutathione[side 1]
+712	P08183	ATP
+713	P08183	H2O
+714	P08183	S-(atrazinyl)glutathione[side 1]
+715	P08183	ATP
+716	P08183	H2O
+717	P08183	S-(cyclophosphamidyl)glutathione[side 1]
+718	P08183	ATP
+719	P08183	H2O
+720	P08183	S-(doxorubicinyl)glutathione[side 1]
+721	P08183	ATP
+722	P08183	H2O
+723	P08183	S-(metolachloro)glutathione[side 1]
+724	P08183	ATP
+725	P08183	H2O
+726	P08183	S-(prostaglandin A2)glutathione[side 1]
+727	P08183	ATP
+728	P08183	H2O
+729	P08183	S-(leukotriene C4)glutathione[side 1]
+730	P08183	ATP
+731	P08183	H2O
+732	P08183	S-(vincristinyl)glutathione[side 1]
+733	P39109	ATP
+734	P39109	H2O
+735	P39109	glutathione-S-conjugate[side 1]
+736	P39109	ATP
+737	P39109	H2O
+738	P39109	S-(2,4-dinitrophenyl)glutathione[side 1]
+739	P39109	ATP
+740	P39109	H2O
+741	P39109	S-(azidophenacyl)glutathione[side 1]
+742	P39109	ATP
+743	P39109	H2O
+744	P39109	S-(monochlorobimane)glutathione[side 1]
+745	P39109	ATP
+746	P39109	H2O
+747	P39109	S-(metolachlor)glutathione[side 1]
+748	Q9UNQ0	ATP
+749	Q9UNQ0	H2O
+750	Q9UNQ0	S-(2,4-dinitrophenyl)glutathione[side 1]
+751	Q9UNQ0	ATP
+752	Q9UNQ0	H2O
+753	Q9UNQ0	S-(N-ethylmaleimidyl)glutathione[side 1]
+754	Q9UNQ0	ATP
+755	Q9UNQ0	H2O
+756	Q9UNQ0	S-(bimanyl)glutathione[side 1]
+757	Q9UNQ0	ATP
+758	Q9UNQ0	H2O
+759	Q9UNQ0	S-(ethacrynic acid)glutathione[side 1]
+760	Q9UNQ0	ATP
+761	Q9UNQ0	H2O
+762	Q9UNQ0	S-(hydroxynonenyl)glutathione[side 1]
+763	Q9UNQ0	ATP
+764	Q9UNQ0	H2O
+765	Q9UNQ0	S-decylglutathione[side 1]
+766	Q9UNQ0	ATP
+767	Q9UNQ0	H2O
+768	Q9UNQ0	leukotriene C4[side 1]
+769	Q9UNQ0	ATP
+770	Q9UNQ0	H2O
+771	Q9UNQ0	S-methylglutathione[side 1]
+772	Q9UNQ0	ATP
+773	Q9UNQ0	H2O
+774	Q9UNQ0	S-(arsenite)glutathione[side 1]
+775	Q9UNQ0	ATP
+776	Q9UNQ0	H2O
+777	Q9UNQ0	S-(methylmercury)glutathione[side 1]
+778	Q9UNQ0	ATP
+779	Q9UNQ0	H2O
+780	Q9UNQ0	S-(sulfobromophthaleinyl)glutathione[side 1]
+781	Q9UNQ0	ATP
+782	Q9UNQ0	H2O
+783	Q9UNQ0	S-(acetaminophenyl)glutathione[side 1]
+784	Q9UNQ0	ATP
+785	Q9UNQ0	H2O
+786	Q9UNQ0	S-(curcuminyl)glutathione[side 1]
+787	Q9UNQ0	ATP
+788	Q9UNQ0	H2O
+789	Q9UNQ0	S-(deoxyprostaglandin J2)glutathione[side 1]
+790	Q9UNQ0	ATP
+791	Q9UNQ0	H2O
+792	Q9UNQ0	S-(methylfluorescinyl)glutathione[side 1]
+793	Q9UNQ0	ATP
+794	Q9UNQ0	H2O
+795	Q9UNQ0	S-metolachloroglutathione[side 1]
+796	Q9UNQ0	ATP
+797	Q9UNQ0	H2O
+798	Q9UNQ0	(+)-10R-(S-glutathionyl)-7S,8R,9R-trihydroxy-7,8,9 10-tetrahydrobenzo[a]pyrene[side 1]
+799	Q9UNQ0	ATP
+800	Q9UNQ0	H2O
+801	Q9UNQ0	(-)-10S-(S-glutathionyl)-7R,8S,9S-trihydroxy-7,8,9 10-tetrahydrobenzo[a]pyrene[side 1]
+802	Q9UNQ0	ATP
+803	Q9UNQ0	H2O
+804	Q9UNQ0	glutathione[side 1]
+805	Q92887	ATP
+806	Q92887	H2O
+807	Q92887	glutathione-S-conjugate[side 1]
+808	Q92887	ATP
+809	Q92887	H2O
+810	Q92887	S-(2,4-dinitrophenyl)glutathione[side 1]
+811	Q92887	ATP
+812	Q92887	H2O
+813	Q92887	S-(N-ethylmaleimidyl)glutathione[side 1]
+814	Q92887	ATP
+815	Q92887	H2O
+816	Q92887	S-(bimanyl)glutathione[side 1]
+817	Q92887	ATP
+818	Q92887	H2O
+819	Q92887	S-(ethacrynic acid)glutathione[side 1]
+820	Q92887	ATP
+821	Q92887	H2O
+822	Q92887	S-(hydroxynonenyl)glutathione[side 1]
+823	Q92887	ATP
+824	Q92887	H2O
+825	Q92887	S-decylglutathione[side 1]
+826	Q92887	ATP
+827	Q92887	H2O
+828	Q92887	leukotriene C4[side 1]
+829	Q92887	ATP
+830	Q92887	H2O
+831	Q92887	S-methylglutathione[side 1]
+832	Q92887	ATP
+833	Q92887	H2O
+834	Q92887	S-(arsenite)glutathione[side 1]
+835	Q92887	ATP
+836	Q92887	H2O
+837	Q92887	S-(methylmercury)glutathione[side 1]
+838	Q92887	ATP
+839	Q92887	H2O
+840	Q92887	S-(sulfobromophthaleinyl)glutathione[side 1]
+841	Q92887	ATP
+842	Q92887	H2O
+843	Q92887	S-(acetaminophenyl)glutathione[side 1]
+844	Q92887	ATP
+845	Q92887	H2O
+846	Q92887	S-(curcuminyl)glutathione[side 1]
+847	Q92887	ATP
+848	Q92887	H2O
+849	Q92887	S-(deoxyprostaglandin J2)glutathione[side 1]
+850	Q92887	ATP
+851	Q92887	H2O
+852	Q92887	S-(methylfluorescinyl)glutathione[side 1]
+853	Q92887	ATP
+854	Q92887	H2O
+855	Q92887	S-metolachloroglutathione[side 1]
+856	Q92887	more
+857	Q92887	ATP
+858	Q92887	H2O
+859	Q92887	glutathione disulfide[side 1]
+860	Q92887	ATP
+861	Q92887	H2O
+862	Q92887	S-nitrosoglutathione[side 1]
+863	Q92887	ATP
+864	Q92887	H2O
+865	Q92887	S-(vincristinyl)glutathione[side 1]
+866	Q92887	ATP
+867	Q92887	H2O
+868	Q92887	(+)-10R-(S-glutathionyl)-7S,8R,9R-trihydroxy-7,8,9 10-tetrahydrobenzo[a]pyrene[side 1]
+869	Q92887	ATP
+870	Q92887	H2O
+871	Q92887	(-)-10S-(S-glutathionyl)-7R,8S,9S-trihydroxy-7,8,9 10-tetrahydrobenzo[a]pyrene[side 1]
+872	Q92887	ATP
+873	Q92887	H2O
+874	Q92887	glutathione[side 1]
+875	Q92887	ATP
+876	Q92887	H2O
+877	Q92887	S-(17beta-glucuronosyl estradiol)glutathione[side 1]
+878	Q92887	ATP
+879	Q92887	H2O
+880	Q92887	S-(6alpha-glucuronosyl hyodeoxycholate)glutathione[side 1]
+881	Q92887	ATP
+882	Q92887	H2O
+883	Q92887	S-(C4-glutathione)glutathione[side 1]
+884	Q92887	ATP
+885	Q92887	H2O
+886	Q92887	S-(bilirubin glucuronide)glutathione[side 1]
+887	Q92887	ATP
+888	Q92887	H2O
+889	Q92887	S-(etoposidyl)glutathione[side 1]
+890	Q92887	ATP
+891	Q92887	H2O
+892	Q92887	S-(vinblastinyl)glutathione[side 1]
+893	Q92887	ATP
+894	Q92887	H2O
+895	Q92887	arsenic triglutathione[side 1]
+896	Q92887	ATP
+897	Q92887	H2O
+898	Q92887	2,4-dinitrophenyl-S-glutathione[side 1]
+0	P33897	ATP
+1	P33897	H2O
+2	P33897	NBD-palmitoyl-CoA[side 1]
+3	P33897	ATP
+4	P33897	H2O
+5	P33897	fatty acyl CoA[side 1]
+6	P33897	more
+7	P28288	ATP
+8	P28288	H2O
+9	P28288	NBD-palmitoyl-CoA[side 1]
+10	P28288	ATP
+11	P28288	H2O
+12	P28288	fatty acyl CoA[side 1]
+13	P28288	ATP
+14	P28288	H2O
+15	P28288	C10-carnitine[side 1]
+16	P28288	ATP
+17	P28288	H2O
+18	P28288	C12-carnitine[side 1]
+19	P28288	ATP
+20	P28288	H2O
+21	P28288	C16-carnitine[side 1]
+22	P28288	ATP
+23	P28288	H2O
+24	P28288	lauroyl-CoA[side 1]
+25	P28288	ATP
+26	P28288	H2O
+27	P28288	palmitoyl-CoA[side 1]
+28	P28288	more
+29	Q9UBJ2	ATP
+30	Q9UBJ2	H2O
+31	Q9UBJ2	NBD-palmitoyl-CoA[side 1]
+32	Q9UBJ2	ATP
+33	Q9UBJ2	H2O
+34	Q9UBJ2	fatty acyl CoA[side 1]
+35	Q9UBJ2	more
+36	P48410	ATP
+37	P48410	H2O
+38	P48410	fatty acyl CoA[side 1]
+39	Q61285	ATP
+40	Q61285	H2O
+41	Q61285	fatty acyl CoA[side 1]
+42	Q7Z9L6	more
+43	Q7Z9L6	ATP
+44	Q7Z9L6	H2O
+45	Q7Z9L6	long-chain fatty acyl CoA/cis
+0	A0A160PR71	ATP
+1	A0A160PR71	H2O
+2	A0A160PR71	heme[side 1]
+3	A0A160PR71	more
+0	P06609	more
+1	P06609	ATP
+2	P06609	H2O
+3	P06609	cobinamide-[cobalamin-binding protein][side 1]
+4	P06609	ATP
+5	P06609	H2O
+6	P06609	vitamin B12-[cobalamin-binding protein][side 1]
+7	Q1GBI8	more
+8	Q1GBI8	ATP
+9	Q1GBI8	H2O
+10	Q1GBI8	cobinamide-[cobalamin-binding protein][side 1]
+11	Q1GBI8	ATP
+12	Q1GBI8	H2O
+13	Q1GBI8	vitamin B12-[cobalamin-binding protein][side 1]
+14	A0A0H3AMA6	ATP
+15	A0A0H3AMA6	H2O
+16	A0A0H3AMA6	cyanocobalamin-[cobalamin-binding protein][side 1]
+17	A0A0H3AMA6	ATP
+18	A0A0H3AMA6	H2O
+19	A0A0H3AMA6	dicyanocobinamide-[cobalamin-binding protein][side 1]
+20	A0A0H3AMA6	more
+21	A0A0H3AMA6	ATP
+22	A0A0H3AMA6	H2O
+23	A0A0H3AMA6	vitamin B12-[cobalamin-binding protein][side 1]
+24	P06611	ATP
+25	P06611	H2O
+26	P06611	vitamin B12/out
+27	P37028	ATP
+28	P37028	H2O
+29	P37028	vitamin B12/out
+30	P06609	ATP
+31	P06609	H2O
+32	P06609	vitamin B12/out
+33	Q3SFD8	more
+34	Q3SFD8	ATP
+35	Q3SFD8	H2O
+36	Q3SFD8	cobinamide-[cobalamin-binding protein][side 1]
+37	Q3SFD8	ATP
+38	Q3SFD8	H2O
+39	Q3SFD8	vitamin B12-[cobalamin-binding protein][side 1]
+40	O14678	more
+41	O14678	ATP
+42	O14678	H2O
+43	O14678	vitamin B12-[cobalamin-binding protein][side 1]
+0	P46922	more
+1	P46922	ATP
+2	P46922	H2O
+3	P46922	dimethylsulfonioacetate/out
+4	P46922	ATP
+5	P46922	H2O
+6	P46922	quaternary amine-[quaternary amine-binding protein][side 1]
+7	Q9KIF7	ATP
+8	Q9KIF7	H2O
+9	Q9KIF7	glycine betaine/out
+10	Q7DAU8	ATP
+11	Q7DAU8	H2O
+12	Q7DAU8	proline betaine/out
+13	Q7DAU8	ATP
+14	Q7DAU8	H2O
+15	Q7DAU8	glycine betaine/out
+16	Q7DAU8	more
+17	P46921	ATP
+18	P46921	H2O
+19	P46921	quaternary amine-[quaternary amine-binding protein][side 1]
+20	U5LFB4	ATP
+21	U5LFB4	H2O
+22	U5LFB4	quaternary amine-[quaternary amine-binding protein][side 1]
+23	A0A077T980	ATP
+24	A0A077T980	H2O
+25	A0A077T980	quaternary amine-[quaternary amine-binding protein][side 1]
+26	A0A097A5F2	ATP
+27	A0A097A5F2	H2O
+28	A0A097A5F2	quaternary amine-[quaternary amine-binding protein][side 1]
+29	Q0PCR9	ATP
+30	Q0PCR9	H2O
+31	Q0PCR9	betaine/out
+32	P46920	ATP
+33	P46920	H2O
+34	Q87WH5	ATP
+35	Q87WH5	H2O
+36	Q87WH5	glycine betaine/out
+37	Q87WH5	ATP
+38	Q87WH5	H2O

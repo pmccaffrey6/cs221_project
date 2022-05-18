@@ -1,0 +1,2156 @@
+	uniprot_ids	substrates
+0	P30138	ATP
+1	P30138	[sulfur-carrier protein ThiS]
+2	P30138	more
+3	O31619	ATP
+4	O31619	[sulfur-carrier protein ThiS]
+0	O29976	CDP-glycerol
+1	O29976	1L-myo-inositol 1-phosphate
+2	O29976	CTP
+3	O29976	1D-myo-inositol 3-phosphate
+4	O29976	CTP
+5	O29976	1L-myo-inositol 1-phosphate
+6	Q8U1Z6	CTP
+7	Q8U1Z6	1L-myo-inositol 1-phosphate
+8	Q5JDA9	CTP
+9	Q5JDA9	1L-myo-inositol 1-phosphate
+10	O67379	CTP
+11	O67379	1L-myo-inositol 1-phosphate
+12	Q1AWQ0	CTP
+13	Q1AWQ0	1L-myo-inositol 1-phosphate
+0	Q39054	ATP
+1	Q39054	molybdopterin
+2	P0AF03	ATP
+3	P0AF03	molybdopterin
+0	P95645	GTP
+1	P95645	MoO2(OH)Dtpp-mP
+2	P32173	GTP
+3	P32173	MoO2(OH)Dtpp-mP
+4	P32173	GTP
+5	P32173	molybdenum cofactor
+0	Q5ZR76	GDP-alpha-D-glucose
+1	Q5ZR76	phosphate
+2	Q6ZNW5	GDP-alpha-D-glucose
+3	Q6ZNW5	phosphate
+4	Q3TLS3	GDP-alpha-D-glucose
+5	Q3TLS3	phosphate
+0	P53215	p-tRNAHis
+1	P53215	ATP
+2	P53215	GTP
+3	P53215	more
+4	P53215	p-tRNAHis
+5	P53215	ATP
+6	P53215	GDP
+7	P53215	p-tRNAHis
+8	P53215	ATP
+9	P53215	GTP
+10	P53215	p-tRNAHis
+11	P53215	ATP
+12	P53215	dGTP
+13	P53215	p-tRNAHis
+14	P53215	dATP
+15	P53215	GTP
+16	P53215	ppp-tRNAHis
+17	P53215	GTP
+18	P53215	ppp-tRNALeu
+19	P53215	GTP
+20	P53215	ppp-tRNAPhe
+21	P53215	GTP
+22	Q3F0V8	p-tRNAHis
+23	Q3F0V8	ATP
+24	Q3F0V8	GTP
+25	Q3F0V8	more
+26	Q3F0V8	p-tRNAHis
+27	Q3F0V8	ATP
+28	M1ZML3	mt-tRNALeuDelta+2
+29	M1ZML3	GTP
+30	J9XZJ1	mt-tRNALeuDelta+2
+31	J9XZJ1	GTP
+0	Q41370	RNAn
+1	Q41370	a nucleoside diphosphate
+2	Q41370	RNAn
+3	Q41370	a nucleoside diphosphate
+4	P05055	more
+5	O87792	more
+6	A5EXU0	poly(A)
+7	A5EXU0	ADP
+8	A5EXU0	poly(A)
+9	A5EXU0	ADP
+10	A7ZS61	RNAn
+11	A7ZS61	a nucleoside diphosphate
+12	A7ZS61	RNAn
+13	A7ZS61	a nucleoside diphosphate
+14	A7ZS61	more
+15	Q9ZAE1	more
+16	G8TCS8	RNAn+1
+17	G8TCS8	phosphate
+18	G8TCS8	RNAn+1
+19	G8TCS8	phosphate
+20	G8TCS8	more
+21	Q7A5X7	2',3'-cyclic RNAn
+22	Q7A5X7	phosphate
+23	Q7A5X7	3'-phosphorylated RNA(n)
+24	Q7A5X7	phosphate
+25	Q7A5X7	RNA(n)
+26	Q7A5X7	phosphate
+27	Q7A5X7	poly(A)(n-1)
+28	Q7A5X7	ADP
+29	Q7A5X7	poly(A)n
+30	Q7A5X7	phosphate
+0	O95396	ATP
+1	O95396	[molybdopterin-synthase sulfur-carrier protein]-Gly-Gly
+2	P12282	ATP
+3	P12282	[molybdopterin-synthase sulfur-carrier protein]-Gly-Gly
+0	Q16222	UTP
+1	Q16222	N-acetylglucosamine 1-phosphate
+2	Q16222	diphosphate
+3	Q16222	UDP-N-acetylglucosamine
+4	Q16222	UTP
+5	Q16222	N-acetyl-alpha-D-galactosamine 1-phosphate
+6	Q16222	UTP
+7	Q16222	N-acetyl-alpha-D-galactosamine 1-phosphate
+8	Q16222	diphosphate
+9	Q16222	UDP-N-acetyl-alpha-D-galactosamine
+10	Q16222	diphosphate
+11	Q16222	UDP-N-acetyl-alpha-D-galactosamine
+12	Q975F9	UTP
+13	Q975F9	N-acetyl-alpha-D-galactosamine 1-phosphate
+14	Q975F9	UTP
+15	Q975F9	N-acetyl-alpha-D-galactosamine 1-phosphate
+16	Q975F9	diphosphate
+17	Q975F9	UDP-N-acetyl-alpha-D-galactosamine
+18	Q975F9	diphosphate
+19	Q975F9	UDP-N-acetyl-alpha-D-galactosamine
+20	Q975F9	more
+0	U5XFV4	more
+1	U5XFV4	2 ATP
+2	U5XFV4	3 ATP
+3	Q29599	3 ATP
+4	Q29599	dATP
+5	Q29599	NAD+
+0	Q9WY43	2 ATP
+1	Q8Y5E4	2 ATP
+2	D5TM67	2 ATP
+3	D5TM67	2 ADP
+4	D5TM67	more
+0	Q8N884	ATP
+1	Q8N884	GTP
+2	Q8N884	ATP
+3	Q8N884	GTP
+4	Q8C6L5	ATP
+5	Q8C6L5	GTP
+6	Q8C6L5	ATP
+7	Q8C6L5	GTP
+0	P45748	L-threonine
+1	P45748	ATP
+2	P45748	bicarbonate
+3	P32579	L-threonine
+4	P32579	ATP
+5	P32579	bicarbonate
+6	Q970S6	L-threonine
+7	Q970S6	ATP
+8	Q970S6	bicarbonate
+9	P39153	L-threonine
+10	P39153	ATP
+11	P39153	CO2
+12	P39153	L-threonylcarbamoyl-AMP
+13	P39153	tRNA
+0	P13179	5'-triphospho-mRNA
+1	P13179	GDP
+2	P03523	5'-triphospho-mRNA
+3	P03523	GDP
+4	P03523	more
+5	P03523	5'-triphospho-mRNA
+6	P03523	GTP
+7	P03523	pppApApCpApG
+8	P03523	GDP
+9	Q9IPJ5	5'-triphospho-mRNA
+10	Q9IPJ5	GDP
+11	Q9IPJ5	more
+0	Q43772	UTP
+1	Q43772	alpha-D-glucose 1-phosphate
+2	Q43772	UTP
+3	Q43772	alpha-D-glucose 1-phosphate
+4	Q43772	UTP
+5	Q43772	D-glucose-1-phosphate
+6	Q4QDU3	UTP
+7	Q4QDU3	alpha-D-glucose 1-phosphate
+8	Q4QDU3	UTP
+9	Q4QDU3	alpha-D-glucose 1-phosphate
+10	Q4QDU3	diphosphate
+11	Q4QDU3	UDP-glucose
+12	Q4QDU3	diphosphate
+13	Q4QDU3	UDP-glucose
+14	Q4QDU3	more
+15	Q19TV8	UTP
+16	Q19TV8	alpha-D-glucose 1-phosphate
+17	Q19TV8	UTP
+18	Q19TV8	alpha-D-glucose 1-phosphate
+19	Q19TV8	diphosphate
+20	Q19TV8	UDP-glucose
+21	Q19TV8	diphosphate
+22	Q19TV8	UDP-glucose
+23	Q19TV8	more
+24	Q19TV8	diphosphate
+25	Q19TV8	UDP-galactose
+26	Q9M9P3	UTP
+27	Q9M9P3	alpha-D-glucose 1-phosphate
+28	Q9M9P3	UTP
+29	Q9M9P3	alpha-D-glucose 1-phosphate
+30	P57751	UTP
+31	P57751	alpha-D-glucose 1-phosphate
+32	P57751	UTP
+33	P57751	alpha-D-glucose 1-phosphate
+34	O05576	UTP
+35	O05576	alpha-D-glucose 1-phosphate
+36	O05576	UTP
+37	O05576	alpha-D-glucose 1-phosphate
+38	A0A0H2X8N4	UTP
+39	A0A0H2X8N4	alpha-D-glucose 1-phosphate
+40	A0A0H2X8N4	UTP
+41	A0A0H2X8N4	alpha-D-glucose 1-phosphate
+42	A0A0H2X8N4	TTP
+43	A0A0H2X8N4	alpha-D-glucose 1-phosphate
+44	Q8PK83	UTP
+45	Q8PK83	alpha-D-glucose 1-phosphate
+46	Q8PK83	UTP
+47	Q8PK83	alpha-D-glucose 1-phosphate
+48	Q8PK83	TTP
+49	Q8PK83	alpha-D-glucose 1-phosphate
+50	Q94B70	UTP
+51	Q94B70	alpha-D-glucose 1-phosphate
+52	Q94B70	UTP
+53	Q94B70	alpha-D-glucose 1-phosphate
+54	A3QQQ3	more
+55	P0AEP3	UDP-D-glucose
+56	P0AEP3	diphosphate
+57	D3HTY9	UTP
+58	D3HTY9	alpha-D-glucose 1-phosphate
+59	D3HTY9	UTP
+60	D3HTY9	alpha-D-glucose 1-phosphate
+61	D3HTY9	more
+62	Q8GQP8	UTP
+63	Q8GQP8	alpha-D-glucose 1-phosphate
+64	Q8GQP8	UTP
+65	Q8GQP8	alpha-D-glucose 1-phosphate
+66	O25363	UTP
+67	O25363	alpha-D-glucose 1-phosphate
+68	O25363	UTP
+69	O25363	alpha-D-glucose 1-phosphate
+70	Q16851	UTP
+71	Q16851	alpha-D-glucose 1-phosphate
+72	Q16851	UTP
+73	Q16851	alpha-D-glucose 1-phosphate
+74	C7GP37	UTP
+75	C7GP37	alpha-D-glucose 1-phosphate
+76	C7GP37	UTP
+77	C7GP37	alpha-D-glucose 1-phosphate
+78	A5XCL5	UTP
+79	A5XCL5	alpha-D-glucose 1-phosphate
+80	A5XCL5	UTP
+81	A5XCL5	alpha-D-glucose 1-phosphate
+82	B8JMZ1	UTP
+83	B8JMZ1	alpha-D-glucose 1-phosphate
+84	B8JMZ1	UTP
+85	B8JMZ1	alpha-D-glucose 1-phosphate
+86	Q9XUS5	UTP
+87	Q9XUS5	alpha-D-glucose 1-phosphate
+88	Q9XUS5	UTP
+89	Q9XUS5	alpha-D-glucose 1-phosphate
+90	Q9XUS5	ATP
+91	Q9XUS5	alpha-D-glucose 1-phosphate
+92	Q9XUS5	CTP
+93	Q9XUS5	alpha-D-glucose 1-phosphate
+94	Q9XUS5	GTP
+95	Q9XUS5	alpha-D-glucose 1-phosphate
+96	Q9XUS5	dTTP
+97	Q9XUS5	alpha-D-glucose 1-phosphate
+98	Q9XUS5	UTP
+99	Q9XUS5	alpha-D-glucose 1-phosphate
+100	Q975F9	UTP
+101	Q975F9	alpha-D-glucose 1-phosphate
+102	Q975F9	UTP
+103	Q975F9	alpha-D-glucose 1-phosphate
+104	Q975F9	UTP
+105	Q975F9	alpha-D-glucose 1-phosphate
+106	A8BJJ7	more
+107	A8BJJ7	UTP
+108	A8BJJ7	alpha-D-glucose 1-phosphate
+109	A8BJJ7	TTP
+110	A8BJJ7	alpha-D-glucose 1-phosphate
+111	A8BJJ7	UTP
+112	A8BJJ7	alpha-D-galactose 1-phosphate
+113	P74285	more
+114	P74285	UTP
+115	P74285	alpha-D-glucose 1-phosphate
+116	Q8YS18	more
+117	Q8YS18	UTP
+118	Q8YS18	alpha-D-glucose 1-phosphate
+119	Q8YS18	diphosphate
+120	Q8YS18	UDP-glucose
+121	M4M6L5	more
+122	M4M6L5	UTP
+123	M4M6L5	alpha-D-glucose 1-phosphate
+124	M4M6L5	UTP
+125	M4M6L5	alpha-D-galactose 1-phosphate
+126	A0A0S3X5N5	diphosphate
+127	A0A0S3X5N5	UDP-glucose
+128	A0A0S3X5N5	diphosphate
+129	A0A0S3X5N5	UDP-glucose
+130	A0A0S3WYP3	diphosphate
+131	A0A0S3WYP3	UDP-glucose
+132	A0A0S3WYP3	diphosphate
+133	A0A0S3WYP3	UDP-glucose
+134	Q18910	UTP
+135	Q18910	alpha-D-glucose 1-phosphate
+136	A0A0W1QGK2	UTP
+137	A0A0W1QGK2	alpha-D-glucose 1-phosphate
+0	Q8EEA9	CTP
+1	Q8EEA9	8-amino-3,8-dideoxy-alpha-D-manno-octulosonate
+0	Q3T6E3	CTP
+1	Q3T6E3	valienol 1-phosphate
+2	Q3T6E3	GTP
+3	Q3T6E3	valienol 1-phosphate
+4	Q3T6E3	more
+5	Q3T6E3	ATP
+6	Q3T6E3	D-glucose 1-phosphate
+0	Q90WG6	CTP
+1	Q90WG6	N-acetylneuraminic acid
+2	Q90WG6	CTP
+3	Q90WG6	3-deoxy-D-glycero-D-galacto-nononate
+4	Q90WG6	CTP
+5	Q90WG6	N-glycolylneuraminic acid
+6	Q99KK2	CTP
+7	Q99KK2	N-acetylneuraminic acid
+8	Q99KK2	CTP
+9	Q99KK2	3-deoxy-D-glycero-D-galacto-nononate
+10	Q8A710	CTP
+11	Q8A710	3-deoxy-D-glycero-D-galacto-nononate
+0	Q5IW36	CTP
+1	Q5IW36	phosphonoformate
+0	Q88QT2	UTP
+1	Q88QT2	N-acetyl-alpha-D-muramate 1-phosphate
+2	Q88QT2	more
+0	O82567	CDP-ethanolamine
+1	O82567	1,2-diacylglycerol
+2	O82567	CDP-ethanolamine
+3	O82567	1,2-diacylglycerol
+4	O82567	CDP-choline
+5	O82567	1,2-diacylglycerol
+6	O82567	CDP-choline
+7	O82567	1,2-diacylglycerol
+8	O82567	phosphatidylcholine
+9	O82567	CMP
+10	O82567	phosphatidylcholine
+11	O82567	CMP
+12	O82568	CDP-ethanolamine
+13	O82568	1,2-diacylglycerol
+14	O82568	CDP-ethanolamine
+15	O82568	1,2-diacylglycerol
+16	O82568	CDP-choline
+17	O82568	1,2-diacylglycerol
+18	O82568	CDP-choline
+19	O82568	1,2-diacylglycerol
+20	O82568	phosphatidylcholine
+21	O82568	CMP
+22	O82568	phosphatidylcholine
+23	O82568	CMP
+24	Q6U9W9	CDP-ethanolamine
+25	Q6U9W9	1,2-diacylglycerol
+26	Q6U9W9	CDP-ethanolamine
+27	Q6U9W9	1,2-diacylglycerol
+28	Q6U9W9	CDP-choline
+29	Q6U9W9	1,2-diacylglycerol
+30	Q6U9W9	CDP-choline
+31	Q6U9W9	1,2-diacylglycerol
+32	Q8WU57	CDP-ethanolamine
+33	Q8WU57	1,2-diacylglycerol
+34	Q8WU57	CDP-ethanolamine
+35	Q8WU57	1,2-diacylglycerol
+36	Q9C0D9	more
+37	Q9C0D9	CDP-choline
+38	Q9C0D9	diacylglycerol
+39	Q9C0D9	CDP-ethanolamine
+40	Q9C0D9	diacylglycerol
+41	Q9Y6K0	more
+42	Q9Y6K0	CDP-choline
+43	Q9Y6K0	1,2-diacyl-sn-glycerol
+44	Q9Y6K0	CDP-ethanolamine
+45	Q9Y6K0	1,2-diacyl-sn-glycerol
+46	A1Z9E0	CDP-ethanolamine
+47	A1Z9E0	1,2-diacyl-sn-glycerol
+0	Q8GUK6	CDP-diacylglycerol
+1	Q8GUK6	D-myo-inositol
+2	Q8GUK6	CDP-diheptadecanoylglycerol
+3	Q8GUK6	D-myo-inositol
+4	Q8GUK6	CDP-dilinoleoylglycerol
+5	Q8GUK6	D-myo-inositol
+6	Q8GUK6	CDP-dioleoylglycerol
+7	Q8GUK6	D-myo-inositol
+8	Q8GUK6	CDP-dipalmitoylglycerol
+9	Q8GUK6	D-myo-inositol
+10	Q8GUK6	more
+11	Q6KBS8	CDP-diacylglycerol
+12	Q6KBS8	myo-inositol
+13	Q6KBS8	CDP-diacylglycerol
+14	Q6KBS8	myo-inositol
+15	Q8LBA6	CDP-diacylglycerol
+16	Q8LBA6	D-myo-inositol
+17	Q8LBA6	CDP-diheptadecanoylglycerol
+18	Q8LBA6	D-myo-inositol
+19	Q8LBA6	CDP-dilinoleoylglycerol
+20	Q8LBA6	D-myo-inositol
+21	Q8LBA6	CDP-dioleoylglycerol
+22	Q8LBA6	D-myo-inositol
+23	Q8LBA6	CDP-dipalmitoylglycerol
+24	Q8LBA6	D-myo-inositol
+25	Q8LBA6	more
+26	C0H5B7	CDP-diacylglycerol
+27	C0H5B7	myo-inositol
+28	C0H5B7	more
+29	O14735	CDP-diacylglycerol
+30	O14735	myo-inositol
+31	O14735	CDP-diacylglycerol
+32	O14735	myo-inositol
+33	P06197	more
+34	P06197	CDP-diacylglycerol
+35	P06197	myo-inositol
+36	Q6UG58	CDP-diacylglycerol
+37	Q6UG58	myo-inositol
+38	P70500	CDP-diacylglycerol
+39	P70500	myo-inositol
+0	Q9RPD1	CDP-glycerol
+1	Q9RPD1	(glycerophosphate)n
+2	Q5HLM5	CDP-glycerol
+3	Q5HLM5	(glycerophosphate)n
+0	Q03521	more
+1	Q03521	UDP-MurNAc
+2	Q03521	undecaprenyl phosphate
+3	Q03521	UDP-MurNAc-(oyl-L-Ala)
+4	Q03521	undecaprenyl phosphate
+5	Q03521	UDP-MurNAc-(oyl-L-Ala-gamma-D-Glu)
+6	Q03521	undecaprenyl phosphate
+7	Q03521	UDP-MurNAc-(oyl-L-Ala-gamma-D-Glu-meso-diaminopimelate)
+8	Q03521	undecaprenyl phosphate
+9	Q03521	UDP-N-acetyl-alpha-D-glucosamine
+10	Q03521	ditrans,octacis-undecaprenyl phosphate
+11	Q03521	UDP-N-acetylmuramoyl-pentapeptide
+12	Q03521	undecaprenyl phosphate
+13	Q03521	UDP-Mur2Ac(oyl-L-Ala-gamma-D-Glu-L-Lys-D-Ala-D-Ala)
+14	Q03521	undecaprenyl phosphate
+15	Q03521	UDP-Mur2Ac(oyl-L-Ala-gamma-D-Glu-L-Lys-D-Ala-D-Ala)
+16	Q03521	undecaprenyl phosphate
+17	Q03521	UDP-MurNAc-pentapeptide
+18	Q03521	undecaprenyl phosphate
+0	Q3T906	UDP-N-acetyl-D-glucosamine
+1	Q3T906	alpha-methyl D-mannoside
+2	Q3T906	more
+3	Q3T906	UDP-N-acetyl-D-glucosamine
+4	Q3T906	lysosomal-enzyme D-mannose
+5	Q3T906	UDP-N-acetyl-D-glucosamine
+6	Q3T906	methyl-alpha-D-mannoside
+7	Q69ZN6	UDP-N-acetyl-D-glucosamine
+8	Q69ZN6	lysosomal-enzyme D-mannose
+9	Q3T906	UDP-N-acetyl-D-glucosamine
+10	Q3T906	alpha-methyl-D-mannoside
+11	Q3T906	UDP-N-acetyl-D-glucosamine
+12	Q3T906	lysosomal-cathepsin Z D-mannose
+13	Q3T906	more
+14	Q3T906	UDP-N-acetyl-D-glucosamine
+15	Q3T906	lysosomal-enzyme D-mannose
+0	O82567	CDP-choline
+1	O82567	1,2-diacylglycerol
+2	O82567	CDP-choline
+3	O82567	1,2-diacylglycerol
+4	O82567	CDP-ethanolamine
+5	O82567	1,2-diacylglycerol
+6	O82567	CDP-ethanolamine
+7	O82567	1,2-diacylglycerol
+8	Q8WUD6	CDP-choline
+9	Q8WUD6	1,2-diacylglycerol
+10	Q8WUD6	CDP-choline
+11	Q8WUD6	1,2-diacylglycerol
+12	Q8WUD6	more
+13	Q8WUD6	CDP-choline
+14	Q8WUD6	1,2-diacyl-sn-glycerol
+15	C4TGF1	3-alpha-D-glucopyranosyl-1,2-di-palmitoylglycerol
+16	C4TGF1	CDP-choline
+17	Q9Y6K0	more
+18	Q9Y6K0	CDP-choline
+19	Q9Y6K0	1,2-diacyl-sn-glycerol
+20	Q9Y6K0	CDP-ethanolamine
+21	Q9Y6K0	1,2-diacyl-sn-glycerol
+22	A0A0H3U1R3	CDP-choline
+23	A0A0H3U1R3	1,2-diacyl-sn-glycerol
+24	A0A0H3U1R4	CDP-choline
+25	A0A0H3U1R4	1,2-diacyl-sn-glycerol
+26	Q39810	CDP-choline
+27	Q39810	1,2-diacyl-sn-glycerol
+28	I1KH05	more
+29	I1KH05	CDP-choline
+30	I1KH05	1,2-diacyl-sn-glycerol
+31	P17898	more
+32	P17898	CDP-choline
+33	P17898	1,2-diacyl-sn-glycerol
+34	Q8T0S3	more
+35	Q8T0S3	CDP-choline
+36	Q8T0S3	1,2-diacyl-sn-glycerol
+37	Q8T0S3	CDP-ethanolamine
+38	Q8T0S3	1,2-diacyl-sn-glycerol
+0	Q2QWN6	carboxyphosphoenolpyruvate
+1	Q2QWN6	1-carboxyvinyl carboxyphosphonate
+0	Q9KJY8	CDP-diacylglycerol
+1	Q9KJY8	choline
+2	Q9KJY8	CDP-diacylglycerol
+3	Q9KJY8	choline
+4	O51265	CDP-diacylglycerol
+5	O51265	choline
+6	O51265	CDP-diacylglycerol
+7	O51265	choline
+8	D0B707	CDP-diacylglycerol
+9	D0B707	choline
+10	D0B707	CDP-diacylglycerol
+11	D0B707	choline
+12	E9NR86	CDP-diacylglycerol
+13	E9NR86	choline
+14	E9NR86	CDP-diacylglycerol
+15	E9NR86	choline
+16	D5KX81	CDP-diacylglycerol
+17	D5KX81	choline
+18	D5KX81	CDP-diacylglycerol
+19	D5KX81	choline
+20	Q9HXE9	CDP-diacylglycerol
+21	Q9HXE9	choline
+22	Q9HXE9	CDP-diacylglycerol
+23	Q9HXE9	choline
+24	A9CIM3	CDP-diacylglycerol
+25	A9CIM3	choline
+26	A9CIM3	CDP-diacylglycerol
+27	A9CIM3	choline
+28	A9CIM3	more
+29	S4X5L9	CDP-diacylglycerol
+30	S4X5L9	choline
+31	S4X5L9	CDP-diacylglycerol
+32	S4X5L9	choline
+0	P29936	adenosylcobinamide-GDP
+1	P29936	alpha-ribazole
+2	P29936	adenosylcobinamide-GDP
+3	P29936	alpha-ribazole 5'-phosphate
+0	Q86VZ5	L-alpha-phosphatidylcholine
+1	Q86VZ5	NBD-C6-ceramide
+2	Q86VZ5	phosphatidylcholine
+3	Q86VZ5	C8-ceramide
+4	Q86VZ5	a ceramide
+5	Q86VZ5	a phosphatidylcholine
+6	Q86VZ5	a ceramide
+7	Q86VZ5	a phosphatidylcholine
+8	Q86VZ5	phosphatidylcholine
+9	Q86VZ5	C6-ceramide
+10	Q86VZ5	more
+11	Q86VZ5	phosphatidylcholine
+12	Q86VZ5	ceramide
+13	Q8NHU3	L-alpha-phosphatidylcholine
+14	Q8NHU3	NBD-C6-ceramide
+15	Q8NHU3	phosphatidylcholine
+16	Q8NHU3	C8-ceramide
+17	Q8NHU3	phosphatidylcholine
+18	Q8NHU3	C6-ceramide
+19	Q8NHU3	more
+20	Q8NHU3	phosphatidylcholine
+21	Q8NHU3	ceramide
+22	Q9D4B1	a ceramide
+23	Q9D4B1	a phosphatidylcholine
+24	Q9D4B1	a ceramide
+25	Q9D4B1	a phosphatidylcholine
+26	Q9D4B1	N-(6-((7-nitrobenz-2-oxa-1.3-diazol-4-yl)amino)hexanoyl)-sphingosine
+27	Q9D4B1	a phosphatidylcholine
+28	Q9D4B1	more
+29	Q9D4B1	phosphatidylcholine
+30	Q9D4B1	ceramide
+31	Q9D4B1	6-((N-(7-nitrobenz-2-oxa-1,3-diazol-4-yl)amino)hexanoyl)sphingosine
+32	Q9D4B1	phosphatidylcholine
+33	Q4JM44	phosphatidylcholine
+34	Q4JM44	ceramide
+35	Q8VCQ6	more
+36	Q8VCQ6	6-((N-(7-nitrobenz-2-oxa-1,3-diazol-4-yl)amino)hexanoyl)sphingosine
+37	Q8VCQ6	phosphatidylcholine
+0	Q58653	lactyl-2-diphospho-5'-adenosine
+1	Q58653	7,8-didemethyl-8-hydroxy-5-deazariboflavin
+2	Q58653	more
+3	Q58653	lactyl-2-diphospho-5'-guanosine
+4	Q58653	7,8-didemethyl-8-hydroxy-5-deazariboflavin
+5	Q8PVT6	lactyl-2-diphospho-5'-guanosine
+6	Q8PVT6	7,8-didemethyl-8-hydroxy-5-deazariboflavin
+0	O08888	L-1-phosphatidylethanolamine
+1	O08888	L-serine
+2	O08888	L-1-phosphatidylethanolamine
+3	O08888	L-serine
+4	Q99LH2	more
+5	Q99LH2	L-1-phosphatidylcholine
+6	Q99LH2	L-serine
+7	Q9Z1X2	L-1-phosphatidylethanolamine
+8	Q9Z1X2	L-serine
+9	Q9Z1X2	L-1-phosphatidylethanolamine
+10	Q9Z1X2	L-serine
+11	Q9Z1X2	more
+12	Q9BVG9	L-1-phosphatidylethanolamine
+13	Q9BVG9	L-serine
+14	Q9BVG9	L-1-phosphatidylethanolamine
+15	Q9BVG9	L-serine
+16	Q9BVG9	more
+17	P48651	L-1-phosphatidylcholine
+18	P48651	L-serine
+0	D0U690	UDP-xylose
+1	D0U690	2-O-alpha-D-mannopyranosyl-alpha-D-mannopyranose
+2	D0U690	UDP-xylose
+3	D0U690	3-O-alpha-D-mannopyranosyl-alpha-D-mannopyranose
+4	D0U690	UDP-xylose
+5	D0U690	4-O-alpha-D-mannopyranosyl-alpha-D-mannopyranose
+6	D0U690	UDP-xylose
+7	D0U690	6-O-alpha-D-mannopyranosyl-alpha-D-mannopyranose
+8	D0U690	more
+0	Q9X1N5	UDP-N-acetyl-D-glucosamine
+1	Q9X1N5	heptaprenyl phosphate
+2	Q9X1N5	UDP-N-acetyl-D-glucosamine
+3	Q9X1N5	ditrans,polycis-undecaprenyl phosphate
+4	Q9X1N5	more
+5	Q9X1N5	UDP-N-acetyl-D-glucosamine
+6	Q9X1N5	dodecaprenyl phosphate
+7	Q9X1N5	UDP-N-acetyl-D-glucosamine
+8	Q9X1N5	octaprenyl phosphate
+9	Q9X1N5	UDP-N-acetyl-D-glucosamine
+10	Q9X1N5	pentadecaprenyl phosphate
+11	Q9X1N5	UDP-N-acetyl-alpha-D-glucosamine
+12	Q9X1N5	ditrans,octacis-undecaprenyl phosphate
+13	Q9X1N5	UDP-N-acetyl-alpha-D-glucosamine
+14	Q9X1N5	ditrans,octacis-undecaprenyl phosphate
+15	P0AC78	UDP-N-acetyl-D-glucosamine
+16	P0AC78	ditrans,polycis-undecaprenyl phosphate
+17	P0AC78	UDP-N-acetyl-D-glucosamine
+18	P0AC78	pentadecaprenyl phosphate
+19	P0AC78	UDP-N-acetyl-D-glucosamine
+20	P0AC78	nonaprenyl phosphate
+21	O34753	UDP-N-acetyl-alpha-D-glucosamine
+22	O34753	ditrans,octacis-undecaprenyl phosphate
+23	O34753	UDP-N-acetyl-alpha-D-glucosamine
+24	O34753	ditrans,octacis-undecaprenyl phosphate
+0	O29976	CDP-1L-myo-inositol
+1	O29976	1L-myo-inositol 1-phosphate
+2	O29976	CDP-glycerol
+3	O29976	1L-myo-inositol 1-phosphate
+4	Q8U1Z6	CDP-1L-myo-inositol
+5	Q8U1Z6	1L-myo-inositol 1-phosphate
+6	Q8U1Z6	CDP-D-myo-inositol
+7	Q8U1Z6	1L-myo-inositol 1-phosphate
+8	Q8U1Z6	CDP-glycerol
+9	Q8U1Z6	1D-myo-inositol 3-phosphate
+10	Q5JDA9	CDP-1L-myo-inositol
+11	Q5JDA9	1L-myo-inositol 1-phosphate
+12	Q5JDA9	CDP-D-myo-inositol
+13	Q5JDA9	1L-myo-inositol 1-phosphate
+14	Q5JDA9	CDP-glycerol
+15	Q5JDA9	1D-myo-inositol 3-phosphate
+16	O67379	CDP-1L-myo-inositol
+17	O67379	1L-myo-inositol 1-phosphate
+18	O67379	CDP-D-myo-inositol
+19	O67379	1L-myo-inositol 1-phosphate
+20	O67379	CDP-glycerol
+21	O67379	1D-myo-inositol 3-phosphate
+0	P0AC78	UDP-N-acetyl-alpha-D-glucosamine
+1	P0AC78	trans,octacis-decaprenyl phosphate
+2	P0AC78	UDP-N-acetyl-alpha-D-glucosamine
+3	P0AC78	trans,octacis-decaprenyl phosphate
+4	P0AC78	more
+5	P9WMW5	UDP-N-acetyl-alpha-D-glucosamine
+6	P9WMW5	trans,octacis-decaprenyl phosphate
+7	P9WMW5	UDP-N-acetyl-alpha-D-glucosamine
+8	P9WMW5	trans,octacis-decaprenyl phosphate
+9	P9WMW5	more
+10	A0R211	UDP-N-acetyl-alpha-D-glucosamine
+11	A0R211	trans,octacis-decaprenyl phosphate
+12	A0R211	UDP-N-acetyl-alpha-D-glucosamine
+13	A0R211	trans,octacis-decaprenyl phosphate
+14	A0R211	more
+0	O27106	CDP-1,2-bis-O-(oleoyl)-sn-glycerol
+1	O27106	L-serine
+2	O27106	CDP-1,2-diacylglycerol
+3	O27106	L-serine
+4	O27106	CDP-2,3-bis-O-(geranylgeranyl)-sn-glycerol
+5	O27106	L-serine
+6	O27106	CDP-2,3-bis-O-(phytanyl)-sn-glycerol
+7	O27106	L-serine
+8	O27106	CDP-1,2-bis-O-(geranylgeranyl)-sn-glycerol
+9	O27106	L-serine
+10	O27106	CDP-2,3-bis-O-(oleoyl)-sn-glycerol
+11	O27106	L-serine
+0	O27726	CDP-2,3-bis-O-(phytanyl)-sn-glycerol
+1	O27726	1L-myo-inositol 1-phosphate
+2	Q9YBS3	CDP-2,3-bis-(O-phytanyl)-sn-glycerol
+3	Q9YBS3	1L-myo-inositol 1-phosphate
+4	Q7LXU6	CDP-2,3-bis-(O-phytanyl)-sn-glycerol
+5	Q7LXU6	1L-myo-inositol 1-phosphate
+0	B3FN88	UDP-N-acetyl-alpha-D-galactosamine
+1	B3FN88	ditrans,octacis-undecaprenyl phosphate
+0	Q9KZP3	a CDP-diacylglycerol
+1	Q9KZP3	a phosphatidylglycerol
+2	Q9UJA2	CDP-dimyristoylglycerol
+3	Q9UJA2	1,2-dioleoylphosphatidylglycerol
+4	Q9UJA2	CDP-dioleoylglycerol
+5	Q9UJA2	1,2-dilinoleoylphosphatidylglycerol
+6	Q9UJA2	CDP-dioleoylglycerol
+7	Q9UJA2	1,2-dimyristoylphosphatidylglycerol
+8	Q9UJA2	CDP-dioleoylglycerol
+9	Q9UJA2	1,2-dipalmitoylphosphatidylglycerol
+10	Q9UJA2	CDP-dioleoylglycerol
+11	Q9UJA2	1-oleoyl-2-linoleoyl phosphatidylglycerol
+12	Q9UJA2	CDP-dioleoylglycerol
+13	Q9UJA2	1-palmitoyl-2-oleoyl phosphatidylglycerol
+14	Q9UJA2	CDP-dipalmitoylglycerol
+15	Q9UJA2	1,2-dioleoylphosphatidylglycerol
+16	Q9UJA2	egg yolk CDP-diacylglycerol
+17	Q9UJA2	1,2-dioleoylphosphatidylglycerol
+18	Q9UJA2	CDP-dioleoylglycerol
+19	Q9UJA2	1,2-dioleoylphosphatidylglycerol
+20	Q07560	CDP-dioleoylglycerol
+21	Q07560	1,2-dioleoylphosphatidylglycerol
+22	Q93YW7	CDP-dioleoylglycerol
+23	Q93YW7	dioleoylphosphatidylglycerol
+24	Q93YW7	CDP-dioleoylglycerol
+25	Q93YW7	dipalmitoylphosphatidylglycerol
+26	A8JAW5	a CDP-diacylglycerol
+27	A8JAW5	a phosphatidylglycerol
+0	P37661	diacylphosphatidylethanolamine
+1	P37661	alpha-D-Kdo-(2->4)-alpha-D-Kdo-(2->6)-lipid A
+2	P37661	diacylphosphatidylethanolamine
+3	P37661	alpha-D-Kdo-(2->4)-alpha-D-Kdo-(2->6)-lipid IVA
+0	O24867	more
+1	O24867	diacylphosphatidylethanolamine
+2	O24867	lipid A
+3	O24867	diacylphosphatidylethanolamine
+4	O24867	lipid A
+5	A0A3X8T8A0	more
+6	A0A3X8T8A0	diacylphosphatidylethanolamine
+7	A0A3X8T8A0	flagellar rod protein FlgG
+8	A0A3X8T8A0	diacylphosphatidylethanolamine
+9	A0A3X8T8A0	lipid A
+10	A0A3X8T8A0	diacylphosphatidylethanolamine
+11	A0A3X8T8A0	lipid A
+12	E2FGC2	more
+13	Q5F6F3	diacylphosphatidylethanolamine
+14	Q5F6F3	lipid A
+15	X5ELY0	more
+16	X5ELY0	diacylphosphatidylethanolamine
+17	X5ELY0	lipid A
+18	A7MFE0	diacylphosphatidylethanolamine
+19	A7MFE0	lipid A
+20	A0A069Q704	diacylphosphatidylethanolamine
+21	A0A069Q704	lipid A
+22	A0A3Z8TVG8	more
+23	A0A3Z8TVG8	diacylphosphatidylethanolamine
+24	A0A3Z8TVG8	flagellar rod protein FlgG
+25	A0A3Z8TVG8	diacylphosphatidylethanolamine
+26	A0A3Z8TVG8	lipid A
+27	A0A3Z8TVG8	diacylphosphatidylethanolamine
+28	A0A3Z8TVG8	lipid A
+29	P75785	more
+30	P75785	diacylphosphatidylethanolamine
+31	P75785	arbutin
+32	Q7VMW0	diacylphosphatidylethanolamine
+33	Q7VMW0	lipid A
+34	Q7VMW0	diacylphosphatidylethanolamine
+35	Q7VMW0	lipid A
+36	S4UV19	more
+37	S4UV19	diacylphosphatidylethanolamine
+38	S4UV19	O-antigen serotype 4av
+39	S4UV19	diacylphosphatidylethanolamine
+40	S4UV19	O-antigen serotype Xv
+41	S4UV19	diacylphosphatidylethanolamine
+42	S4UV19	O-antigen serotype Yv
+43	A0A0H5BY27	more
+44	A0A0H5BY27	diacylphosphatidylethanolamine
+45	A0A0H5BY27	lipid A
+46	P0ADV1	more
+47	Q8Z1P4	diacylphosphatidylethanolamine
+48	Q8Z1P4	lipid A
+49	Q7DD94	more
+50	Q7DD94	1,2-dihexanoyl-sn-glycero-3-phosphoethanolamine
+51	Q7DD94	lipid A
+52	Q7DD94	1,2-dihexanoyl-sn-glycero-3-phosphoethanolamine
+53	Q7DD94	lipid A
+54	Q7DD94	1,2-dipalmitoyl-sn-glycero-3-phosphoethanolamine
+55	Q7DD94	lipid A
+56	Q7DD94	1,2-dipalmitoyl-sn-glycero-3-phosphoethanolamine
+57	Q7DD94	lipid A
+58	P36555	more
+59	P36555	diacylphosphatidylethanolamine
+60	P36555	lipid A
+61	P30845	more
+62	Q7DDQ9	more
+63	Q7DDQ9	diacylphosphatidylethanolamine
+64	Q7DDQ9	lipid A
+65	Q7DDQ9	diacylphosphatidylethanolamine
+66	Q7DDQ9	lipid A
+0	P27621	CDP-glycerol
+1	P27621	N-acetyl-beta-D-mannosaminyl-(1->4)-N-acetyl-alpha-D-glucosaminyl diphospho-ditrans,octacis-undecaprenol
+2	Q2G2X4	CDP-glycerol
+3	Q2G2X4	N-acetyl-beta-D-mannosaminyl-(1->4)-N-acetyl-alpha-D-glucosaminyl diphospho-ditrans,octacis-undecaprenol
+0	Q2G1C1	CDP-glycerol
+1	Q2G1C1	4-O-[(2R)-1-glycerophospho]-N-acetyl-beta-D-mannosaminyl-(1->4)-N acetyl-alpha-D-glucosaminyl-diphospho-ditrans,octacis-undecaprenol
+0	Q8RKJ1	CDP-ribitol
+1	Q8RKJ1	4-O-[(2R)-1-glycerophospho]-N-acetyl-beta-D-mannosaminyl-(1->4)-N acetyl-alpha-D-glucosaminyl-diphospho-ditrans,octacis-undecaprenol
+2	Q8RKJ1	more
+3	Q2G1C2	CDP-ribitol
+4	Q2G1C2	4-O-[(2R)-1-glycerophospho]-N-acetyl-beta-D-mannosaminyl-(1->4)-N acetyl-alpha-D-glucosaminyl-diphospho-ditrans,octacis-undecaprenol
+5	Q2G1C2	more
+0	Q2G1C2	more
+1	Q2G1C2	n CDP-ribitol
+2	Q2G1C2	4-O-[1-D-ribitylphospho-(2R)-1-glycerophospho]-N-acetyl-beta-D mannosaminyl-(1->4)-N-acetyl-alpha-D-glucosaminyl-diphospho-ditrans octacis-undecaprenol
+3	Q8RKJ2	n CDP-ribitol
+4	Q8RKJ2	4-O-[1-D-ribitylphospho-(2R)-1-glycerophospho]-N-acetyl-beta-D mannosaminyl-(1->4)-N-acetyl-alpha-D-glucosaminyl-diphospho-ditrans octacis-undecaprenol
+0	O80952	CDP-diacylglycerol
+1	O80952	sn-glycero-3-phosphate
+2	O80952	CDP-diacylglycerol
+3	O80952	sn-glycero-3-phosphate
+4	O80952	more
+5	O80952	CDP-diacylglycerol
+6	O80952	sn-glycerol 3-phosphate
+7	Q9M2W3	CDP-diacylglycerol
+8	Q9M2W3	sn-glycero-3-phosphate
+9	Q9M2W3	CDP-diacylglycerol
+10	Q9M2W3	sn-glycero-3-phosphate
+11	Q9M2W3	more
+12	Q874C6	more
+13	Q874C6	CDP-1,2-diacyl-sn-glycerol
+14	Q874C6	sn-glycerol 3-phosphate
+15	Q9Z2Z7	CDP-1,2-diacyl-sn-glycerol
+16	Q9Z2Z7	sn-glycerol 3-phosphate
+17	Q32NB8	CDP-diacylglycerol
+18	Q32NB8	sn-glycerol 3-phosphate
+0	Q7BG44	more
+1	Q7BG44	UDP-D-galactose
+2	Q7BG44	phosphoryl-polyprenol
+0	Q9RFL1	CoA
+1	Q9RFL1	apo-[acyl-carrier protein]
+2	Q9RFL1	CoA
+3	Q9RFL1	apo-[acyl-carrier protein]
+4	Q9RFL1	more
+5	Q9F0Q6	CoA
+6	Q9F0Q6	apo-[acyl-carrier protein]
+7	Q9F0Q6	CoA
+8	Q9F0Q6	apo-[acyl-carrier protein]
+9	Q9F0Q6	more
+10	Q9F0Q6	CoA
+11	Q9F0Q6	apo-[peptidyl carrier protein]
+12	P0A2W3	CoA
+13	P0A2W3	apo-[acyl-carrier protein]
+14	P0A2W3	CoA
+15	P0A2W3	apo-[acyl-carrier protein]
+16	P0A2W3	more
+17	Q5I4D4	acetyl-CoA
+18	Q5I4D4	apo-[acyl-carrier protein]
+19	Q5I4D4	acetyl-CoA
+20	Q5I4D4	apo-[acyl-carrier protein]
+21	Q5I4D4	CoA
+22	Q5I4D4	apo-[acyl-carrier protein]
+23	Q5I4D4	CoA
+24	Q5I4D4	apo-[acyl-carrier protein]
+25	Q2MGB1	more
+26	Q2MGB1	CoA
+27	Q2MGB1	apo-[fredericamycin H acyl-carrier protein]
+28	Q2MGB1	CoA
+29	Q2MGB1	apo-[tetracenomycin M acyl-carrier protein]
+30	P24224	acetoacetyl-CoA
+31	P24224	apo-[acyl-carrier protein]
+32	P24224	acetoacetyl-CoA
+33	P24224	apo-[acyl-carrier protein]
+34	P24224	malonyl-CoA
+35	P24224	apo-[acyl-carrier protein]
+36	P24224	malonyl-CoA
+37	P24224	apo-[acyl-carrier protein]
+38	P24224	butyryl-CoA
+39	P24224	apo-[acyl-carrier protein]
+40	P24224	CoA-[4'-phosphopantetheine]
+41	P24224	apo-[acyl-carrier protein]
+42	P24224	acetyl-CoA
+43	P24224	apo-[acyl-carrier protein]
+44	P24224	acetyl-CoA
+45	P24224	apo-[acyl-carrier protein]
+46	P24224	CoA
+47	P24224	apo-[acyl-carrier protein]
+48	P24224	CoA
+49	P24224	apo-[acyl-carrier protein]
+50	P24224	more
+51	Q9NRN7	CoA-[4'-phosphopantetheine]
+52	Q9NRN7	apo-[acyl-carrier protein]
+53	Q9NRN7	more
+54	Q9NRN7	apo-[acyl-carrier protein]
+55	Q9NRN7	acetyl-CoA
+56	Q12036	CoA
+57	Q12036	apo-[acyl-carrier protein]
+58	Q12036	CoA
+59	Q12036	apo-[acyl-carrier protein]
+60	Q54MI2	more
+61	Q54MI2	acetyl-CoA
+62	Q54MI2	polyketide synthase 1
+63	Q54MI2	acetyl-CoA
+64	Q54MI2	polyketide synthase 16
+65	Q54MI2	acetyl-CoA
+66	Q54MI2	polyketide synthase 2
+67	Q552R4	more
+68	Q552R4	acetyl-CoA
+69	Q552R4	acyl-carrier protein
+70	H9N839	CoA-[4'-phosphopantetheine]
+71	H9N839	apo-[acyl-carrier protein]
+72	H9N839	more
+73	H9N836	CoA-[4'-phosphopantetheine]
+74	H9N836	apo-[acyl-carrier protein]
+75	H9N836	more
+76	O33336	CoA-[4'-phosphopantetheine]
+77	O33336	apo-[acyl-carrier protein]
+78	Q8VYK1	CoA-[4'-phosphopantetheine]
+79	Q8VYK1	apo-[acyl-carrier protein]
+80	Q8VYK1	more
+81	I2N4F3	CoA-[4'-phosphopantetheine]
+82	I2N4F3	apo-[acyl-carrier protein]
+83	I2N4F3	more
+84	A0A0Y0SAB4	CoA-[4'-phosphopantetheine]
+85	A0A0Y0SAB4	apo-[acyl-carrier protein]
+86	A0A0Y0SAB4	more
+87	A0A0Y0S258	CoA-[4'-phosphopantetheine]
+88	A0A0Y0S258	apo-[acyl-carrier protein]
+89	A0A0Y0S258	more
+90	A0A109R3N8	CoA-[4'-phosphopantetheine]
+91	A0A109R3N8	apo-[acyl-carrier protein]
+92	A0A109R3N8	more
+93	Q5APF3	CoA-[4'-phosphopantetheine]
+94	Q5APF3	apo-[acyl-carrier protein]
+95	A0A0X8EK72	CoA-[4'-phosphopantetheine]
+96	A0A0X8EK72	apo-[acyl-carrier protein]
+97	A0A0X8EK72	more
+98	E2QFX9	CoA-[4'-phosphopantetheine]
+99	E2QFX9	apo-[acyl-carrier protein]
+100	P39135	CoA-[4'-phosphopantetheine]
+101	P39135	apo-[acyl-carrier protein]
+102	P39135	CoA-[4'-phosphopantetheine]
+103	P39135	apo-[acyl-carrier protein]
+104	P19925	CoA-[4'-phosphopantetheine]
+105	P19925	apo-[acyl-carrier protein]
+106	Q0P7J0	CoA-[4'-phosphopantetheine]
+107	Q0P7J0	apo-[acyl-carrier protein]
+108	Q27IP6	CoA-[4'-phosphopantetheine]
+109	Q27IP6	apo-[acyl-carrier protein]
+110	Q63I03	CoA-[4'-phosphopantetheine]
+111	Q63I03	apo-[acyl-carrier protein]
+112	O86785	CoA-[4'-phosphopantetheine]
+113	O86785	apo-[acyl-carrier protein]
+114	O86785	CoA-[4'-phosphopantetheine]
+115	O86785	apo-[acyl-carrier protein]
+116	P9WQD3	CoA-[4'-phosphopantetheine]
+117	P9WQD3	apo-[acyl-carrier protein]
+118	O88029	CoA-[4'-phosphopantetheine]
+119	O88029	apo-[acyl-carrier protein]
+120	O88029	CoA-[4'-phosphopantetheine]
+121	O88029	apo-[acyl-carrier protein]
+122	Q74V64	CoA-[4'-phosphopantetheine]
+123	Q74V64	apo-[acyl-carrier protein]
+124	Q75PZ2	CoA-[4'-phosphopantetheine]
+125	Q75PZ2	apo-[acyl-carrier protein]
+126	Q5DK20	CoA-[4'-phosphopantetheine]
+127	Q5DK20	apo-[acyl-carrier protein]
+128	Q9RCF2	CoA-[4'-phosphopantetheine]
+129	Q9RCF2	apo-[acyl-carrier protein]
+130	Q9I4H2	CoA-[4'-phosphopantetheine]
+131	Q9I4H2	apo-[acyl-carrier protein]
+132	A0PU93	CoA-[4'-phosphopantetheine]
+133	A0PU93	apo-[acyl-carrier protein]
+134	D2U8G6	CoA-[4'-phosphopantetheine]
+135	D2U8G6	apo-[acyl-carrier protein]
+136	Q4QCW3	CoA-[4'-phosphopantetheine]
+137	Q4QCW3	apo-[acyl-carrier protein]
+138	Q4QCW3	more
+139	P63466	CoA-[4'-phosphopantetheine]
+140	P63466	apo-[acyl-carrier protein]
+141	P63466	more
+142	Q9UVK7	CoA-[4'-phosphopantetheine]
+143	Q9UVK7	apo-[acyl-carrier protein]
+0	P23830	CDP-diacylglycerol
+1	P23830	L-serine
+2	Q0JR55	CDP-diacylglycerol
+3	Q0JR55	L-serine
+0	O76283	ATP
+1	O76283	pyruvate
+2	O76283	phosphate
+3	O76283	ATP
+4	O76283	pyruvate
+5	O76283	phosphate
+6	P11155	ATP
+7	P11155	pyruvate
+8	P11155	phosphate
+9	P11155	ATP
+10	P11155	pyruvate
+11	P11155	phosphate
+12	P11155	AMP
+13	P11155	phosphoenolpyruvate
+14	P11155	diphosphate
+15	P11155	AMP
+16	P11155	phosphoenolpyruvate
+17	P11155	diphosphate
+18	Q2LIW1	more
+19	Q2LIW2	more
+20	A2GU49	more
+21	Q70WQ6	ATP
+22	Q70WQ6	pyruvate
+23	Q70WQ6	phosphate
+24	Q70WQ6	ATP
+25	Q70WQ6	pyruvate
+26	Q70WQ6	phosphate
+27	P22983	ATP
+28	P22983	pyruvate
+29	P22983	phosphate
+30	P22983	ATP
+31	P22983	pyruvate
+32	P22983	phosphate
+33	P22983	more
+34	P22983	ATP
+35	P22983	PPDK N-terminal domain construct of residues 1-340 (Tem-340)
+36	P22983	phosphate
+37	P22983	ATP
+38	P22983	PPDK N-terminal domain construct of residues 1-553 (Tem340-Cent-I)
+39	P22983	phosphate
+40	P22983	ATP
+41	P22983	PPDK central domain construct of residues 381-512 (Cent-I)
+42	P22983	phosphate
+43	P22983	AMP
+44	P22983	phosphoenolpyruvate
+45	P22983	diphosphate
+46	P22983	AMP
+47	P22983	phosphoenolpyruvate
+48	P22983	diphosphate
+49	Q27662	ATP
+50	Q27662	pyruvate
+51	Q27662	phosphate
+52	Q27662	ATP
+53	Q27662	pyruvate
+54	Q27662	phosphate
+55	Q9GN79	ATP
+56	Q9GN79	pyruvate
+57	Q9GN79	phosphate
+58	Q9GN79	ATP
+59	Q9GN79	pyruvate
+60	Q9GN79	phosphate
+61	Q9GN79	more
+62	Q9GN79	AMP
+63	Q9GN79	phosphoenolpyruvate
+64	Q9GN79	diphosphate
+65	Q9GN79	AMP
+66	Q9GN79	phosphoenolpyruvate
+67	Q9GN79	diphosphate
+68	Q42368	ATP
+69	Q42368	pyruvate
+70	Q42368	phosphate
+71	Q42368	ATP
+72	Q42368	pyruvate
+73	Q42368	phosphate
+74	Q75KR1	ATP
+75	Q75KR1	pyruvate
+76	Q75KR1	phosphate
+77	Q75KR1	ATP
+78	Q75KR1	pyruvate
+79	Q75KR1	phosphate
+80	D3K3U9	ATP
+81	D3K3U9	pyruvate
+82	D3K3U9	phosphate
+83	D3K3U9	ATP
+84	D3K3U9	pyruvate
+85	D3K3U9	phosphate
+86	P51776	ATP
+87	P51776	pyruvate
+88	P51776	phosphate
+89	P51776	ATP
+90	P51776	pyruvate
+91	P51776	phosphate
+92	Q2YMM9	ATP
+93	Q2YMM9	pyruvate
+94	Q2YMM9	phosphate
+95	Q2YMM9	ATP
+96	Q2YMM9	pyruvate
+97	Q2YMM9	phosphate
+0	P42850	ATP
+1	P42850	pyruvate
+2	P42850	H2O
+3	P42850	ATP
+4	P42850	pyruvate
+5	P42850	H2O
+6	P42850	ATP
+7	P42850	pyruvate
+8	P42850	H2O
+9	P42850	AMP
+10	P42850	phosphoenolpyruvate
+11	P42850	phosphate
+12	P42850	AMP
+13	P42850	phosphoenolpyruvate
+14	P42850	phosphate
+15	Q97V40	ATP
+16	Q97V40	pyruvate
+17	Q97V40	H2O
+18	Q97V40	ATP
+19	Q97V40	pyruvate
+20	Q97V40	H2O
+21	Q97V40	ATP
+22	Q97V40	pyruvate
+23	Q97V40	H2O
+24	P23538	ATP
+25	P23538	pyruvate
+26	P23538	H2O
+27	P23538	ATP
+28	P23538	pyruvate
+29	P23538	H2O
+30	P23538	ATP
+31	P23538	pyruvate
+32	P23538	H2O
+33	P23538	ATP
+34	P23538	3-fluoropyruvate
+35	P23538	H2O
+36	Q70WQ8	ATP
+37	Q70WQ8	pyruvate
+38	Q70WQ8	H2O
+39	Q70WQ8	ATP
+40	Q70WQ8	pyruvate
+41	Q70WQ8	H2O
+42	Q70WQ8	ATP
+43	Q70WQ8	pyruvate
+44	Q70WQ8	H2O
+45	Q70WQ8	more
+0	P49903	ATP
+1	P49903	selenide
+2	P49903	H2O
+3	P49903	ATP
+4	P49903	selenide
+5	P49903	H2O
+6	Q99611	ATP
+7	Q99611	selenide
+8	Q99611	H2O
+9	Q99611	ATP
+10	Q99611	selenide
+11	Q99611	H2O
+12	Q99611	more
+13	P97364	ATP
+14	P97364	selenide
+15	P97364	H2O
+16	P97364	ATP
+17	P97364	selenide
+18	P97364	H2O
+19	P97364	more
+20	P97364	ATP
+21	P97364	selenide
+22	Q5V6B2	more
+23	O67139	ATP
+24	O67139	selenide
+25	O67139	H2O
+26	O67139	ATP
+27	O67139	selenide
+28	O67139	H2O
+29	O67139	more
+30	O67139	ATP
+31	O67139	selenide
+32	Q4Q0M0	ATP
+33	Q4Q0M0	selenide
+34	Q4Q0M0	H2O
+35	Q4Q0M0	ATP
+36	Q4Q0M0	selenide
+37	Q4Q0M0	H2O
+38	Q4Q0M0	ATP
+39	Q4Q0M0	selenide
+40	Q8BH69	ATP
+41	Q8BH69	selenide
+42	Q8BH69	H2O
+43	Q8BH69	ATP
+44	Q8BH69	selenide
+45	Q8BH69	H2O
+46	Q8BH69	more
+47	Q9VKY8	more
+48	Q9VKY8	ATP
+49	Q9VKY8	selenide
+50	Q831E4	more
+51	Q831E4	ATP
+52	Q831E4	selenide
+53	F5CBP8	ATP
+54	F5CBP8	selenide
+55	F5CBP8	H2O
+56	F5CBP8	ATP
+57	F5CBP8	selenide
+58	F5CBP8	H2O
+59	P16456	ATP
+60	P16456	selenide
+61	P16456	H2O
+62	P16456	ATP
+63	P16456	selenide
+64	P16456	H2O
+65	P60820	ATP
+66	P60820	selenide
+67	P60820	H2O
+68	P60820	ATP
+69	P60820	selenide
+70	P60820	H2O
+71	Q38A34	ATP
+72	Q38A34	selenide
+73	Q38A34	H2O
+74	Q38A34	ATP
+75	Q38A34	selenide
+76	Q38A34	H2O
+77	O18373	ATP
+78	O18373	selenide
+79	O18373	H2O
+80	O18373	ATP
+81	O18373	selenide
+82	O18373	H2O
+83	O62461	ATP
+84	O62461	selenide
+85	O62461	H2O
+86	O62461	ATP
+87	O62461	selenide
+88	O62461	H2O
+0	Q9STV0	ATP
+1	Q9STV0	alpha-glucan
+2	Q9STV0	H2O
+3	Q9STV0	ATP
+4	Q9STV0	crystalline maltodextrin
+5	Q9STV0	H2O
+6	Q9STV0	more
+7	Q9STV0	ATP
+8	Q9STV0	amylopectin
+9	Q9STV0	H2O
+10	D7PCT9	ATP
+11	D7PCT9	starch
+12	D7PCT9	H2O
+13	Q9SAC6	ATP
+14	Q9SAC6	alpha-glucan
+15	Q9SAC6	H2O
+16	Q9SAC6	ATP
+17	Q9SAC6	crystalline maltodextrin
+18	Q9SAC6	H2O
+19	Q9SAC6	more
+20	C3W8P1	ATP
+21	C3W8P1	alpha-glucan
+22	C3W8P1	H2O
+23	Q9AWA5	ATP
+24	Q9AWA5	alpha-glucan
+25	Q9AWA5	H2O
+26	Q9AWA5	more
+27	Q9AWA5	amylopectin
+28	Q9AWA5	ATP
+29	Q9AWA5	H2O
+30	Q9AWA5	ATP
+31	Q9AWA5	starch
+32	Q9AWA5	H2O
+33	Q9AWA5	ATP
+34	Q9AWA5	6-O-alpha-maltosyl-beta-cyclodextrin
+35	Q9AWA5	H2O
+36	Q9AWA5	ATP
+37	Q9AWA5	alpha-cyclodextrin
+38	Q9AWA5	H2O
+39	Q9AWA5	ATP
+40	Q9AWA5	amylose 18
+41	Q9AWA5	H2O
+42	Q9AWA5	ATP
+43	Q9AWA5	amylose 24
+44	Q9AWA5	H2O
+45	Q9AWA5	ATP
+46	Q9AWA5	amylose 53
+47	Q9AWA5	H2O
+48	Q9AWA5	ATP
+49	Q9AWA5	amylose 85
+50	Q9AWA5	H2O
+51	Q9AWA5	ATP
+52	Q9AWA5	beta-cyclodextrin
+53	Q9AWA5	H2O
+54	Q9AWA5	ATP
+55	Q9AWA5	granular potato starch
+56	Q9AWA5	H2O
+57	Q9AWA5	ATP
+58	Q9AWA5	potato amylopektin
+59	Q9AWA5	H2O
+60	Q9AWA5	ATP
+61	Q9AWA5	potato amylose
+62	Q9AWA5	H2O
+63	B5B3R3	ATP
+64	B5B3R3	alpha-glucan
+65	B5B3R3	H2O
+0	D2JRZ6	ATP
+1	D2JRZ6	[phospho-alpha-glucan]
+2	D2JRZ6	H2O
+3	D2JRZ6	ATP
+4	D2JRZ6	alpha-glucan
+5	D2JRZ6	H2O
+6	Q6ZY51	more
+7	Q6ZY51	ATP
+8	Q6ZY51	alpha-glucan
+9	Q6ZY51	H2O
+10	Q6ZY51	ATP
+11	Q6ZY51	crystalline maltodextrin
+12	Q6ZY51	H2O
+0	Q9RLT9	ATP
+1	Q9RLT9	rifampicin
+2	Q9RLT9	H2O
+3	A0A059WGE7	ATP
+4	A0A059WGE7	rifampicin
+5	A0A059WGE7	H2O
+0	Q9FKW8	thiosulfate
+1	Q9FKW8	cyanide
+2	Q9FKW8	thiosulfate
+3	Q9FKW8	cyanide
+4	Q9FKW8	cyanide
+5	Q9FKW8	3-mercaptopyruvate
+6	Q39129	thiosulfate
+7	Q39129	cyanide
+8	Q39129	thiosulfate
+9	Q39129	cyanide
+10	Q39129	cyanide
+11	Q39129	3-mercaptopyruvate
+12	Q38853	thiosulfate
+13	Q38853	cyanide
+14	Q38853	thiosulfate
+15	Q38853	cyanide
+16	Q24JL3	thiosulfate
+17	Q24JL3	cyanide
+18	Q24JL3	thiosulfate
+19	Q24JL3	cyanide
+20	O64530	thiosulfate
+21	O64530	cyanide
+22	O64530	thiosulfate
+23	O64530	cyanide
+24	O64530	cyanide
+25	O64530	3-mercaptopyruvate
+26	P00586	thiosulfate
+27	P00586	cyanide
+28	P00586	thiosulfate
+29	P00586	cyanide
+30	P52197	thiosulfate
+31	P52197	cyanide
+32	P52197	thiosulfate
+33	P52197	cyanide
+0	O31618	1-deoxy-D-xylulose 5-phosphate
+1	O31618	2-iminoacetate
+2	O31618	thiocarboxy-adenylate-[sulfur-carrier protein ThiS]
+3	P32318	more
+4	P32318	1-deoxy-D-xylulose 5-phosphate
+5	P32318	2-iminoacetate
+6	P32318	thiocarboxy-adenylate-[sulfur-carrier protein ThiS]
+7	P30139	more
+0	O95396	more
+1	O95396	[molybdopterin-synthase sulfur-carrier protein]-Gly-Gly-AMP
+2	O95396	[cysteine desulfurase]-S-sulfanyl-L-cysteine
+0	Q6MWY3	cyclic pyranopterin phosphate
+1	Q6MWY3	[molybdopterin-synthase sulfur-carrier protein]-Gly-NH-CH2-C(O)SH
+2	Q6MWY3	H2O
+3	O96007	cyclic pyranopterin phosphate
+4	O96007	2 [molybdopterin-synthase sulfur-carrier protein]-Gly-NH-CH2-C(O)SH
+5	O96007	H2O
+6	P30749	cyclic pyranopterin phosphate
+7	P30749	2 [molybdopterin-synthase sulfur-carrier protein]-Gly-NH-CH2-C(O)SH
+8	P30749	H2O
+0	P25745	more
+1	P25745	TusE-SSH
+2	P25745	adenylated-tRNA-uridine
+3	O35020	a [protein]-S-sulfanyl-L-cysteine
+4	O35020	uridine34 in tRNA
+5	O35020	ATP
+6	O35020	reduced acceptor
+0	Q72LF3	ATP
+1	Q72LF3	[TtuB sulfur-carrier protein]-Gly-NH-CH2-C(O)SH
+2	Q72LF3	5-methyuracil54 in tRNA
+3	Q72LF3	H2O
+4	Q72LF3	ATP
+5	Q72LF3	[TtuB sulfur-carrier protein]-Gly-NH-CH2-C(O)SH
+6	Q72LF3	5-methyluridine54 in tRNA
+7	Q72LF3	acceptor
+8	Q72LF3	ATP
+9	Q72LF3	[TtuB sulfur-carrier protein]-Gly-NH-CH2-C(O)SH
+10	Q72LF3	5-methyuracil54 in tRNA
+11	Q72LF3	H2O
+12	O58038	ATP
+13	O58038	[TtuB sulfur-carrier protein]-Gly-NH-CH2-C(O)SH
+14	O58038	5-methyluridine54 in tRNA
+15	O58038	acceptor
+16	O58038	ATP
+17	O58038	[TtuB sulfur-carrier protein]-Gly-NH-CH2-C(O)SH
+18	O58038	5-methyuracil54 in tRNA
+19	O58038	H2O
+0	Q57564	hydrogen sulfide
+1	Q57564	L-aspartate 4-semialdehyde
+2	Q57564	2 reduced ferredoxin [iron-sulfur] cluster
+3	Q57564	2 H+
+4	Q8TPT4	hydrogen sulfide
+5	Q8TPT4	L-aspartate 4-semialdehyde
+6	Q8TPT4	2 reduced ferredoxin [iron-sulfur] cluster
+7	Q8TPT4	2 H+
+0	Q24JL3	3-mercaptopyruvate
+1	Q24JL3	cyanide
+2	Q7K9G0	3-mercaptopyruvate
+3	Q7K9G0	cyanide
+4	Q7K9G0	sulfane sulfur
+5	Q7K9G0	cyanide
+6	Q7K9G0	thiosulfate
+7	Q7K9G0	thioredoxin
+8	Q8T381	3-mercaptopyruvate
+9	Q8T381	cyanide
+10	Q8T381	sulfane sulfur
+11	Q8T381	cyanide
+12	Q8T381	thiosulfate
+13	Q8T381	thioredoxin
+14	Q99J99	3-mercaptopyruvate
+15	Q99J99	cyanide
+16	Q99J99	more
+17	Q99J99	3-mercaptopyruvate
+18	Q99J99	HSO3-
+19	Q99J99	3-mercaptopyruvate
+20	Q99J99	cyanide
+21	P97532	3-mercaptopyruvate
+22	P97532	cyanide
+23	P97532	more
+24	P97532	3-mercaptopyruvate
+25	P97532	thioredoxin
+26	P97532	thiosulfate
+27	P97532	cyanide
+28	P97532	3-mercaptopyruvate
+29	P97532	dithiothreitol
+30	P31142	3-mercaptopyruvate
+31	P31142	cyanide
+32	P25325	3-mercaptopyruvate
+33	P25325	cyanide
+34	P25325	3-mercaptopyruvate
+35	P25325	dithiothreitol
+36	P25325	3-mercaptopyruvate
+37	P25325	2-mercaptoethanol
+38	P25325	3-mercaptopyruvate
+39	P25325	L-cysteine
+40	P25325	3-mercaptopyruvate
+41	P25325	L-homocysteine
+42	P25325	3-mercaptopyruvate
+43	P25325	dihydrolipoic acid
+44	P25325	3-mercaptopyruvate
+45	P25325	glutathione
+46	P25325	3-mercaptopyruvate
+47	P25325	thioredoxin
+0	O76365	more
+1	O94282	more
+2	Q6LXJ6	sulfide
+3	Q6LXJ6	[tRNACys]-uridine
+4	Q6LXJ6	sulfide
+5	Q6LXJ6	tRNA-uridine
+0	I3RJK8	more
+1	I3RJK8	thiosulfate
+2	I3RJK8	2 dithiothreitol
+0	Q9M0V0	dethiobiotin
+1	Q9M0V0	sulfur
+2	Q8W3L1	dethiobiotin
+3	Q8W3L1	sulfur
+4	O49543	dethiobiotin
+5	O49543	sulfur
+6	Q9HF48	more
+7	P12996	dethiobiotin
+8	P12996	sulfur
+9	P12996	9-mercaptodethiobiotin
+10	P12996	[S]
+11	P12996	S-adenosyl-L-methionine
+12	P12996	dethiobiotin
+13	P12996	[S]
+14	P12996	S-adenosyl-L-methionine
+15	P12996	dethiobiotin
+16	P12996	[S]
+17	P12996	S-adenosyl-L-methionine
+18	P12996	dethiobiotin
+19	P12996	sulfur
+20	P12996	S-adenosyl-L-methionine
+21	Q8S904	dethiobiotin
+22	Q8S904	sulfur
+0	O49543	L-cysteine
+1	O49543	[enzyme]-cysteine
+2	Q8WQX4	more
+3	P25745	L-cysteine
+4	P25745	[enzyme]-cysteine
+5	P25745	more
+6	Q460H9	more
+7	Q460H9	L-cysteine
+8	Q460H9	L-cysteine sulfinic acid
+9	Q460H9	?
+10	Q460H9	L-selenocysteine
+11	Q460H9	?
+12	Q386Y7	L-cysteine
+13	Q386Y7	[enzyme]-cysteine
+14	P77444	L-selenocysteine
+15	Q55793	L-cysteine
+16	Q55793	SufS
+17	A7TUX7	L-cysteine
+18	A7TUX7	[enzyme]-cysteine
+19	Q93WX6	L-cysteine
+20	Q93WX6	[enzyme]-cysteine
+21	Q93WX6	L-cysteine
+22	Q93WX6	acceptor
+23	D4GYV5	more
+24	D4GYV5	L-cysteine
+25	D4GYV5	acceptor
+26	O32164	L-cysteine
+27	O32164	acceptor
+28	Q46925	L-cysteine
+29	Q46925	acceptor
+0	Q9ZWT1	protein N6-(octanoyl)lysine
+1	Q9ZWT1	sulfur
+2	Q9ZWT1	S-adenosyl-L-methionine
+3	Q9ZWT1	protein N6-(octanoyl)lysine
+4	Q9ZWT1	sulfur
+5	Q9ZWT1	S-adenosyl-L-methionine
+0	Q9C5X8	molybdenum cofactor
+1	Q9C5X8	L-cysteine
+2	Q9C5X8	H+
+3	Q9C5X8	L-cysteine
+4	Q9C5X8	L-cysteine methyl ester
+5	Q9C5X8	L-selenocysteine
+6	Q9C5X8	MoO2(OH)Dtpp-mP
+7	Q9C5X8	L-cysteine
+8	Q9C5X8	2 H+
+9	Q9C5X8	more
+10	A0A0B5A169	molybdenum cofactor
+11	A0A0B5A169	L-cysteine
+12	A0A0B5A169	reduced acceptor
+13	A0A0B5A169	2 H+
+0	P50226	more
+1	P50226	3'-phosphoadenylyl sulfate
+2	P50226	2-naphthylamine
+3	P50226	3'-phosphoadenylyl sulfate
+4	P50226	phenol
+5	P50226	3'-phosphoadenylyl sulfate
+6	P50226	N-hydroxy-4-aminobiphenyl
+7	P50226	3'-phosphoadenylyl sulfate
+8	P50226	caffeic acid
+9	P50226	3'-phosphoadenylyl sulfate
+10	P50226	catechol
+11	P50226	3'-phosphoadenylyl sulfate
+12	P50226	17beta-estradiol
+13	P52847	more
+14	P52847	3'-phosphoadenylylsulfate
+15	P52847	3,3',5-triiodo-D-thyronine
+16	P52847	3'-phosphoadenylylsulfate
+17	P52847	3,5-diiodo-L-thyronine
+18	P52847	3'-phosphoadenylyl sulfate
+19	P52847	a phenol
+20	P52847	3'-phosphoadenylyl sulfate
+21	P52847	a phenol
+22	P52847	3'-phosphoadenylylsulfate
+23	P52847	4-nitrophenol
+24	P52847	3'-phosphoadenylylsulfate
+25	P52847	4-nitrophenol
+26	P52847	3'-phosphoadenylylsulfate
+27	P52847	dopamine
+28	P52847	3'-phosphoadenylylsulfate
+29	P52847	3,3',5'-triiodo-L-thyronine
+30	P52847	3'-phosphoadenylylsulfate
+31	P52847	L-3,4-dihydroxyphenylalanine
+32	P52847	3'-phosphoadenylylsulfate
+33	P52847	D-3,4-dihydroxyphenylalanine
+34	P52847	3'-phosphoadenylylsulfate
+35	P52847	DL-tyrosine
+36	P52847	3'-phosphoadenylylsulfate
+37	P52847	3,3',5-triiodo-L-thyronine
+38	P52847	3'-phosphoadenylylsulfate
+39	P52847	L-tyrosine
+40	P52847	3'-phosphoadenylylsulfate
+41	P52847	L-tyrosine
+42	P50225	3'-phosphoadenylyl sulfate
+43	P50225	dopamine
+44	P50225	3'-phosphoadenylyl sulfate
+45	P50225	4-nitrophenol
+46	P50225	3'-phosphoadenylyl sulfate
+47	P50225	4-nitrophenol
+48	P50225	3'-phosphoadenylyl sulfate
+49	P50225	1-naphthol
+50	P50225	more
+51	P50225	3'-phosphoadenylyl sulfate
+52	P50225	2-naphthylamine
+53	P50225	3'-phosphoadenylyl sulfate
+54	P50225	phenol
+55	P50225	3'-phosphoadenylyl sulfate
+56	P50225	N-hydroxy-4-aminobiphenyl
+57	P50225	3'-phosphoadenylyl sulfate
+58	P50225	caffeic acid
+59	P50225	3'-phosphoadenylyl sulfate
+60	P50225	catechol
+61	P50225	3'-phosphoadenylylsulfate
+62	P50225	3,3',5-triiodo-D-thyronine
+63	P50225	3'-phosphoadenylylsulfate
+64	P50225	3,5-diiodo-L-thyronine
+65	P50225	3'-phosphoadenylyl sulfate
+66	P50225	3-cyano-7-hydroxycoumarin
+67	P50225	3'-phosphoadenylyl sulfate
+68	P50225	5-amino-2-(4-amino-3-fluorophenyl)-6 8-difluoro-7-methyl-4H-1-benzopyran-4-one
+69	P50225	3'-phosphoadenylyl sulfate
+70	P50225	acetaminophen
+71	P50225	3'-phosphoadenylyl sulfate
+72	P50225	apigenin
+73	P50225	3'-phosphoadenylyl sulfate
+74	P50225	aristolochic acid
+75	P50225	3'-phosphoadenylyl sulfate
+76	P50225	chrysin
+77	P50225	3'-phosphoadenylyl sulfate
+78	P50225	isoproterenol
+79	P50225	3'-phosphoadenylyl sulfate
+80	P50225	minoxidil
+81	P50225	3'-phosphoadenylyl sulfate
+82	P50225	resveratrol
+83	P50225	3'-phosphoadenylyl sulfate
+84	P50225	resveratrol
+85	P50225	3'-phosphoadenylyl sulfate
+86	P50225	trans-4-hydroxytamoxifen
+87	P50225	3'-phosphoadenylylsulfate
+88	P50225	epinephrine
+89	P50225	3'-phosphoadenylylsulfate
+90	P50225	norepinephrine
+91	P50225	3'-phosphoadenylyl sulfate
+92	P50225	3alpha-hydroxytibolone
+93	P50225	3'-phosphoadenylyl sulfate
+94	P50225	3beta-hydroxytibolone
+95	P50225	3'-phosphoadenylyl sulfate
+96	P50225	fenoterol
+97	P50225	3'-phosphoadenylyl sulfate
+98	P50225	p-nitrophenol
+99	P50225	3'-phosphoadenylyl sulfate
+100	P50225	ritodrine
+101	P50225	3'-phosphoadenylyl sulfate
+102	P50225	salbutamol
+103	P50225	3'-phosphoadenylyl sulfate
+104	P50225	terbutaline
+105	P50225	3'-phosphoadenylylsulfate
+106	P50225	4-chlorocatechol
+107	P50225	3'-phosphoadenylylsulfate
+108	P50225	4-isopropylcatechol
+109	P50225	3'-phosphoadenylylsulfate
+110	P50225	4-methylcatechol
+111	P50225	3'-phosphoadenylylsulfate
+112	P50225	catechol
+113	P50225	3'-phosphoadenylyl sulfate
+114	P50225	2-aminophenol
+115	P50225	3'-phosphoadenylyl sulfate
+116	P50225	2,3,3',5,5',6-hexachlorobiphenyl-4'-yl
+117	P50225	3'-phosphoadenylyl sulfate
+118	P50225	2,3,5,5',6-pentachlorobiphenyl-4'-yl
+119	P50225	3'-phosphoadenylyl sulfate
+120	P50225	3',4',5-trichlorobiphenyl-2-yl
+121	P50225	3'-phosphoadenylyl sulfate
+122	P50225	4-chlorobiphenyl-3'-ol
+123	P50225	3'-phosphoadenylyl sulfate
+124	P50225	4-chlorobiphenyl-4'-ol
+125	P50225	3'-phosphoadenylylsulfate
+126	P50225	L-thyroxine
+127	P50225	3'-phosphoadenylyl sulfate
+128	P50225	epicatechin
+129	P50225	3'-phosphoadenylyl sulfate
+130	P50225	2-naphthol
+131	P50225	3'-phosphoadenylyl sulfate
+132	P50225	2-naphthol
+133	P50225	3'-phosphoadenylyl sulfate
+134	P50225	3,4-dihydroxyphenylacetic acid
+135	P50225	3'-phosphoadenylyl sulfate
+136	P50225	L-triiodothyronine
+137	P50225	3'-phosphoadenylyl sulfate
+138	P50225	beta-estradiol
+139	P50225	3'-phosphoadenylyl sulfate
+140	P50225	dehydroepiandrosterone
+141	P50225	3'-phosphoadenylyl sulfate
+142	P50225	desipramine
+143	P50225	3'-phosphoadenylyl sulfate
+144	P50225	xanthurenic acid
+145	P50225	3'-phosphoadenylylsulfate
+146	P50225	tyramine
+147	P50225	3'-phosphoadenylyl sulfate
+148	P50225	a phenol
+149	P50225	3'-phosphoadenylyl sulfate
+150	P50225	a phenol
+151	P50225	3'-phosphoadenylylsulfate
+152	P50225	4-nitrophenol
+153	P50225	3'-phosphoadenylylsulfate
+154	P50225	4-nitrophenol
+155	P50225	3'-phosphoadenylylsulfate
+156	P50225	dopamine
+157	P50225	3'-phosphoadenylyl sulfate
+158	P50225	17beta-estradiol
+159	P50225	3'-phosphoadenylylsulfate
+160	P50225	3,3',5'-triiodo-L-thyronine
+161	P50225	3'-phosphoadenylyl sulfate
+162	P50225	2-methoxyestradiol
+163	P50225	3'-phosphoadenylyl sulfate
+164	P50225	4-hydroxytamoxifen
+165	P50225	3'-phosphoadenylyl sulfate
+166	P50225	dopamine
+167	P50225	3'-phosphoadenylyl sulfate
+168	P50225	dopamine
+169	P50225	3'-phosphoadenylylsulfate
+170	P50225	3,3'-diiodo-L-thyronine
+171	P50225	3'-phosphoadenylylsulfate
+172	P50225	3,3',5-triiodo-L-thyronine
+173	P50225	3'-phosphoadenylylsulfate
+174	P50225	4-methylphenol
+175	P50225	3'-phosphoadenylylsulfate
+176	P50225	phenol
+177	P50225	3'-phosphoadenylylsulfate
+178	P50225	2-naphthol
+179	P50225	3'-phosphoadenylylsulfate
+180	P50225	2-naphthol
+181	P50225	3'-phosphoadenylyl sulfate
+182	P50225	quercetin
+183	P50225	3'-phosphoadenylylsulfate
+184	P50225	4-chlorophenol
+185	P0DMM9	3'-phosphoadenylyl sulfate
+186	P0DMM9	dopamine
+187	P0DMM9	3'-phosphoadenylyl sulfate
+188	P0DMM9	4-nitrophenol
+189	P0DMM9	3'-phosphoadenylyl sulfate
+190	P0DMM9	4-nitrophenol
+191	P0DMM9	3'-phosphoadenylyl sulfate
+192	P0DMM9	1-naphthol
+193	P0DMM9	more
+194	P0DMM9	3'-phosphoadenylyl sulfate
+195	P0DMM9	2-naphthylamine
+196	P0DMM9	3'-phosphoadenylyl sulfate
+197	P0DMM9	phenol
+198	P0DMM9	3'-phosphoadenylyl sulfate
+199	P0DMM9	N-hydroxy-4-aminobiphenyl
+200	P0DMM9	3'-phosphoadenylyl sulfate
+201	P0DMM9	caffeic acid
+202	P0DMM9	3'-phosphoadenylyl sulfate
+203	P0DMM9	catechol
+204	P0DMM9	3'-phosphoadenylyl sulfate
+205	P0DMM9	3alpha-hydroxytibolone
+206	P0DMM9	3'-phosphoadenylyl sulfate
+207	P0DMM9	3beta-hydroxytibolone
+208	P0DMM9	3'-phosphoadenylyl sulfate
+209	P0DMM9	fenoterol
+210	P0DMM9	3'-phosphoadenylyl sulfate
+211	P0DMM9	p-nitrophenol
+212	P0DMM9	3'-phosphoadenylyl sulfate
+213	P0DMM9	ritodrine
+214	P0DMM9	3'-phosphoadenylyl sulfate
+215	P0DMM9	salbutamol
+216	P0DMM9	3'-phosphoadenylyl sulfate
+217	P0DMM9	terbutaline
+218	P0DMM9	3'-phosphoadenylylsulfate
+219	P0DMM9	4-chlorocatechol
+220	P0DMM9	3'-phosphoadenylylsulfate
+221	P0DMM9	4-isopropylcatechol
+222	P0DMM9	3'-phosphoadenylylsulfate
+223	P0DMM9	4-methylcatechol
+224	P0DMM9	3'-phosphoadenylylsulfate
+225	P0DMM9	catechol
+226	P0DMM9	3'-phosphoadenylyl sulfate
+227	P0DMM9	2-aminophenol
+228	P0DMM9	2 3'-phosphoadenylyl sulfate
+229	P0DMM9	2 dopamine
+230	P0DMM9	3'-phosphoadenylyl sulfate
+231	P0DMM9	3-nitro-L-tyrosine
+232	P0DMM9	3'-phosphoadenylyl sulfate
+233	P0DMM9	3-nitro-L-tyrosine
+234	P0DMM9	3'-phosphoadenylyl sulfate
+235	P0DMM9	6-hydroxydopamine
+236	P0DMM9	3'-phosphoadenylyl sulfate
+237	P0DMM9	7-hydroxyserotonin
+238	P0DMM9	3'-phosphoadenylyl sulfate
+239	P0DMM9	DL-3-hydroxyphenylalanine
+240	P0DMM9	3'-phosphoadenylyl sulfate
+241	P0DMM9	L-DOPA
+242	P0DMM9	3'-phosphoadenylyl sulfate
+243	P0DMM9	L-tyrosine
+244	P0DMM9	3'-phosphoadenylyl sulfate
+245	P0DMM9	isoproterenol
+246	P0DMM9	3'-phosphoadenylyl sulfate
+247	P0DMM9	serotonin
+248	P0DMM9	3'-phosphoadenylylsulfate
+249	P0DMM9	benzyl alcohol
+250	P0DMM9	3'-phosphoadenylyl sulfate
+251	P0DMM9	3,4-dihydroxyphenylacetic acid
+252	P0DMM9	3'-phosphoadenylyl sulfate
+253	P0DMM9	L-triiodothyronine
+254	P0DMM9	3'-phosphoadenylyl sulfate
+255	P0DMM9	beta-estradiol
+256	P0DMM9	3'-phosphoadenylyl sulfate
+257	P0DMM9	dehydroepiandrosterone
+258	P0DMM9	3'-phosphoadenylyl sulfate
+259	P0DMM9	desipramine
+260	P0DMM9	3'-phosphoadenylyl sulfate
+261	P0DMM9	xanthurenic acid
+262	P0DMM9	3'-phosphoadenylylsulfate
+263	P0DMM9	tyramine
+264	P0DMM9	3'-phosphoadenylyl sulfate
+265	P0DMM9	a phenol
+266	P0DMM9	3'-phosphoadenylyl sulfate
+267	P0DMM9	a phenol
+268	P0DMM9	3'-phosphoadenylylsulfate
+269	P0DMM9	dopamine
+270	P0DMM9	3'-phosphoadenylyl sulfate
+271	P0DMM9	17beta-estradiol
+272	P0DMM9	3'-phosphoadenylyl sulfate
+273	P0DMM9	dopamine
+274	P0DMM9	3'-phosphoadenylyl sulfate
+275	P0DMM9	dopamine
+276	P0DMM9	3'-phosphoadenylylsulfate
+277	P0DMM9	4-methylphenol
+278	P0DMM9	3'-phosphoadenylylsulfate
+279	P0DMM9	phenol
+280	P0DMM9	3'-phosphoadenylylsulfate
+281	P0DMM9	4-chlorophenol
+282	Q9XT99	more
+283	Q9XT99	3'-phosphoadenylylsulfate
+284	Q9XT99	tyramine
+285	Q9XT99	3'-phosphoadenylylsulfate
+286	Q9XT99	2-amino-4'-hydroxy-1-methyl-6-phenylimidazo[4,5-b]pyridine
+287	Q9XT99	3'-phosphoadenylylsulfate
+288	Q9XT99	3,4-dihydroxyphenylacetate
+289	Q9XT99	3'-phosphoadenylylsulfate
+290	Q9XT99	4-hydroxy-3-methoxyphenylglycol
+291	Q9XT99	3'-phosphoadenylylsulfate
+292	Q9XT99	5,7-dihydroxyflavanone
+293	Q9XT99	3'-phosphoadenylylsulfate
+294	Q9XT99	5-(hydroxyphenyl)-5-(p-tolyl)-hydantoin
+295	Q9XT99	3'-phosphoadenylylsulfate
+296	Q9XT99	5-hydroxyindole
+297	Q9XT99	3'-phosphoadenylylsulfate
+298	Q9XT99	5-hydroxytryptophol
+299	Q9XT99	3'-phosphoadenylylsulfate
+300	Q9XT99	6-hydroxymelatonin
+301	Q9XT99	3'-phosphoadenylylsulfate
+302	Q9XT99	epinephrine
+303	Q9XT99	3'-phosphoadenylylsulfate
+304	Q9XT99	harmol
+305	Q9XT99	3'-phosphoadenylylsulfate
+306	Q9XT99	naringenin
+307	Q9XT99	3'-phosphoadenylylsulfate
+308	Q9XT99	normetanephrine
+309	Q9XT99	3'-phosphoadenylylsulfate
+310	Q9XT99	phentolamine
+311	Q9XT99	3'-phosphoadenylylsulfate
+312	Q9XT99	sakuranetin
+313	Q9XT99	3'-phosphoadenylylsulfate
+314	Q9XT99	salicylamide
+315	Q9XT99	3'-phosphoadenylylsulfate
+316	Q9XT99	troglitazone
+317	Q9XT99	3'-phosphoadenylylsulfate
+318	Q9XT99	umbelliferone
+319	Q9XT99	3'-phosphoadenylylsulfate
+320	Q9XT99	minoxidil
+321	Q9XT99	3'-phosphoadenylylsulfate
+322	Q9XT99	beta-estradiol
+323	Q9XT99	3'-phosphoadenylylsulfate
+324	Q9XT99	serotonin
+325	Q9XT99	3'-phosphoadenylyl sulfate
+326	Q9XT99	a phenol
+327	Q9XT99	3'-phosphoadenylyl sulfate
+328	Q9XT99	a phenol
+329	Q9XT99	3'-phosphoadenylylsulfate
+330	Q9XT99	4-nitrophenol
+331	Q9XT99	3'-phosphoadenylylsulfate
+332	Q9XT99	4-nitrophenol
+333	Q9XT99	3'-phosphoadenylylsulfate
+334	Q9XT99	dopamine
+335	Q9XT99	3'-phosphoadenylylsulfate
+336	Q9XT99	norepinephrine
+337	Q9XT99	3'-phosphoadenylylsulfate
+338	Q9XT99	3-hydroxybenzo[a]pyrene
+339	Q9XT99	3'-phosphoadenylylsulfate
+340	Q9XT99	4-methylumbelliferone
+341	Q29476	more
+342	Q29476	3'-phosphoadenylylsulfate
+343	Q29476	minoxidil
+344	Q29476	3'-phosphoadenylylsulfate
+345	Q29476	beta-estradiol
+346	Q29476	3'-phosphoadenylyl sulfate
+347	Q29476	a phenol
+348	Q29476	3'-phosphoadenylyl sulfate
+349	Q29476	a phenol
+350	Q29476	3'-phosphoadenylylsulfate
+351	Q29476	4-nitrophenol
+352	Q29476	3'-phosphoadenylylsulfate
+353	Q29476	4-nitrophenol
+354	Q29476	3'-phosphoadenylylsulfate
+355	Q29476	dopamine
+356	Q29476	3'-phosphoadenylylsulfate
+357	Q29476	2-naphthol
+358	Q29476	3'-phosphoadenylylsulfate
+359	Q29476	2-naphthol
+360	Q95KM3	3'-phosphoadenylyl sulfate
+361	Q95KM3	a phenol
+362	Q95KM3	3'-phosphoadenylyl sulfate
+363	Q95KM3	a phenol
+364	Q3UZZ6	more
+365	Q3UZZ6	3'-phosphoadenylylsulfate
+366	Q3UZZ6	2-naphthylamine
+367	Q3UZZ6	3'-phosphoadenylylsulfate
+368	Q3UZZ6	serotonin
+369	Q3UZZ6	3'-phosphoadenylyl sulfate
+370	Q3UZZ6	a phenol
+371	Q3UZZ6	3'-phosphoadenylyl sulfate
+372	Q3UZZ6	a phenol
+373	Q3UZZ6	3'-phosphoadenylylsulfate
+374	Q3UZZ6	4-nitrophenol
+375	Q3UZZ6	3'-phosphoadenylylsulfate
+376	Q3UZZ6	4-nitrophenol
+377	Q3UZZ6	3'-phosphoadenylylsulfate
+378	Q3UZZ6	dopamine
+379	Q3UZZ6	3'-phosphoadenylylsulfate
+380	Q3UZZ6	L-3,4-dihydroxyphenylalanine
+381	Q3UZZ6	3'-phosphoadenylylsulfate
+382	Q3UZZ6	3,3',5-triiodo-L-thyronine
+383	Q3UZZ6	3'-phosphoadenylylsulfate
+384	Q3UZZ6	2-naphthol
+385	Q3UZZ6	3'-phosphoadenylylsulfate
+386	Q3UZZ6	2-naphthol
+387	P52846	more
+388	P52846	3'-phosphoadenylyl sulfate
+389	P52846	a phenol
+390	P52846	3'-phosphoadenylyl sulfate
+391	P52846	a phenol
+392	O43704	3'-phosphoadenylyl sulfate
+393	O43704	4-nitrophenol
+394	O43704	3'-phosphoadenylyl sulfate
+395	O43704	4-nitrophenol
+396	O43704	more
+397	O43704	3'-phosphoadenylyl sulfate
+398	O43704	2-naphthylamine
+399	O43704	3'-phosphoadenylyl sulfate
+400	O43704	phenol
+401	O43704	3'-phosphoadenylylsulfate
+402	O43704	3,3',5-triiodo-D-thyronine
+403	O43704	3'-phosphoadenylylsulfate
+404	O43704	3,5-diiodo-L-thyronine
+405	O43704	3'-phosphoadenylyl sulfate
+406	O43704	2-aminophenol
+407	O43704	3'-phosphoadenylyl sulfate
+408	O43704	2,3,3',5,5',6-hexachlorobiphenyl-4'-yl
+409	O43704	3'-phosphoadenylyl sulfate
+410	O43704	2,3,5,5',6-pentachlorobiphenyl-4'-yl
+411	O43704	3'-phosphoadenylyl sulfate
+412	O43704	3',4',5-trichlorobiphenyl-2-yl
+413	O43704	3'-phosphoadenylyl sulfate
+414	O43704	4-chlorobiphenyl-3'-ol
+415	O43704	3'-phosphoadenylyl sulfate
+416	O43704	4-chlorobiphenyl-4'-ol
+417	O43704	3'-phosphoadenylylsulfate
+418	O43704	L-thyroxine
+419	O43704	3'-phosphoadenylylsulfate
+420	O43704	beta-estradiol
+421	O43704	3'-phosphoadenylyl sulfate
+422	O43704	a phenol
+423	O43704	3'-phosphoadenylyl sulfate
+424	O43704	a phenol
+425	O43704	3'-phosphoadenylylsulfate
+426	O43704	4-nitrophenol
+427	O43704	3'-phosphoadenylylsulfate
+428	O43704	4-nitrophenol
+429	O43704	3'-phosphoadenylylsulfate
+430	O43704	dopamine
+431	O43704	3'-phosphoadenylylsulfate
+432	O43704	1-naphthol
+433	O43704	3'-phosphoadenylylsulfate
+434	O43704	3,3',5'-triiodo-L-thyronine
+435	O43704	3'-phosphoadenylylsulfate
+436	O43704	L-3,4-dihydroxyphenylalanine
+437	O43704	3'-phosphoadenylylsulfate
+438	O43704	D-3,4-dihydroxyphenylalanine
+439	O43704	3'-phosphoadenylylsulfate
+440	O43704	DL-tyrosine
+441	O43704	3'-phosphoadenylylsulfate
+442	O43704	3,3'-diiodo-L-thyronine
+443	O43704	3'-phosphoadenylylsulfate
+444	O43704	L-tyrosine
+445	O43704	3'-phosphoadenylylsulfate
+446	O43704	L-tyrosine
+447	O43704	3'-phosphoadenylylsulfate
+448	O43704	D-tyrosine
+449	Q9QWG7	3'-phosphoadenylyl sulfate
+450	Q9QWG7	4-nitrophenol
+451	Q9QWG7	3'-phosphoadenylyl sulfate
+452	Q9QWG7	4-nitrophenol
+453	Q9QWG7	3'-phosphoadenylyl sulfate
+454	Q9QWG7	1-naphthol
+455	Q9QWG7	more
+456	Q9QWG7	3'-phosphoadenylyl sulfate
+457	Q9QWG7	3,4-dihydroxyphenylacetic acid
+458	Q9QWG7	3'-phosphoadenylyl sulfate
+459	Q9QWG7	L-triiodothyronine
+460	Q9QWG7	3'-phosphoadenylyl sulfate
+461	Q9QWG7	beta-estradiol
+462	Q9QWG7	3'-phosphoadenylyl sulfate
+463	Q9QWG7	dehydroepiandrosterone
+464	Q9QWG7	3'-phosphoadenylyl sulfate
+465	Q9QWG7	desipramine
+466	Q9QWG7	3'-phosphoadenylyl sulfate
+467	Q9QWG7	xanthurenic acid
+468	Q9QWG7	3'-phosphoadenylyl sulfate
+469	Q9QWG7	a phenol
+470	Q9QWG7	3'-phosphoadenylyl sulfate
+471	Q9QWG7	a phenol
+472	Q9QWG7	3'-phosphoadenylylsulfate
+473	Q9QWG7	dopamine
+474	Q9QWG7	3'-phosphoadenylylsulfate
+475	Q9QWG7	L-3,4-dihydroxyphenylalanine
+476	Q9QWG7	3'-phosphoadenylylsulfate
+477	Q9QWG7	D-3,4-dihydroxyphenylalanine
+478	Q9QWG7	3'-phosphoadenylylsulfate
+479	Q9QWG7	DL-tyrosine
+480	Q9QWG7	3'-phosphoadenylylsulfate
+481	Q9QWG7	3,3',5-triiodo-L-thyronine
+482	Q9QWG7	3'-phosphoadenylylsulfate
+483	Q9QWG7	L-tyrosine
+484	Q9QWG7	3'-phosphoadenylylsulfate
+485	Q9QWG7	L-tyrosine
+486	Q9QWG7	3'-phosphoadenylylsulfate
+487	Q9QWG7	D-tyrosine
+488	P50237	more
+489	P50237	3'-phosphoadenylyl sulfate
+490	P50237	a phenol
+491	P50237	3'-phosphoadenylyl sulfate
+492	P50237	a phenol
+493	P50237	3'-phosphoadenylylsulfate
+494	P50237	4-nitrophenol
+495	P50237	3'-phosphoadenylylsulfate
+496	P50237	4-nitrophenol
+497	O00338	more
+498	O00338	3'-phosphoadenylyl sulfate
+499	O00338	2-naphthylamine
+500	O00338	3'-phosphoadenylyl sulfate
+501	O00338	phenol
+502	O00338	3'-phosphoadenylyl sulfate
+503	O00338	N-hydroxy-4-aminobiphenyl
+504	O00338	3'-phosphoadenylyl sulfate
+505	O00338	caffeic acid
+506	O00338	3'-phosphoadenylyl sulfate
+507	O00338	catechol
+508	O00338	3'-phosphoadenylyl sulfate
+509	O00338	a phenol
+510	O00338	3'-phosphoadenylyl sulfate
+511	O00338	a phenol
+512	O00338	3'-phosphoadenylylsulfate
+513	O00338	4-nitrophenol
+514	O00338	3'-phosphoadenylylsulfate
+515	O00338	4-nitrophenol
+516	O00338	3'-phosphoadenylyl sulfate
+517	O00338	N-hydroxy-4-aminobiphenyl
+518	O00338	3'-phosphoadenylyl sulfate
+519	O00338	17beta-estradiol
+520	O75897	more
+521	O75897	3'-phosphoadenylyl sulfate
+522	O75897	a phenol
+523	O75897	3'-phosphoadenylyl sulfate
+524	O75897	a phenol
+525	O75897	3'-phosphoadenylylsulfate
+526	O75897	4-nitrophenol
+527	O75897	3'-phosphoadenylylsulfate
+528	O75897	4-nitrophenol
+529	Q80VR3	more
+530	Q80VR3	3'-phosphoadenylyl sulfate
+531	Q80VR3	a phenol
+532	Q80VR3	3'-phosphoadenylyl sulfate
+533	Q80VR3	a phenol
+534	Q80VR3	3'-phosphoadenylylsulfate
+535	Q80VR3	cinnamyl alcohol
+536	Q80VR3	3'-phosphoadenylylsulfate
+537	Q80VR3	guaiacol
+538	Q80VR3	3'-phosphoadenylylsulfate
+539	Q80VR3	2-naphthol
+540	Q80VR3	3'-phosphoadenylylsulfate
+541	Q80VR3	2-naphthol
+542	O46503	more
+543	O46503	3'-phosphoadenylyl sulfate
+544	O46503	a phenol
+545	O46503	3'-phosphoadenylyl sulfate
+546	O46503	a phenol
+547	O46503	3'-phosphoadenylylsulfate
+548	O46503	4-nitrophenol
+549	O46503	3'-phosphoadenylylsulfate
+550	O46503	4-nitrophenol
+551	O46503	3'-phosphoadenylylsulfate
+552	O46503	dopamine
+553	Q9WUW8	more
+554	Q9WUW8	3'-phosphoadenylylsulfate
+555	Q9WUW8	beta-estradiol
+556	Q9WUW8	3'-phosphoadenylyl sulfate
+557	Q9WUW8	a phenol
+558	Q9WUW8	3'-phosphoadenylyl sulfate
+559	Q9WUW8	a phenol
+560	Q9WUW8	3'-phosphoadenylylsulfate
+561	Q9WUW8	4-nitrophenol
+562	Q9WUW8	3'-phosphoadenylylsulfate
+563	Q9WUW8	4-nitrophenol
+564	Q9WUW8	3'-phosphoadenylylsulfate
+565	Q9WUW8	dopamine
+566	Q9WUW8	3'-phosphoadenylylsulfate
+567	Q9WUW8	1-naphthol
+568	Q9WUW8	3'-phosphoadenylylsulfate
+569	Q9WUW8	acetaminophen
+570	Q9WUW9	more
+571	Q9WUW9	3'-phosphoadenylyl sulfate
+572	Q9WUW9	a phenol
+573	Q9WUW9	3'-phosphoadenylyl sulfate
+574	Q9WUW9	a phenol
+575	Q6Y0X5	3'-phosphoadenylylsulfate
+576	Q6Y0X5	4-nitrophenol
+577	Q6Y0X5	3'-phosphoadenylylsulfate
+578	Q6Y0X5	4-nitrophenol
+579	Q6XZC1	more
+580	Q6XZC1	3'-phosphoadenylyl sulfate
+581	Q6XZC1	epicatechin
+582	Q6XZC1	3'-phosphoadenylyl sulfate
+583	Q6XZC1	2-naphthylamine
+584	Q6XZC1	3'-phosphoadenylyl sulfate
+585	Q6XZC1	beta-naphthol
+586	Q6XZC1	3'-phosphoadenylyl sulfate
+587	Q6XZC1	butylated hydroxyanisole
+588	Q6XZC1	3'-phosphoadenylyl sulfate
+589	Q6XZC1	catechin
+590	Q6XZC1	3'-phosphoadenylyl sulfate
+591	Q6XZC1	epigallocatechin gallate
+592	Q6XZC1	3'-phosphoadenylyl sulfate
+593	Q6XZC1	kaempferol
+594	Q6XZC1	3'-phosphoadenylyl sulfate
+595	Q6XZC1	myricetin
+596	Q6XZC1	3'-phosphoadenylyl sulfate
+597	Q6XZC1	n-propyl gallate
+598	Q6XZC1	3'-phosphoadenylyl sulfate
+599	Q6XZC1	quercetin
+600	P17988	3'-phosphoadenylyl sulfate
+601	P17988	4-nitrophenol
+602	P17988	3'-phosphoadenylyl sulfate
+603	P17988	4-nitrophenol
+604	P17988	more
+605	P17988	3'-phosphoadenylyl sulfate
+606	P17988	2-naphthol
+607	P17988	3'-phosphoadenylyl sulfate
+608	P17988	2-naphthol
+609	P17988	3'-phosphoadenylyl sulfate
+610	P17988	silybin B
+611	Q9BR01	3'-phosphoadenylyl sulfate
+612	Q9BR01	phenol
+613	P50227	3'-phosphoadenylyl sulfate
+614	P50227	a phenol
+615	P50227	3'-phosphoadenylyl sulfate
+616	P50227	a phenol
+617	P50227	3'-phosphoadenylyl sulfate
+618	P50227	7-hydroxycoumarin
+619	A0FIP8	3'-phosphoadenylyl sulfate
+620	A0FIP8	4-nitrophenol
+621	A0FIP8	3'-phosphoadenylyl sulfate
+622	A0FIP8	4-nitrophenol
+623	A0FIP8	more
+624	A0FIP8	3'-phosphoadenylyl sulfate
+625	A0FIP8	dopamine
+626	A0FIP8	3'-phosphoadenylyl sulfate
+627	A0FIP8	dopamine
+628	A0FIP8	3'-phosphoadenylyl sulfate
+629	A0FIP8	daidzein
+630	A0FIP8	3'-phosphoadenylyl sulfate
+631	A0FIP8	genistein
+632	A0FIP8	3'-phosphoadenylyl sulfate
+633	A0FIP8	nonyl phenol
+634	A0FIP8	3'-phosphoadenylyl sulfate
+635	A0FIP8	octyl phenol
+636	A0A0D6H805	3'-phosphoadenylyl sulfate
+637	A0A0D6H805	a phenol
+638	A0A0D6H805	3'-phosphoadenylyl sulfate
+639	A0A0D6H805	a phenol

@@ -1,0 +1,3903 @@
+	uniprot_ids	substrates
+0	Q09328	UDP-N-acetyl-D-glucosamine
+1	Q09328	6-(2-[N-acetyl-beta-D-glucosaminyl]-alpha-D-mannosyl)-beta-D-mannosyl-R
+2	Q09328	more
+3	P97259	UDP-N-acetyl-D-glucosamine
+4	P97259	octyl 6-O-[2-O-(2-acetamido-2-deoxy-beta-D-glucopyranosyl)-alpha-D mannopyranosyl]-beta-D-glucopyranoside
+5	Q08834	UDP-N-acetyl-D-glucosamine
+6	Q08834	octyl 6-O-[2-O-(2-acetamido-2-deoxy-beta-D-glucopyranosyl)-alpha-D mannopyranosyl]-beta-D-glucopyranoside
+0	A0A1D8PFK5	more
+1	A6ZKY2	UDP-N-acetyl-D-glucosamine
+2	A6ZKY2	[4-N-acetyl-beta-D-glucosaminyl-(1-)]n
+3	Q06BR7	more
+4	Q9GQC3	UDP-N-acetyl-D-glucosamine
+5	Q9GQC3	[1,4-(N-acetyl-beta-D-glucosaminyl)]n
+6	Q9GQ90	UDP-N-acetyl-D-glucosamine
+7	Q9GQ90	[1,4-(N-acetyl-beta-D-glucosaminyl)]n
+8	D7NQS8	UDP-N-acetyl-D-glucosamine
+9	D7NQS8	N-acetyl-D-glucosamine
+10	D7NQS8	UDP-N-acetyl-alpha-D-glucosamine
+11	D7NQS8	[(1->4)-N-acetyl-beta-D-glucosaminyl]n
+12	D7NQS9	UDP-N-acetyl-D-glucosamine
+13	D7NQS9	N-acetyl-D-glucosamine
+14	D7NQS9	UDP-N-acetyl-alpha-D-glucosamine
+15	D7NQS9	[(1->4)-N-acetyl-beta-D-glucosaminyl]n
+16	R4I3H8	UDP-N-acetyl-alpha-D-glucosamine
+17	R4I3H8	[1,4-(N-acetyl-beta-D-glucosaminyl)]n
+18	P14180	more
+19	P14180	UDP-N-acetyl-alpha-D-glucosamine
+20	P14180	[1,4-(N-acetyl-beta-D-glucosaminyl)]n
+21	Q9GV28	UDP-N-acetyl-alpha-D-glucosamine
+22	Q9GV28	[1,4-(N-acetyl-beta-D-glucosaminyl)]n
+23	A0A1V0HT57	UDP-N-acetyl-alpha-D-glucosamine
+24	A0A1V0HT57	[(1->4)-N-acetyl-beta-D-glucosaminyl]n
+25	Q01737	UDP-N-acetyl-alpha-D-glucosamine
+26	Q01737	[(1->4)-N-acetyl-beta-D-glucosaminyl]n
+27	A0A1I9RYC4	UDP-N-acetyl-D-glucosamine
+28	A0A1I9RYC4	N-acetyl-D-glucosamine
+29	A0A286QVM7	UDP-N-acetyl-alpha-D-glucosamine
+30	A0A286QVM7	[(1->4)-N-acetyl-beta-D-glucosaminyl]n
+31	A0A286QVM4	UDP-N-acetyl-alpha-D-glucosamine
+32	A0A286QVM4	[(1->4)-N-acetyl-beta-D-glucosaminyl]n
+33	Q8T4U2	more
+34	Q530Z6	more
+35	P78611	UDP-N-acetyl-D-glucosamine
+36	P78611	[1,4-(N-acetyl-beta-D-glucosaminyl)]n
+37	P30584	more
+38	P29465	more
+39	P29465	UDP-N-acetyl-D-glucosamine
+40	P29465	[1,4-(N-acetyl-beta-D-glucosaminyl)]n
+41	P29465	UDP-GlcNAc
+42	P29465	GlcNAc
+43	O13281	more
+44	Q2L6A0	more
+45	P30598	more
+46	P30599	more
+47	Q99126	more
+48	Q99127	more
+49	O13394	more
+50	O13395	more
+51	Q4P333	more
+52	P30600	more
+53	P30583	more
+54	Q5KCU4	more
+55	Q5YCX0	more
+56	Q6WD23	more
+57	Q8TGV2	more
+58	Q3I5Q4	more
+59	P23316	more
+60	P23316	UDP-N-acetyl-D-glucosamine
+61	P23316	[4-N-acetyl-beta-D-glucosaminyl-(1-)]n
+62	Q6WD22	more
+63	P30572	more
+64	P30573	more
+0	Q8NHY0	UDP-N-acetyl-D-galactosamine
+1	Q8NHY0	NeuAcalpha(2-3)Galbeta(1-4)Glc
+2	Q8NHY0	more
+3	Q8NHY0	UDP-N-acetyl-D-galactosamine
+4	Q8NHY0	Neu5Ac-alpha(2-3)Gal-beta(1-3)GlcNAc-beta-1-O-benzyl
+5	Q8NHY0	UDP-N-acetyl-D-galactosamine
+6	Q8NHY0	alpha(2-3)-sialylated glycoprotein
+7	Q8NHY0	UDP-N-acetyl-D-galactosamine
+8	Q8NHY0	fetuin
+0	Q6K1J1	UDP-glucuronate
+1	Q6K1J1	lorazepam
+2	Q6K1J1	more
+3	Q6K1J1	UDP-alpha-D-glucuronate
+4	Q6K1J1	(S)-naproxen
+5	Q6K1J1	UDP-glucuronate
+6	Q6K1J1	4-ethylphenol
+7	Q6K1J1	UDP-glucuronate
+8	Q6K1J1	4-nitrophenol
+9	Q6K1J1	UDP-glucuronate
+10	Q6K1J1	androstane-3,17-diol
+11	Q6K1J1	UDP-glucuronate
+12	Q6K1J1	eugenol
+13	Q6K1J1	UDP-glucuronate
+14	Q6K1J1	gemfibrozil
+15	Q6K1J1	UDP-glucuronate
+16	Q6K1J1	ketoprofen
+17	Q6K1J1	UDP-glucuronate
+18	Q6K1J1	morphine 3-glucuronide
+19	Q6K1J1	naproxen
+20	Q6K1J1	UDP-glucuronate
+21	Q6K1J1	UDP-glucuronate
+22	Q6K1J1	1-naphthol
+23	Q6K1J1	UDP-glucuronate
+24	Q6K1J1	4-methylumbelliferone
+25	P16662	acetaminophen
+26	P16662	UDP-glucuronate
+27	P16662	1-hydroxy[a]pyrene
+28	P16662	UDP-glucuronate
+29	P16662	21-hydroxyprogesterone
+30	P16662	UDP-glucuronate
+31	P16662	UDP-D-glucuronate
+32	P16662	11alpha-hydroxyprogesterone
+33	P16662	UDP-D-glucuronate
+34	P16662	3'-azido-3'-deoxythymidine
+35	P16662	UDP-D-glucuronate
+36	P16662	4-methylumbelliferone
+37	P16662	UDP-D-glucuronate
+38	P16662	estriol
+39	P16662	UDP-D-glucuronate
+40	P16662	zidovudine
+41	P16662	UDP-alpha-D-glucuronate
+42	P16662	diclofenac
+43	P16662	UDP-glucuronate
+44	P16662	10-gingerol
+45	P16662	UDP-glucuronate
+46	P16662	3-epideacetycinobufagin
+47	P16662	UDP-glucuronate
+48	P16662	3alpha,5beta-tetrahydroaldosterone
+49	P16662	UDP-glucuronate
+50	P16662	4-hydroxyestradiol
+51	P16662	UDP-glucuronate
+52	P16662	4-hydroxyretinoic acid
+53	P16662	UDP-glucuronate
+54	P16662	4-methylumbelliferone
+55	P16662	UDP-glucuronate
+56	P16662	5alpha-dihydroaldosterone
+57	P16662	UDP-glucuronate
+58	P16662	5alpha-tetrahydrocortisone
+59	P16662	UDP-glucuronate
+60	P16662	5beta-tetrahydrocortisone
+61	P16662	UDP-glucuronate
+62	P16662	8-gingerol
+63	P16662	UDP-glucuronate
+64	P16662	acceptor
+65	P16662	UDP-glucuronate
+66	P16662	aldosterone
+67	P16662	UDP-glucuronate
+68	P16662	all-trans-retinoic acid
+69	P16662	UDP-glucuronate
+70	P16662	chloramphenicol
+71	P16662	UDP-glucuronate
+72	P16662	epirubicin
+73	P16662	UDP-glucuronate
+74	P16662	estriol
+75	P16662	UDP-glucuronate
+76	P16662	naproxen
+77	P16662	UDP-glucuronate
+78	P16662	serotonin
+79	P16662	UDP-glucuronate
+80	P16662	zidovudine
+81	P16662	UDPglucuronate
+82	P16662	naproxen
+83	P16662	amitriptyline
+84	P16662	UDP-glucuronate
+85	P16662	epirubicin
+86	P16662	UDP-glucuronate
+87	P16662	etoposide
+88	P16662	UDP-glucuronate
+89	P16662	lorazepam
+90	P16662	UDP-glucuronate
+91	P16662	milnacipran
+92	P16662	UDP-glucuronate
+93	P16662	morphine
+94	P16662	UDP-glucuronate
+95	P16662	mycophenolate
+96	P16662	UDP-glucuronate
+97	P16662	olanzapine
+98	P16662	UDP-glucuronate
+99	P16662	oxazepam
+100	P16662	UDP-glucuronate
+101	P16662	zidovudine
+102	P16662	UDP-glucuronate
+103	P16662	zidovudine
+104	P16662	UDP-glucuronate
+105	P16662	zidovudine
+106	P16662	UDP-glucuronate
+107	P16662	UDP-glucuronate
+108	P16662	acceptor
+109	P16662	UDP-glucuronate
+110	P16662	ethanol
+111	P16662	UDP-D-glucuronate
+112	P16662	labetalol
+113	P16662	UDP-glucuronate
+114	P16662	naproxen
+115	P16662	UDP-glucuronate
+116	P16662	desmethylnaproxen
+117	P16662	morphine
+118	P16662	UDP-glucuronate
+119	P16662	xanthotoxol
+120	P16662	UDP-glucuronate
+121	P16662	(S)-oxazepam
+122	P16662	UDP-glucuronate
+123	P16662	UDP-D-glucuronate
+124	P16662	4-methylumbelliferone
+125	P16662	acetaminophen
+126	P16662	UDP-glucuronate
+127	P16662	11alpha-hydroxyprogesterone
+128	P16662	UDP-glucuronate
+129	P16662	UDP-glucuronate
+130	P16662	6-gingerol
+131	P16662	UDP-glucuronate
+132	P16662	flufenamic acid
+133	P16662	UDP-glucuronate
+134	P16662	leukotriene B4
+135	P16662	UDP-glucuronate
+136	P16662	mefenamic acid
+137	P16662	UDP-glucuronate
+138	P16662	niflumic acid
+139	P16662	UDP-glucuronate
+140	P16662	7-ethyl-10-hydroxycamptothecin
+141	P16662	UDP-glucuronate
+142	P16662	genistein
+143	P16662	UDP-glucuronate
+144	P16662	tamoxifen
+145	P16662	UDP-glucuronate
+146	P16662	zidovudine
+147	P16662	7-hydroxy-4-trifluoromethylcoumarin
+148	P16662	UDP-glucuronate
+149	P16662	1-hydroxybenzo(a)pyrene
+150	P16662	UDP-glucuronate
+151	P16662	3-hydroxybenzo(a)pyrene
+152	P16662	UDP-glucuronate
+153	P16662	7-hydroxy benzo(a)pyrene
+154	P16662	UDP-glucuronate
+155	P16662	9-hydroxybenzo(a)pyrene
+156	P16662	UDP-glucuronate
+157	P16662	2-(4-chlorophenyl)-5-(2-furyl)-4-oxazoleacetic acid
+158	P16662	UDP-glucuronate
+159	P16662	UDP-glucuronate
+160	P16662	mycophenolic acid
+161	P16662	vorinostat
+162	P16662	UDP-glucuronate
+163	P16662	UDP-glucuronate
+164	P16662	20-hydroxyeicosatetraenoic acid
+165	P16662	UDP-glucuronate
+166	P16662	6-gingerol
+167	P16662	UDP-glucuronate
+168	P16662	10-gingerol
+169	P16662	UDP-glucuronate
+170	P16662	8-gingerol
+171	P16662	UDP-glucuronate
+172	P16662	carvedilol
+173	P16662	16alpha-hydroxyprogesterone
+174	P16662	UDP-glucuronate
+175	P16662	anastrozole
+176	P16662	UDP-glucuronate
+177	P16662	hyodeoxycholic acid
+178	P16662	UDP-glucuronate
+179	P16662	4-hydroxyestrone
+180	P16662	UDP-glucuronate
+181	P16662	6alpha-hydroxyprogesterone
+182	P16662	UDP-glucuronate
+183	P16662	12-hydroxyeicosatetraenoic acid
+184	P16662	UDP-glucuronate
+185	P16662	13-hydroxyoctadecadienoic acid
+186	P16662	UDP-glucuronate
+187	P16662	5alpha-androstane-3alpha,17beta-diol
+188	P16662	UDP-glucuronate
+189	P16662	C-1748
+190	P16662	UDP-glucuronate
+191	P16662	17-epiestriol
+192	P16662	UDP-glucuronate
+193	P16662	4-nitrophenol
+194	P16662	UDP-glucuronate
+195	P16662	more
+196	P16662	4-methylumbelliferone
+197	P16662	UDP-glucuronate
+198	P16662	UDP-D-glucuronate
+199	P16662	acceptor
+200	P16662	UDP-glucuronate
+201	P16662	17-beta-estradiol
+202	P16662	UDP-glucuronate
+203	P16662	3'-azido-3'-deoxythymidine
+204	P16662	UDP-glucuronate
+205	P16662	morphine
+206	P16662	UDP-glucuronate
+207	P16662	propofol
+208	P16662	UDP-glucuronate
+209	P16662	serotonin
+210	P16662	4-methylumbelliferone
+211	P16662	UDP-glucuronate
+212	P16662	UDP-glucuronate
+213	P16662	morphine
+214	P16662	UDP-glucuronate
+215	P16662	morphine
+216	P16662	epitestosterone
+217	P16662	UDP-glucuronate
+218	P16662	scopoletin
+219	P16662	UDP-glucuronate
+220	P16662	UDP-D-glucuronate
+221	P16662	1-naphthol
+222	P16662	1-naphthol
+223	P16662	UDP-glucuronate
+224	P16662	UDP-D-glucuronate
+225	P16662	androstane-3alpha,17beta-diol
+226	P16662	UDP-glucuronate
+227	P16662	7-hydroxy-4-trifluoromethylcoumarin
+228	P16662	UDP-glucuronate
+229	P16662	1-naphthol
+230	P16662	UDP-glucuronate
+231	P16662	4-methylumbelliferone
+232	P16662	UDP-glucuronate
+233	P16662	17beta-estradiol
+234	P16662	UDP-glucuronate
+235	P16662	8-hydroxyquinoline
+236	P16662	UDP-glucuronate
+237	P16662	entacapone
+238	P16662	UDP-glucuronate
+239	P16662	paracetamol
+240	P16662	UDP-glucuronate
+241	P16662	tolcapone
+242	P16662	UDP-glucuronate
+243	P16662	umbelliferone
+244	P16662	UDP-D-glucuronate
+245	P16662	scopoletin
+246	P16662	UDP-D-glucuronate
+247	P16662	dehydrotestosterone
+248	P16662	UDP-D-glucuronate
+249	P16662	androsterone
+250	P16662	UDP-glucuronate
+251	P16662	denopamine
+252	P19224	acetaminophen
+253	P19224	UDP-glucuronate
+254	P19224	UDP-glucuronate
+255	P19224	testosterone
+256	P19224	UDP-glucuronate
+257	P19224	epitestosterone
+258	P19224	UDP-glucuronate
+259	P19224	entacapone
+260	P19224	UDP-glucuronate
+261	P19224	4-methylumbelliferone
+262	P19224	UDP-glucuronate
+263	P19224	serotonin
+264	P19224	UDP-glucuronate
+265	P19224	acceptor
+266	P19224	UDP-glucuronate
+267	P19224	ethanol
+268	P19224	UDP-D-glucuronate
+269	P19224	labetalol
+270	P19224	UDP-glucuronate
+271	P19224	naproxen
+272	P19224	UDP-glucuronate
+273	P19224	desmethylnaproxen
+274	P19224	morphine
+275	P19224	UDP-glucuronate
+276	P19224	xanthotoxol
+277	P19224	UDP-glucuronate
+278	P19224	(S)-oxazepam
+279	P19224	UDP-glucuronate
+280	P19224	UDP-D-glucuronate
+281	P19224	4-methylumbelliferone
+282	P19224	acetaminophen
+283	P19224	UDP-glucuronate
+284	P19224	1-naphthol
+285	P19224	UDP-glucuronate
+286	P19224	UDP-D-glucuronate
+287	P19224	protocatechuic aldehyde
+288	P19224	UDP-D-glucuronate
+289	P19224	serotonin
+290	P19224	UDP-D-glucuronate
+291	P19224	serotonin
+292	P19224	UDP-glucuronate
+293	P19224	5-hydroxytryptophol
+294	P19224	UDP-glucuronate
+295	P19224	5-hydroxytryptophol
+296	P19224	UDP-glucuronate
+297	P19224	5-hydroxytryptophol
+298	P19224	UDP-glucuronate
+299	P19224	6-hydroxymelatonin
+300	P19224	UDP-glucuronate
+301	P19224	N-acetylserotonin
+302	P19224	UDP-glucuronate
+303	P19224	morphine 3-glucuronide
+304	P19224	UDP-glucuronate
+305	P19224	serotonin
+306	P19224	serotonin
+307	P19224	UDP-glucuronate
+308	P19224	serotonin
+309	P19224	UDP-glucuronate
+310	P19224	SN-38
+311	P19224	UDP-glucuronate
+312	P19224	UDP-glucuronate
+313	P19224	paracetamol
+314	P19224	3-azido-4-chlorobenzoic acid
+315	P19224	UDP-glucuronate
+316	P19224	UDP-glucuronate
+317	P19224	4-nitrophenol
+318	P19224	UDP-glucuronate
+319	P19224	deferiprone
+320	P19224	UDP-glucuronate
+321	P19224	1-hydroxypyrene
+322	P19224	4-nitrophenol
+323	P19224	UDP-glucuronate
+324	P19224	more
+325	P19224	4-methylumbelliferone
+326	P19224	UDP-glucuronate
+327	P19224	morphine
+328	P19224	UDP-glucuronate
+329	P19224	UDP-D-glucuronate
+330	P19224	acceptor
+331	P19224	UDP-D-glucuronate
+332	P19224	4-methylumbelliferone
+333	P19224	UDP-glucuronate
+334	P19224	17-beta-estradiol
+335	P19224	UDP-glucuronate
+336	P19224	3'-azido-3'-deoxythymidine
+337	P19224	UDP-glucuronate
+338	P19224	morphine
+339	P19224	UDP-glucuronate
+340	P19224	propofol
+341	P19224	UDP-glucuronate
+342	P19224	serotonin
+343	P19224	4-hydroxyestrone
+344	P19224	UDP-glucuronate
+345	P19224	UDP-glucuronate
+346	P19224	ethinylestradiol
+347	P19224	2-hydroxyestrone
+348	P19224	UDPglucuronate
+349	P19224	4-methylumbelliferone
+350	P19224	UDP-glucuronate
+351	P19224	5alpha-androstane-3alpha,17beta-diol
+352	P19224	UDP-glucuronate
+353	P19224	scopoletin
+354	P19224	UDPglucuronate
+355	P19224	UDP-D-glucuronate
+356	P19224	1-naphthol
+357	P19224	1-naphthol
+358	P19224	UDP-glucuronate
+359	P19224	UDP-D-glucuronate
+360	P19224	androstane-3alpha,17beta-diol
+361	P19224	2-hydroxyestradiol
+362	P19224	UDPglucuronate
+363	P19224	4-hydroxyestradiol
+364	P19224	UDPglucuronate
+365	P19224	UDP-D-glucuronate
+366	P19224	4-nitrophenol
+367	P19224	UDP-D-glucuronate
+368	P19224	2-naphthol
+369	P19224	serotonin
+370	P19224	UDP-glucuronate
+371	P19224	bilirubin
+372	P19224	UDPglucuronate
+373	P19224	androsterone
+374	P19224	UDPglucuronate
+375	O60656	UDP-glucuronate
+376	O60656	testosterone
+377	O60656	UDP-glucuronate
+378	O60656	epitestosterone
+379	O60656	UDP-glucuronate
+380	O60656	entacapone
+381	O60656	UDP-glucuronate
+382	O60656	4-methylumbelliferone
+383	O60656	UDP-glucuronate
+384	O60656	17-alpha-estradiol
+385	O60656	UDP-glucuronate
+386	O60656	indomethacin
+387	O60656	UDP-glucuronate
+388	O60656	diclofenac
+389	O60656	UDP-alpha-D-glucuronate
+390	O60656	(S)-propranolol
+391	O60656	UDP-alpha-D-glucuronate
+392	O60656	(R)-propranolol
+393	O60656	UDP-glucuronate
+394	O60656	acceptor
+395	O60656	UDP-glucuronate
+396	O60656	ethanol
+397	O60656	UDP-D-glucuronate
+398	O60656	labetalol
+399	O60656	UDP-glucuronate
+400	O60656	naproxen
+401	O60656	UDP-glucuronate
+402	O60656	desmethylnaproxen
+403	O60656	morphine
+404	O60656	UDP-glucuronate
+405	O60656	11alpha-hydroxyprogesterone
+406	O60656	UDP-glucuronate
+407	O60656	UDP-glucuronate
+408	O60656	6-gingerol
+409	O60656	UDP-glucuronate
+410	O60656	flufenamic acid
+411	O60656	UDP-glucuronate
+412	O60656	leukotriene B4
+413	O60656	UDP-glucuronate
+414	O60656	mefenamic acid
+415	O60656	UDP-glucuronate
+416	O60656	niflumic acid
+417	O60656	UDP-glucuronate
+418	O60656	7-ethyl-10-hydroxycamptothecin
+419	O60656	UDP-glucuronate
+420	O60656	genistein
+421	O60656	UDP-glucuronate
+422	O60656	tamoxifen
+423	O60656	UDP-glucuronate
+424	O60656	zidovudine
+425	O60656	7-hydroxy-4-trifluoromethylcoumarin
+426	O60656	UDP-glucuronate
+427	O60656	1-hydroxybenzo(a)pyrene
+428	O60656	UDP-glucuronate
+429	O60656	3-hydroxybenzo(a)pyrene
+430	O60656	UDP-glucuronate
+431	O60656	7-hydroxy benzo(a)pyrene
+432	O60656	UDP-glucuronate
+433	O60656	9-hydroxybenzo(a)pyrene
+434	O60656	UDP-glucuronate
+435	O60656	2-(4-chlorophenyl)-5-(2-furyl)-4-oxazoleacetic acid
+436	O60656	UDP-glucuronate
+437	O60656	UDP-glucuronate
+438	O60656	mycophenolic acid
+439	O60656	vorinostat
+440	O60656	UDP-glucuronate
+441	O60656	UDP-glucuronate
+442	O60656	20-hydroxyeicosatetraenoic acid
+443	O60656	SN-38
+444	O60656	UDP-glucuronate
+445	O60656	UDP-glucuronate
+446	O60656	paracetamol
+447	O60656	3-azido-4-chlorobenzoic acid
+448	O60656	UDP-glucuronate
+449	O60656	3 quercetin
+450	O60656	3 UDP-glucuronate
+451	O60656	UDP-alpha-D-glucuronate
+452	O60656	sorafenib
+453	O60656	UDP-glucuronate
+454	O60656	10-gingerol
+455	O60656	UDP-glucuronate
+456	O60656	4-nitrophenol
+457	O60656	UDP-glucuronate
+458	O60656	7-ethyl-10-hydroxycampothecin
+459	O60656	UDP-glucuronate
+460	O60656	8-gingerol
+461	O60656	UDP-glucuronate
+462	O60656	flavopiridol
+463	O60656	UDP-glucuronate
+464	O60656	phenylbutazone
+465	O60656	UDP-glucuronate
+466	O60656	scopoletin
+467	O60656	flavopiridol
+468	O60656	UDP-glucuronate
+469	O60656	mycophenolic acid
+470	O60656	UDP-glucuronate
+471	O60656	octylgallate
+472	O60656	UDPglucuronate
+473	O60656	propofol
+474	O60656	UDP-glucuronate
+475	O60656	UDP-glucuronate
+476	O60656	anthraflavic acid
+477	O60656	p-ethoxyphenylurea
+478	O60656	UDP-glucuronate
+479	O60656	beta-estradiol
+480	O60656	UDP-glucuronate
+481	O60656	propofol
+482	O60656	UDP-glucuronate
+483	O60656	trifluoperazine
+484	O60656	UDP-glucuronate
+485	O60656	UDP-glucuronate
+486	O60656	2',4,4',6'-tetrahydroxychalcone
+487	O60656	UDP-glucuronate
+488	O60656	apigenin
+489	O60656	UDP-glucuronate
+490	O60656	biochanin A
+491	O60656	UDP-glucuronate
+492	O60656	capsaicin
+493	O60656	UDP-glucuronate
+494	O60656	genistein
+495	O60656	UDP-glucuronate
+496	O60656	naringenin
+497	O60656	UDP-glucuronate
+498	O60656	quercetin
+499	O60656	UDP-glucuronate
+500	O60656	quinazarin
+501	O60656	UDP-glucuronate
+502	O60656	chrysin
+503	O60656	UDP-glucuronate
+504	O60656	curcumin
+505	O60656	7-ethyl-10-hydroxy-camptothecin carboxylate
+506	O60656	UDP-glucuronate
+507	O60656	7-ethyl-10-hydroxy-camptothecin lactone
+508	O60656	UDP-glucuronate
+509	O60656	UDP-glucuronate
+510	O60656	beta-estradiol
+511	O60656	UDP-glucuronate
+512	O60656	grepafloxacin
+513	O60656	UDP-glucuronate
+514	O60656	levofloxacin
+515	O60656	UDP-glucuronate
+516	O60656	moxifloxacin
+517	O60656	UDP-glucuronate
+518	O60656	propofol
+519	O60656	UDP-glucuronate
+520	O60656	sitafloxacin
+521	O60656	UDP-glucuronate
+522	O60656	trifluoroperazine
+523	O60656	UDP-glucuronate
+524	O60656	L-thyroxine
+525	O60656	UDP-glucuronate
+526	O60656	estradiol
+527	O60656	UDP-glucuronate
+528	O60656	4-aminobiphenyl
+529	O60656	UDP-glucuronate
+530	O60656	Aloe-emodin
+531	O60656	UDP-glucuronate
+532	O60656	eugenol
+533	O60656	UDP-glucuronate
+534	O60656	quinizarin
+535	O60656	UDP-glucuronate
+536	O60656	thymol
+537	O60656	UDP-glucuronate
+538	O60656	phloretin
+539	O60656	UDP-D-glucuronate
+540	O60656	4-methylumbelliferone
+541	O60656	UDP-D-glucuronate
+542	O60656	4-nitrophenol
+543	O60656	4-azidobenzoic acid
+544	O60656	UDP-glucuronate
+545	O60656	4-nitrophenol
+546	O60656	UDP-glucuronate
+547	O60656	more
+548	O60656	4-methylumbelliferone
+549	O60656	UDP-glucuronate
+550	O60656	UDP-D-glucuronate
+551	O60656	acceptor
+552	O60656	UDP-D-glucuronate
+553	O60656	4-methylumbelliferone
+554	O60656	UDP-glucuronate
+555	O60656	17-beta-estradiol
+556	O60656	UDP-glucuronate
+557	O60656	3'-azido-3'-deoxythymidine
+558	O60656	UDP-glucuronate
+559	O60656	morphine
+560	O60656	UDP-glucuronate
+561	O60656	propofol
+562	O60656	UDP-glucuronate
+563	O60656	serotonin
+564	O60656	4-methylumbelliferone
+565	O60656	UDP-glucuronate
+566	O60656	UDP-glucuronate
+567	O60656	7-hydroxy-4-trifluoromethylcoumarin
+568	O60656	UDP-glucuronate
+569	O60656	1-naphthol
+570	O60656	UDP-glucuronate
+571	O60656	4-methylumbelliferone
+572	O60656	UDP-glucuronate
+573	O60656	17beta-estradiol
+574	O60656	UDP-glucuronate
+575	O60656	8-hydroxyquinoline
+576	O60656	UDP-glucuronate
+577	O60656	entacapone
+578	O60656	UDP-glucuronate
+579	O60656	paracetamol
+580	O60656	UDP-glucuronate
+581	O60656	tolcapone
+582	O60656	UDP-glucuronate
+583	O60656	umbelliferone
+584	O60656	UDP-D-glucuronate
+585	O60656	propofol
+586	P22309	acetaminophen
+587	P22309	UDP-glucuronate
+588	P22309	beta-estradiol
+589	P22309	UDP-glucuronate
+590	P22309	UDP-glucuronate
+591	P22309	testosterone
+592	P22309	UDP-glucuronate
+593	P22309	epitestosterone
+594	P22309	UDP-glucuronate
+595	P22309	entacapone
+596	P22309	UDP-glucuronate
+597	P22309	17-alpha-estradiol
+598	P22309	UDP-glucuronate
+599	P22309	indomethacin
+600	P22309	UDP-glucuronate
+601	P22309	diclofenac
+602	P22309	UDP-glucuronate
+603	P22309	bilirubin
+604	P22309	UDP-glucuronate
+605	P22309	17-beta-estradiol
+606	P22309	UDP-glucuronate
+607	P22309	acceptor
+608	P22309	UDP-glucuronate
+609	P22309	ethanol
+610	P22309	UDP-D-glucuronate
+611	P22309	labetalol
+612	P22309	UDP-glucuronate
+613	P22309	naproxen
+614	P22309	UDP-glucuronate
+615	P22309	desmethylnaproxen
+616	P22309	morphine
+617	P22309	UDP-glucuronate
+618	P22309	xanthotoxol
+619	P22309	UDP-glucuronate
+620	P22309	(S)-oxazepam
+621	P22309	UDP-glucuronate
+622	P22309	UDP-D-glucuronate
+623	P22309	4-methylumbelliferone
+624	P22309	UDP-glucuronate
+625	P22309	7-ethyl-10-hydroxycamptothecin
+626	P22309	UDP-glucuronate
+627	P22309	genistein
+628	P22309	UDP-glucuronate
+629	P22309	tamoxifen
+630	P22309	UDP-glucuronate
+631	P22309	zidovudine
+632	P22309	7-hydroxy-4-trifluoromethylcoumarin
+633	P22309	UDP-glucuronate
+634	P22309	1-hydroxybenzo(a)pyrene
+635	P22309	UDP-glucuronate
+636	P22309	3-hydroxybenzo(a)pyrene
+637	P22309	UDP-glucuronate
+638	P22309	7-hydroxy benzo(a)pyrene
+639	P22309	UDP-glucuronate
+640	P22309	9-hydroxybenzo(a)pyrene
+641	P22309	UDP-glucuronate
+642	P22309	2-(4-chlorophenyl)-5-(2-furyl)-4-oxazoleacetic acid
+643	P22309	UDP-glucuronate
+644	P22309	UDP-glucuronate
+645	P22309	6-gingerol
+646	P22309	UDP-glucuronate
+647	P22309	10-gingerol
+648	P22309	UDP-glucuronate
+649	P22309	8-gingerol
+650	P22309	UDP-glucuronate
+651	P22309	carvedilol
+652	P22309	SN-38
+653	P22309	UDP-glucuronate
+654	P22309	UDP-glucuronate
+655	P22309	paracetamol
+656	P22309	UDP-glucuronate
+657	P22309	anthraflavic acid
+658	P22309	p-ethoxyphenylurea
+659	P22309	UDP-glucuronate
+660	P22309	beta-estradiol
+661	P22309	UDP-glucuronate
+662	P22309	propofol
+663	P22309	UDP-glucuronate
+664	P22309	trifluoperazine
+665	P22309	UDP-glucuronate
+666	P22309	UDP-glucuronate
+667	P22309	2',4,4',6'-tetrahydroxychalcone
+668	P22309	UDP-glucuronate
+669	P22309	apigenin
+670	P22309	UDP-glucuronate
+671	P22309	biochanin A
+672	P22309	UDP-glucuronate
+673	P22309	capsaicin
+674	P22309	UDP-glucuronate
+675	P22309	genistein
+676	P22309	UDP-glucuronate
+677	P22309	naringenin
+678	P22309	UDP-glucuronate
+679	P22309	quercetin
+680	P22309	UDP-glucuronate
+681	P22309	quinazarin
+682	P22309	UDP-glucuronate
+683	P22309	chrysin
+684	P22309	UDP-glucuronate
+685	P22309	curcumin
+686	P22309	7-ethyl-10-hydroxy-camptothecin carboxylate
+687	P22309	UDP-glucuronate
+688	P22309	7-ethyl-10-hydroxy-camptothecin lactone
+689	P22309	UDP-glucuronate
+690	P22309	UDP-glucuronate
+691	P22309	beta-estradiol
+692	P22309	UDP-glucuronate
+693	P22309	grepafloxacin
+694	P22309	UDP-glucuronate
+695	P22309	levofloxacin
+696	P22309	UDP-glucuronate
+697	P22309	moxifloxacin
+698	P22309	UDP-glucuronate
+699	P22309	propofol
+700	P22309	UDP-glucuronate
+701	P22309	sitafloxacin
+702	P22309	UDP-glucuronate
+703	P22309	trifluoroperazine
+704	P22309	UDP-glucuronate
+705	P22309	L-thyroxine
+706	P22309	UDP-glucuronate
+707	P22309	estradiol
+708	P22309	2-(4-chlorophenyl)-5-(2-furyl)-4-oxazoleacetic acid
+709	P22309	UDPglucuronate
+710	P22309	7-ethyl-10-hydroxy-camptothecin
+711	P22309	UDP-glucuronate
+712	P22309	UDP-D-glucuronate
+713	P22309	2-hydroxyestradiol
+714	P22309	UDP-D-glucuronate
+715	P22309	2-hydroxyestrone
+716	P22309	UDP-D-glucuronate
+717	P22309	beta-D-estradiol
+718	P22309	UDP-D-glucuronate
+719	P22309	bilirubin
+720	P22309	UDP-alpha-D-glucuronate
+721	P22309	3-hydroxyflavone
+722	P22309	UDP-glucuronate
+723	P22309	bilirubin
+724	P22309	UDP-glucuronate
+725	P22309	etoposide
+726	P22309	UDP-glucuronate
+727	P22309	etoposide
+728	P22309	UDP-glucuronate
+729	P22309	quercetin
+730	P22309	bilirubin
+731	P22309	UDP-glucuronate
+732	P22309	bilirubin
+733	P22309	UDP-glucuronate
+734	P22309	bilirubin
+735	P22309	UDP-glucuronate
+736	P22309	estradiol
+737	P22309	UDP-glucuronate
+738	P22309	quercetin
+739	P22309	UDP-glucuronate
+740	P22309	silybin A
+741	P22309	UDP-glucuronate
+742	P22309	silybin B
+743	P22309	UDP-glucuronate
+744	P22309	silydianin
+745	P22309	UDP-glucuronate
+746	P22309	tranilast
+747	P22309	UDP-glucuronate
+748	P22309	UDP-D-glucuronate
+749	P22309	4-hydroxy-N-desmethyl-tamoxifen
+750	P22309	UDP-D-glucuronate
+751	P22309	cis-4-hydroxytamoxifen
+752	P22309	UDP-D-glucuronate
+753	P22309	tamoxifen
+754	P22309	H+
+755	P22309	UDP-D-glucuronate
+756	P22309	trans-4-hydroxytamoxifen
+757	P22309	etoposide
+758	P22309	UDP-glucuronate
+759	P22309	UDP-D-glucuronate
+760	P22309	8-hydroxy-warfarin
+761	P22309	UDP-D-glucuronate
+762	P22309	octylgallate
+763	P22309	thyroxine
+764	P22309	UDP-glucuronate
+765	P22309	5-hydroxyrofecoxib UDP-glucuronate
+766	P22309	bakuchiol
+767	P22309	UDP-glucuronate
+768	P22309	beta-estradiol
+769	P22309	UDP-glucuronate
+770	P22309	chenodeoxycholic acid
+771	P22309	UDP-glucuronate
+772	P22309	UDP-D-glucuronate
+773	P22309	6-hydroxy-warfarin
+774	P22309	UDP-D-glucuronate
+775	P22309	7-hydroxy-warfarin
+776	P22309	UDP-glucuronate
+777	P22309	7-ethyl-10-hydroxy-camptothecin
+778	P22309	UDP-glucuronate
+779	P22309	gingerol
+780	P22309	7-ethyl-10-hydroxycamptothecin
+781	P22309	UDP-alpha-D-glucuronate
+782	P22309	7-hydroxy-4-trifluoromethylcoumarin
+783	P22309	UDP-alpha-D-glucuronate
+784	P22309	4-nitrophenol
+785	P22309	UDP-glucuronate
+786	P22309	more
+787	P22309	UDP-D-glucuronate
+788	P22309	acceptor
+789	P22309	UDP-D-glucuronate
+790	P22309	4-methylumbelliferone
+791	P22309	UDP-D-glucuronate
+792	P22309	morphine
+793	P22309	UDP-glucuronate
+794	P22309	17-beta-estradiol
+795	P22309	UDP-glucuronate
+796	P22309	3'-azido-3'-deoxythymidine
+797	P22309	UDP-glucuronate
+798	P22309	morphine
+799	P22309	UDP-glucuronate
+800	P22309	propofol
+801	P22309	UDP-glucuronate
+802	P22309	serotonin
+803	P22309	UDP-glucuronate
+804	P22309	ethinylestradiol
+805	P22309	4-methylumbelliferone
+806	P22309	UDP-glucuronate
+807	P22309	UDP-D-glucuronate
+808	P22309	1-naphthol
+809	P22309	1-naphthol
+810	P22309	UDP-glucuronate
+811	P22309	UDP-glucuronate
+812	P22309	7-hydroxy-4-trifluoromethylcoumarin
+813	P22309	UDP-glucuronate
+814	P22309	1-naphthol
+815	P22309	UDP-glucuronate
+816	P22309	4-methylumbelliferone
+817	P22309	UDP-glucuronate
+818	P22309	17beta-estradiol
+819	P22309	UDP-glucuronate
+820	P22309	8-hydroxyquinoline
+821	P22309	UDP-glucuronate
+822	P22309	entacapone
+823	P22309	UDP-glucuronate
+824	P22309	paracetamol
+825	P22309	UDP-glucuronate
+826	P22309	tolcapone
+827	P22309	UDP-glucuronate
+828	P22309	umbelliferone
+829	P22309	UDP-D-glucuronate
+830	P22309	scopoletin
+831	P22309	UDP-D-glucuronate
+832	P22309	4-nitrophenol
+833	P22309	UDP-D-glucuronate
+834	P22309	eugenol
+835	P22309	UDP-D-glucuronate
+836	P22309	morphine
+837	P22309	UDP-D-glucuronate
+838	P22309	estradiol
+839	P22310	UDP-glucuronate
+840	P22310	testosterone
+841	P22310	UDP-glucuronate
+842	P22310	epitestosterone
+843	P22310	UDP-alpha-D-glucuronate
+844	P22310	(S)-propranolol
+845	P22310	UDP-glucuronate
+846	P22310	acceptor
+847	P22310	UDP-glucuronate
+848	P22310	ethanol
+849	P22310	UDP-D-glucuronate
+850	P22310	labetalol
+851	P22310	UDP-glucuronate
+852	P22310	7-ethyl-10-hydroxycamptothecin
+853	P22310	UDP-glucuronate
+854	P22310	genistein
+855	P22310	UDP-glucuronate
+856	P22310	tamoxifen
+857	P22310	UDP-glucuronate
+858	P22310	zidovudine
+859	P22310	7-hydroxy-4-trifluoromethylcoumarin
+860	P22310	UDP-glucuronate
+861	P22310	16alpha-hydroxyprogesterone
+862	P22310	UDP-glucuronate
+863	P22310	anastrozole
+864	P22310	UDP-glucuronate
+865	P22310	beta-estradiol
+866	P22310	UDP-glucuronate
+867	P22310	propofol
+868	P22310	UDP-glucuronate
+869	P22310	trifluoperazine
+870	P22310	UDP-glucuronate
+871	P22310	UDP-glucuronate
+872	P22310	4-aminobiphenyl
+873	P22310	2-aminobiphenyl
+874	P22310	UDP-glucuronate
+875	P22310	UDP-D-glucuronate
+876	P22310	1alpha,25-dihydroxyvitamin D3
+877	P22310	UDP-D-glucuronate
+878	P22310	imipramine
+879	P22310	UDP-glucuronate
+880	P22310	1,25-dihydroxyergocalciferol
+881	P22310	UDP-glucuronate
+882	P22310	25-hydroxyergocalciferol
+883	P22310	UDP-glucuronate
+884	P22310	amitryptiline
+885	P22310	UDP-glucuronate
+886	P22310	androstanediol
+887	P22310	UDP-glucuronate
+888	P22310	clozapine
+889	P22310	UDP-glucuronate
+890	P22310	cyproheptadine
+891	P22310	UDP-glucuronate
+892	P22310	imipramine
+893	P22310	UDP-glucuronate
+894	P22310	ketotifen
+895	P22310	UDP-glucuronate
+896	P22310	lamotrigine
+897	P22310	UDP-glucuronate
+898	P22310	pregnan-3,17-diol
+899	P22310	UDP-glucuronate
+900	P22310	tacrolimus
+901	P22310	UDP-glucuronate
+902	P22310	tigogenin
+903	P22310	UDP-glucuronate
+904	P22310	trans-androsterone
+905	P22310	UDP-glucuronate
+906	P22310	trifluoperazine
+907	P22310	UDP-glucuronate
+908	P22310	trifluperazine
+909	P22310	UDP-glucuronic acid
+910	P22310	imipramine
+911	P22310	UDP-glucuronic acid
+912	P22310	trifluoperazine
+913	P22310	trifluoperazine
+914	P22310	UDP-glucuronate
+915	P22310	trifluoperazine dihydrochloride
+916	P22310	UDP-glucuronate
+917	P22310	UDP-glucuronate
+918	P22310	levomedetomidine
+919	P22310	UDP-glucuronate
+920	P22310	tamoxifen
+921	P22310	UDP-glucuronate
+922	P22310	amitriptyline
+923	P22310	UDP-glucuronate
+924	P22310	imipramine
+925	P22310	UDP-glucuronate
+926	P22310	ketoconazole
+927	P22310	UDP-glucuronate
+928	P22310	ketotifen
+929	P22310	UDP-glucuronate
+930	P22310	midazolam
+931	P22310	UDP-glucuronate
+932	P22310	olanzapine
+933	P22310	UDP-glucuronate
+934	P22310	pizotifen
+935	P22310	UDP-D-glucuronate
+936	P22310	cotinine
+937	P22310	UDP-D-glucuronate
+938	P22310	nicotine
+939	P22310	UDP-glucuronate
+940	P22310	diphenhydramine
+941	P22310	imipramine
+942	P22310	UDP-glucuronate
+943	P22310	more
+944	P22310	UDP-D-glucuronate
+945	P22310	acceptor
+946	P22310	UDP-D-glucuronate
+947	P22310	4-methylumbelliferone
+948	P22310	UDP-glucuronate
+949	P22310	17-beta-estradiol
+950	P22310	UDP-glucuronate
+951	P22310	3'-azido-3'-deoxythymidine
+952	P22310	UDP-glucuronate
+953	P22310	morphine
+954	P22310	UDP-glucuronate
+955	P22310	propofol
+956	P22310	UDP-glucuronate
+957	P22310	serotonin
+958	P22310	UDP-glucuronate
+959	P22310	7-hydroxy-4-trifluoromethylcoumarin
+960	P22310	UDP-D-glucuronate
+961	P22310	4-nitrophenol
+962	P22310	UDP-D-glucuronate
+963	P22310	2-naphthol
+964	P22310	2 UDP-D-glucuronate
+965	P22310	2 dexmedetomidine
+966	P22310	UDP-glucuronate
+967	P22310	imipramine
+968	Q9HAW7	UDP-glucuronate
+969	Q9HAW7	naproxen
+970	Q9HAW7	UDP-glucuronate
+971	Q9HAW7	desmethylnaproxen
+972	Q9HAW7	1-hydroxybenzo(a)pyrene
+973	Q9HAW7	UDP-glucuronate
+974	Q9HAW7	3-hydroxybenzo(a)pyrene
+975	Q9HAW7	UDP-glucuronate
+976	Q9HAW7	7-hydroxy benzo(a)pyrene
+977	Q9HAW7	UDP-glucuronate
+978	Q9HAW7	9-hydroxybenzo(a)pyrene
+979	Q9HAW7	UDP-glucuronate
+980	Q9HAW7	UDP-glucuronate
+981	Q9HAW7	6-gingerol
+982	Q9HAW7	UDP-glucuronate
+983	Q9HAW7	10-gingerol
+984	Q9HAW7	hyodeoxycholic acid
+985	Q9HAW7	UDP-glucuronate
+986	Q9HAW7	3-azido-4-chlorobenzoic acid
+987	Q9HAW7	UDP-glucuronate
+988	Q9HAW7	UDP-glucuronate
+989	Q9HAW7	2',4,4',6'-tetrahydroxychalcone
+990	Q9HAW7	UDP-glucuronate
+991	Q9HAW7	apigenin
+992	Q9HAW7	UDP-glucuronate
+993	Q9HAW7	biochanin A
+994	Q9HAW7	UDP-glucuronate
+995	Q9HAW7	capsaicin
+996	Q9HAW7	UDP-glucuronate
+997	Q9HAW7	genistein
+998	Q9HAW7	UDP-glucuronate
+999	Q9HAW7	naringenin
+1000	Q9HAW7	UDP-glucuronate
+1001	Q9HAW7	quercetin
+1002	Q9HAW7	UDP-glucuronate
+1003	Q9HAW7	quinazarin
+1004	Q9HAW7	UDP-glucuronate
+1005	Q9HAW7	chrysin
+1006	Q9HAW7	UDP-glucuronate
+1007	Q9HAW7	curcumin
+1008	Q9HAW7	7-ethyl-10-hydroxy-camptothecin carboxylate
+1009	Q9HAW7	UDP-glucuronate
+1010	Q9HAW7	7-ethyl-10-hydroxy-camptothecin lactone
+1011	Q9HAW7	UDP-glucuronate
+1012	Q9HAW7	UDP-glucuronate
+1013	Q9HAW7	beta-estradiol
+1014	Q9HAW7	UDP-glucuronate
+1015	Q9HAW7	grepafloxacin
+1016	Q9HAW7	UDP-glucuronate
+1017	Q9HAW7	levofloxacin
+1018	Q9HAW7	UDP-glucuronate
+1019	Q9HAW7	moxifloxacin
+1020	Q9HAW7	UDP-glucuronate
+1021	Q9HAW7	propofol
+1022	Q9HAW7	UDP-glucuronate
+1023	Q9HAW7	sitafloxacin
+1024	Q9HAW7	UDP-glucuronate
+1025	Q9HAW7	trifluoroperazine
+1026	Q9HAW7	UDP-glucuronate
+1027	Q9HAW7	Aloe-emodin
+1028	Q9HAW7	UDP-glucuronate
+1029	Q9HAW7	eugenol
+1030	Q9HAW7	UDP-glucuronate
+1031	Q9HAW7	quinizarin
+1032	Q9HAW7	UDP-glucuronate
+1033	Q9HAW7	thymol
+1034	Q9HAW7	UDP-glucuronate
+1035	Q9HAW7	phloretin
+1036	Q9HAW7	UDP-D-glucuronate
+1037	Q9HAW7	4-methylumbelliferone
+1038	Q9HAW7	UDP-D-glucuronate
+1039	Q9HAW7	4-nitrophenol
+1040	Q9HAW7	UDP-D-glucuronate
+1041	Q9HAW7	4-hydroxy-N-desmethyl-tamoxifen
+1042	Q9HAW7	UDP-D-glucuronate
+1043	Q9HAW7	cis-4-hydroxytamoxifen
+1044	Q9HAW7	UDP-D-glucuronate
+1045	Q9HAW7	tamoxifen
+1046	Q9HAW7	H+
+1047	Q9HAW7	UDP-D-glucuronate
+1048	Q9HAW7	trans-4-hydroxytamoxifen
+1049	Q9HAW7	UDP-glucuronate
+1050	Q9HAW7	thymol
+1051	Q9HAW7	eugenol
+1052	Q9HAW7	UDP-glucuronate
+1053	Q9HAW7	flurbiprofen
+1054	Q9HAW7	UDP-glucuronate
+1055	Q9HAW7	estriol
+1056	Q9HAW7	UDP-glucuronate
+1057	Q9HAW7	17beta-estradiol
+1058	Q9HAW7	UDP-glucuronate
+1059	Q9HAW7	4-nitrophenol
+1060	Q9HAW7	UDP-glucuronate
+1061	Q9HAW7	more
+1062	Q9HAW7	4-methylumbelliferone
+1063	Q9HAW7	UDP-glucuronate
+1064	Q9HAW7	UDP-D-glucuronate
+1065	Q9HAW7	acceptor
+1066	Q9HAW7	4-methylumbelliferone
+1067	Q9HAW7	UDP-glucuronate
+1068	Q9HAW7	UDP-glucuronate
+1069	Q9HAW7	7-hydroxy-4-trifluoromethylcoumarin
+1070	Q9HAW7	UDP-glucuronate
+1071	Q9HAW7	1-naphthol
+1072	Q9HAW7	UDP-glucuronate
+1073	Q9HAW7	4-methylumbelliferone
+1074	Q9HAW7	UDP-D-glucuronate
+1075	Q9HAW7	2-naphthol
+1076	Q9HAW9	UDP-glucuronate
+1077	Q9HAW9	testosterone
+1078	Q9HAW9	UDP-glucuronate
+1079	Q9HAW9	epitestosterone
+1080	Q9HAW9	UDP-glucuronate
+1081	Q9HAW9	entacapone
+1082	Q9HAW9	UDP-glucuronate
+1083	Q9HAW9	4-methylumbelliferone
+1084	Q9HAW9	UDP-glucuronate
+1085	Q9HAW9	17-alpha-estradiol
+1086	Q9HAW9	UDP-glucuronate
+1087	Q9HAW9	indomethacin
+1088	Q9HAW9	UDP-glucuronate
+1089	Q9HAW9	17-beta-estradiol
+1090	Q9HAW9	UDP-glucuronate
+1091	Q9HAW9	naproxen
+1092	Q9HAW9	xanthotoxol
+1093	Q9HAW9	UDP-glucuronate
+1094	Q9HAW9	1-hydroxybenzo(a)pyrene
+1095	Q9HAW9	UDP-glucuronate
+1096	Q9HAW9	3-hydroxybenzo(a)pyrene
+1097	Q9HAW9	UDP-glucuronate
+1098	Q9HAW9	7-hydroxy benzo(a)pyrene
+1099	Q9HAW9	UDP-glucuronate
+1100	Q9HAW9	9-hydroxybenzo(a)pyrene
+1101	Q9HAW9	UDP-glucuronate
+1102	Q9HAW9	UDP-glucuronate
+1103	Q9HAW9	mycophenolic acid
+1104	Q9HAW9	UDP-glucuronate
+1105	Q9HAW9	6-gingerol
+1106	Q9HAW9	UDP-glucuronate
+1107	Q9HAW9	10-gingerol
+1108	Q9HAW9	UDP-glucuronate
+1109	Q9HAW9	8-gingerol
+1110	Q9HAW9	UDP-glucuronate
+1111	Q9HAW9	chrysin
+1112	Q9HAW9	UDP-glucuronate
+1113	Q9HAW9	curcumin
+1114	Q9HAW9	7-ethyl-10-hydroxy-camptothecin carboxylate
+1115	Q9HAW9	UDP-glucuronate
+1116	Q9HAW9	7-ethyl-10-hydroxy-camptothecin lactone
+1117	Q9HAW9	UDP-glucuronate
+1118	Q9HAW9	UDP-glucuronate
+1119	Q9HAW9	phloretin
+1120	Q9HAW9	UDP-D-glucuronate
+1121	Q9HAW9	4-methylumbelliferone
+1122	Q9HAW9	UDP-D-glucuronate
+1123	Q9HAW9	4-nitrophenol
+1124	Q9HAW9	UDP-D-glucuronate
+1125	Q9HAW9	4-hydroxy-N-desmethyl-tamoxifen
+1126	Q9HAW9	UDP-D-glucuronate
+1127	Q9HAW9	cis-4-hydroxytamoxifen
+1128	Q9HAW9	UDP-D-glucuronate
+1129	Q9HAW9	tamoxifen
+1130	Q9HAW9	H+
+1131	Q9HAW9	UDP-D-glucuronate
+1132	Q9HAW9	trans-4-hydroxytamoxifen
+1133	Q9HAW9	etoposide
+1134	Q9HAW9	UDP-glucuronate
+1135	Q9HAW9	UDP-D-glucuronate
+1136	Q9HAW9	8-hydroxy-warfarin
+1137	Q9HAW9	UDP-D-glucuronate
+1138	Q9HAW9	3-hydroxydesloratadine
+1139	Q9HAW9	UDP-glucuronate
+1140	Q9HAW9	mycophenolic acid
+1141	Q9HAW9	UDP-glucuronate
+1142	Q9HAW9	estrone
+1143	Q9HAW9	4-nitrophenol
+1144	Q9HAW9	UDP-glucuronate
+1145	Q9HAW9	more
+1146	Q9HAW9	4-methylumbelliferone
+1147	Q9HAW9	UDP-glucuronate
+1148	Q9HAW9	UDP-D-glucuronate
+1149	Q9HAW9	acceptor
+1150	Q9HAW9	UDP-glucuronate
+1151	Q9HAW9	ethinylestradiol
+1152	Q9HAW9	4-methylumbelliferone
+1153	Q9HAW9	UDP-glucuronate
+1154	Q9HAW9	UDP-glucuronate
+1155	Q9HAW9	7-hydroxy-4-trifluoromethylcoumarin
+1156	Q9HAW9	UDP-glucuronate
+1157	Q9HAW9	1-naphthol
+1158	Q9HAW9	UDP-glucuronate
+1159	Q9HAW9	4-methylumbelliferone
+1160	P35503	UDP-glucuronate
+1161	P35503	testosterone
+1162	P35503	UDP-glucuronate
+1163	P35503	epitestosterone
+1164	P35503	UDP-glucuronate
+1165	P35503	entacapone
+1166	P35503	UDP-glucuronate
+1167	P35503	17-alpha-estradiol
+1168	P35503	UDP-glucuronate
+1169	P35503	indomethacin
+1170	P35503	UDP-glucuronate
+1171	P35503	diclofenac
+1172	P35503	UDP-glucuronate
+1173	P35503	17-beta-estradiol
+1174	P35503	UDP-glucuronate
+1175	P35503	acceptor
+1176	P35503	UDP-glucuronate
+1177	P35503	ethanol
+1178	P35503	UDP-glucuronate
+1179	P35503	naproxen
+1180	P35503	UDP-glucuronate
+1181	P35503	desmethylnaproxen
+1182	P35503	morphine
+1183	P35503	UDP-glucuronate
+1184	P35503	xanthotoxol
+1185	P35503	UDP-glucuronate
+1186	P35503	1-hydroxybenzo(a)pyrene
+1187	P35503	UDP-glucuronate
+1188	P35503	3-hydroxybenzo(a)pyrene
+1189	P35503	UDP-glucuronate
+1190	P35503	7-hydroxy benzo(a)pyrene
+1191	P35503	UDP-glucuronate
+1192	P35503	9-hydroxybenzo(a)pyrene
+1193	P35503	UDP-glucuronate
+1194	P35503	2-(4-chlorophenyl)-5-(2-furyl)-4-oxazoleacetic acid
+1195	P35503	UDP-glucuronate
+1196	P35503	anastrozole
+1197	P35503	UDP-glucuronate
+1198	P35503	SN-38
+1199	P35503	UDP-glucuronate
+1200	P35503	UDP-glucuronate
+1201	P35503	beta-estradiol
+1202	P35503	UDP-glucuronate
+1203	P35503	grepafloxacin
+1204	P35503	UDP-glucuronate
+1205	P35503	levofloxacin
+1206	P35503	UDP-glucuronate
+1207	P35503	moxifloxacin
+1208	P35503	UDP-glucuronate
+1209	P35503	propofol
+1210	P35503	UDP-glucuronate
+1211	P35503	sitafloxacin
+1212	P35503	UDP-glucuronate
+1213	P35503	trifluoroperazine
+1214	P35503	UDP-glucuronate
+1215	P35503	L-thyroxine
+1216	P35503	UDP-D-glucuronate
+1217	P35503	4-hydroxy-N-desmethyl-tamoxifen
+1218	P35503	UDP-D-glucuronate
+1219	P35503	cis-4-hydroxytamoxifen
+1220	P35503	UDP-D-glucuronate
+1221	P35503	tamoxifen
+1222	P35503	H+
+1223	P35503	UDP-D-glucuronate
+1224	P35503	trans-4-hydroxytamoxifen
+1225	P35503	etoposide
+1226	P35503	UDP-glucuronate
+1227	P35503	UDP-D-glucuronate
+1228	P35503	octylgallate
+1229	P35503	thyroxine
+1230	P35503	UDP-glucuronate
+1231	P35503	5-hydroxyrofecoxib UDP-glucuronate
+1232	P35503	bakuchiol
+1233	P35503	UDP-glucuronate
+1234	P35503	beta-estradiol
+1235	P35503	UDP-glucuronate
+1236	P35503	chenodeoxycholic acid
+1237	P35503	UDP-glucuronate
+1238	P35503	UDP-glucuronate
+1239	P35503	levomedetomidine
+1240	P35503	UDP-glucuronate
+1241	P35503	tamoxifen
+1242	P35503	UDP-glucuronate
+1243	P35503	amitriptyline
+1244	P35503	UDP-glucuronate
+1245	P35503	imipramine
+1246	P35503	UDP-glucuronate
+1247	P35503	ketoconazole
+1248	P35503	UDP-glucuronate
+1249	P35503	ketotifen
+1250	P35503	UDP-glucuronate
+1251	P35503	midazolam
+1252	P35503	UDP-glucuronate
+1253	P35503	olanzapine
+1254	P35503	UDP-glucuronate
+1255	P35503	pizotifen
+1256	P35503	UDP-glucuronate
+1257	P35503	estrone
+1258	P35503	UDP-glucuronate
+1259	P35503	Telmisartan
+1260	P35503	chenodeoxycholic acid
+1261	P35503	UDP-glucuronate
+1262	P35503	scopoletin
+1263	P35503	UDP-glucuronate
+1264	P35503	more
+1265	P35503	UDP-D-glucuronate
+1266	P35503	acceptor
+1267	P35503	UDP-glucuronate
+1268	P35503	ethinylestradiol
+1269	P35503	4-methylumbelliferone
+1270	P35503	UDP-glucuronate
+1271	P35503	UDP-glucuronate
+1272	P35503	7-hydroxy-4-trifluoromethylcoumarin
+1273	P35503	UDP-glucuronate
+1274	P35503	1-naphthol
+1275	P35503	UDP-glucuronate
+1276	P35503	4-methylumbelliferone
+1277	P35503	UDP-glucuronate
+1278	P35503	17beta-estradiol
+1279	P35503	UDP-glucuronate
+1280	P35503	8-hydroxyquinoline
+1281	P35503	UDP-glucuronate
+1282	P35503	entacapone
+1283	P35503	UDP-glucuronate
+1284	P35503	paracetamol
+1285	P35503	UDP-glucuronate
+1286	P35503	tolcapone
+1287	P35503	UDP-glucuronate
+1288	P35503	umbelliferone
+1289	P35503	2 UDP-D-glucuronate
+1290	P35503	2 dexmedetomidine
+1291	P35503	UDP-glucuronate
+1292	P35503	chenodeoxycholic acid
+1293	P35503	chenodeoxycholic acid
+1294	P35503	UDP-glucuronate
+1295	Q9HAW8	UDP-glucuronate
+1296	Q9HAW8	testosterone
+1297	Q9HAW8	UDP-glucuronate
+1298	Q9HAW8	epitestosterone
+1299	Q9HAW8	UDP-glucuronate
+1300	Q9HAW8	entacapone
+1301	Q9HAW8	UDP-glucuronate
+1302	Q9HAW8	4-methylumbelliferone
+1303	Q9HAW8	UDP-glucuronate
+1304	Q9HAW8	17-alpha-estradiol
+1305	Q9HAW8	UDP-glucuronate
+1306	Q9HAW8	indomethacin
+1307	Q9HAW8	UDP-glucuronate
+1308	Q9HAW8	diclofenac
+1309	Q9HAW8	UDP-alpha-D-glucuronate
+1310	Q9HAW8	(S)-propranolol
+1311	Q9HAW8	UDP-alpha-D-glucuronate
+1312	Q9HAW8	(R)-propranolol
+1313	Q9HAW8	UDP-glucuronate
+1314	Q9HAW8	17-beta-estradiol
+1315	Q9HAW8	UDP-glucuronate
+1316	Q9HAW8	acceptor
+1317	Q9HAW8	xanthotoxol
+1318	Q9HAW8	UDP-glucuronate
+1319	Q9HAW8	1-hydroxybenzo(a)pyrene
+1320	Q9HAW8	UDP-glucuronate
+1321	Q9HAW8	3-hydroxybenzo(a)pyrene
+1322	Q9HAW8	UDP-glucuronate
+1323	Q9HAW8	7-hydroxy benzo(a)pyrene
+1324	Q9HAW8	UDP-glucuronate
+1325	Q9HAW8	9-hydroxybenzo(a)pyrene
+1326	Q9HAW8	UDP-glucuronate
+1327	Q9HAW8	UDP-glucuronate
+1328	Q9HAW8	6-gingerol
+1329	Q9HAW8	4-hydroxyestrone
+1330	Q9HAW8	UDP-glucuronate
+1331	Q9HAW8	3-azido-4-chlorobenzoic acid
+1332	Q9HAW8	UDP-glucuronate
+1333	Q9HAW8	UDP-D-glucuronate
+1334	Q9HAW8	4-methylumbelliferone
+1335	Q9HAW8	UDP-D-glucuronate
+1336	Q9HAW8	4-nitrophenol
+1337	Q9HAW8	4-azidobenzoic acid
+1338	Q9HAW8	UDP-glucuronate
+1339	Q9HAW8	UDP-D-glucuronate
+1340	Q9HAW8	4-hydroxy-N-desmethyl-tamoxifen
+1341	Q9HAW8	UDP-D-glucuronate
+1342	Q9HAW8	cis-4-hydroxytamoxifen
+1343	Q9HAW8	UDP-D-glucuronate
+1344	Q9HAW8	tamoxifen
+1345	Q9HAW8	H+
+1346	Q9HAW8	UDP-D-glucuronate
+1347	Q9HAW8	trans-4-hydroxytamoxifen
+1348	Q9HAW8	UDP-D-glucuronate
+1349	Q9HAW8	8-hydroxy-warfarin
+1350	Q9HAW8	UDP-D-glucuronate
+1351	Q9HAW8	6-hydroxy-warfarin
+1352	Q9HAW8	UDP-D-glucuronate
+1353	Q9HAW8	7-hydroxy-warfarin
+1354	Q9HAW8	UDP-glucuronate
+1355	Q9HAW8	7-ethyl-10-hydroxy-camptothecin
+1356	Q9HAW8	estriol
+1357	Q9HAW8	UDP-glucuronate
+1358	Q9HAW8	4-nitrophenol
+1359	Q9HAW8	UDP-glucuronate
+1360	Q9HAW8	1-naphthol
+1361	Q9HAW8	UDP-glucuronate
+1362	Q9HAW8	2-hydroxyestradiol
+1363	Q9HAW8	UDP-glucuronate
+1364	Q9HAW8	2-hydroxyestrone
+1365	Q9HAW8	UDP-glucuronate
+1366	Q9HAW8	3-azidobenzoic acid
+1367	Q9HAW8	UDP-glucuronate
+1368	Q9HAW8	4-azido-2-hydroxybenzoic acid
+1369	Q9HAW8	UDPglucuronate
+1370	Q9HAW8	4-hydroxyestradiol
+1371	Q9HAW8	UDP-glucuronate
+1372	Q9HAW8	UDP-D-glucuronate
+1373	Q9HAW8	4'-hydroxy-warfarin
+1374	Q9HAW8	UDP-D-glucuronate
+1375	Q9HAW8	mycophenolic acid
+1376	Q9HAW8	UDP-glucuronate
+1377	Q9HAW8	17beta-estradiol
+1378	Q9HAW8	UDP-glucuronate
+1379	Q9HAW8	7-hydroxy-4-trifluoromethylcoumarin
+1380	Q9HAW8	UDP-glucuronate
+1381	Q9HAW8	dopamine
+1382	Q9HAW8	estrogen
+1383	Q9HAW8	UDP-glucuronate
+1384	Q9HAW8	estrone
+1385	Q9HAW8	UDP-glucuronate
+1386	Q9HAW8	eugenol
+1387	Q9HAW8	UDP-glucuronate
+1388	Q9HAW8	estradiol
+1389	Q9HAW8	UDP-glucuronate
+1390	Q9HAW8	more
+1391	Q9HAW8	4-methylumbelliferone
+1392	Q9HAW8	UDP-glucuronate
+1393	Q9HAW8	UDP-D-glucuronate
+1394	Q9HAW8	acceptor
+1395	Q9HAW8	UDP-glucuronate
+1396	Q9HAW8	ethinylestradiol
+1397	Q9HAW8	4-methylumbelliferone
+1398	Q9HAW8	UDP-glucuronate
+1399	Q9HAW8	UDP-glucuronate
+1400	Q9HAW8	7-hydroxy-4-trifluoromethylcoumarin
+1401	Q9HAW8	UDP-glucuronate
+1402	Q9HAW8	1-naphthol
+1403	Q9HAW8	UDP-glucuronate
+1404	Q9HAW8	4-methylumbelliferone
+1405	P54855	acetaminophen
+1406	P54855	UDP-glucuronate
+1407	P54855	UDP-glucuronate
+1408	P54855	testosterone
+1409	P54855	UDP-glucuronate
+1410	P54855	acceptor
+1411	P54855	UDP-glucuronate
+1412	P54855	ethanol
+1413	P54855	(S)-oxazepam
+1414	P54855	UDP-glucuronate
+1415	P54855	UDP-D-glucuronate
+1416	P54855	4-methylumbelliferone
+1417	P54855	1-hydroxybenzo(a)pyrene
+1418	P54855	UDP-glucuronate
+1419	P54855	3-hydroxybenzo(a)pyrene
+1420	P54855	UDP-glucuronate
+1421	P54855	7-hydroxy benzo(a)pyrene
+1422	P54855	UDP-glucuronate
+1423	P54855	9-hydroxybenzo(a)pyrene
+1424	P54855	UDP-glucuronate
+1425	P54855	UDP-glucuronate
+1426	P54855	6-gingerol
+1427	P54855	6alpha-hydroxyprogesterone
+1428	P54855	UDP-glucuronate
+1429	P54855	12-hydroxyeicosatetraenoic acid
+1430	P54855	UDP-glucuronate
+1431	P54855	13-hydroxyoctadecadienoic acid
+1432	P54855	UDP-glucuronate
+1433	P54855	5alpha-androstane-3alpha,17beta-diol
+1434	P54855	UDP-glucuronate
+1435	P54855	UDP-glucuronate
+1436	P54855	paracetamol
+1437	P54855	UDP-D-glucuronate
+1438	P54855	4-hydroxy-N-desmethyl-tamoxifen
+1439	P54855	UDP-D-glucuronate
+1440	P54855	cis-4-hydroxytamoxifen
+1441	P54855	UDP-D-glucuronate
+1442	P54855	tamoxifen
+1443	P54855	H+
+1444	P54855	5-hydroxyrofecoxib UDP-glucuronate
+1445	P54855	bakuchiol
+1446	P54855	UDP-glucuronate
+1447	P54855	beta-estradiol
+1448	P54855	UDP-glucuronate
+1449	P54855	chenodeoxycholic acid
+1450	P54855	UDP-glucuronate
+1451	P54855	UDP-glucuronate
+1452	P54855	gingerol
+1453	P54855	UDP-glucuronate
+1454	P54855	tamoxifen
+1455	P54855	16alpha-hydroxyprogesterone
+1456	P54855	UDP-glucuronate
+1457	P54855	UDP-D-glucuronate
+1458	P54855	phenolphthalein
+1459	P54855	UDP-D-glucuronate
+1460	P54855	testosterone
+1461	P54855	UDP-glucuronate
+1462	P54855	(S)-oxazepam
+1463	P54855	UDP-glucuronate
+1464	P54855	lorazepam
+1465	P54855	testosterone
+1466	P54855	UDP-glucuronate
+1467	P54855	16alpha-hydroxyprogesterone
+1468	P54855	UDP-glucuronate
+1469	P54855	UDP-D-glucuronate
+1470	P54855	dihydrotestosterone
+1471	P54855	testosterone
+1472	P54855	UDP-glucuronate
+1473	P54855	testosterone
+1474	P54855	UDP-glucuronate
+1475	P54855	more
+1476	P54855	UDP-D-glucuronate
+1477	P54855	acceptor
+1478	P54855	4-methylumbelliferone
+1479	P54855	UDP-glucuronate
+1480	P54855	UDP-D-glucuronate
+1481	P54855	androstane-3alpha,17beta-diol
+1482	P54855	UDP-glucuronate
+1483	P54855	7-hydroxy-4-trifluoromethylcoumarin
+1484	P54855	UDP-glucuronate
+1485	P54855	4-methylumbelliferone
+1486	P54855	UDP-glucuronate
+1487	P54855	17beta-estradiol
+1488	P54855	UDP-glucuronate
+1489	P54855	8-hydroxyquinoline
+1490	P54855	UDP-glucuronate
+1491	P54855	entacapone
+1492	P54855	UDP-glucuronate
+1493	P54855	paracetamol
+1494	P54855	UDP-glucuronate
+1495	P54855	tolcapone
+1496	P54855	UDP-glucuronate
+1497	P54855	umbelliferone
+1498	P54855	UDP-D-glucuronate
+1499	P54855	dehydrotestosterone
+1500	P54855	UDP-D-glucuronate
+1501	P54855	androsterone
+1502	O75795	UDP-glucuronate
+1503	O75795	testosterone
+1504	O75795	7-hydroxy-4-trifluoromethylcoumarin
+1505	O75795	UDP-glucuronate
+1506	O75795	1-hydroxybenzo(a)pyrene
+1507	O75795	UDP-glucuronate
+1508	O75795	3-hydroxybenzo(a)pyrene
+1509	O75795	UDP-glucuronate
+1510	O75795	7-hydroxy benzo(a)pyrene
+1511	O75795	UDP-glucuronate
+1512	O75795	9-hydroxybenzo(a)pyrene
+1513	O75795	UDP-glucuronate
+1514	O75795	vorinostat
+1515	O75795	UDP-glucuronate
+1516	O75795	UDP-glucuronate
+1517	O75795	6-gingerol
+1518	O75795	UDP-glucuronate
+1519	O75795	10-gingerol
+1520	O75795	UDP-glucuronate
+1521	O75795	8-gingerol
+1522	O75795	6alpha-hydroxyprogesterone
+1523	O75795	UDP-glucuronate
+1524	O75795	12-hydroxyeicosatetraenoic acid
+1525	O75795	UDP-glucuronate
+1526	O75795	13-hydroxyoctadecadienoic acid
+1527	O75795	UDP-glucuronate
+1528	O75795	5alpha-androstane-3alpha,17beta-diol
+1529	O75795	UDP-glucuronate
+1530	O75795	C-1748
+1531	O75795	UDP-glucuronate
+1532	O75795	UDP-D-glucuronate
+1533	O75795	4-hydroxy-N-desmethyl-tamoxifen
+1534	O75795	UDP-D-glucuronate
+1535	O75795	cis-4-hydroxytamoxifen
+1536	O75795	UDP-D-glucuronate
+1537	O75795	tamoxifen
+1538	O75795	H+
+1539	O75795	UDP-D-glucuronate
+1540	O75795	trans-4-hydroxytamoxifen
+1541	O75795	16alpha-hydroxyprogesterone
+1542	O75795	UDP-glucuronate
+1543	O75795	UDP-D-glucuronate
+1544	O75795	dihydrotestosterone
+1545	O75795	testosterone
+1546	O75795	UDP-glucuronate
+1547	O75795	testosterone
+1548	O75795	UDP-glucuronate
+1549	O75795	UDP-glucuronate
+1550	O75795	dihydrotestosterone
+1551	O75795	UDP-glucuronate
+1552	O75795	vorinostat
+1553	O75795	more
+1554	O75795	UDP-D-glucuronate
+1555	O75795	acceptor
+1556	O75795	4-methylumbelliferone
+1557	O75795	UDP-glucuronate
+1558	O75795	UDP-D-glucuronate
+1559	O75795	androstane-3alpha,17beta-diol
+1560	O75795	UDP-glucuronate
+1561	O75795	7-hydroxy-4-trifluoromethylcoumarin
+1562	O75795	UDP-D-glucuronate
+1563	O75795	androsterone
+1564	Q20CK9	acetaminophen
+1565	Q20CK9	UDP-glucuronate
+1566	Q20CK9	UDP-glucuronate
+1567	Q20CK9	4-nitrophenol
+1568	Q20CK9	more
+1569	Q20CK9	UDP-glucuronate
+1570	Q20CK9	1-naphthol
+1571	Q20CK9	UDP-glucuronate
+1572	Q20CK9	4-methylumbelliferone
+1573	Q20CK9	UDP-glucuronic acid
+1574	Q20CK9	bilirubin
+1575	Q20CK7	acetaminophen
+1576	Q20CK7	UDP-glucuronate
+1577	Q20CK7	UDP-glucuronate
+1578	Q20CK7	4-nitrophenol
+1579	Q20CK7	more
+1580	Q20CK7	UDP-glucuronate
+1581	Q20CK7	1-naphthol
+1582	Q20CK7	UDP-glucuronate
+1583	Q20CK7	4-methylumbelliferone
+1584	Q20CK7	UDP-glucuronic acid
+1585	Q20CK7	bilirubin
+1586	Q20CL5	acetaminophen
+1587	Q20CL5	UDP-glucuronate
+1588	Q20CL5	UDP-glucuronate
+1589	Q20CL5	4-nitrophenol
+1590	Q20CL5	more
+1591	Q20CL5	UDP-glucuronate
+1592	Q20CL5	1-naphthol
+1593	Q20CL5	UDP-glucuronate
+1594	Q20CL5	4-methylumbelliferone
+1595	Q20CL5	UDP-glucuronic acid
+1596	Q20CL5	bilirubin
+1597	Q20CL5	UDP-glucuronate
+1598	Q20CL5	buprenorphine
+1599	Q20CL4	acetaminophen
+1600	Q20CL4	UDP-glucuronate
+1601	Q20CL4	UDP-glucuronate
+1602	Q20CL4	4-nitrophenol
+1603	Q20CL4	more
+1604	Q20CL4	UDP-glucuronate
+1605	Q20CL4	1-naphthol
+1606	Q20CL4	UDP-glucuronate
+1607	Q20CL4	4-methylumbelliferone
+1608	Q20CL4	UDP-glucuronic acid
+1609	Q20CL4	bilirubin
+1610	Q20CL4	UDP-glucuronate
+1611	Q20CL4	buprenorphine
+1612	Q20CL3	acetaminophen
+1613	Q20CL3	UDP-glucuronate
+1614	Q20CL3	UDP-glucuronate
+1615	Q20CL3	4-nitrophenol
+1616	Q20CL3	UDP-glucuronic acid
+1617	Q20CL3	bilirubin
+1618	Q20CL3	more
+1619	Q20CL3	UDP-glucuronate
+1620	Q20CL3	1-naphthol
+1621	Q20CL3	UDP-glucuronate
+1622	Q20CL3	4-methylumbelliferone
+1623	Q20CL3	UDP-glucuronic acid
+1624	Q20CL3	bilirubin
+1625	Q20CL3	UDP-glucuronate
+1626	Q20CL3	buprenorphine
+1627	Q20CL2	acetaminophen
+1628	Q20CL2	UDP-glucuronate
+1629	Q20CL2	UDP-glucuronate
+1630	Q20CL2	4-nitrophenol
+1631	Q20CL2	more
+1632	Q20CL2	UDP-glucuronate
+1633	Q20CL2	1-naphthol
+1634	Q20CL2	UDP-glucuronate
+1635	Q20CL2	4-methylumbelliferone
+1636	Q20CL2	UDP-glucuronic acid
+1637	Q20CL2	bilirubin
+1638	Q20CL1	acetaminophen
+1639	Q20CL1	UDP-glucuronate
+1640	Q20CL1	UDP-glucuronate
+1641	Q20CL1	4-nitrophenol
+1642	Q20CL1	more
+1643	Q20CL1	UDP-glucuronate
+1644	Q20CL1	1-naphthol
+1645	Q20CL1	UDP-glucuronate
+1646	Q20CL1	4-methylumbelliferone
+1647	Q20CL1	serotonin
+1648	Q20CL1	UDP-glucuronate
+1649	Q20CL1	UDP-glucuronic acid
+1650	Q20CL1	bilirubin
+1651	Q20CL0	acetaminophen
+1652	Q20CL0	UDP-glucuronate
+1653	Q20CL0	UDP-glucuronate
+1654	Q20CL0	4-nitrophenol
+1655	Q20CL0	more
+1656	Q20CL0	UDP-glucuronate
+1657	Q20CL0	1-naphthol
+1658	Q20CL0	UDP-glucuronate
+1659	Q20CL0	4-methylumbelliferone
+1660	Q20CL0	UDP-glucuronic acid
+1661	Q20CL0	bilirubin
+1662	Q20CK8	acetaminophen
+1663	Q20CK8	UDP-glucuronate
+1664	Q20CK8	UDP-glucuronate
+1665	Q20CK8	4-nitrophenol
+1666	Q20CK8	more
+1667	Q20CK8	UDP-glucuronate
+1668	Q20CK8	1-naphthol
+1669	Q20CK8	UDP-glucuronate
+1670	Q20CK8	4-methylumbelliferone
+1671	Q20CK8	UDP-glucuronic acid
+1672	Q20CK8	bilirubin
+1673	Q20CK6	acetaminophen
+1674	Q20CK6	UDP-glucuronate
+1675	Q20CK6	UDP-glucuronate
+1676	Q20CK6	4-nitrophenol
+1677	Q20CK6	more
+1678	Q20CK6	UDP-glucuronate
+1679	Q20CK6	1-naphthol
+1680	Q20CK6	UDP-glucuronate
+1681	Q20CK6	4-methylumbelliferone
+1682	Q20CK6	UDP-glucuronic acid
+1683	Q20CK6	bilirubin
+1684	Q20CL6	acetaminophen
+1685	Q20CL6	UDP-glucuronate
+1686	Q20CL6	UDP-glucuronate
+1687	Q20CL6	4-nitrophenol
+1688	Q20CL6	UDP-glucuronic acid
+1689	Q20CL6	bilirubin
+1690	Q20CL6	more
+1691	Q20CL6	UDP-glucuronate
+1692	Q20CL6	1-naphthol
+1693	Q20CL6	UDP-glucuronate
+1694	Q20CL6	4-methylumbelliferone
+1695	Q20CL6	UDP-glucuronic acid
+1696	Q20CL6	bilirubin
+1697	Q20CL6	UDP-glucuronate
+1698	Q20CL6	buprenorphine
+1699	Q64550	7-ethyl-10-hydroxy-camptothecin carboxylate
+1700	Q64550	UDP-glucuronate
+1701	Q64550	7-ethyl-10-hydroxy-camptothecin lactone
+1702	Q64550	UDP-glucuronate
+1703	Q64550	estradiol
+1704	Q64550	UDP-glucuronate
+1705	Q64550	4-hydroxy-2',3,3',4',5'-pentachlorobiphenyl
+1706	Q64550	UDPglucuronate
+1707	Q64550	4-hydroxy-2',3,3',4',5,5'-heptachlorobiphenyl
+1708	Q64550	UDPglucuronate
+1709	Q64550	4-hydroxy-2',3,4',5,6'-pentachlorobiphenyl
+1710	Q64550	UDPglucuronate
+1711	Q64550	UDP-glucuronate
+1712	Q64550	p-nitrophenol
+1713	Q64550	UDPglucuronate
+1714	Q64550	bilirubin
+1715	P08430	acetaminophen
+1716	P08430	UDP-glucuronate
+1717	P08430	2-hydroxy-2',3',4',5'-tetrachlorobiphenyl
+1718	P08430	UDPglucuronate
+1719	P08430	benzo[a]pyrene 3,6-diphenol
+1720	P08430	UDP-glucuronate
+1721	P08430	serotonin
+1722	P08430	UDP-glucuronate
+1723	Q64633	7-ethyl-10-hydroxy-camptothecin carboxylate
+1724	Q64633	UDP-glucuronate
+1725	Q64633	7-ethyl-10-hydroxy-camptothecin lactone
+1726	Q64633	UDP-glucuronate
+1727	P09875	4-hydroxy-2',3,4',6'-tetrachlorobiphenyl
+1728	P09875	UDP-glucuronate
+1729	P09875	4-hydroxy-2',4',6'-trichlorobiphenyl
+1730	P09875	UDP-glucuronate
+1731	P09875	morphine
+1732	P09875	UDP-glucuronate
+1733	P08542	4-methylumbeliferone
+1734	P08542	UDP-glucuronate
+1735	P08542	testosterone
+1736	P08542	UDP-glucuronate
+1737	P36511	testosterone
+1738	P36511	UDP-glucuronate
+1739	P36511	(-)-borneol
+1740	P36511	UDP-glucuronate
+1741	P36511	4-methylumbeliferone
+1742	P36511	UDP-glucuronate
+1743	Q64634	7-ethyl-10-hydroxy-camptothecin carboxylate
+1744	Q64634	UDP-glucuronate
+1745	Q64634	7-ethyl-10-hydroxy-camptothecin lactone
+1746	Q64634	UDP-glucuronate
+1747	Q64634	estriol
+1748	Q64634	UDP-glucuronate
+1749	Q64634	4-nitrophenol
+1750	Q64634	UDP-glucuronate
+1751	Q64634	4-methylumbelliferone
+1752	Q64634	UDP-glucuronate
+1753	Q64634	1-hydroxybenzo[a]pyrene
+1754	Q64634	UDP-glucuronate
+1755	Q64634	10-hydroxybenzo[a]pyrene
+1756	Q64634	UDP-glucuronate
+1757	Q64634	11-hydroxybenzo[a]pyrene
+1758	Q64634	UDP-glucuronate
+1759	Q64634	4-hydroxybenzo[a]pyrene
+1760	Q64634	UDP-glucuronate
+1761	Q64634	5-hydroxybenzo[a]pyrene
+1762	Q64634	UDP-glucuronate
+1763	Q64634	6-hydroxybenzo[a]pyrene
+1764	Q64634	UDP-glucuronate
+1765	Q64634	7-hydroxybenzo[a]pyrene
+1766	Q64634	UDP-glucuronate
+1767	Q64634	7-hydroxycoumarin
+1768	Q64634	UDP-glucuronate
+1769	Q64634	9-hydroxybenzo[a]pyrene
+1770	Q64634	UDP-glucuronate
+1771	Q64634	chrysin
+1772	Q64634	UDP-glucuronate
+1773	Q64634	1-naphthol
+1774	Q64634	UDP-glucuronate
+1775	Q64634	12-hydroxybenzo[a]pyrene
+1776	Q64634	UDP-glucuronate
+1777	P70624	estriol
+1778	P70624	UDP-glucuronate
+1779	P70624	17beta-estradiol
+1780	P70624	UDP-glucuronate
+1781	P70624	4-nitrophenol
+1782	P70624	UDP-glucuronate
+1783	P70624	4-methylumbelliferone
+1784	P70624	UDP-glucuronate
+1785	P70624	1-hydroxybenzo[a]pyrene
+1786	P70624	UDP-glucuronate
+1787	P70624	10-hydroxybenzo[a]pyrene
+1788	P70624	UDP-glucuronate
+1789	P70624	11-hydroxybenzo[a]pyrene
+1790	P70624	UDP-glucuronate
+1791	P70624	4-hydroxybenzo[a]pyrene
+1792	P70624	UDP-glucuronate
+1793	P70624	5-hydroxybenzo[a]pyrene
+1794	P70624	UDP-glucuronate
+1795	P70624	6-hydroxybenzo[a]pyrene
+1796	P70624	UDP-glucuronate
+1797	P70624	7-hydroxybenzo[a]pyrene
+1798	P70624	UDP-glucuronate
+1799	P70624	7-hydroxycoumarin
+1800	P70624	UDP-glucuronate
+1801	P70624	9-hydroxybenzo[a]pyrene
+1802	P70624	UDP-glucuronate
+1803	P70624	chrysin
+1804	P70624	UDP-glucuronate
+1805	P70624	17beta-ethynylestradiol
+1806	P70624	UDPglucuronate
+1807	P70624	2-hydroxybenzo[a]pyrene
+1808	P70624	UDP-glucuronate
+1809	P70624	3,5-dinitrocatechol
+1810	P70624	UDP-glucuronate
+1811	P70624	3-hydroxybenzo[a]pyrene
+1812	P70624	UDP-glucuronate
+1813	P70624	8-hydroxybenzo[a]pyrene
+1814	P70624	UDP-glucuronate
+1815	P70624	benzo[a]pyrene-7,8(+)-diol
+1816	P70624	UDP-glucuronate
+1817	P70624	benzo[a]pyrene-7,8(-)diol
+1818	P70624	UDP-glucuronate
+1819	P70624	bisphenol A
+1820	P70624	UDP-glucuronate
+1821	P70624	epicatechin
+1822	P70624	UDP-glucuronate
+1823	P70624	estrone
+1824	P70624	UDP-glucuronate
+1825	P70624	propofol
+1826	P70624	UDP-glucuronate
+1827	P70624	serotonin
+1828	P70624	UDP-glucuronate
+1829	P70624	1-naphthol
+1830	P70624	UDP-glucuronate
+1831	P70624	12-hydroxybenzo[a]pyrene
+1832	P70624	UDP-glucuronate
+1833	P70624	4-hydroxybiphenyl
+1834	P70624	UDP-glucuronate
+1835	O75310	12-hydroxyeicosatetraenoic acid
+1836	O75310	UDP-glucuronate
+1837	O75310	13-hydroxyoctadecadienoic acid
+1838	O75310	UDP-glucuronate
+1839	O75310	5alpha-androstane-3alpha,17beta-diol
+1840	O75310	UDP-glucuronate
+1841	O75310	UDP-glucuronate
+1842	O75310	12-hydroxyeicosatetraenoic acid
+1843	O75310	UDP-glucuronate
+1844	O75310	15-hydroxyeicosatetraenoic acid
+1845	P06133	UDP-D-glucuronate
+1846	P06133	labetalol
+1847	P06133	UDP-glucuronate
+1848	P06133	carvedilol
+1849	P06133	hyodeoxycholic acid
+1850	P06133	UDP-glucuronate
+1851	P06133	4-hydroxyestrone
+1852	P06133	UDP-glucuronate
+1853	P06133	12-hydroxyeicosatetraenoic acid
+1854	P06133	UDP-glucuronate
+1855	P06133	13-hydroxyoctadecadienoic acid
+1856	P06133	UDP-glucuronate
+1857	P06133	5alpha-androstane-3alpha,17beta-diol
+1858	P06133	UDP-glucuronate
+1859	P06133	17-epiestriol
+1860	P06133	UDP-glucuronate
+1861	P06133	UDP-glucuronate
+1862	P06133	paracetamol
+1863	P06133	UDP-glucuronate
+1864	P06133	deferiprone
+1865	P06133	more
+1866	P06133	UDP-D-glucuronate
+1867	P06133	acceptor
+1868	P06133	4-methylumbelliferone
+1869	P06133	UDP-glucuronate
+1870	P36537	UDP-glucuronate
+1871	P36537	acceptor
+1872	P36537	UDP-glucuronate
+1873	P36537	ethanol
+1874	P36537	UDP-glucuronate
+1875	P36537	20-hydroxyeicosatetraenoic acid
+1876	P36537	12-hydroxyeicosatetraenoic acid
+1877	P36537	UDP-glucuronate
+1878	P36537	13-hydroxyoctadecadienoic acid
+1879	P36537	UDP-glucuronate
+1880	P36537	5alpha-androstane-3alpha,17beta-diol
+1881	P36537	UDP-glucuronate
+1882	P36537	UDP-glucuronate
+1883	P36537	tamoxifen
+1884	P36537	UDP-glucuronate
+1885	P36537	amitriptyline
+1886	P36537	UDP-glucuronate
+1887	P36537	imipramine
+1888	P36537	UDP-glucuronate
+1889	P36537	ketoconazole
+1890	P36537	UDP-glucuronate
+1891	P36537	ketotifen
+1892	P36537	UDP-glucuronate
+1893	P36537	midazolam
+1894	P36537	UDP-glucuronate
+1895	P36537	olanzapine
+1896	P36537	UDP-glucuronate
+1897	P36537	pizotifen
+1898	P36537	UDP-D-glucuronate
+1899	P36537	cotinine
+1900	P36537	UDP-D-glucuronate
+1901	P36537	nicotine
+1902	P36537	UDP-glucuronate
+1903	P36537	diphenhydramine
+1904	P36537	imipramine
+1905	P36537	UDP-glucuronate
+1906	P36537	more
+1907	P36537	UDP-D-glucuronate
+1908	P36537	acceptor
+1909	P36537	UDP-glucuronate
+1910	P36537	12-hydroxyeicosatetraenoic acid
+1911	P36537	UDP-glucuronate
+1912	P36537	15-hydroxyeicosatetraenoic acid
+1913	P36537	UDP-glucuronate
+1914	P36537	cotinine
+1915	P36537	2 UDP-D-glucuronate
+1916	P36537	2 dexmedetomidine
+1917	P36537	2 UDP-D-glucuronate
+1918	P36537	2 levomedetomidine
+1919	P36537	UDP-D-glucuronate
+1920	P36537	17beta-estradiol
+1921	P36537	UDP-D-glucuronate
+1922	P36537	4-hydroxy-estrone
+1923	P36537	UDP-glucuronate
+1924	P36537	4-hydroxy-estrone
+1925	P35504	UDP-glucuronate
+1926	P35504	testosterone
+1927	P35504	UDP-glucuronate
+1928	P35504	epitestosterone
+1929	P35504	UDP-glucuronate
+1930	P35504	1-hydroxypyrene
+1931	P35504	more
+1932	P35504	4-methylumbelliferone
+1933	P35504	UDP-glucuronate
+1934	P35504	1-hydroxypyrene
+1935	P35504	UDP-glucuronate
+1936	P35504	scopoletin
+1937	P35504	UDP-glucuronate
+1938	P35504	UDP-glucuronate
+1939	P35504	ethinylestradiol
+1940	P08541	androsterone
+1941	P08541	UDP-glucuronate
+1942	Q9TSL7	7-ethyl-10-hydroxycamptothecin
+1943	Q9TSL7	UDP-alpha-D-glucuronate
+1944	Q9TSL7	7-hydroxy-4-trifluoromethylcoumarin
+1945	Q9TSL7	UDP-alpha-D-glucuronate
+1946	Q9TSL7	more
+1947	Q9TSL7	UDP-D-glucuronate
+1948	Q9TSL7	acceptor
+1949	Q9TSL7	estradiol
+1950	Q9TSL7	UDP-alpha-D-glucuronate
+1951	Q9TSL9	UDP-D-glucuronate
+1952	Q9TSL9	acceptor
+1953	Q9TSM0	UDP-D-glucuronate
+1954	Q9TSM0	acceptor
+1955	Q6UWM9	more
+1956	Q6UWM9	UDP-D-glucuronate
+1957	Q6UWM9	acceptor
+1958	Q6UWM9	UDP-glucuronate
+1959	Q6UWM9	chenodeoxycholic acid
+1960	Q6UWM9	UDP-glucuronate
+1961	Q6UWM9	cholic acid
+1962	Q6UWM9	UDP-glucuronate
+1963	Q6UWM9	deoxycholic acid
+1964	Q6UWM9	UDP-glucuronate
+1965	Q6UWM9	hyocholic acid
+1966	Q6UWM9	UDP-glucuronate
+1967	Q6UWM9	hyodeoxycholic acid
+1968	Q6UWM9	UDP-glucuronate
+1969	Q6UWM9	lithocholic acid
+1970	Q6UWM9	UDP-D-glucuronate
+1971	Q6UWM9	chenodeoxycholic acid
+1972	Q6UWM9	UDP-D-glucuronate
+1973	Q6UWM9	deoxycholic acid
+1974	Q6UWM9	UDP-D-glucuronate
+1975	Q6UWM9	hyodeoxycholic acid
+1976	Q6UWM9	UDP-D-glucuronate
+1977	Q6UWM9	hyodeoxycholic acid
+1978	Q6UWM9	UDP-D-glucuronate
+1979	Q6UWM9	hyodeoxycholic acid
+1980	Q6UWM9	UDP-D-glucuronate
+1981	Q6UWM9	ursodeoxycholic acid
+1982	Q6UWM9	UDP-glucuronate
+1983	Q6UWM9	hyodeoxycholic acid
+1984	D2SMM0	UDP-D-glucuronate
+1985	D2SMM0	morphine
+1986	D2SMM0	UDP-D-glucuronate
+1987	D2SMM0	morphine
+1988	D2SMM2	UDP-D-glucuronate
+1989	D2SMM2	morphine
+1990	D2SMM2	UDP-D-glucuronate
+1991	D2SMM2	morphine
+1992	D2SMM3	UDP-D-glucuronate
+1993	D2SMM3	morphine
+1994	D2SMM3	UDP-D-glucuronate
+1995	D2SMM3	morphine
+1996	D2SMM6	UDP-D-glucuronate
+1997	D2SMM6	morphine
+1998	D2SMM6	UDP-D-glucuronate
+1999	D2SMM6	morphine
+2000	D2SMM5	UDP-D-glucuronate
+2001	D2SMM5	morphine
+2002	D2SMM5	UDP-D-glucuronate
+2003	D2SMM5	morphine
+2004	D2SMM4	UDP-D-glucuronate
+2005	D2SMM4	morphine
+2006	D2SMM4	UDP-D-glucuronate
+2007	D2SMM4	morphine
+2008	D2SML9	UDP-D-glucuronate
+2009	D2SML9	morphine
+2010	D2SML9	UDP-D-glucuronate
+2011	D2SML9	morphine
+2012	D2SMM1	UDP-D-glucuronate
+2013	D2SMM1	morphine
+2014	D2SMM1	UDP-D-glucuronate
+2015	D2SMM1	morphine
+2016	Q9Y4X1	UDP-glucuronate
+2017	Q9Y4X1	testosterone
+2018	Q9Y4X1	more
+2019	Q9Y4X1	UDP-glucuronate
+2020	Q9Y4X1	chenodeoxycholic acid
+2021	Q9Y4X1	UDP-glucuronate
+2022	Q9Y4X1	cholic acid
+2023	Q9Y4X1	UDP-glucuronate
+2024	Q9Y4X1	deoxycholic acid
+2025	Q9Y4X1	UDP-glucuronate
+2026	Q9Y4X1	hyocholic acid
+2027	Q9Y4X1	UDP-glucuronate
+2028	Q9Y4X1	hyodeoxycholic acid
+2029	Q9Y4X1	UDP-glucuronate
+2030	Q9Y4X1	lithocholic acid
+2031	Q9Y4X1	UDP-glucuronate
+2032	Q9Y4X1	citronellol
+2033	Q9BY64	UDP-glucuronate
+2034	Q9BY64	testosterone
+2035	Q9BY64	UDP-glucuronate
+2036	Q9BY64	estradiol
+2037	Q95M37	UDP-glucuronate
+2038	Q95M37	testosterone
+2039	Q95M37	UDP-glucuronate
+2040	Q95M37	epitestosterone
+2041	Q95M37	UDP-glucuronate
+2042	Q95M37	entacapone
+2043	Q95M37	UDP-glucuronate
+2044	Q95M37	4-methylumbelliferone
+2045	Q95M37	UDP-glucuronate
+2046	Q95M37	indomethacin
+2047	Q95M37	more
+2048	A0A4Y1KAF7	UDP-alpha-D-glucuronate
+2049	A0A4Y1KAF7	acceptor
+2050	Q63886	4-methylumbelliferone
+2051	Q63886	UDP-glucuronate
+2052	Q63886	17beta-estradiol
+2053	Q63886	UDP-alpha-D-glucuronate
+2054	Q63886	chloramphenicol
+2055	Q63886	UDP-glucuronate
+2056	A0A4Y1K7J9	UDP-alpha-D-glucuronate
+2057	A0A4Y1K7J9	acceptor
+2058	A0A4Y1K7J9	UDP-alpha-D-glucuronate
+2059	A0A4Y1K7J9	estradiol
+2060	A0A4Y1K7J9	UDP-alpha-D-glucuronate
+2061	A0A4Y1K7J9	morphine
+2062	Q8K154	4-methylumbelliferone
+2063	Q8K154	UDP-glucuronate
+2064	Q8K154	17beta-estradiol
+2065	Q8K154	UDP-alpha-D-glucuronate
+2066	Q8K154	chloramphenicol
+2067	Q8K154	UDP-glucuronate
+2068	Q8K154	morphine
+2069	Q8K154	UDP-glucuronate
+2070	Q3UEP4	4-methylumbelliferone
+2071	Q3UEP4	UDP-glucuronate
+2072	Q3UEP4	17beta-estradiol
+2073	Q3UEP4	UDP-alpha-D-glucuronate
+2074	Q3UEP4	chloramphenicol
+2075	Q3UEP4	UDP-glucuronate
+2076	Q3UEP4	morphine
+2077	Q3UEP4	UDP-glucuronate
+2078	Q8VCN3	4-methylumbelliferone
+2079	Q8VCN3	UDP-glucuronate
+2080	Q8VCN3	17beta-estradiol
+2081	Q8VCN3	UDP-alpha-D-glucuronate
+2082	Q8VCN3	chloramphenicol
+2083	Q8VCN3	UDP-glucuronate
+2084	Q8VCN3	morphine
+2085	Q8VCN3	UDP-glucuronate
+0	Q8VZE9	more
+1	Q8VZE9	UDP-glucose
+2	Q8VZE9	kaempferol
+3	Q8VZE9	UDP-glucose
+4	Q8VZE9	quercetin
+5	Q8VZE9	UDP-glucose
+6	Q8VZE9	eriodictyol
+7	Q7XHR3	UDP-glucose
+8	Q7XHR3	daidzein
+9	Q7XHR3	UDP-glucose
+10	Q7XHR3	genistein
+11	Q7XHR3	more
+12	A6BM07	UDP-glucose
+13	A6BM07	daidzein
+14	A6BM07	UDP-glucose
+15	A6BM07	genistein
+16	A6BM07	more
+17	A6BM07	UDP-glucose
+18	A6BM07	biochanin A
+0	Q9M8Z7	UDP-glucose
+1	Q9M8Z7	a sterol
+2	Q9M8Z7	UDP-glucose
+3	Q9M8Z7	cholesterol
+4	Q9M8Z7	UDP-glucose
+5	Q9M8Z7	ergosterol
+6	Q5A950	UDP-glucose
+7	Q5A950	sitosterol
+8	Q54IL5	more
+9	Q54IL5	UDP-glucose
+10	Q54IL5	sitosterol
+11	Q54IL5	UDP-glucose
+12	Q54IL5	tomatidine
+13	Q54IL5	UDP-glucose
+14	Q54IL5	stigmasterol
+15	Q54IL5	UDP-glucose
+16	Q54IL5	cholesterol
+17	Q54IL5	UDP-glucose
+18	Q54IL5	ergosterol
+19	Q9Y751	more
+20	Q9Y751	UDP-glucose
+21	Q9Y751	sitosterol
+22	Q9Y751	UDP-glucose
+23	Q9Y751	tomatidine
+24	Q9Y751	UDP-alpha-D-glucose
+25	Q9Y751	testosterone
+26	Q9Y751	UDP-glucose
+27	Q9Y751	estradiol
+28	Q9Y751	UDP-glucose
+29	Q9Y751	estrone
+30	Q9Y751	UDP-glucose
+31	Q9Y751	stigmasterol
+32	Q9Y751	UDP-glucose
+33	Q9Y751	cholesterol
+34	Q9Y751	UDP-glucose
+35	Q9Y751	ergosterol
+36	Q06321	UDP-glucose
+37	Q06321	a sterol
+38	Q06321	more
+39	Q06321	UDP-glucose
+40	Q06321	sitosterol
+41	Q06321	UDP-glucose
+42	Q06321	tomatidine
+43	Q06321	UDP-alpha-D-glucose
+44	Q06321	testosterone
+45	Q06321	UDP-glucose
+46	Q06321	estradiol
+47	Q06321	UDP-glucose
+48	Q06321	estrone
+49	Q06321	UDP-glucose
+50	Q06321	stigmasterol
+51	Q06321	UDP-glucose
+52	Q06321	cholesterol
+53	Q06321	UDP-glucose
+54	Q06321	ergosterol
+55	O22678	more
+56	O22678	UDP-glucose
+57	O22678	sitosterol
+58	O22678	UDP-glucose
+59	O22678	tomatidine
+60	O22678	UDP-glucose
+61	O22678	stigmasterol
+62	O22678	UDP-glucose
+63	O22678	cholesterol
+64	O22678	UDP-glucose
+65	O22678	ergosterol
+66	Q2I015	more
+67	Q2I015	UDP-glucose
+68	Q2I015	3beta-hydroxy-16,17alpha-epoxypregnenolone
+69	Q2I015	UDP-glucose
+70	Q2I015	3beta-hydroxy-pregna-5,16-dien-one
+71	Q2I015	UDP-glucose
+72	Q2I015	beta-sitosterol
+73	Q2I015	UDP-glucose
+74	Q2I015	brassicasterol
+75	Q2I015	UDP-glucose
+76	Q2I015	dehydroepiandrosterone
+77	Q2I015	UDP-glucose
+78	Q2I015	solasodine
+79	Q2I015	UDP
+80	Q2I015	transandrosterone
+81	Q2I015	UDP-glucose
+82	Q2I015	pregnenolone
+83	Q2I015	UDP-glucose
+84	Q2I015	stigmasterol
+85	Q2I015	UDP-glucose
+86	Q2I015	ergosterol
+87	F4KII1	UDP-glucose
+88	F4KII1	a sterol
+89	F4KII1	UDP-glucose
+90	F4KII1	sitosterol
+91	F4KII1	UDP-glucose
+92	F4KII1	stigmasterol
+93	A0A023NGA8	UDP-glucose
+94	A0A023NGA8	sitosterol
+95	A0A023NFQ4	UDP-glucose
+96	A0A023NFQ4	sitosterol
+97	A5DNB9	UDP-alpha-D-glucose
+98	A5DNB9	testosterone
+99	A5DNB9	UDP-glucose
+100	A5DNB9	estradiol
+101	A5DNB9	UDP-glucose
+102	A5DNB9	estrone
+103	A5DNB9	UDP-glucose
+104	A5DNB9	cholesterol
+105	A5DNB9	UDP-glucose
+106	A5DNB9	ergosterol
+107	A7KAK6	UDP-alpha-D-glucose
+108	A7KAK6	testosterone
+109	A7KAK6	UDP-glucose
+110	A7KAK6	estradiol
+111	A7KAK6	UDP-glucose
+112	A7KAK6	estrone
+113	A7KAK6	UDP-glucose
+114	A7KAK6	cholesterol
+115	A7KAK6	UDP-glucose
+116	A7KAK6	ergosterol
+117	Q6CUV2	UDP-alpha-D-glucose
+118	Q6CUV2	testosterone
+119	Q6CUV2	UDP-glucose
+120	Q6CUV2	estradiol
+121	Q6CUV2	UDP-glucose
+122	Q6CUV2	estrone
+123	Q6CUV2	UDP-glucose
+124	Q6CUV2	cholesterol
+125	Q6CUV2	UDP-glucose
+126	Q6CUV2	ergosterol
+127	Q6BN88	UDP-alpha-D-glucose
+128	Q6BN88	testosterone
+129	Q6BN88	UDP-glucose
+130	Q6BN88	estradiol
+131	Q6BN88	UDP-glucose
+132	Q6BN88	estrone
+133	Q6BN88	UDP-glucose
+134	Q6BN88	cholesterol
+135	Q6BN88	UDP-glucose
+136	Q6BN88	ergosterol
+137	Q9XIG1	UDP-glucose
+138	Q9XIG1	a sterol
+139	Q9XIG1	UDP-glucose
+140	Q9XIG1	cholesterol
+141	Q9XIG1	UDP-glucose
+142	Q9XIG1	ergosterol
+0	Q8TDX6	UDP-N-acetyl-D-galactosamine
+1	Q8TDX6	beta-D-glucuronyl-(1->3)-D-galactosyl-proteoglycan
+2	Q8TDX6	UDP-N-acetyl-D-galactosamine
+3	Q8TDX6	glucuronylgalactosyl glycosides
+4	Q8TDX6	UDP-N-acetyl-D-galactosamine
+5	Q8TDX6	glucuronylgalactosyl glycosides
+6	Q8TDX6	UDP-N-acetyl-D-galactosamine
+7	Q8TDX6	beta-D-glucuronyl-1,3-beta-D-galactosyl-1 3-beta-D-galactosyl-beta-D-xylose-O-methoxyphenyl
+8	Q8TDX6	UDP-N-acetyl-D-galactosamine
+9	Q8TDX6	beta-D-glucuronyl-1,3-beta-D-galactosyl-1-O-C2H4-NH-benzyloxycarbonyl
+10	Q8N6G5	UDP-N-acetyl-D-galactosamine
+11	Q8N6G5	glucuronylgalactosyl glycosides
+12	Q8N6G5	UDP-N-acetyl-D-galactosamine
+13	Q8N6G5	beta-D-glucuronyl-1,3-beta-D-galactosyl-1-O-C2H4-NH-benzyloxycarbonyl
+14	Q8N6G5	UDP-N-acetyl-D-galactosamine
+15	Q8N6G5	beta-D-glucuronyl-1,3-beta-D-galactosyl-1,3-beta-D-galactosyl-1 4-beta-D-xylosyl-1-O-(Gly)Ser-(Gly-Glu)
+16	Q8N6G5	UDP-N-acetyl-D-galactosamine
+17	Q8N6G5	beta-D-glucuronyl-1,3-beta-D-galactosyl-1,3-beta-D-galactosyl-1 4-beta-D-xylosyl-1-O-Ser
+18	Q8N6G5	UDP-N-acetyl-D-galactosamine
+19	Q8N6G5	beta-D-glucuronyl-1,3-beta-D-galactosyl-1,3-beta-D-galactosyl-1 4-beta-D-xylosyl-1-O-Ser-peptide
+20	E7F6G2	UDP-N-acetyl-D-galactosamine
+21	E7F6G2	beta-D-glucuronyl-(1->3)-D-galactosyl-proteoglycan
+22	A8E7C8	UDP-N-acetyl-D-galactosamine
+23	A8E7C8	beta-D-glucuronyl-(1->3)-D-galactosyl-proteoglycan
+24	Q8BJQ9	UDP-N-acetyl-D-galactosamine
+25	Q8BJQ9	beta-D-glucuronyl-(1->3)-D-galactosyl-proteoglycan
+26	Q8BJQ9	UDP-N-acetyl-D-galactosamine
+27	Q8BJQ9	GlcUAbeta1-3Galbeta1-3Galbeta1-4Xyl(2-O-phosphate)
+28	Q8BJQ9	UDP-N-acetyl-D-galactosamine
+29	Q8BJQ9	GlcUAbeta1-3Galbeta1-3Galbeta1-4Xyl(2-O-phosphate)-1-O-thrombomodulin
+30	Q8C1F4	more
+0	Q9CMP0	UDP-N-acetyl-D-galactosamine
+1	Q9CMP0	chondroitin oligosaccharide
+2	Q9CMP0	UDP-N-acetyl-D-galactosamine
+3	Q9CMP0	chondroitin sulfate oligosaccharide
+4	Q9CMP0	UDP-N-acetyl-D-galactosamine
+5	Q9CMP0	chondroitin sulfate C
+6	Q70JA7	GlcUAbeta1-3Galbeta1-O-C2H4NH-benzyloxycarbonyl
+7	Q70JA7	UDP-N-acetyl-D-galactosamine
+8	Q70JA7	GlcUAbeta1-3Galbeta1-O-C2H4NH-benzyloxycarbonyl
+9	Q70JA7	UDP-glucuronic acid
+10	Q70JA7	GlcUAbeta1-3Galbeta1-O-naphthalenemethanol
+11	Q70JA7	UDP-N-acetyl-D-galactosamine
+12	Q70JA7	GlcUAbeta1-3Galbeta1-O-naphthalenemethanol
+13	Q70JA7	UDP-glucuronic acid
+14	Q70JA7	UDP-glucuronic acid
+15	Q70JA7	chondroitin sulfate CS-11
+16	Q70JA7	chondroitin
+17	Q70JA7	UDP-GalNAc
+18	Q70JA7	chondroitin
+19	Q70JA7	UDP-glucuronic acid
+20	Q70JA7	chondroitin sulfate A
+21	Q70JA7	UDP-GalNAc
+22	Q70JA7	chondroitin sulfate A
+23	Q70JA7	UDP-glucuronic acid
+24	Q70JA7	chondroitin sulfate A10
+25	Q70JA7	UDP-GalNAc
+26	Q70JA7	chondroitin sulfate A11
+27	Q70JA7	UDP-glucuronic acid
+28	Q70JA7	chondroitin sulfate C
+29	Q70JA7	UDP-GalNAc
+30	Q70JA7	chondroitin sulfate C
+31	Q70JA7	UDP-glucuronic acid
+32	Q70JA7	chondroitin sulfate C10
+33	Q70JA7	UDP-GalNAc
+34	Q70JA7	chondroitin sulfate C11
+35	Q70JA7	UDP-glucuronic acid
+36	Q70JA7	chondroitin sulfate D
+37	Q70JA7	UDP-GalNAc
+38	Q70JA7	chondroitin sulfate D
+39	Q70JA7	UDP-glucuronic acid
+40	Q70JA7	chondroitin sulfate E
+41	Q70JA7	UDP-GalNAc
+42	Q70JA7	chondroitin sulfate E
+43	Q70JA7	UDP-glucuronic acid
+44	Q70JA7	dermatan sulfate
+45	Q70JA7	UDP-GalNAc
+46	Q70JA7	dermatan sulfate
+47	Q70JA7	UDP-glucuronic acid
+48	Q70JA7	hyaluronan
+49	Q70JA7	UDP-GalNAc
+50	Q70JA7	hyaluronan
+51	Q70JA7	UDP-glucuronic acid
+52	Q70JA7	more
+53	Q8IZ52	more
+54	A2V663	alpha-thrombomodulin
+55	A2V663	UDP-N-acetyl-D-galactosamine
+56	A2V663	UDP-glucuronic acid
+57	A2V663	more
+58	Q8TDX6	UDP-N-acetyl-alpha-D-galactosamine
+59	Q8TDX6	chondroitin sulfate oligosaccharide
+60	Q8TDX6	UDP-N-acetyl-D-galactosamine
+61	Q8TDX6	chondroitin oligosaccharide
+62	Q8TDX6	more
+63	Q8TDX6	UDP-N-acetyl-alpha-D-galactosamine
+64	Q8TDX6	chondroitin oligosaccharide
+65	Q8TDX6	UDP-N-acetyl-D-galactosamine
+66	Q8TDX6	chondroitin sulfate oligosaccharide
+67	Q8TDX6	UDP-N-acetyl-alpha-D-galactosamine
+68	Q8TDX6	(glucuronyl-N-acetyl-1,3-beta-D-galactosamine)5
+69	Q8TDX6	UDP-N-acetyl-alpha-D-galactosamine
+70	Q8TDX6	(glucuronyl-N-acetyl-1,3-beta-D-galactosamine)6
+71	Q8TDX6	UDP-N-acetyl-alpha-D-galactosamine
+72	Q8TDX6	(glucuronyl-N-acetyl-1,3-beta-D-galactosamine)7
+73	Q8TDX6	UDP-N-acetyl-alpha-D-galactosamine
+74	Q8TDX6	(glucuronyl-N-acetyl-1,3-beta-D-galactosamine)4
+75	Q8TDX6	UDP-N-acetyl-alpha-D-galactosamine
+76	Q8TDX6	(glucuronyl-N-acetyl-1,3-beta-D-galactosamine)3
+77	Q8TDX6	UDP-N-acetyl-D-galactosamine
+78	Q8TDX6	chondroitin polysaccharide
+79	Q8N6G5	UDP-N-acetyl-alpha-D-galactosamine
+80	Q8N6G5	chondroitin sulfate oligosaccharide
+81	Q8N6G5	UDP-N-acetyl-D-galactosamine
+82	Q8N6G5	chondroitin oligosaccharide
+83	Q8N6G5	more
+84	Q8N6G5	UDP-N-acetyl-alpha-D-galactosamine
+85	Q8N6G5	chondroitin oligosaccharide
+86	Q86X52	UDP-N-acetyl-D-galactosamine
+87	Q86X52	chondroitin oligosaccharide
+88	Q86X52	more
+89	Q86X52	UDP-N-acetyl-D-galactosamine
+90	Q86X52	chondroitin sulfate C
+91	Q86X52	UDP-N-acetyl-alpha-D-galactosamine
+92	Q86X52	beta-D-glucuronosyl-(1->3)-N-acetyl-beta-D-galactosaminyl-proteoglycan
+93	Q86X52	UDP-N-acetyl-alpha-D-galactosamine
+94	Q86X52	(glucuronyl-N-acetyl-1,3-beta-D-galactosamine)4
+95	Q86X52	UDP-N-acetyl-alpha-D-galactosamine
+96	Q86X52	(glucuronyl-N-acetyl-1,3-beta-D-galactosamine)3
+97	Q8L0V4	UDP-N-acetyl-alpha-D-galactosamine
+98	Q8L0V4	chondroitin sulfate oligosaccharide
+99	Q8L0V4	UDP-N-acetyl-D-galactosamine
+100	Q8L0V4	chondroitin oligosaccharide
+101	Q8L0V4	more
+102	Q8L0V4	UDP-N-acetyl-alpha-D-galactosamine
+103	Q8L0V4	chondroitin oligosaccharide
+104	Q8L0V4	UDP-N-acetyl-D-galactosamine
+105	Q8L0V4	chondroitin sulfate oligosaccharide
+106	Q8L0V4	UDP-N-acetyl-alpha-D-galactosamine
+107	Q8L0V4	(glucuronyl-N-acetyl-1,3-beta-D-galactosamine)3
+108	Q8L0V4	UDP-N-acetyl-alpha-D-galactosamine
+109	Q8L0V4	(glucuronyl-N-acetyl-1,3-beta-D-galactosamine)2
+110	Q8L0V4	UDP-N-acetyl-beta-D-galactosamine
+111	Q8L0V4	chondroitin sulfate hexasaccharide
+0	Q66PF4	cinnamic acid
+1	Q66PF4	UDP-glucose
+2	Q66PF4	more
+3	Q66PF4	3,4-dimethoxycinnamic acid
+4	Q66PF4	UDP-glucose
+5	Q66PF4	3-aminobenzoic acid
+6	Q66PF4	UDP-glucose
+7	Q66PF4	3-hydroxybenzoic acid
+8	Q66PF4	UDP-glucose
+9	Q66PF4	4-aminobenzoic acid
+10	Q66PF4	UDP-glucose
+11	Q66PF4	5-hydroxyferulic acid
+12	Q66PF4	UDP-glucose
+13	Q66PF4	benzoic acid
+14	Q66PF4	UDP-glucose
+15	Q66PF4	caffeic acid
+16	Q66PF4	UDP-glucose
+17	Q66PF4	ferulic acid
+18	Q66PF4	UDP-glucose
+19	Q66PF4	p-coumaric acid
+20	Q66PF4	UDP-glucose
+21	Q66PF4	p-hydroxybenzoic acid
+22	Q66PF4	UDP-glucose
+23	Q66PF4	phenylbutyric acid
+24	Q66PF4	UDP-glucose
+25	Q66PF4	phenylpropionic acid
+26	Q66PF4	UDP-glucose
+27	Q66PF4	sinapic acid
+28	Q66PF4	UDP-glucose
+29	Q66PF4	vanillic acid
+30	Q66PF4	UDP-glucose
+0	Q9XIS4	amylopectin
+1	Q9XIS4	amylose
+2	Q9ZTB7	amylopectin
+3	Q9ZTB7	amylose
+4	O81387	more
+5	Q9XIS5	amylopectin
+6	Q9XIS5	amylose
+7	O24421	more
+8	Q6EAS5	more
+9	Q3BJY5	more
+10	Q5JDJ7	more
+11	P9WN45	more
+12	P9WN45	amylose
+13	P9WN45	starch
+14	Q1IZQ3	amylopectin
+15	Q1IZQ3	amylose
+16	Q1IZQ3	amylose
+17	A9ZPD1	amylose
+18	Q9RTB7	amylopectin
+19	Q9RTB7	amylose
+20	Q01401	amylopectin
+21	Q01401	amylose
+22	Q01401	more
+23	Q8DT52	amylose
+24	Q8DT52	starch
+25	Q4VUI1	amylose
+26	Q9ZTB6	amylopectin
+27	Q9ZTB6	amylose
+28	O04074	more
+29	Q93HU3	more
+30	Q93HU3	amylose
+31	P07762	more
+32	A4UU34	more
+33	A4UU35	more
+34	A4UU36	more
+35	A0A0F6QDD4	more
+36	P16954	more
+37	O50094	amylose
+38	A0A068F9H3	amylopectin
+39	A0A068F9H3	amylose
+40	A0A068F9H3	potato amylopectin type III
+41	A0A068F9H3	soluble starch
+42	A0A068F9H3	amylopectin
+43	A0A068F9H3	corn starch
+44	A0A068F9H3	amylose
+45	A0A068F9H3	starch
+46	A0A068F9H3	glycogen
+47	A0A068F9H3	potato amylose type III
+48	A0A068F9H3	potato starch
+49	S5UGW5	soluble starch
+50	S5UGW5	potato amylose
+51	S5UGW5	amylopectin
+52	A0A0S3TVE8	soluble starch
+53	A0A0S3TVE8	Pullulan
+54	A0A0S3TVE8	amylopectin
+55	A0A0S3TVE8	corn starch
+56	A0A0S3TVE8	Glycogen
+57	A0A0S3TVE8	amylose
+58	A0A0S3TVE8	beta-cyclodextrin
+59	A0A0S3TVE8	pea starch
+60	A0A0S3TVE8	wheat starch
+61	O50094	amylopectin
+62	O50094	corn starch
+63	O50094	amylose
+64	O50094	high-amylose corn starch
+65	B9MPC3	amylopectin
+66	B9MPC3	more
+67	B9MPC3	corn starch
+68	B9MPC3	amylose
+69	B9MPC3	high-amylose corn starch
+0	Q5X5J5	more
+1	Q5WWX7	more
+2	Q5WSK6	more
+3	F4IF99	more
+4	F4IF99	UDP-2,3-bis(3-hydroxytetradecanoyl)glucosamine
+5	F4IF99	2,3-bis(3-hydroxytetradecanoyl)-beta-D-glucosaminyl 1-phosphate
+6	P10441	more
+0	Q5GHR3	more
+1	Q5GHR9	more
+2	Q5GHR7	more
+3	Q5GHR6	more
+4	Q5GHS0	more
+5	Q5GHR5	more
+6	Q5GHR4	more
+0	B6EWX3	UDP-glucose
+1	B6EWX3	naringenin
+2	B6EWX3	more
+0	P13280	UDP-glucose
+1	P13280	glycogenin
+2	P13280	UDP-xylose
+3	P13280	glycogenin
+4	P13280	UDP-glucose
+5	P13280	maltose
+6	P13280	UDP-alpha-D-glucose
+7	P13280	glycogenin
+8	P13280	UDP-glucose
+9	P13280	glycogenin
+10	Q75PR2	more
+11	Q6Q2C8	UDP-glucose
+12	Q6Q2C8	glycogenin
+13	P46976	UDP-glucose
+14	P46976	glycogenin
+15	P46976	UDP-alpha-D-glucose
+16	P46976	glycogenin-1
+17	P46976	UDP-alpha-D-glucose
+18	P46976	glycogenin
+19	P46976	more
+20	O15488	UDP-alpha-D-glucose
+21	O15488	glycogenin-2
+22	O15488	more
+0	P43379	soluble starch
+1	P43379	glycosyl acceptor
+2	P43379	maltodextrin
+3	P43379	glycosyl acceptor
+4	P43379	soluble starch
+5	P43379	glycosyl acceptor
+6	P43379	maltodextrin
+7	P43379	glycosyl acceptor
+8	P31835	more
+9	P04830	genistein
+10	P04830	maltodextrin
+11	P04830	sophoricoside
+12	P04830	maltodextrin
+13	P31797	more
+14	P31797	4-nitrophenyl alpha-D-maltoheptaoside-4-6-O-ethylidene
+15	P31797	maltose
+16	P31797	L-ascorbic acid
+17	P31797	maltodextrin
+18	Q8X268	more
+19	Q8X268	soluble starch
+20	Q8X268	glycosyl acceptor
+21	Q8X268	soluble starch
+22	Q8X268	glycosyl acceptor
+23	Q8X268	glycogen
+24	Q8X268	H2O
+25	Q8X268	soluble starch
+26	Q8X268	glycosyl acceptor
+27	Q8X268	soluble starch
+28	Q8X268	glycosyl acceptor
+29	Q8X268	soluble starch
+30	Q8X268	H2O
+31	O52766	L-ascorbic acid
+32	O52766	maltodextrin
+33	O52766	L-ascorbic acid
+34	O52766	beta-cyclodextrin
+35	P30920	more
+36	P30920	starch
+37	P05618	more
+38	Q5U9V9	soluble starch
+39	Q3HUR2	more
+40	A3F9M7	more
+41	A3F9M7	naringin
+42	A3F9M7	maltodextrin
+43	B1VC16	more
+44	C4MH58	more
+45	Q53I75	more
+46	Q53I75	soluble potato starch
+47	Q6S3E3	soluble starch
+48	Q6S3E3	glycosyl acceptor
+49	Q6S3E3	soluble starch
+50	Q6S3E3	glycosyl acceptor
+51	S5ZJ19	starch
+52	S5ZJ19	glycosyl acceptor
+53	Q5U9W0	starch
+54	Q197W1	soluble corn starch
+55	Q197W1	glycosyl acceptor
+56	A0A097CPM3	maltodextrin
+57	A0A097CPM3	glycosyl acceptor
+58	Q25CB6	soluble starch
+59	Q25CB6	glycosyl acceptor
+60	Q25CB6	soluble starch
+61	Q25CB6	glycosyl acceptor
+62	W8CJT2	soluble starch
+63	W8CJT2	glycosyl acceptor
+0	Q9BRB3	more
+1	Q9BRB3	UDP-N-acetyl-D-glucosamine
+2	Q9BRB3	phosphatidylinositol
+3	Q9QYT7	more
+4	Q9QYT7	UDP-N-acetyl-D-glucosamine
+5	Q9QYT7	phosphatidylinositol
+6	P57054	more
+7	P57054	UDP-N-acetyl-D-glucosamine
+8	P57054	phosphatidylinositol
+9	Q9JHG1	more
+10	Q9JHG1	UDP-N-acetyl-D-glucosamine
+11	Q9JHG1	phosphatidylinositol
+12	Q5AUG0	UDP-N-acetyl-D-glucosamine
+13	Q5AUG0	phosphatidylinositol
+14	Q5A6L6	UDP-N-acetyl-D-glucosamine
+15	Q5A6L6	1-phosphatidyl-1D-myo-inositol
+0	A0A0M5MSC0	more
+0	Q59316	cellobiose
+1	Q59316	phosphate
+2	Q59316	cellobiose
+3	Q59316	phosphate
+4	Q59316	more
+5	O52504	cellobiose
+6	O52504	phosphate
+7	O52504	cellobiose
+8	O52504	phosphate
+9	O52504	more
+10	Q7WTR6	cellobiose
+11	Q7WTR6	phosphate
+12	Q7WTR6	cellobiose
+13	Q7WTR6	phosphate
+14	Q7WTR6	alpha-D-glucose 1-phosphate
+15	Q7WTR6	D-glucose
+16	Q7WTR6	alpha-D-glucose 1-phosphate
+17	Q7WTR6	D-glucose
+18	Q7WTR6	lactose
+19	Q7WTR6	phosphate
+20	Q8VP44	cellobiose
+21	Q8VP44	phosphate
+22	Q8VP44	cellobiose
+23	Q8VP44	phosphate
+24	Q8VP44	more
+25	B7IED6	cellobiose
+26	B7IED6	phosphate
+27	B7IED6	cellobiose
+28	B7IED6	phosphate
+29	B7IED6	alpha-D-glucose 1-phosphate
+30	B7IED6	D-glucose
+31	B7IED6	alpha-D-glucose 1-phosphate
+32	B7IED6	D-glucose
+33	B7IED6	alpha-D-glucose 1-phosphate
+34	B7IED6	2-deoxy-D-glucose
+35	B7IED6	alpha-D-glucose 1-phosphate
+36	B7IED6	D-arabinose
+37	B7IED6	alpha-D-glucose 1-phosphate
+38	B7IED6	D-fructose
+39	B7IED6	alpha-D-glucose 1-phosphate
+40	B7IED6	D-galactose
+41	B7IED6	alpha-D-glucose 1-phosphate
+42	B7IED6	D-glucosamine
+43	B7IED6	alpha-D-glucose 1-phosphate
+44	B7IED6	D-maltose
+45	B7IED6	alpha-D-glucose 1-phosphate
+46	B7IED6	D-mannose
+47	B7IED6	alpha-D-glucose 1-phosphate
+48	B7IED6	D-xylose
+49	B7IED6	alpha-D-glucose 1-phosphate
+50	B7IED6	N-acetyl-D-glucosamine
+51	B7IED6	cellopentaose
+52	B7IED6	phosphate
+53	B7IED6	cellotetraose
+54	B7IED6	phosphate
+55	B7IED6	cellotriose
+56	B7IED6	phosphate
+57	B7IED6	gentiobiose
+58	B7IED6	phosphate
+59	B7IED6	more
+0	Q9DGD1	UDP-N-acetyl-D-glucosamine
+1	Q9DGD1	N-acetyl-D-glucosaminyl-1,6-beta-D-(N-acetylglucosaminyl-1 2)-beta-D-mannosyl-R
+0	Q9SK82	UDP-glucose
+1	Q9SK82	trans-zeatin
+2	Q9SK82	UDP-D-glucose
+3	Q9SK82	trans-zeatin
+4	Q9SK82	more
+5	Q9ZQ94	UDP-D-glucose
+6	Q9ZQ94	trans-zeatin
+7	Q9ZQ94	more
+8	Q9ZQ99	UDP-D-glucose
+9	Q9ZQ99	trans-zeatin
+10	Q9ZQ99	more
+11	Q9ZSK5	UDP-glucose
+12	Q9ZSK5	trans-zeatin
+13	Q9ZSK5	UDP-galactose
+14	Q9ZSK5	trans-zeatin
+15	Q9ZSK5	UDP-glucose
+16	Q9ZSK5	zeatin
+17	Q9ZSK5	UDP-xylose
+18	Q9ZSK5	dihydrozeatin
+19	Q9ZSK5	UDP-xylose
+20	Q9ZSK5	trans-zeatin
+21	Q9ZSK5	UDP-D-glucose
+22	Q9ZSK5	cis-zeatin
+23	Q9ZSK5	UDP-glucose
+24	Q9ZSK5	m-topolin
+25	Q9ZSK5	more
+26	Q8S3B6	UDP-glucose
+27	Q8S3B6	trans-zeatin
+28	A7L745	UDP-glucose
+29	A7L745	trans-zeatin
+30	Q8S3B9	UDP-glucose
+31	Q8S3B9	trans-zeatin
+0	Q9BYG0	UDP-N-acetyl-D-glucosamine
+1	Q9BYG0	D-galactosyl-1,4-beta-D-glucosylceramide
+2	Q9BYG0	UDP-N-acetyl-D-glucosamine
+3	Q9BYG0	D-galactosyl-1,4-beta-N-acetyl-D-glucosaminyl-1,3-beta-D-galactosyl-1 4-beta-D-glucosylceramide
+4	Q9BYG0	UDP-N-acetyl-D-glucosamine
+5	Q9BYG0	D-galactosyl-1,3-beta-N-acetyl-D-galactosaminyl-1 4-beta-(sialyl-alpha-2,3)-D-galactosyl-1,4-beta-D-glucosylceramide
+6	Q9BYG0	UDP-N-acetyl-D-glucosamine
+7	Q9BYG0	D-galactosyl-1,4-beta-N-acetyl-D-galactosaminyl-1 3-beta-(sialyl-alpha-2,8-sialyl-alpha-2,3)-D-galactosyl-1 4-beta-D-glucosylceramide
+8	Q9BYG0	UDP-N-acetyl-D-glucosamine
+9	Q9BYG0	D-galactosyl-1,4-beta-N-acetyl-D-galactosaminyl-1,3-beta-D-galactosyl-1 4-beta-D-glucosylceramide
+10	Q99NB2	UDP-N-acetyl-D-glucosamine
+11	Q99NB2	D-galactosyl-1,4-beta-D-glucosylceramide
+12	Q8BGY6	UDP-N-acetyl-D-glucosamine
+13	Q8BGY6	D-galactosyl-1,4-beta-D-glucosylceramide
+14	Q8BGY6	UDP-N-acetyl-D-glucosamine
+15	Q8BGY6	D-galactosyl-1,4-beta-N-acetyl-D-glucosaminyl-1,3-beta-D-galactosyl-1 4-beta-D-glucosylceramide
+16	Q8BGY6	UDP-N-acetyl-D-glucosamine
+17	Q8BGY6	D-galactosyl-1,3-beta-N-acetyl-D-galactosaminyl-1 4-beta-(sialyl-alpha-2,3)-D-galactosyl-1,4-beta-D-glucosylceramide
+18	Q8BGY6	UDP-N-acetyl-D-glucosamine
+19	Q8BGY6	D-galactosyl-1,4-beta-N-acetyl-D-galactosaminyl-1 3-beta-(sialyl-alpha-2,8-sialyl-alpha-2,3)-D-galactosyl-1 4-beta-D-glucosylceramide
+20	Q8BGY6	UDP-N-acetyl-D-glucosamine
+21	Q8BGY6	D-galactosyl-1,4-beta-N-acetyl-D-galactosaminyl-1,3-beta-D-galactosyl-1 4-beta-D-glucosylceramide
+22	Q7T3S5	more
+0	Q76BW5	more
+1	Q76BW5	xyloglucan oligosaccharides
+2	Q76BW5	xyloglucan
+3	Q6ZAN9	more
+4	Q6ZAN9	xyloglucan oligosaccharides
+5	Q6ZAN9	xyloglucan
+6	Q5Z6G7	more
+7	Q5Z6G7	xyloglucan oligosaccharides
+8	Q5Z6G7	xyloglucan
+9	Q5Z6H1	more
+10	Q5Z6H1	xyloglucan oligosaccharides
+11	Q5Z6H1	xyloglucan
+12	Q6YDN9	more
+13	Q6YDN9	xyloglucan oligosaccharides
+14	Q6YDN9	xyloglucan
+15	Q5Z6H3	more
+16	Q5Z6H3	xyloglucan oligosaccharides
+17	Q5Z6H3	xyloglucan
+18	Q7XBU8	more
+19	Q7XBU8	xyloglucan oligosaccharides
+20	Q7XBU8	xyloglucan
+21	Q5JZX2	more
+22	Q9ZV40	more
+23	Q9ZV40	tamarind xyloglucan
+24	Q9ZV40	XLLG-9-aminopyrene-1,4,6-trisulfonate
+25	Q9FZ05	more
+26	Q9FZ05	donor xyloglucan
+27	Q9FZ05	acceptor xyloglucan
+28	Q6RHY0	more
+29	Q6RHY0	donor xyloglucan
+30	Q6RHY0	acceptor xyloglucan
+31	Q9FR51	more
+32	Q9FR51	donor xyloglucan
+33	Q9FR51	acceptor xyloglucan
+34	Q6RHY1	more
+35	Q6RHY1	donor xyloglucan
+36	Q6RHY1	acceptor xyloglucan
+37	Q6RHX9	more
+38	Q6RHX9	donor xyloglucan
+39	Q6RHX9	acceptor xyloglucan
+40	Q6RHX8	more
+41	Q6RHX8	donor xyloglucan
+42	Q6RHX8	acceptor xyloglucan
+43	Q9SLN9	more
+44	Q9SLN9	donor xyloglucan
+45	Q9SLN9	acceptor xyloglucan
+46	Q1XD17	more
+47	Q6RHX7	more
+48	Q6RHX7	donor xyloglucan
+49	Q6RHX7	acceptor xyloglucan
+50	Q43528	more
+51	Q43527	more
+52	Q9SDX0	more
+53	Q9SDX0	donor xyloglucan
+54	Q9SDX0	acceptor xyloglucan
+55	P24806	more
+56	Q7Y252	donor xyloglucan
+57	Q7Y252	acceptor xyloglucan
+58	P93668	more
+59	P93668	Glc8-based xyloglucan oligosaccharide
+60	P93668	?
+61	P93668	hydroxyethyl cellulose
+62	P93668	reduced xyloglucan-derived heptasaccharide
+63	P93668	pea xyloglucan
+64	P93668	reduced xyloglucan-derived heptasaccharide
+65	P93668	tamarind xyloglucan
+66	P93668	reduced xyloglucan-derived heptasaccharide
+67	B1P1S7	more
+68	B1P1S7	Glc8-based xyloglucan oligosaccharide
+69	B1P1S7	?
+70	B1P1S7	hydroxyethyl cellulose
+71	B1P1S7	reduced xyloglucan-derived heptasaccharide
+72	B1P1S7	pea xyloglucan
+73	B1P1S7	reduced xyloglucan-derived heptasaccharide
+74	B1P1S7	tamarind xyloglucan
+75	B1P1S7	reduced xyloglucan-derived heptasaccharide
+76	B1P1S7	donor Glc8-based xyloglucan oligosaccharide
+77	B1P1S7	acceptor sulforhodamine-labelled xyloglucan oligosaccharide
+78	B1P1S7	donor xyloglucan
+79	B1P1S7	[Xylp(alpha1,6)]-Glcp(beta1,4)-[Galp(beta1,2)-Xylp(alpha1 6)]-Glcp(beta1,4)-[Galp(beta1,2)-Xylp(alpha1,6)]-Glcp(beta1,4)-Glcp
+80	B1P1S7	donor xyloglucan
+81	B1P1S7	[Xylp(alpha1,6)]-Glcp(beta1,4)-[Xylp(alpha1,6)]-Glcp(beta1 4)-[Galp(beta1,2)-Xylp(alpha1,6)]-Glcp(beta1,4)-Glcp
+82	B1P1S7	donor xyloglucan
+83	B1P1S7	[Xylp(alpha1,6)]-Glcp(beta1,4)-[Xylp(alpha1,6)]-Glcp(beta1 4)-[Xylp(alpha1,6)]-Glcp(beta1,4)-Glcp
+84	B1P1S7	donor xyloglucan
+85	B1P1S7	xyloglucan
+86	Q38909	donor xyloglucan
+87	Q38909	acceptor xyloglucan
+88	C0IRI4	more
+89	C0IRI4	kiwifruit xyloglucan
+90	C0IRI4	XXXG-ol
+91	C0IRI4	tamarind xyloglucan
+92	C0IRI4	XXXG-ol
+93	C0IRG0	kiwifruit xyloglucan
+94	C0IRG0	XXXG-ol
+95	C0IRG0	tamarind xyloglucan
+96	C0IRG0	XXXG-ol
+97	C0IRG1	kiwifruit xyloglucan
+98	C0IRG1	XXXG-ol
+99	C0IRG1	tamarind xyloglucan
+100	C0IRG1	XXXG-ol
+101	C0IRG2	kiwifruit xyloglucan
+102	C0IRG2	XXXG-ol
+103	C0IRG2	tamarind xyloglucan
+104	C0IRG2	XXXG-ol
+105	C0IRG3	kiwifruit xyloglucan
+106	C0IRG3	XXXG-ol
+107	C0IRG3	tamarind xyloglucan
+108	C0IRG3	XXXG-ol
+109	C0IRG4	kiwifruit xyloglucan
+110	C0IRG4	XXXG-ol
+111	C0IRG4	tamarind xyloglucan
+112	C0IRG4	XXXG-ol
+113	P93671	more
+114	P93671	donor xyloglucan
+115	P93671	[Xylp(alpha1,6)]-Glcp(beta1,4)-[Galp(beta1,2)-Xylp(alpha1 6)]-Glcp(beta1,4)-[Galp(beta1,2)-Xylp(alpha1,6)]-Glcp(beta1,4)-Glcp
+116	P93671	donor xyloglucan
+117	P93671	[Xylp(alpha1,6)]-Glcp(beta1,4)-[Xylp(alpha1,6)]-Glcp(beta1 4)-[Galp(beta1,2)-Xylp(alpha1,6)]-Glcp(beta1,4)-Glcp
+118	P93671	donor xyloglucan
+119	P93671	[Xylp(alpha1,6)]-Glcp(beta1,4)-[Xylp(alpha1,6)]-Glcp(beta1 4)-[Xylp(alpha1,6)]-Glcp(beta1,4)-Glcp
+120	P93671	donor xyloglucan
+121	P93671	xyloglucan
+122	C0IRG5	kiwifruit xyloglucan
+123	C0IRG5	XXXG-ol
+124	C0IRG5	tamarind xyloglucan
+125	C0IRG5	XXXG-ol
+126	C0IRG6	kiwifruit xyloglucan
+127	C0IRG6	XXXG-ol
+128	C0IRG6	tamarind xyloglucan
+129	C0IRG6	XXXG-ol
+130	C0IRG7	kiwifruit xyloglucan
+131	C0IRG7	XXXG-ol
+132	C0IRG7	tamarind xyloglucan
+133	C0IRG7	XXXG-ol
+134	C0IRG8	kiwifruit xyloglucan
+135	C0IRG8	XXXG-ol
+136	C0IRG8	tamarind xyloglucan
+137	C0IRG8	XXXG-ol
+138	C0IRG9	kiwifruit xyloglucan
+139	C0IRG9	XXXG-ol
+140	C0IRG9	tamarind xyloglucan
+141	C0IRG9	XXXG-ol
+142	C0IRH0	kiwifruit xyloglucan
+143	C0IRH0	XXXG-ol
+144	C0IRH0	tamarind xyloglucan
+145	C0IRH0	XXXG-ol
+146	C0IRH1	kiwifruit xyloglucan
+147	C0IRH1	XXXG-ol
+148	C0IRH1	tamarind xyloglucan
+149	C0IRH1	XXXG-ol
+150	C0IRH2	kiwifruit xyloglucan
+151	C0IRH2	XXXG-ol
+152	C0IRH2	tamarind xyloglucan
+153	C0IRH2	XXXG-ol
+154	C0IRH4	more
+155	C0IRH4	kiwifruit xyloglucan
+156	C0IRH4	XXXG-ol
+157	C0IRH4	tamarind xyloglucan
+158	C0IRH4	XXXG-ol
+159	P93672	more
+160	P93672	donor xyloglucan
+161	P93672	[Xylp(alpha1,6)]-Glcp(beta1,4)-[Galp(beta1,2)-Xylp(alpha1 6)]-Glcp(beta1,4)-[Galp(beta1,2)-Xylp(alpha1,6)]-Glcp(beta1,4)-Glcp
+162	P93672	donor xyloglucan
+163	P93672	[Xylp(alpha1,6)]-Glcp(beta1,4)-[Xylp(alpha1,6)]-Glcp(beta1 4)-[Galp(beta1,2)-Xylp(alpha1,6)]-Glcp(beta1,4)-Glcp
+164	P93672	donor xyloglucan
+165	P93672	[Xylp(alpha1,6)]-Glcp(beta1,4)-[Xylp(alpha1,6)]-Glcp(beta1 4)-[Xylp(alpha1,6)]-Glcp(beta1,4)-Glcp
+166	P93672	donor xyloglucan
+167	P93672	xyloglucan
+168	Q8GTJ0	more
+169	Q8GTJ0	kiwifruit xyloglucan
+170	Q8GTJ0	XXXG-ol
+171	Q8GTJ0	tamarind xyloglucan
+172	Q8GTJ0	XXXG-ol
+173	C0IRH6	more
+174	C0IRH6	kiwifruit xyloglucan
+175	C0IRH6	XXXG-ol
+176	C0IRH6	tamarind xyloglucan
+177	C0IRH6	XXXG-ol
+178	C0IRH7	more
+179	C0IRH7	kiwifruit xyloglucan
+180	C0IRH7	XXXG-ol
+181	C0IRH7	tamarind xyloglucan
+182	C0IRH7	XXXG-ol
+183	C0IRH8	more
+184	C0IRH8	kiwifruit xyloglucan
+185	C0IRH8	XXXG-ol
+186	C0IRH8	tamarind xyloglucan
+187	C0IRH8	XXXG-ol
+188	C0IRH9	more
+189	C0IRH9	kiwifruit xyloglucan
+190	C0IRH9	XXXG-ol
+191	C0IRH9	tamarind xyloglucan
+192	C0IRH9	XXXG-ol
+193	C0IRI0	more
+194	C0IRI0	kiwifruit xyloglucan
+195	C0IRI0	XXXG-ol
+196	C0IRI0	tamarind xyloglucan
+197	C0IRI0	XXXG-ol
+198	C0IRI1	more
+199	C0IRI1	kiwifruit xyloglucan
+200	C0IRI1	XXXG-ol
+201	C0IRI1	tamarind xyloglucan
+202	C0IRI1	XXXG-ol
+203	C0IRI2	more
+204	C0IRI2	kiwifruit xyloglucan
+205	C0IRI2	XXXG-ol
+206	C0IRI2	tamarind xyloglucan
+207	C0IRI2	XXXG-ol
+208	C0IRI3	more
+209	C0IRI3	kiwifruit xyloglucan
+210	C0IRI3	XXXG-ol
+211	C0IRI3	tamarind xyloglucan
+212	C0IRI3	XXXG-ol
+213	Q9FKL9	more
+214	Q9FKL8	more
+215	O80803	more
+216	Q9M0D2	more
+217	Q9M0D1	more
+218	P93046	more
+219	P93046	XXXG-ol
+220	P93046	xyloglucan
+221	P93046	tamarind xyloglucan
+222	P93046	XXXG
+223	P93046	tamarind xyloglucan
+224	P93046	XXXGol
+225	A0A0K2WA62	more
+226	G5DAC6	more
+227	G5DAC6	tamarind xyloglucan
+228	G5DAC6	xyloglucan
+229	G5DAC7	more
+230	G5DAC7	tamarind xyloglucan
+231	G5DAC7	xyloglucan
+232	Q38911	more
+233	Q38911	tamarind xyloglucan
+234	Q38911	XXXG
+235	Q38911	tamarind xyloglucan
+236	Q38911	XXXGol
+237	Q38911	XXXGol
+238	Q38911	xyloglucan
+239	A0A059SVJ4	more
+240	Q9FI31	more
+241	A0A067YMX8	more
+242	Q40144	more
+243	Q40144	donor xyloglucan
+244	Q40144	acceptor xyloglucan
+245	Q40144	donor xyloglucan
+246	Q40144	xyloglucan acceptor
+247	P93349	more
+248	P93349	donor xyloglucan
+249	P93349	acceptor xyloglucan
+250	P93349	donor xyloglucan
+251	P93349	xyloglucan acceptor
+252	P93349	donor xyloglucan
+253	P93349	Xylalpha(1-6)Glcbeta(1-4)(Xylalpha(1-6))Glcbeta(1-4)(Xylalpha(1 6))Glcbeta(1-4)Glc-ol
+254	Q9ZSU4	more
+255	Q9ZSU4	donor xyloglucan
+256	Q9ZSU4	acceptor xyloglucan
+257	Q9ZSU4	donor xyloglucan
+258	Q9ZSU4	xyloglucan acceptor
+259	Q9ZSU4	donor xyloglucan
+260	Q9ZSU4	Xylalpha(1-6)Glcbeta(1-4)(Xylalpha(1-6))Glcbeta(1-4)(Xylalpha(1 6))Glcbeta(1-4)Glc-ol
+261	Q9ZSU4	donor xyloglucan
+262	Q9ZSU4	Xyl(1-6)Glc(1-4)(Xyl(1-6))Glc(1-4)(Fuc-Gal-Xyl(1-6))Glc(1-4)Glc-ol
+263	Q9ZSU4	donor xyloglucan
+264	Q9ZSU4	Xylalpha(1-6)Glcbeta(1-4)(Galbeta(1-2)-Xylalpha(1-6))Glcbeta(1 4)(Galbeta(1-2)Xylalpha(1-6))Glcbeta(1-4)Glc-ol
+265	Q8GZD5	more
+266	Q8GZD5	donor xyloglucan
+267	Q8GZD5	acceptor xyloglucan
+268	Q8GZD5	donor xyloglucan
+269	Q8GZD5	xyloglucan acceptor
+270	Q8GZD5	Gal(beta1-4)Glc(beta1-4)[Xyl(alpha1-6)]Glc(beta1-4)[Xyl(alpha1 6)]Glc(beta1-4)[Xyl(alpha1-6)]Glc(beta1-4)Glc(beta1-4)Glc(beta1-4)Glc
+271	Q8GZD5	[Xyl(alpha1-6)]Glc(beta1-4)[Xyl(alpha1-6)]Glc(beta1-4)[Xyl(alpha1 6)]Glc(beta1-4)Glc-8-aminonaphthalene-1,3,6-trisulfonic acid
+272	Q8GZD5	Gal(beta1-4)Glc(beta1-4)[Xyl(alpha1-6)]Glc(beta1-4)[Xyl(alpha1 6)]Glc(beta1-4)[Xyl(alpha1-6)]Glc(beta1-4)Glc(beta1-4)[Xyl(alpha1 6)]Glc(beta1-4)[Xyl(alpha1-6)]Glc(beta1-4)[Xyl(alpha1-6)]Glc(beta1 4)Glc
+273	Q8GZD5	[Xyl(alpha1-6)]Glc(beta1-4)[Xyl(alpha1-6)]Glc(beta1-4)[Xyl(alpha1 6)]Glc(beta1-4)Glc-8-aminonaphthalene-1,3,6-trisulfonic acid
+274	Q8GZD5	[Xyl(alpha1-6)]Glc(beta1-4)[Xyl(alpha1-6)]Glc(beta1-4)[Xyl(alpha1 6)]Glc(beta1-4)Glc(beta1-4)Glc(beta1-4)Glc
+275	Q8GZD5	[Xyl(alpha1-6)]Glc(beta1-4)[Xyl(alpha1-6)]Glc(beta1-4)[Xyl(alpha1 6)]Glc(beta1-4)Glc-8-aminonaphthalene-1,3,6-trisulfonic acid
+276	Q8GZD5	xyloglucan
+277	Q8GZD5	nonasaccharide XLLG-ol
+278	Q8GZD5	xyloglucan nonasaccharide
+279	Q8GZD5	xyloglucan
+280	Q8GZD5	Gal(beta1-4)Glc(beta1-4)[Xyl(alpha1-6)]Glc(beta1-4)[Xyl(alpha1 6)]Glc(beta1-4)[Xyl(alpha1-6)]Glc(beta1-4)Glc
+281	Q8GZD5	[Xyl(alpha1-6)]Glc(beta1-4)[Xyl(alpha1-6)]Glc(beta1-4)[Xyl(alpha1 6)]Glc(beta1-4)Glc-8-aminonaphthalene-1,3,6-trisulfonic acid
+282	Q8GZD5	Gal(beta1-4)Glc(beta1-4)[Xyl(alpha1-6)]Glc(beta1-4)[Xyl(alpha1 6)]Glc(beta1-4)[Xyl(alpha1-6)]Glc(beta1-4)Glc(beta1-4)Glc(beta1-4)Glc
+283	Q8GZD5	[Xyl(alpha1-6)]Glc(beta1-4)[Xyl(alpha1-6)]Glc(beta1-4)[Xyl(alpha1 6)]Glc(beta1-4)Glc-8-aminonaphthalene-1,3,6-trisulfonic acid
+284	Q8GZD5	Gal(beta1-4)Glc(beta1-4)[Xyl(alpha1-6)]Glc(beta1-4)[Xyl(alpha1 6)]Glc(beta1-4)[Xyl(alpha1-6)]Glc(beta1-4)Glc(beta1-4)[Xyl(alpha1 6)]Glc(beta1-4)[Xyl(alpha1-6)]Glc(beta1-4)[Xyl(alpha1-6)]Glc(beta1 4)Glc
+285	Q8GZD5	[Xyl(alpha1-6)]Glc(beta1-4)[Xyl(alpha1-6)]Glc(beta1-4)[Xyl(alpha1 6)]Glc(beta1-4)Glc-8-aminonaphthalene-1,3,6-trisulfonic acid
+286	Q8GZD5	[Xyl(alpha1-6)]Glc(beta1-4)[Xyl(alpha1-6)]Glc(beta1-4)[Xyl(alpha1 6)]Glc(beta1-4)Glc(beta1-4)[Xyl(alpha1-6)]Glc(beta1-4)[Xyl(alpha1 6)]Glc(beta1-4)[Xyl(alpha1-6)]Glc(beta1-4)Glc
+287	Q8GZD5	[Xyl(alpha1-6)]Glc(beta1-4)[Xyl(alpha1-6)]Glc(beta1-4)[Xyl(alpha1 6)]Glc(beta1-4)Glc-8-aminonaphthalene-1,3,6-trisulfonic acid
+0	Q2HWR3	ADP-glucose
+1	Q2HWR3	(1,4-alpha-glucosyl)n
+2	B1B5Z0	ADP-glucose
+3	B1B5Z0	(1,4-alpha-D-glucosyl)n
+4	B1B5Z1	ADP-glucose
+5	B1B5Z1	(1,4-alpha-D-glucosyl)n
+6	A4F2M4	ADP-glucose
+7	A4F2M4	glycogen
+8	A4F2M4	ADP-glucose
+9	A4F2M4	amylopectin
+10	F4IAG2	UDP-glucose
+11	F4IAG2	(1,4-alpha-D-glucosyl)n
+12	F4IAG2	ADP-glucose
+13	F4IAG2	(1,4-alpha-D-glucosyl)n
+14	I1W6L2	more
+15	I1W6L2	ADP-alpha-D-glucose
+16	I1W6L2	amylopectin
+17	I1W6L2	ADP-alpha-D-glucose
+18	I1W6L2	maltotriose
+19	I1W6L2	ADP-alpha-D-glucose
+20	I1W6L2	maltohexaose
+21	I1W6L2	ADP-alpha-D-glucose
+22	I1W6L2	maltooctaose
+23	I1W6L2	ADP-alpha-D-glucose
+24	I1W6L2	maltopentaose
+25	I1W6L2	ADP-alpha-D-glucose
+26	I1W6L2	maltotetraose
+27	I1W6L2	ADP-alpha-D-glucose
+28	I1W6L2	soluble starch
+29	I1W6L2	ADP-alpha-D-glucose
+30	I1W6L2	maltose
+31	I1W6L2	ADP-alpha-D-glucose
+32	I1W6L2	3-phosphomaltose
+33	I1W6L2	ADP-alpha-D-glucose
+34	I1W6L2	maltoheptaose
+35	I1W6L2	ADP-alpha-D-glucose
+36	I1W6L2	[(1->4)-alpha-D-glucosyl]n
+37	I1W6L2	ADP-alpha-D-glucose
+38	I1W6L2	glycogen
+39	Q9FNF2	more
+40	Q9FNF2	ADP-alpha-D-glucose
+41	Q9FNF2	maltotriose
+42	Q9FNF2	ADP-alpha-D-glucose
+43	Q9FNF2	maltohexaose
+44	Q9FNF2	ADP-alpha-D-glucose
+45	Q9FNF2	maltooctaose
+46	Q9FNF2	ADP-alpha-D-glucose
+47	Q9FNF2	maltopentaose
+48	Q9FNF2	ADP-alpha-D-glucose
+49	Q9FNF2	maltotetraose
+50	Q9FNF2	ADP-alpha-D-glucose
+51	Q9FNF2	maltoheptaose
+52	Q9FNF2	ADP-alpha-D-glucose
+53	Q9FNF2	maltose
+54	Q9FNF2	ADP-alpha-D-glucose
+55	Q9FNF2	glycogen
+56	Q9M5A3	more
+57	Q9M5A3	ADP-alpha-D-glucose
+58	Q9M5A3	amylopectin
+59	Q9M5A3	ADP-alpha-D-glucose
+60	Q9M5A3	maltotriose
+61	Q9M5A3	ADP-alpha-D-glucose
+62	Q9M5A3	maltohexaose
+63	Q9M5A3	ADP-alpha-D-glucose
+64	Q9M5A3	maltooctaose
+65	Q9M5A3	ADP-alpha-D-glucose
+66	Q9M5A3	maltopentaose
+67	Q9M5A3	ADP-alpha-D-glucose
+68	Q9M5A3	maltotetraose
+69	Q9M5A3	ADP-alpha-D-glucose
+70	Q9M5A3	soluble starch
+71	Q9M5A3	ADP-alpha-D-glucose
+72	Q9M5A3	maltose
+73	Q9M5A3	ADP-alpha-D-glucose
+74	Q9M5A3	3-phosphomaltose
+75	Q9M5A3	ADP-alpha-D-glucose
+76	Q9M5A3	maltoheptaose
+77	Q9M5A3	ADP-alpha-D-glucose
+78	Q9M5A3	[(1->4)-alpha-D-glucosyl]n
+79	Q9M5A3	ADP-alpha-D-glucose
+80	Q9M5A3	glycogen
+81	F2CUZ5	more
+82	F2CUZ5	ADP-alpha-D-glucose
+83	F2CUZ5	amylopectin
+84	F2CUZ5	ADP-alpha-D-glucose
+85	F2CUZ5	maltotriose
+86	F2CUZ5	ADP-alpha-D-glucose
+87	F2CUZ5	maltohexaose
+88	F2CUZ5	ADP-alpha-D-glucose
+89	F2CUZ5	maltooctaose
+90	F2CUZ5	ADP-alpha-D-glucose
+91	F2CUZ5	maltopentaose
+92	F2CUZ5	ADP-alpha-D-glucose
+93	F2CUZ5	maltotetraose
+94	F2CUZ5	ADP-alpha-D-glucose
+95	F2CUZ5	soluble starch
+96	F2CUZ5	ADP-alpha-D-glucose
+97	F2CUZ5	maltose
+98	F2CUZ5	ADP-alpha-D-glucose
+99	F2CUZ5	3-phosphomaltose
+100	F2CUZ5	ADP-alpha-D-glucose
+101	F2CUZ5	maltoheptaose
+102	F2CUZ5	ADP-alpha-D-glucose
+103	F2CUZ5	[(1->4)-alpha-D-glucosyl]n
+104	F2CUZ5	ADP-alpha-D-glucose
+105	F2CUZ5	glycogen
+106	P09842	more
+107	P09842	ADP-alpha-D-glucose
+108	P09842	amylopectin
+109	P09842	ADP-alpha-D-glucose
+110	P09842	maltotriose
+111	P09842	ADP-alpha-D-glucose
+112	P09842	maltohexaose
+113	P09842	ADP-alpha-D-glucose
+114	P09842	maltooctaose
+115	P09842	ADP-alpha-D-glucose
+116	P09842	maltopentaose
+117	P09842	ADP-alpha-D-glucose
+118	P09842	maltotetraose
+119	P09842	ADP-alpha-D-glucose
+120	P09842	soluble starch
+121	P09842	ADP-alpha-D-glucose
+122	P09842	maltose
+123	P09842	ADP-alpha-D-glucose
+124	P09842	3-phosphomaltose
+125	P09842	ADP-alpha-D-glucose
+126	P09842	maltoheptaose
+127	P09842	ADP-alpha-D-glucose
+128	P09842	[(1->4)-alpha-D-glucosyl]n
+129	P09842	ADP-alpha-D-glucose
+130	P09842	glycogen
+131	Q8H1Y8	more
+132	Q8H1Y8	ADP-alpha-D-glucose
+133	Q8H1Y8	amylopectin
+134	Q8H1Y8	ADP-alpha-D-glucose
+135	Q8H1Y8	maltotriose
+136	Q8H1Y8	ADP-alpha-D-glucose
+137	Q8H1Y8	maltohexaose
+138	Q8H1Y8	ADP-alpha-D-glucose
+139	Q8H1Y8	maltooctaose
+140	Q8H1Y8	ADP-alpha-D-glucose
+141	Q8H1Y8	maltopentaose
+142	Q8H1Y8	ADP-alpha-D-glucose
+143	Q8H1Y8	maltotetraose
+144	Q8H1Y8	ADP-alpha-D-glucose
+145	Q8H1Y8	soluble starch
+146	Q8H1Y8	ADP-alpha-D-glucose
+147	Q8H1Y8	maltose
+148	Q8H1Y8	ADP-alpha-D-glucose
+149	Q8H1Y8	3-phosphomaltose
+150	Q8H1Y8	ADP-alpha-D-glucose
+151	Q8H1Y8	maltoheptaose
+152	Q8H1Y8	ADP-alpha-D-glucose
+153	Q8H1Y8	[(1->4)-alpha-D-glucosyl]n
+154	Q8H1Y8	ADP-alpha-D-glucose
+155	Q8H1Y8	glycogen
+156	G1FUP7	more
+157	G1FUP7	ADP-alpha-D-glucose
+158	G1FUP7	amylopectin
+159	G1FUP7	ADP-alpha-D-glucose
+160	G1FUP7	maltotriose
+161	G1FUP7	ADP-alpha-D-glucose
+162	G1FUP7	maltohexaose
+163	G1FUP7	ADP-alpha-D-glucose
+164	G1FUP7	maltooctaose
+165	G1FUP7	ADP-alpha-D-glucose
+166	G1FUP7	maltopentaose
+167	G1FUP7	ADP-alpha-D-glucose
+168	G1FUP7	maltotetraose
+169	G1FUP7	ADP-alpha-D-glucose
+170	G1FUP7	soluble starch
+171	G1FUP7	ADP-alpha-D-glucose
+172	G1FUP7	maltose
+173	G1FUP7	ADP-alpha-D-glucose
+174	G1FUP7	3-phosphomaltose
+175	G1FUP7	ADP-alpha-D-glucose
+176	G1FUP7	maltoheptaose
+177	G1FUP7	ADP-alpha-D-glucose
+178	G1FUP7	[(1->4)-alpha-D-glucosyl]n
+179	G1FUP7	ADP-alpha-D-glucose
+180	G1FUP7	glycogen
+181	A0A0N9MGK0	ADP-alpha-D-glucose
+182	A0A0N9MGK0	amylopectin
+183	V5SNJ5	ADP-alpha-D-glucose
+184	V5SNJ5	[(1->4)-alpha-D-glucosyl]n
+185	Q0WVX5	ADP-alpha-D-glucose
+186	Q0WVX5	[(1->4)-alpha-D-glucosyl]n
+0	B2YGX8	UDP-glucose
+1	B2YGX8	limonin
+2	B2YGX8	UDP-glucose
+3	B2YGX8	limonoate A-ring-lactone
+0	B7XEJ1	beta-D-galactopyranosyl-1,3-N-acetyl-D-glucosamine
+1	B7XEJ1	phosphate
+2	B7XEJ1	beta-D-galactopyranosyl-1,3-N-acetyl-D-glucosamine
+3	B7XEJ1	phosphate
+4	B7XEJ1	beta-D-galactopyranosyl-1,3-N-acetyl-D-galactosamine
+5	B7XEJ1	phosphate
+6	B7XEJ1	beta-D-galactopyranosyl-1,3-N-acetyl-D-galactosamine
+7	B7XEJ1	phosphate
+8	B7XEJ1	more
+9	B7XEJ0	beta-D-galactopyranosyl-1,3-N-acetyl-D-glucosamine
+10	B7XEJ0	phosphate
+11	B7XEJ0	beta-D-galactopyranosyl-1,3-N-acetyl-D-glucosamine
+12	B7XEJ0	phosphate
+13	B7XEJ0	beta-D-galactopyranosyl-1,3-N-acetyl-D-galactosamine
+14	B7XEJ0	phosphate
+15	B7XEJ0	beta-D-galactopyranosyl-1,3-N-acetyl-D-galactosamine
+16	B7XEJ0	phosphate
+17	B7XEJ0	more
+18	A8W790	beta-D-galactopyranosyl-1,3-N-acetyl-D-glucosamine
+19	A8W790	phosphate
+20	A8W790	beta-D-galactopyranosyl-1,3-N-acetyl-D-glucosamine
+21	A8W790	phosphate
+22	A8W790	beta-D-galactopyranosyl-1,3-N-acetyl-D-galactosamine
+23	A8W790	phosphate
+24	A8W790	beta-D-galactopyranosyl-1,3-N-acetyl-D-galactosamine
+25	A8W790	phosphate
+26	A0A3Q0KZS1	beta-D-galactopyranosyl-1,3-N-acetyl-D-glucosamine
+27	A0A3Q0KZS1	phosphate
+28	A0A3Q0KZS1	beta-D-galactopyranosyl-1,3-N-acetyl-D-glucosamine
+29	A0A3Q0KZS1	phosphate
+30	A0A3Q0KZS1	beta-D-galactopyranosyl-1,3-N-acetyl-D-galactosamine
+31	A0A3Q0KZS1	phosphate
+32	A0A3Q0KZS1	beta-D-galactopyranosyl-1,3-N-acetyl-D-galactosamine
+33	A0A3Q0KZS1	phosphate
+34	A0A3Q0KZS1	more
+35	E8MF13	more
+36	E8MF13	beta-D-galactopyranosyl-1,3-N-acetyl-D-glucosamine
+37	E8MF13	phosphate
+38	E8MF13	beta-D-galactopyranosyl-1,3-N-acetyl-D-glucosamine
+39	E8MF13	phosphate
+40	E8MF13	beta-D-galactopyranosyl-1,3-N-acetyl-D-glucosoamine
+41	E8MF13	phosphate
+42	E8MF13	beta-D-galactopyranosyl-1,3-N-acetyl-D-galactosamine
+43	E8MF13	phosphate
+44	E8MF13	beta-D-galactopyranosyl-1,3-N-acetyl-D-galactosamine
+45	E8MF13	phosphate
+46	E8MF13	beta-D-galactopyranosyl-1,3-N-acetyl-D-galactosamine
+47	E8MF13	phosphate
+48	E8MF13	galacto-N-biose
+49	E8MF13	phosphate
+50	E8MF13	galacto-N-biose
+51	E8MF13	phosphate
+52	E8MF13	lacto-N-biose I
+53	E8MF13	phosphate
+54	E8MF13	lacto-N-biose I
+55	E8MF13	phosphate
+56	E8MF13	more
+57	Q5NU16	beta-D-galactopyranosyl-1,3-N-acetyl-D-glucosoamine
+58	Q5NU16	phosphate
+59	Q5NU16	beta-D-galactopyranosyl-1,3-N-acetyl-D-galactosamine
+60	Q5NU16	phosphate
+61	A9KIW5	galacto-N-biose
+62	A9KIW5	phosphate
+63	A9KIW5	galacto-N-biose
+64	A9KIW5	phosphate
+65	A9KIW5	lacto-N-biose I
+66	A9KIW5	phosphate
+67	A9KIW5	lacto-N-biose I
+68	A9KIW5	phosphate
+69	A9KIW5	more
+70	A9KQ75	galacto-N-biose
+71	A9KQ75	phosphate
+72	A9KQ75	galacto-N-biose
+73	A9KQ75	phosphate
+74	A9KQ75	lacto-N-biose I
+75	A9KQ75	phosphate
+76	A9KQ75	lacto-N-biose I
+77	A9KQ75	phosphate
+78	A9KQ75	more
+0	Q8CH92	UDP-N-acetyl-D-glucosamine
+1	Q8CH92	UDP-D-glucuronate
+2	O35776	more
+3	O35776	UDP-N-acetyl-D-glucosamine
+4	O35776	UDP-D-glucuronate
+5	Q8CH93	more
+6	Q8CH93	UDP-N-acetyl-D-glucosamine
+7	Q8CH93	UDP-D-glucuronate
+8	O00219	more
+9	O00219	UDP-alpha-D-glucuronate
+10	O00219	N-acetyl-beta-D-glucosaminyl-(1->4)-beta-D-glucuronosyl-(1->3)-[nascent hyaluronan]
+11	O00219	UDP-alpha-N-acetyl-D-glucosamine
+12	O00219	beta-D-glucuronosyl-(1->3)-N-acetyl-beta-D-glucosaminyl-(1->4)-[nascent hyaluronan]
+13	Q92819	UDP-alpha-D-glucuronate
+14	Q92819	N-acetyl-beta-D-glucosaminyl-(1-4)-beta-D-glucuronosyl-(1-3)-[nascent hyaluronan]
+15	Q92819	UDP-alpha-N-acetyl-D-glucosamine
+16	Q92819	beta-D-glucuronosyl-(1-3)-N-acetyl-beta-D-glucosaminyl-(1-4)-[nascent hyaluronan]
+17	Q92819	more
+18	Q92819	UDP-alpha-D-glucuronate
+19	Q92819	N-acetyl-beta-D-glucosaminyl-(1->4)-beta-D-glucuronosyl-(1->3)-[nascent hyaluronan]
+20	Q92819	UDP-alpha-N-acetyl-D-glucosamine
+21	Q92819	beta-D-glucuronosyl-(1->3)-N-acetyl-beta-D-glucosaminyl-(1->4)-[nascent hyaluronan]
+22	P70312	UDP-N-acetyl-D-glucosamine
+23	P70312	UDP-D-glucuronate
+24	Q92839	UDP-alpha-D-glucuronate
+25	Q92839	N-acetyl-beta-D-glucosaminyl-(1-4)-beta-D-glucuronosyl-(1-3)-[nascent hyaluronan]
+26	Q92839	UDP-alpha-N-acetyl-D-glucosamine
+27	Q92839	beta-D-glucuronosyl-(1-3)-N-acetyl-beta-D-glucosaminyl-(1-4)-[nascent hyaluronan]
+28	Q92839	more
+29	Q92839	UDP-alpha-D-glucuronate
+30	Q92839	N-acetyl-beta-D-glucosaminyl-(1->4)-beta-D-glucuronosyl-(1->3)-[nascent hyaluronan]
+31	Q92839	UDP-alpha-N-acetyl-D-glucosamine
+32	Q92839	beta-D-glucuronosyl-(1->3)-N-acetyl-beta-D-glucosaminyl-(1->4)-[nascent hyaluronan]
+33	Q27J87	UDP-alpha-D-glucuronate
+34	Q27J87	N-acetyl-beta-D-glucosaminyl-(1-4)-beta-D-glucuronosyl-(1-3)-[nascent hyaluronan]
+35	Q27J87	UDP-alpha-N-acetyl-D-glucosamine
+36	Q27J87	beta-D-glucuronosyl-(1-3)-N-acetyl-beta-D-glucosaminyl-(1-4)-[nascent hyaluronan]
+37	Q27J86	UDP-alpha-D-glucuronate
+38	Q27J86	N-acetyl-beta-D-glucosaminyl-(1-4)-beta-D-glucuronosyl-(1-3)-[nascent hyaluronan]
+39	Q27J86	UDP-alpha-N-acetyl-D-glucosamine
+40	Q27J86	beta-D-glucuronosyl-(1-3)-N-acetyl-beta-D-glucosaminyl-(1-4)-[nascent hyaluronan]
+41	Q96RV2	UDP-alpha-D-glucuronate
+42	Q96RV2	N-acetyl-beta-D-glucosaminyl-(1-4)-beta-D-glucuronosyl-(1-3)-[nascent hyaluronan]
+43	Q96RV2	UDP-alpha-N-acetyl-D-glucosamine
+44	Q96RV2	beta-D-glucuronosyl-(1-3)-N-acetyl-beta-D-glucosaminyl-(1-4)-[nascent hyaluronan]
+45	Q27J88	UDP-alpha-D-glucuronate
+46	Q27J88	N-acetyl-beta-D-glucosaminyl-(1-4)-beta-D-glucuronosyl-(1-3)-[nascent hyaluronan]
+47	Q27J88	UDP-alpha-N-acetyl-D-glucosamine
+48	Q27J88	beta-D-glucuronosyl-(1-3)-N-acetyl-beta-D-glucosaminyl-(1-4)-[nascent hyaluronan]
+49	Q7BLV3	UDP-alpha-D-glucuronate
+50	Q7BLV3	N-acetyl-beta-D-glucosaminyl-(1-4)-beta-D-glucuronosyl-(1-3)-[nascent hyaluronan]
+51	Q7BLV3	UDP-alpha-N-acetyl-D-glucosamine
+52	Q7BLV3	beta-D-glucuronosyl-(1-3)-N-acetyl-beta-D-glucosaminyl-(1-4)-[nascent hyaluronan]
+53	Q7BLV3	more
+54	Q7BLV3	UDP-N-acetyl-D-glucosamine
+55	Q7BLV3	UDP-D-glucuronate
+56	Q7BLV3	UDP-alpha-D-glucuronate
+57	Q7BLV3	N-acetyl-beta-D-glucosaminyl-(1->4)-beta-D-glucuronosyl-(1->3)-[nascent hyaluronan]
+58	Q7BLV3	UDP-alpha-N-acetyl-D-glucosamine
+59	Q7BLV3	beta-D-glucuronosyl-(1->3)-N-acetyl-beta-D-glucosaminyl-(1->4)-[nascent hyaluronan]
+60	Q7BLV3	UDP-alpha-D-glucuronate
+61	Q7BLV3	hyaluronan oligomer HA5
+62	Q7BLV3	UDP-alpha-N-acetyl-D-glucosamine
+63	Q7BLV3	hyaluronan oligomer HA4
+64	Q7BLV3	UDP-alpha-N-acetyl-D-glucosamine
+65	Q7BLV3	hyaluronan oligomer HA6
+66	Q7BLV3	UDP-alpha-N-acetyl-D-glucosamine
+67	Q7BLV3	hyaluronan oligomer HA8
+68	Q7BLV3	[hyaluronan](n)
+69	Q7BLV3	UDP-N-acetyl-alpha-D-glucosamine
+70	Q7BLV3	[hyaluronan](n)
+71	Q7BLV3	UDP-alpha-D-glucuronate
+72	Q5X9A9	more
+73	Q5X9A9	UDP-N-acetyl-D-glucosamine
+74	Q5X9A9	UDP-D-glucuronate
+0	Q5GMP2	more
+0	O30511	GDP-fucose
+1	O30511	N-acetyllactosamine
+2	Q05GU3	GDP-fucose
+3	Q05GU3	GlcNAcbeta1-2Manalpha1-6(GlcNAcbeta1-2Manalpha1-3)Manbeta1-4(Fucalpha1 6)GlcNAcbeta1-Asn
+4	Q05GU3	GDP-fucose
+5	Q05GU3	GlcNAcbeta1-2Manalpha1-6(GlcNAcbeta1-2Manalpha1-3)Manbeta1-4GlcNAcbeta1 Asn
+6	Q05GU3	more
+7	G5EDR5	GDP-beta-L-fucose
+8	G5EDR5	Manalpha(1->6)(Manalpha(1->3))Manalpha(1->6)(Manalpha(1->3))Manbeta(1 >4)GlcNAcbeta(1->4)GlcNAc
+9	G5EDR5	GDP-beta-L-fucose
+10	G5EDR5	Manalpha(1->6)[Manalpha(1->3)]Manbeta(1->4)GlcNAcbeta(1->4)[L Fucalpha(1->6)]GlcNAc
+11	Q9C8W3	GDP-beta-L-fucose
+12	Q9C8W3	GlcNAcbeta(1->2)Manalpha(1->6)(GlcNAcbeta(1-2)Manalpha(1->3))Manbeta(1 >4)GlcNAcbeta(1->4)GlcNAc
+13	Q9C8W3	GDP-beta-L-fucose
+14	Q9C8W3	GlcNAcbeta(1->2)Manalpha(1->6)[GlcNAcbeta(1->2)Manalpha(1->3)]Manbeta(1 >4)GlcNAcbeta(1->4)[L-Fucalpha(1->6)]GlcNAc
+15	A0A5A4RK11	GDP-fucose
+16	A0A5A4RK11	N-[2-(2-pyridylamino)ethyl]-succinamic acid-labeled biantennary oligosaccharides
+17	Q9LJK1	GDP-L-Fuc
+18	Q9LJK1	asparagine-linked N-acetyl-beta-D-glucosamine of asialo-agalacto-bi-antennary N-glycan
+19	Q9LJK1	GDP-L-Gal
+20	Q9LJK1	asparagine-linked N-acetyl-beta-D-glucosamine of asialo-agalacto-bi-antennary N-glycan
+0	Q93XP7	more
+1	Q93XP7	UDP-glucose
+2	Q93XP7	cis-zeatin
+3	Q7XU03	more
+4	Q7XU03	UDP-glucose
+5	Q7XU03	cis-zeatin
+6	Q7XU02	more
+7	Q7XU02	UDP-glucose
+8	Q7XU02	cis-zeatin
+9	Q0JB48	more
+10	Q0JB48	UDP-glucose
+11	Q0JB48	cis-zeatin
+12	Q7XSZ0	UDP-glucose
+13	Q7XSZ0	cis-zeatin
+0	Q9CID5	trehalose 6-phosphate
+1	Q9CID5	phosphate
+2	Q9CID5	trehalose 6-phosphate
+3	Q9CID5	phosphate
+0	B7SY86	GDP-mannose
+1	B7SY86	3-phospho-D-glycerate
+2	Q84B24	GDP-mannose
+3	Q84B24	3-phospho-D-glycerate
+4	Q84B24	GDP-mannose
+5	Q84B24	3-phospho-D-glycerate
+6	Q84B24	GDP-alpha-D-mannose
+7	Q84B24	3-phospho-D-glycerate
+8	Q6WSQ4	GDP-mannose
+9	Q6WSQ4	3-phospho-D-glycerate
+10	Q6WSQ4	more
+11	Q2VPS1	GDP-mannose
+12	Q2VPS1	3-phospho-D-glycerate
+13	Q2VPR9	GDP-mannose
+14	Q2VPR9	3-phospho-D-glycerate
+0	Q9AR73	UDP-glucose
+1	Q9AR73	4-hydroxyacetophenone
+2	Q9AR73	UDP-glucose
+3	Q9AR73	coniferyl alcohol
+4	Q9AR73	UDP-glucose
+5	Q9AR73	eugenol
+6	Q9AR73	UDP-glucose
+7	Q9AR73	methylvanillate
+8	Q9AR73	UDP-glucose
+9	Q9AR73	phenol
+10	Q9AR73	UDP-glucose
+11	Q9AR73	resorcinol
+12	Q9AR73	UDP-glucose
+13	Q9AR73	saligenin
+14	Q9AR73	UDP-glucose
+15	Q9AR73	thymol
+16	Q9AR73	UDP-glucose
+17	Q9AR73	vanillic acid
+18	Q9AR73	UDP-glucose
+19	Q9AR73	vanillin
+20	Q9AR73	more
+21	Q9AR73	UDP-glucose
+22	Q9AR73	hydroquinone
+23	Q9AR73	CDP-glucose
+24	Q9AR73	hydroquinone
+25	Q9AR73	TDP-glucose
+26	Q9AR73	hydroquinone
+27	Q9AR73	UDP-alpha-D-glucose
+28	Q9AR73	3-hydroxyflavone
+29	Q9AR73	UDP-alpha-D-glucose
+30	Q9AR73	biphenyl-2-ol
+31	Q9AR73	UDP-alpha-D-glucose
+32	Q9AR73	kaempferol
+33	Q9AR73	UDP-alpha-D-glucose
+34	Q9AR73	quercetin
+35	Q9AR73	UDP-glucose
+36	Q9AR73	2-methoxy-hydroquinone
+37	Q9AR73	UDP-glucose
+38	Q9AR73	3-methoxyphenol
+39	Q9AR73	UDP-glucose
+40	Q9AR73	3-methoxyphenol
+41	Q9AR73	UDP-glucose
+42	Q9AR73	4-benzyloxyphenol
+43	Q9AR73	UDP-glucose
+44	Q9AR73	4-chloro-2-methylphenol
+45	Q9AR73	UDP-glucose
+46	Q9AR73	4-chlorophenol
+47	Q9AR73	UDP-glucose
+48	Q9AR73	4-hydroxybenzaldehyde
+49	Q9AR73	UDP-glucose
+50	Q9AR73	4-hydroxybenzaldehyde
+51	Q9AR73	UDP-glucose
+52	Q9AR73	4-hydroxythiophenol
+53	Q9AR73	UDP-glucose
+54	Q9AR73	4-methylphenol
+55	Q9AR73	UDP-glucose
+56	Q9AR73	4-nitrophenol
+57	Q9AR73	UDP-glucose
+58	Q9AR73	7-hydroxyflavone
+59	Q9AR73	UDP-glucose
+60	Q9AR73	8-hydroxyquinoline
+61	Q9AR73	UDP-glucose
+62	Q9AR73	apigenin
+63	Q9AR73	UDP-glucose
+64	Q9AR73	beta-naphthol
+65	Q9AR73	UDP-glucose
+66	Q9AR73	carvacrol
+67	Q9AR73	UDP-glucose
+68	Q9AR73	eugenol
+69	Q9AR73	UDP-glucose
+70	Q9AR73	resorcinol
+71	Q9AR73	UDP-glucose
+72	Q9AR73	scopoletin
+73	Q9AR73	UDP-glucose
+74	Q9AR73	scopoletin
+75	Q9AR73	UDP-glucose
+76	Q9AR73	umbelliferone
+77	Q9AR73	UDP-glucose
+78	Q9AR73	umbelliferone
+79	Q9AR73	UDP-glucose
+80	Q9AR73	vanillin
+81	D8LAL9	UDP-glucose
+82	D8LAL9	hydroquinone
+0	P15291	UDP-alpha-D-galactose
+1	P15291	D-glucose
+2	P15291	more
+3	A7TWT0	UDP-galactose
+4	A7TWT0	D-glucose
+5	A7TWS2	UDP-galactose
+6	A7TWS2	D-glucose
+7	A7TWS1	UDP-galactose
+8	A7TWS1	D-glucose
+9	A7TWS3	UDP-galactose
+10	A7TWS3	D-glucose
+11	A7TWS4	UDP-galactose
+12	A7TWS4	D-glucose
+13	A7TWS5	UDP-galactose
+14	A7TWS5	D-glucose
+15	A7TWS6	UDP-galactose
+16	A7TWS6	D-glucose
+17	A7TWS7	UDP-galactose
+18	A7TWS7	D-glucose
+19	A7TWS8	UDP-galactose
+20	A7TWS8	D-glucose
+21	B7SHL6	UDP-galactose
+22	B7SHL6	D-glucose
+0	Q9V6X7	more
+1	Q18014	more
+2	Q9Y2G5	GDP-fucose
+3	Q9Y2G5	TSR4
+4	Q8WR51	more
+5	Q9H488	more
+6	Q9H488	GDP-beta-L-fucose
+7	Q9H488	factor VII EGF
+8	Q91ZW2	more
+0	O09008	more
+1	O09008	p-nitrophenyl-alpha-L-fucose
+2	O09008	UDP-beta-D-GlcNAc
+3	O09010	more
+4	O00587	more
+5	Q8NES3	more
+6	Q9Y644	more
+7	Q24324	Notch
+8	Q24324	UDP-D-GlcNAc
+0	Q9XZ08	UDP-N-acetyl-D-glucosamine
+1	Q9XZ08	beta-D-glucuronosyl-(1-3)-beta-D-galactosyl-(1-3)-beta-D-galactosyl-(1 4)-beta-D-xylosyl-proteoglycan
+2	Q9XZ08	UDP-N-acetyl-D-glucosamine
+3	Q9XZ08	beta-D-glucuronosyl-(1-3)-beta-D-galactosyl-1-O-benzyloxycarbonyl
+4	Q6PA81	UDP-N-acetyl-D-galactosamine
+5	Q6PA81	beta-D-glucuronosyl-(1-3)-beta-D-galactosyl-(1-3)-beta-D-galactosyl-(1 4)-beta-D-xylosyl-1-O-Ser
+6	Q6PA81	more
+0	Q9XZ08	UDP-N-acetyl-D-glucosamine
+1	Q9XZ08	N-acetylheparosan oligosaccharide
+2	Q9XZ08	UDP-N-acetyl-D-glucosamine
+3	Q9XZ08	beta-D-glucuronosyl-(1->4)-N-acetyl-alpha-D-glucosaminyl-proteoglycan
+4	O77783	UDP-N-acetyl-D-glucosamine
+5	O77783	beta-D-glucuronosyl-(1->4)-N-acetyl-alpha-D-glucosaminyl-proteoglycan
+6	O77783	more
+0	Q16394	UDP-alpha-D-glucuronate
+1	Q16394	N-acetyl-alpha-D-glucosaminyl-(1-4)-beta-D-glucuronosyl-proteoglycan
+2	Q9Y169	UDP-alpha-D-glucuronate
+3	Q9Y169	N-acetyl-alpha-D-glucosaminyl-(1-4)-beta-D-glucuronosyl-proteoglycan
+4	P97464	UDP-alpha-D-glucuronate
+5	P97464	N-acetyl-alpha-D-glucosaminyl-(1-4)-beta-D-glucuronosyl-proteoglycan
+6	Q9V730	UDP-alpha-D-glucuronate
+7	Q9V730	N-acetyl-alpha-D-glucosaminyl-(1-4)-beta-D-glucuronosyl-proteoglycan
+8	O77783	UDP-alpha-D-glucuronate
+9	O77783	N-acetyl-alpha-D-glucosaminyl-(1-4)-beta-D-glucuronosyl-proteoglycan
+10	Q93063	UDP-alpha-D-glucuronate
+11	Q93063	N-acetyl-alpha-D-glucosaminyl-(1-4)-beta-D-glucuronosyl-proteoglycan
+0	Q9P2E5	more
+1	Q9P2E5	UDP-alpha-D-glucuronic acid
+2	Q9P2E5	N-acetyl-D-galactosaminyl chondroitin polysaccharide
+3	Q9P2E5	UDP-glucuronic acid
+4	Q9P2E5	chondroitin heptasaccharide
+5	Q9P2E5	UDP-glucuronic acid
+6	Q9P2E5	chondroitin sulfate heptasaccharide
+7	Q9P2E5	UDP-glucuronic acid
+8	Q9P2E5	chondroitin sulfate undecasaccharide
+9	Q86X52	more
+10	Q86X52	UDP-alpha-D-glucuronate
+11	Q86X52	N-acetyl-beta-D-galactosaminyl-(1->4)-beta-D-glucuronosyl-proteoglycan
+12	Q8IZ52	more
+13	Q8IZ52	UDP-alpha-D-glucuronate
+14	Q8IZ52	C11-oligosaccharide of chondroitin sulfate A
+15	Q8IZ52	UDP-alpha-D-glucuronate
+16	Q8IZ52	alpha-thrombomodulin
+17	Q8IZ52	UDP-alpha-D-glucuronate
+18	Q8IZ52	beta-D-glucuronosyl-(1,3)-beta-D-galactosyl-(1,3)-beta-D-galactosyl-1 4-beta-D-xylose-1-O-Gly-Ser-Gly-Glu
+19	Q8IZ52	UDP-alpha-D-glucuronate
+20	Q8IZ52	beta-D-glucuronosyl-(1,3)-beta-D-galactosyl-(1,3)-beta-D-galactosyl-1 4-beta-D-xylose-1-O-serine
+21	Q8IZ52	UDP-alpha-D-glucuronate
+22	Q8IZ52	chondroitin
+23	Q8IZ52	UDP-alpha-D-glucuronate
+24	Q8IZ52	chondroitin sulfate A
+25	A2V663	more
+0	P17443	more
+1	P17443	UDP-N-acetylglucosamine
+2	P17443	Mur2Ac(oyl-L-Ala-gamma-D-Glu-L-Lys-D-Ala-D-Ala)-diphosphoundecaprenol
+3	P17443	UDP-N-acetylglucosamine
+4	P17443	MurNAc(Neta-dansylpentapeptide)-diphosphoryl (R,S-alpha-dihydroheptaprenol)
+5	P17443	dUDP-N-acetyl-alpha-D-glucosamine
+6	P17443	Mur2Ac(oyl-L-Ala-gamma-D-Glu-L-Lys-D-Ala-D-Ala)-diphosphoundecaprenol
+0	Q9NPC4	more
+1	Q9NPC4	UDP-galactose
+2	Q9NPC4	beta-D-galactosyl-(1-4)-D-glucosyl-(1-1)-ceramide
+3	Q9NPC4	UDP-Gal
+4	Q9NPC4	GalNAcbeta1,3Galalpha1,4Galbeta1,4Glc-PAA
+5	Q9NPC4	UDP-Gal
+6	Q9NPC4	Galbeta1,4Glc-PAA
+7	Q9NPC4	UDP-Gal
+8	Q9NPC4	Galbeta1,4GlcNAcbeta1,3Galbeta1,4Glc-PAA
+0	Q8T1C6	UDP-N-acetylglucosamine
+1	Q8T1C6	[Skp1-protein]-hydroxyproline
+2	Q8MZN0	UDP-N-acetylglucosamine
+3	Q8MZN0	[Skp1-protein]-hydroxyproline
+0	Q8L163	2-alpha-D-glucosyl-D-glucose
+1	Q8L163	phosphate
+2	Q8L163	2-alpha-D-glucosyl-D-glucose
+3	Q8L163	phosphate
+4	Q8L163	O-alpha-D-xylopyranosyl-(1-2)-beta-D-fructofuranoside
+5	Q8L163	beta-D-glucose 1-phosphate
+6	Q8L163	O-alpha-D-xylopyranosyl-(1-2)-beta-D-fructofuranoside
+7	Q8L163	beta-D-glucose 1-phosphate
+8	Q8L163	O-alpha-D-xylopyranosyl-(1-2)-beta-D-fructofuranoside
+9	Q8L163	beta-D-glucose 1-phosphate
+10	Q8L163	palatinose
+11	Q8L163	beta-D-glucose 1-phosphate
+12	Q8L163	palatinose
+13	Q8L163	beta-D-glucose 1-phosphate
+14	Q8L163	palatinose
+15	Q8L163	beta-D-glucose 1-phosphate
+16	Q8L163	palatinose
+17	Q8L163	beta-D-glucose 1-phosphate
+18	I3RFR4	2-alpha-D-glucosyl-D-glucose
+19	I3RFR4	phosphate
+20	I3RFR4	2-alpha-D-glucosyl-D-glucose
+21	I3RFR4	phosphate
+22	I3RFR4	more
+23	I3RFR4	3-O-alpha-D-glucosyl-D-glucose
+24	I3RFR4	phosphate
+25	A4XGP2	2-alpha-D-glucosyl-D-glucose
+26	A4XGP2	phosphate
+27	A4XGP2	2-alpha-D-glucosyl-D-glucose
+28	A4XGP2	phosphate
+29	A4XGP2	more
+30	A4XGP2	3-O-alpha-D-glucopyranosyl-D-glucopyranose
+31	A4XGP2	phosphate
+32	A4XGP2	alpha,alpha-trehalose
+33	A4XGP2	phosphate
+34	A4XGP2	maltose
+35	A4XGP2	phosphate
+0	Q2HZZ3	alpha-D-glucose
+1	Q2HZZ3	alpha-D-glucose 1-phosphate
+2	A0A0G2SWS6	alpha,alpha-trehalose
+3	A0A0G2SWS6	phosphate
+4	A0A0G2SWS6	alpha,alpha-trehalose
+5	A0A0G2SWS6	phosphate
+6	A0A0G2SWS6	alpha-D-glucose
+7	A0A0G2SWS6	alpha-D-glucose 1-phosphate
+8	A6YRN9	more
+9	A6YRN9	alpha,alpha-trehalose
+10	A6YRN9	phosphate
+11	A6YRN9	alpha,alpha-trehalose
+12	A6YRN9	phosphate
+13	A6YRN9	alpha-D-glucose
+14	A6YRN9	alpha-D-glucose 1-phosphate
+15	Q9UV63	alpha,alpha-trehalose
+16	Q9UV63	phosphate
+17	Q9UV63	alpha,alpha-trehalose
+18	Q9UV63	phosphate
+0	P39107	more
+1	P39107	4-methylumbelliferyl-alpha-D-Man
+2	P39107	GDP-mannose
+3	P39107	GDP-mannose
+4	P39107	6-O-alpha-D-mannopyranosyl-D-mannopyranose
+5	Q9UTR6	more
+6	Q9UTR6	GDP-mannose
+7	Q9UTR6	pyridylaminated Man5GlcNAc2
+8	Q9UTR6	GDP-mannose
+9	Q9UTR6	pyridylaminated Man6GlcNAc2
+10	Q9UTR6	GDP-mannose
+11	Q9UTR6	pyridylaminated Man7GlcNAc2
+12	Q9UTR6	GDP-mannose
+13	Q9UTR6	pyridylaminated Man8GlcNAc2
+14	Q9UTR6	GDP-mannose
+15	Q9UTR6	pyridylaminated Man9GlcNAc2
+16	Q9UTR6	GDP-mannose
+17	Q9UTR6	pyridylaminated oligosaccharide acceptor
+18	Q56VL2	more
+0	Q9SBQ8	UDP-galactose
+1	Q9SBQ8	flavonol
+2	Q9SBQ8	UDP-galactose
+3	Q9SBQ8	flavonol
+4	Q9SBQ8	more
+5	Q9SBQ8	UDP-galactose
+6	Q9SBQ8	kaempferol
+7	Q9SBQ8	UDP-galactose
+8	Q9SBQ8	kaempferol
+9	Q9SBQ8	UDP-galactose
+10	Q9SBQ8	quercetin
+11	Q9SBQ8	UDP-galactose
+12	Q9SBQ8	quercetin
+13	Q9SBQ8	UDP
+14	Q9SBQ8	kaempferol 3-O-beta-D-galactoside
+15	Q9SBQ8	UDP-galactose
+16	Q9SBQ8	fisetin
+17	Q9SBQ8	UDP-galactose
+18	Q9SBQ8	galangin
+19	Q9SBQ8	UDP-galactose
+20	Q9SBQ8	isorhamnetin
+21	Q9SBQ8	UDP-galactose
+22	Q9SBQ8	kaempferide
+23	Q9SBQ8	UDP-galactose
+24	Q9SBQ8	morin
+25	Q9SBQ8	UDP-galactose
+26	Q9SBQ8	myricetin
+27	Q9SBQ8	UDP-galactose
+28	Q9SBQ8	rhamnetin
+0	A0A0P0YNP7	more
+1	A0A0P0YNP7	UDP-beta-L-rhamnose
+2	A0A0P0YNP7	a flavanone 7-O-beta-D-glucoside
+3	A0A0P0YNP7	UDP-beta-L-rhamnose
+4	A0A0P0YNP7	naringenin-7-O-glucoside
+0	Q8H0F2	UDP-alpha-D-glucose
+1	Q8H0F2	delphinidin 3-O-glucosyl-5-O-(6-O-caffeoylglucoside)
+2	Q8H0F2	UDP-glucose
+3	Q8H0F2	an anthocyanidin
+4	Q8H0F2	UDP-glucose
+5	Q8H0F2	delphinidin 3,5-di-O-beta-D-glucoside
+6	Q8H0F2	UDP-glucose
+7	Q8H0F2	delphinidin 3-glucoside
+8	Q8H0F2	UDP-glucose
+9	Q8H0F2	delphinidin
+10	Q8H0F2	more
+0	I1KEV6	more
+1	I1KEV6	UDP-glucose
+2	I1KEV6	a flavonol 3-O-beta-D-glucoside
+3	I1KEV6	UDP-glucose
+4	I1KEV6	kaempferol 3-O-glucoside
+0	A4UNX4	UDP-galactose
+1	A4UNX4	monogalactosyldiacylglycerol
+2	Q07A01	UDP-galactose
+3	Q07A01	monogalactosyldiacylglycerol
+4	Q84XL8	UDP-galactose
+5	Q84XL8	monogalactosyldiacylglycerol
+0	O64925	more
+1	O64925	ADP-glucose
+2	O64925	(1,4-alpha-glucosyl)n
+3	B7EHV0	NDP-glucose
+4	B7EHV0	[(1-4)-alpha-D-glucosyl]n
+5	Q42857	NDP-glucose
+6	Q42857	[(1-4)-alpha-D-glucosyl]n
+7	Q42857	ADP-glucose
+8	Q42857	(1,4-alpha-glucosyl)n
+9	Q00775	ADP-glucose
+10	Q00775	(1,4-alpha-glucosyl)n
+0	Q5FC15	1-kestose
+1	Q5FC15	1-kestose
+2	Q5FC15	more
+3	Q5FC15	1F(1-beta-D-fructofuranosyl)3 sucrose
+4	Q5FC15	sucrose
+5	Q5FC15	nystose
+6	Q5FC15	1-kestose
+7	P92916	1-kestose
+8	P92916	3 sucrose
+9	Q8S337	more
+10	Q8S337	1-kestose
+11	Q8S337	3 sucrose
+12	Q8S337	1-kestose
+13	Q8S337	1-kestose
+14	Q8S337	1-kestose
+15	Q8S337	sucrose
+16	Q8S337	1-kestose
+17	Q8S337	sucrose
+18	Q8S337	1-kestose
+19	Q8S337	sucrose
+20	Q8S337	4 1-kestose
+21	Q8S337	sucrose
+22	Q8S337	sucrose
+23	Q05G13	1-kestose
+24	Q05G13	3 sucrose
+0	Q76KP1	UDP-GalNAc
+1	Q76KP1	GlcNAc-beta-(1,3)-GalNAc-alpha-p-nitrophenyl
+2	Q76KP1	more
+3	Q76KP1	UDP-GalNAc
+4	Q76KP1	GlcNAc-beta-(1,6)-GalNAc-alpha-p-nitrophenyl
+5	Q76KP1	UDP-GalNAc
+6	Q76KP1	GlcNAc-beta-(1,6)[Gal-beta-(1,3)]GalNAc-alpha-p-nitrophenyl
+7	Q76KP1	UDP-GalNAc
+8	Q76KP1	Gal-beta-(1,4)-GlcNAc-beta-(1,2)-Man-alpha-(1,6)-[GlcNAc-beta-(1 2)-Man-alpha-(1,3)]Man-beta-(1,4)-GlcNAc-beta-(1 4)-GlcNAc-2-pyridylaminoside
+9	Q76KP1	UDP-GalNAc
+10	Q76KP1	Gal-beta-(1,4)-GlcNAc-beta-(1,2)-Man-alpha-(1,6)-[GlcNAc-beta-(1 2)-Man-alpha-(1,3)]Man-beta-(1,4)-GlcNAc-beta-(1,4)-[Fuc-alpha-(1 6)]-GlcNAc-2-pyridylaminoside
+11	Q76KP1	UDP-GalNAc
+12	Q76KP1	GlcNAc-beta-(1,2)-Man-alpha-(1,6)-[Gal-beta-(1,4)-GlcNAc-beta-(1 2)-Man-alpha-(1,3)]Man-beta-(1,4)-GlcNAc-beta-(1 4)-GlcNAc-2-pyridylaminoside
+13	Q76KP1	UDP-GalNAc
+14	Q76KP1	GlcNAc-beta-(1,2)-Man-alpha-(1,6)-[Gal-beta-(1,4)-GlcNAc-beta-(1 2)-Man-alpha-(1,3)]Man-beta-(1,4)-GlcNAc-beta-(1,4)-[Fuc-alpha-(1 6)]-GlcNAc-2-pyridylaminoside
+15	Q76KP1	UDP-GalNAc
+16	Q76KP1	GlcNAc-beta-(1,2)-Man-alpha-(1,6)-[GlcNAc-beta-(1,2)-Man-alpha-(1 3)]Man-beta-(1,4)-GlcNAc-beta-(1,4)-GlcNAc-2-pyridylaminoside
+17	Q76KP1	UDP-GalNAc
+18	Q76KP1	GlcNAc-beta-(1,2)-Man-alpha-(1,6)-[GlcNAc-beta-(1,2)-Man-alpha-(1 3)]Man-beta-(1,4)-GlcNAc-beta-(1,4)-[Fuc-alpha-(1 6)]-GlcNAc-2-pyridylaminoside
+19	Q76KP1	UDP-GalNAc
+20	Q76KP1	GlcNAcbeta-O-benzyl
+21	Q6L9W6	more
+22	Q6L9W6	UDP-GalNAc
+23	Q6L9W6	Gal-beta-(1,4)-GlcNAc-beta-(1,2)-Man-alpha-(1,6)-[GlcNAc-beta-(1 2)-Man-alpha-(1,3)]Man-beta-(1,4)-GlcNAc-beta-(1 4)-GlcNAc-2-pyridylaminoside
+24	Q6L9W6	UDP-GalNAc
+25	Q6L9W6	Gal-beta-(1,4)-GlcNAc-beta-(1,2)-Man-alpha-(1,6)-[GlcNAc-beta-(1 2)-Man-alpha-(1,3)]Man-beta-(1,4)-GlcNAc-beta-(1,4)-[Fuc-alpha-(1 6)]-GlcNAc-2-pyridylaminoside
+26	Q6L9W6	UDP-GalNAc
+27	Q6L9W6	GlcNAc-beta-(1,2)-Man-alpha-(1,6)-[Gal-beta-(1,4)-GlcNAc-beta-(1 2)-Man-alpha-(1,3)]Man-beta-(1,4)-GlcNAc-beta-(1 4)-GlcNAc-2-pyridylaminoside
+28	Q6L9W6	UDP-GalNAc
+29	Q6L9W6	GlcNAc-beta-(1,2)-Man-alpha-(1,6)-[Gal-beta-(1,4)-GlcNAc-beta-(1 2)-Man-alpha-(1,3)]Man-beta-(1,4)-GlcNAc-beta-(1,4)-[Fuc-alpha-(1 6)]-GlcNAc-2-pyridylaminoside
+30	Q6L9W6	UDP-GalNAc
+31	Q6L9W6	GlcNAc-beta-(1,2)-Man-alpha-(1,6)-[GlcNAc-beta-(1,2)-Man-alpha-(1 3)]Man-beta-(1,4)-GlcNAc-beta-(1,4)-GlcNAc-2-pyridylaminoside
+32	Q6L9W6	UDP-GalNAc
+33	Q6L9W6	GlcNAc-beta-(1,2)-Man-alpha-(1,6)-[GlcNAc-beta-(1,2)-Man-alpha-(1 3)]Man-beta-(1,4)-GlcNAc-beta-(1,4)-[Fuc-alpha-(1 6)]-GlcNAc-2-pyridylaminoside
+34	Q6L9W6	UDP-GalNAc
+35	Q6L9W6	GlcNAcbeta-O-benzyl
+36	Q6L9W6	UDP-N-acetyl-alpha-D-galactosamine
+37	Q6L9W6	N-acetyl-beta-D-glucosamine
+38	Q6L9W6	UDP-N-acetyl-alpha-D-galactosamine
+39	Q6L9W6	N-acetyl-beta-D-glucosaminyl group
+40	Q7KN92	more

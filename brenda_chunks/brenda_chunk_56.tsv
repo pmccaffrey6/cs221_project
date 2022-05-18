@@ -1,0 +1,821 @@
+	uniprot_ids	substrates
+0	P10547	Peptidoglycan
+1	P10547	H2O
+2	P10547	Staphylococcus aureus ATCC 29213 cells
+3	P10547	H2O
+4	P10547	Staphylococcus aureus cells
+5	P10547	H2O
+6	P10547	Staphylococcus aureus mutant strain femAB cell wall
+7	P10547	H2O
+8	P10547	Staphylococcus aureus strain TF5311 cell wall
+9	P10547	H2O
+10	P10547	pentaglycine
+11	P10547	H2O
+12	P10547	Staphylococcus aureus cell wall
+13	P10547	H2O
+14	P10547	more
+15	P10547	methicillin-resistant Staphylococcus aureus cell wall
+16	P10547	H2O
+17	P10547	peptidoglycan
+18	P10547	H2O
+0	Q47899	more
+1	Q47899	Bovine serum albumin
+2	Q47899	H2O
+3	Q47899	N-glycosylated asparagine
+4	Q47899	H2O
+5	Q47899	NGSDCPDK(F)
+6	Q47899	H2O
+7	Q47899	PFLNWTGPPEPIEAAVAR
+8	Q47899	H2O
+9	Q47899	TAGWNIPMGLLFNQTGSCK
+10	Q47899	H2O
+11	Q47899	TAGWNVPIGTLRPFLNWTGPPEPIEAAVAR
+12	Q47899	H2O
+13	Q47899	lactotransferrin
+14	Q47899	H2O
+0	Q99171	small acid-soluble protein
+1	Q99171	H2O
+0	Q13219	inhibitory insulin-like growth factor binding protein-4
+1	Q13219	H2O
+2	Q13219	insulin-like growth factor binding protein
+3	Q13219	H2O
+4	Q13219	insulin-like growth factor binding protein-2
+5	Q13219	H2O
+6	Q13219	insulin-like growth factor-binding protein-2
+7	Q13219	H2O
+8	Q13219	insulin-like growth factor-binding protein-4
+9	Q13219	H2O
+10	Q13219	insulin-like growth factor-binding protein-5
+11	Q13219	H2O
+12	Q13219	insulin-like growth factor binding protein-4
+13	Q13219	H2O
+14	Q13219	insulin-like growth factor binding protein-5
+15	Q13219	H2O
+16	Q8R4K8	insulin-like growth factor binding protein-4
+17	Q8R4K8	H2O
+18	Q8R4K8	insulin-like growth factor binding protein-5
+19	Q8R4K8	H2O
+0	P50281	CD44
+1	P50281	H2O
+2	P50281	collagen I
+3	P50281	H2O
+4	P50281	pro-MMP-2
+5	P50281	H2O
+6	P50281	more
+7	P50281	((Gly-Pro-4-hydroxyproline)5-Gly-Pro-Lys(7-methoxycoumarin-4-yl) acetyl)-Gly-Pro-Gln-Gly-Cys(4-methoxybenzyl)-Arg-Gly-Gln-Lys(2 4-dinitrophenyl)-Gly-Val-Arg-(Gly-Pro-4-hydroxyproline)5-NH2
+8	P50281	H2O
+9	P50281	(7-methoxycoumarin-4-yl)-acetyl-L-Lys-Pro-Leu-Gly-Leu-Lys(N-3-(2 4-dinitrophenyl)-L-2,3-diaminopropionyl)-Ala-Arg-NH2
+10	P50281	H2O
+11	P50281	(7-methoxycoumarin-4-yl)acetyl-GTQGQEARGS-dinitrophenol NH2
+12	P50281	H2O
+13	P50281	(7-methoxycoumarin-4-yl)acetyl-LAQAVRSSK-dinitrophenol NH2
+14	P50281	H2O
+15	P50281	(7-methoxycoumarin-4-yl)acetyl-P-3-cyclohexylalanyl-norvalyl-HA dinitrophenol NH2
+16	P50281	H2O
+17	P50281	(Gly-Pro-Hyp)5-Gly-Pro-Lys(Mca)-Gly-Pro-Gln-Gly-Cys(Mob)-Arg-Gly-Gln Lys(Dnp)-Gly-Val-Arg-(Gly-Pro-Hyp)5-NH2
+18	P50281	H2O
+19	P50281	CCN3
+20	P50281	H2O
+21	P50281	CCN3
+22	P50281	H2O
+23	P50281	CCN5
+24	P50281	H2O
+25	P50281	Elastin
+26	P50281	H2O
+27	P50281	F-gelatin
+28	P50281	H2O
+29	P50281	MOCAcPLGLA2pr-dinitrophenol-A-RNH2
+30	P50281	H2O
+31	P50281	Notch1
+32	P50281	H2O
+33	P50281	casein
+34	P50281	H2O
+35	P50281	cross-linked fibrin II
+36	P50281	H2O
+37	P50281	dabcyl-Gly-Gly-Pro-Gln-Gly-Ile-Trp-Gly-Gln-Lys(fluorescein)-Ahx-Cys
+38	P50281	H2O
+39	P50281	dermatan sulfate proteoglycan
+40	P50281	H2O
+41	P50281	fibroblast growth factor receptor-1
+42	P50281	H2O
+43	P50281	fibroblast growth factor receptor-4
+44	P50281	H2O
+45	P50281	growth differentiation factor-1
+46	P50281	H2O
+47	P50281	hepatocyte growth factor activator inhibitor-1
+48	P50281	H2O
+49	P50281	kidney injury molecule-1
+50	P50281	H2O
+51	P50281	laminin-5
+52	P50281	H2O
+53	P50281	methoxycoumarin-4-acetyl-Lys-Pro-Leu-Gly-Leu-Lys(2 4-dinitrophenyl)-Ala-Arg-NH2
+54	P50281	H2O
+55	P50281	peptide IAG
+56	P50281	H2O
+57	P50281	pro-MMP-2
+58	P50281	H2O
+59	P50281	pro-alpha v integrin
+60	P50281	H2O
+61	P50281	proMMP-2
+62	P50281	H2O
+63	P50281	progelatinase A E375A
+64	P50281	H2O
+65	P50281	receptor of complement component 1q
+66	P50281	H2O
+67	P50281	stromal cell-derived factor 1
+68	P50281	H2O
+69	P50281	syndecan-1 G245L glutathione transferase protein
+70	P50281	H2O
+71	P50281	transforming growth factor-beta
+72	P50281	H2O
+73	P50281	proMMP-2
+74	P50281	H2O
+75	P50281	(7-methoxycoumarin-4-yl)acetyl-Pro-Leu-Gly-Leu-N-3-(2 4-dinitrophenyl)-L-2,3-diaminopropionyl-Ala-Arg-NH2
+76	P50281	H2O
+77	P50281	Fibrinogen
+78	P50281	H2O
+79	P50281	Fibronectin
+80	P50281	H2O
+81	P50281	Laminin-1
+82	P50281	H2O
+83	P50281	Type I collagen
+84	P50281	H2O
+85	P50281	Vitronectin
+86	P50281	H2O
+87	P50281	aggrecan
+88	P50281	H2O
+89	P50281	alpha1-antitrypsin
+90	P50281	H2O
+91	P50281	pro-MMP-2
+92	P50281	H2O
+93	P50281	syndecan-1
+94	P50281	H2O
+95	P50281	syndecan-1 core protein
+96	P50281	H2O
+97	P50281	transglutaminase
+98	P50281	H2O
+99	P50281	type II collagen
+100	P50281	H2O
+101	P50281	type III collagen
+102	P50281	H2O
+103	P50281	Collagen
+104	P50281	H2O
+105	P50281	Gelatin
+106	P50281	H2O
+107	P50281	progelatinase A
+108	P50281	H2O
+109	Q10739	pro-MMP-2
+110	Q10739	H2O
+111	Q10739	(7-methoxycoumarin-4-yl)acetyl-L-Pro-Leu-Gly-Leu-(3-[2 4-dinitrophenyl]-L-2,3-diaminopropionyl)-Ala-Arg-NH2
+112	Q10739	H2O
+113	Q10739	neuronal glial antigen 2
+114	Q10739	H2O
+115	Q10739	Laminin
+116	Q10739	H2O
+117	Q10739	Gelatin
+118	Q10739	H2O
+119	P53690	pro-MMP-2
+120	P53690	H2O
+121	P53690	proMMP-2
+122	P53690	H2O
+123	P53690	Gelatin
+124	P53690	H2O
+125	Q7T2J2	Collagen
+126	Q7T2J2	H2O
+127	Q7T2J2	Gelatin
+128	Q7T2J2	H2O
+129	Q7T2J1	Collagen
+130	Q7T2J1	H2O
+131	Q7T2J1	Gelatin
+132	Q7T2J1	H2O
+0	A0A1L2JAW4	Cry3Aa toxin
+1	A0A1L2JAW4	H2O
+2	O10743	5-FAM/QXL520
+3	O10743	H2O
+4	O14672	beta-amyloid precursor protein
+5	O14672	H2O
+6	O14672	E-cadherin
+7	O14672	H2O
+8	O14672	N-cadherin
+9	O14672	H2O
+10	O14672	C4.4A
+11	O14672	H2O
+12	O14672	CXCL16
+13	O14672	H2O
+14	O14672	annexin A1
+15	O14672	H2O
+16	O14672	Bri2
+17	O14672	H2O
+18	O14672	CD154
+19	O14672	H2O
+20	O14672	Cad6B
+21	O14672	H2O
+22	O14672	E(Edans)-PLAQAVRSSS[O-(beta-D-Glc-(1->3)-alpha-D-GlcNAc]-K(Dabcyl)
+23	O14672	H2O
+24	O14672	FAT1
+25	O14672	H2O
+26	O14672	Glu(EDANS)-Pro-Leu-Ala-Gln-Ala-Val-Arg-Ser-Ser(glycosyl)-Ser Lys(DABCYL)
+27	O14672	H2O
+28	O14672	Glu(EDANS)-Pro-Leu-Ala-Gln-Ala-Val-Arg-Ser-Ser-Ser-Lys(DABCYL)
+29	O14672	H2O
+30	O14672	HER2
+31	O14672	H2O
+32	O14672	Klotho
+33	O14672	H2O
+34	O14672	L1 adhesion molecule
+35	O14672	H2O
+36	O14672	Leda-1
+37	O14672	H2O
+38	O14672	Notch-1
+39	O14672	H2O
+40	O14672	PMEL17
+41	O14672	H2O
+42	O14672	SIRPalpha
+43	O14672	H2O
+44	O14672	TACI
+45	O14672	H2O
+46	O14672	TREM2
+47	O14672	H2O
+48	O14672	alcadein
+49	O14672	H2O
+50	O14672	cell adhesion molecule 1
+51	O14672	H2O
+52	O14672	cell adhesion molecule CADM1
+53	O14672	H2O
+54	O14672	cell surface VEGF receptor Flt
+55	O14672	H2O
+56	O14672	collagen type XVII
+57	O14672	H2O
+58	O14672	coxsackievirus and adenovirus receptor
+59	O14672	H2O
+60	O14672	discoidin domain receptor 1
+61	O14672	H2O
+62	O14672	gp130
+63	O14672	H2O
+64	O14672	interleukin 11R
+65	O14672	H2O
+66	O14672	interleukin-6 receptor
+67	O14672	H2O
+68	O14672	interleukin-6 receptor subunit alpha
+69	O14672	H2O
+70	O14672	nerveglia antigen 2
+71	O14672	H2O
+72	O14672	neuroligin 1
+73	O14672	H2O
+74	O14672	probetacellulin
+75	O14672	H2O
+76	O14672	proheparin-binding EGF-like growth factor
+77	O14672	H2O
+78	O14672	protransforming growth factor alpha
+79	O14672	H2O
+80	O14672	syndecan
+81	O14672	H2O
+82	O14672	syndecan-1
+83	O14672	H2O
+84	O14672	thyrotropin receptor
+85	O14672	H2O
+86	O14672	CD84
+87	O14672	H2O
+88	O35598	beta-amyloid precursor protein
+89	O35598	H2O
+90	O35598	more
+91	O35598	E-cadherin
+92	O35598	H2O
+93	O35598	CD84
+94	O35598	H2O
+95	O35598	CHL1
+96	O35598	H2O
+97	O35598	CNTN2
+98	O35598	H2O
+99	O35598	ISLR2
+100	O35598	H2O
+101	O35598	NRCAM
+102	O35598	H2O
+103	O35598	Notch
+104	O35598	H2O
+105	O35598	cadherin-6
+106	O35598	H2O
+107	O35598	fractalkine CX3CL1
+108	O35598	H2O
+109	O35598	leucine-rich repeat-containing protein 4B
+110	O35598	H2O
+111	O35598	matrix metalloproteinase-17
+112	O35598	H2O
+113	O35598	meprin A
+114	O35598	H2O
+115	O35598	meprin beta
+116	O35598	H2O
+117	O35598	neurexin 3
+118	O35598	H2O
+119	O35598	neuroligin-1
+120	O35598	H2O
+0	Q8BNJ2	amyloid beta 1-38 peptide
+1	Q8BNJ2	H2O
+2	Q8BNJ2	amyloid beta 1-40 peptide
+3	Q8BNJ2	H2O
+4	Q8BNJ2	amyloid beta 1-42 peptide
+5	Q8BNJ2	H2O
+6	Q8BNJ2	poly-ADP ribose polymerase-1
+7	Q8BNJ2	H2O
+8	Q8BNJ2	versican
+9	Q8BNJ2	H2O
+10	Q75173	biglycan
+11	Q75173	H2O
+12	O75173	aggrecan
+13	O75173	H2O
+14	O75173	aggrecan
+15	O75173	H2O
+16	O75173	aggrecan
+17	O75173	H2O
+18	O75173	brevican
+19	O75173	H2O
+20	O75173	brevican
+21	O75173	H2O
+22	O75173	versican
+23	O75173	H2O
+24	O75173	5-carboxyfluorescein-Ala-Glu-Leu-Gln-Gly-Arg-Pro-Ile-Ser-Ile-Ala-Lys-N N,N',N'-tetramethyl-6-carboxyrhodamine
+25	O75173	H2O
+26	O75173	VQTVTWPDMELPLPRNITEGEARGSVILTVKPIFEVSPSPLKG
+27	O75173	H2O
+28	O75173	aggrecan
+29	O75173	H2O
+30	O75173	fibulin-2
+31	O75173	H2O
+32	O75173	matrilin-2
+33	O75173	H2O
+34	O75173	porcine aggrecan
+35	O75173	H2O
+36	Q9ESP7	brevican
+37	Q9ESP7	H2O
+38	Q9ESP7	neurocan
+39	Q9ESP7	H2O
+40	Q9ESP7	phosphacan
+41	Q9ESP7	H2O
+0	Q52NH3	83 kDa full-length protective antigen
+1	Q52NH3	H2O
+2	P15917	more
+3	P15917	mitogen-activated protein kinase kinase
+4	P15917	H2O
+5	P15917	mitogen-activated protein kinase kinase 1
+6	P15917	H2O
+7	P15917	mitogen-activated protein kinase kinase 2
+8	P15917	H2O
+9	P15917	mitogen-activated protein kinase kinase 3
+10	P15917	H2O
+11	P15917	mitogen-activated protein kinase kinase 4
+12	P15917	H2O
+13	P15917	mitogen-activated protein kinase kinase 6
+14	P15917	H2O
+15	P15917	(7-methoxycoumarin-4-yl)acetyl-AKVYPYPME-(2 4-dinitrophenyldiaminopropionic acid)
+16	P15917	H2O
+17	P15917	In2LF
+18	P15917	H2O
+19	P15917	MAPKKide
+20	P15917	H2O
+21	P15917	MEK-1
+22	P15917	H2O
+23	P15917	MEK-2
+24	P15917	H2O
+25	P15917	NACHT leucine-rich repeat and pyrin domain-containing protein 1B
+26	P15917	H2O
+27	P15917	NOD-like receptor protein-1
+28	P15917	H2O
+29	P15917	R9LF-1
+30	P15917	H2O
+31	P15917	acetyl-GYbetaARRRRRRRRVLR-4-nitroanilide
+32	P15917	H2O
+33	P15917	acetyl-Gly-Tyr-beta-Ala-Arg-Arg-Arg-Arg-Arg-Arg-Arg-Arg-Val-Leu-Arg-4 nitroanilide
+34	P15917	H2O
+35	P15917	acetyl-Gly-Tyr-beta-Ala-Arg-Arg-Arg-Arg-Arg-Arg-Arg-Arg-Val-Leu-Arg-7 amido-4-methylcoumarin
+36	P15917	H2O
+37	P15917	mitogen-activated protein kinase kinase-1
+38	P15917	H2O
+39	P15917	mitogen-activated protein kinase kinase-3
+40	P15917	H2O
+41	P15917	mitogen-activated protein kinase kinase-4
+42	P15917	H2O
+43	P15917	mitogen-activated protein kinase kinase-6
+44	P15917	H2O
+45	P15917	mitogen-activated protein kinase kinase-7
+46	P15917	H2O
+47	P15917	phosphorylated ERK1/2
+48	P15917	H2O
+49	P15917	phosphorylated JNK1/2
+50	P15917	H2O
+51	P15917	phosphorylated p38
+52	P15917	H2O
+0	Q8RX88	a-factor
+1	Q8RX88	H2O
+2	Q8RX88	CaM53
+3	Q8RX88	H2O
+4	Q8RX88	RACU88402
+5	Q8RX88	H2O
+6	O75844	a-factor
+7	O75844	H2O
+8	O75844	a-factor-CaaX
+9	O75844	H2O
+10	O75844	Abz-K-SKTKC(farnesyl)VI(-dinitrophenyl derivative of lysine)
+11	O75844	H2O
+12	O75844	METP-(639aa)-RSYLLGNSSPRTQSPQNC(farnesyl)-OCH3
+13	O75844	H2O
+14	O75844	more
+15	O75844	prelamin A
+16	O75844	H2O
+17	O75844	prelamin A
+18	O75844	H2O
+19	P47154	a-factor-CaaX
+20	P47154	H2O
+21	Q80W54	YIIKGVFWDPA[farnesyl-C]AMQ
+22	Q80W54	H2O
+23	Q80W54	YIIKGVFWDPA[farnesyl-C]VIA
+24	Q80W54	H2O
+0	O43462	SREBP NH2-522 fragment
+1	O43462	H2O
+2	O43462	more
+3	P0AEH1	more
+4	Q57837	more
+5	Q57837	SREBP-2
+6	Q57837	H2O
+7	Q57837	ATF6 protein
+8	Q57837	H2O
+9	Q57837	CED-9 protein
+10	Q57837	H2O
+11	Q57837	CREBH
+12	Q57837	H2O
+13	Q57837	SREBP-1
+14	Q57837	H2O
+15	Q55518	beta-casein
+16	Q55518	H2O
+0	P78536	(EDANS)-ELAQAVRSSSRK-(DABCYL)
+1	P78536	H2O
+2	P78536	(EDANS)-EPLAQAVRSSSK-(DABCYL)
+3	P78536	H2O
+4	P78536	CD16
+5	P78536	H2O
+6	P78536	CD16b
+7	P78536	H2O
+8	P78536	CSF-1 receptor
+9	P78536	H2O
+10	P78536	CX3CL1
+11	P78536	H2O
+12	P78536	CXCR2
+13	P78536	H2O
+14	P78536	Glu(EDANS)-Pro-Leu-Ala-Gln-Ala-Val-Arg-Ser-Ser(4O-(beta-D-Gal-(1->3) alpha-D-GalNAc))-Ser-Lys(DABCYL)
+15	P78536	H2O
+16	P78536	Glu(EDANS)-Pro-Leu-Ala-Gln-Ala-Val-Arg-Ser-Ser-Ser-Lys(DABCYL)
+17	P78536	H2O
+18	P78536	MHC class I polypeptide-related sequence A
+19	P78536	H2O
+20	P78536	N-cadherin
+21	P78536	H2O
+22	P78536	PLAAAVFSS
+23	P78536	H2O
+24	P78536	PLAMAVMSS
+25	P78536	H2O
+26	P78536	PLAQAVRSS
+27	P78536	H2O
+28	P78536	Pro-BTC
+29	P78536	H2O
+30	P78536	S80-glycosylated (EDANS)-ELAQAVRSSSRK-(DABCYL)
+31	P78536	H2O
+32	P78536	S80-glycosylated (EDANS)-EPLAQAVRSSSK-(DABCYL)
+33	P78536	H2O
+34	P78536	TGF-alpha
+35	P78536	H2O
+36	P78536	TGFalpha
+37	P78536	H2O
+38	P78536	TNF receptor 1a
+39	P78536	H2O
+40	P78536	TNFalpha
+41	P78536	H2O
+42	P78536	TRP1
+43	P78536	H2O
+44	P78536	amyloid precursor protein
+45	P78536	H2O
+46	P78536	betacellulin
+47	P78536	H2O
+48	P78536	cell surface VEGF receptor Flt
+49	P78536	H2O
+50	P78536	discoidin domain receptor 1
+51	P78536	H2O
+52	P78536	intercellular adhesion molecule 1
+53	P78536	H2O
+54	P78536	interleukin 1 receptor
+55	P78536	H2O
+56	P78536	interleukin 1alpha/beta
+57	P78536	H2O
+58	P78536	interleukin 6
+59	P78536	H2O
+60	P78536	interleukin 6 receptor
+61	P78536	H2O
+62	P78536	interleukin 6 receptor
+63	P78536	H2O
+64	P78536	interleukin-1 receptor II
+65	P78536	H2O
+66	P78536	interleukin-6 receptor
+67	P78536	H2O
+68	P78536	junctional adhesion molecule A
+69	P78536	H2O
+70	P78536	pro-EPR
+71	P78536	H2O
+72	P78536	pro-HB-EGF
+73	P78536	H2O
+74	P78536	pro-TGFalpha
+75	P78536	H2O
+76	P78536	pro-tumor necrosis factor alpha
+77	P78536	H2O
+78	P78536	proTNF-alpha
+79	P78536	H2O
+80	P78536	proheparin-binding EGF-like growth factor
+81	P78536	H2O
+82	P78536	protein tyrosine kinase 7
+83	P78536	H2O
+84	P78536	protransforming growth factor alpha
+85	P78536	H2O
+86	P78536	soluble intercellular cell adhesion molecule 1
+87	P78536	H2O
+88	P78536	soluble interleukin 6 receptor
+89	P78536	H2O
+90	P78536	soluble tumor necrosis factor receptor 1
+91	P78536	H2O
+92	P78536	soluble vascular cell adhesion molecule 1
+93	P78536	H2O
+94	P78536	syndecan-1
+95	P78536	H2O
+96	P78536	syndecan-4
+97	P78536	H2O
+98	P78536	transferrin receptor protein 1
+99	P78536	H2O
+100	P78536	tumor necrosis factor alpha
+101	P78536	H2O
+102	P78536	tumor necrosis factor alpha receptor I
+103	P78536	H2O
+104	P78536	tumor necrosis factor receptor 1
+105	P78536	H2O
+106	P78536	CD23
+107	P78536	H2O
+108	P78536	CD44
+109	P78536	H2O
+110	P78536	HB-EGF
+111	P78536	H2O
+112	P78536	NCAM
+113	P78536	H2O
+114	P78536	epiregulin
+115	P78536	H2O
+116	P78536	heregulin
+117	P78536	H2O
+118	P78536	pro-TGF-alpha
+119	P78536	H2O
+120	P78536	pro-TNF-alpha
+121	P78536	H2O
+122	P78536	amphiregulin
+123	P78536	H2O
+124	P78536	more
+125	P78536	transforming growth factor alpha
+126	P78536	H2O
+127	P78536	L-selectin
+128	P78536	H2O
+129	P78536	TNF-alpha
+130	P78536	H2O
+131	Q9Z0F8	Mca-PLAQAV-Dpa-RSSSR-NH2
+132	Q9Z0F8	H2O
+133	Q9Z0F8	interleukin (IL)-6R
+134	Q9Z0F8	H2O
+135	Q9Z0F8	proTGF-alpha
+136	Q9Z0F8	H2O
+137	Q9Z0F8	interleukin (IL)-1R-II
+138	Q9Z0F8	H2O
+0	Q769J6	more
+1	Q78LX8	more
+2	Q78LX8	recombinant human VWF73 peptide
+3	Q78LX8	H2O
+4	Q78LX8	von Willebrand factor
+5	Q78LX8	H2O
+6	Q78LX8	FRETS-von Willebrand factor 73
+7	Q78LX8	H2O
+8	Q76LX8	more
+9	Q76LX8	von Willebrand factor
+10	Q76LX8	H2O
+11	Q76LX8	VWF115
+12	Q76LX8	H2O
+13	Q76LX8	proteins
+14	Q76LX8	H2O
+15	Q76LX8	von Willebrand factor
+16	Q76LX8	H2O
+17	Q76LX8	FRETS-rVWF71
+18	Q76LX8	H2O
+19	Q76LX8	VWFA2 peptide
+20	Q76LX8	H2O
+0	Q183R7	Abz-DVVNAPVPPSKDD-CONH2
+1	Q183R7	H2O
+2	Q183R7	Abz-DVVNPAVPPSKDD-CONH2
+3	Q183R7	H2O
+4	Q183R7	Abz-DVVNPPVPPSKDD-CONH2
+5	Q183R7	H2O
+6	Q183R7	Ac-EPNAAVP-CONH2
+7	Q183R7	H2O
+8	Q183R7	Ac-HLLPPPS-CONH2
+9	Q183R7	H2O
+10	Q183R7	Ac-SLRPAPP-CONH2
+11	Q183R7	H2O
+12	Q183R7	Dabcyl-Lys-EVNPPPPD-EdansGlu
+13	Q183R7	H2O
+14	Q183R7	Fibrinogen
+15	Q183R7	H2O
+16	Q183R7	Fibronectin
+17	Q183R7	H2O
+18	Q183R7	IgA2 heavy chain
+19	Q183R7	H2O
+20	Q183R7	KAAEEPNAAVPDEIK
+21	Q183R7	H2O
+22	Q183R7	LPXTG cell surface protein CD2831
+23	Q183R7	H2O
+24	Q183R7	LPXTG cell surface protein CD3246
+25	Q183R7	H2O
+26	Q183R7	acetyl-EVNPPVPD
+27	Q183R7	H2O
+28	Q183R7	adhesion molecule CD2831
+29	Q183R7	H2O
+30	Q183R7	adhesion molecule CD3246
+31	Q183R7	H2O
+32	Q183R7	collagen binding protein CD2831
+33	Q183R7	H2O
+34	Q183R7	fibrinogen beta-chain
+35	Q183R7	H2O
+36	Q183R7	heat shock protein HSP90beta
+37	Q183R7	H2O
+38	Q183R7	more
+39	K4ZRC1	more
+40	K4ZRC1	YPSSKPLPPVPPVQPLPPVPKLETS
+41	K4ZRC1	H2O
+0	Q9GU37	succinyl-Leu-Leu-Val-Tyr-7-amido-4-methylcoumarin
+1	Q9GU37	H2O
+2	Q9GU37	Gly-Gly-Arg-7-amido-4-methylcoumarin
+3	Q9GU37	H2O
+4	Q9GU37	4-hydroxy-3-nitrophenol-Leu-Leu-Asn-vinylsulfone
+5	Q9GU37	H2O
+6	Q9GU37	4-hydroxy-3-nitrophenyl-Leu-Leu-Lys-vinylsulfone
+7	Q9GU37	H2O
+8	Q9GU37	Tyr-Leu-Leu-Leu-vinylsulfone
+9	Q9GU37	H2O
+10	Q9GU37	acetyl-EPFD-7-amido-4-carbamoylcoumarin
+11	Q9GU37	H2O
+12	Q9GU37	acetyl-YWTQ-7-amido-4-carbamoylcoumarin
+13	Q9GU37	H2O
+14	Q9GU37	acetyl-norleucine-Arg-norleucine-Arg-7-amido-4-carbamoylcoumarin
+15	Q9GU37	H2O
+16	Q9GU37	more
+17	Q8I7N8	succinyl-Leu-Leu-Val-Tyr-7-amido-4-methylcoumarin
+18	Q8I7N8	H2O
+19	A0A286S218	succinyl-Leu-Leu-Val-Tyr-7-amido-4-methylcoumarin
+20	A0A286S218	H2O
+0	P0A7B8	more
+1	P0A7B8	Arc/I37A
+2	P0A7B8	H2O
+3	P0A7B8	MBP-SulA
+4	P0A7B8	H2O
+5	P0A7B8	carbobenzoxy-Gly-Gly-Leu-7-amido-4-methylcoumarin
+6	P0A7B8	H2O
+7	P0A7B8	benzyloxycarbonyl-GGL-7-amido-4-methylcoumarin
+8	P0A7B8	H2O
+9	P0A7B8	Arc
+10	P0A7B8	H2O
+11	P0A7B8	alpha-casein
+12	P0A7B8	H2O
+13	Q8FBC0	benzyloxycarbonyl-GGL-7-amido-4-methylcoumarin
+14	Q8FBC0	H2O
+15	Q8FBC0	casein
+16	Q8FBC0	H2O
+17	Q8FBC0	SulA
+18	Q8FBC0	H2O
+19	P43772	carbobenzoxy-Gly-Gly-Leu-7-amido-4-methylcoumarin
+20	P43772	H2O
+21	A4HWA6	benzyloxycarbonyl-GGL-7-amido-4-methylcoumarin
+22	A4HWA6	H2O
+23	A4HWA6	benzyloxycarbonyl-EVNL-7-amido-4-methylcoumarin
+24	A4HWA6	H2O
+25	A4HWA6	succinyl-LLVY-7-amido-4-methylcoumarin
+26	A4HWA6	H2O
+0	Q6Q4F3	L-asparagine
+1	Q6Q4F3	H2O
+2	Q6Q4F3	L-Gln
+3	Q6Q4F3	H2O
+4	Q6Q4F3	L-glutamine
+5	Q6Q4F3	H2O
+6	Q6Q4F3	N-acetyl-L-asparagine
+7	Q6Q4F3	H2O
+8	Q6Q4F3	Nalpha-acetyl-L-Asn
+9	Q6Q4F3	H2O
+10	Q6Q4F3	succinamic acid
+11	Q6Q4F3	H2O
+12	Q6Q4F3	L-asparagine
+13	Q6Q4F3	H2O
+14	Q8GXG1	more
+15	Q8GXG1	L-asparagine
+16	Q8GXG1	H2O
+17	Q8GXG1	L-aspartyl hydroxamate
+18	Q8GXG1	H2O
+19	B6ZCD8	L-asparagine
+20	B6ZCD8	H2O
+21	B6ZCD8	L-glutamine
+22	B6ZCD8	H2O
+23	Q6Q4F4	L-asparagine
+24	Q6Q4F4	H2O
+25	Q6Q4F4	L-glutamine
+26	Q6Q4F4	H2O
+27	Q7L266	more
+28	Q7L266	L-asparagine
+29	Q7L266	H2O
+30	Q7L266	beta-L-Asp-L-Phe
+31	Q7L266	H2O
+32	P00805	L-Asn
+33	P00805	H2O
+34	P00805	L-asparagine
+35	P00805	H2O
+36	P00805	L-glutamine
+37	P00805	H2O
+38	Q66CJ2	L-asparagine
+39	Q66CJ2	H2O
+40	Q66CJ2	L-glutamine
+41	Q66CJ2	H2O
+42	Q8TZE8	more
+43	Q8TZE8	L-asparagine
+44	Q8TZE8	H2O
+45	Q9RFN5	L-asparagine
+46	Q9RFN5	H2O
+47	J9H7D1	L-glutamine
+48	J9H7D1	H2O
+49	J9H7D1	L-asparagine
+50	J9H7D1	H2O
+51	C5A6Q4	D-glutamine
+52	C5A6Q4	H2O
+53	C5A6Q4	L-asparagine
+54	C5A6Q4	H2O
+55	C5A6Q4	L-glutamine
+56	C5A6Q4	H2O
+57	C5A6Q4	D-asparagine
+58	C5A6Q4	H2O
+59	I0ZIE0	L-glutamine
+60	I0ZIE0	H2O
+61	I0ZIE0	L-asparagine
+62	I0ZIE0	H2O
+63	R4L284	L-aspartic acid
+64	R4L284	NH3
+65	R4L284	more
+66	R4L284	L-asparagine
+67	R4L284	H2O
+68	R4L284	L-glutamine
+69	R4L284	H2O
+70	W0G253	more
+71	W0G253	L-asparagine
+72	W0G253	H2O
+73	W0G253	L-glutamine
+74	W0G253	H2O
+75	W0G253	D-asparagine
+76	W0G253	H2O
+77	W0KM71	more
+78	W0KM71	L-asparagine
+79	W0KM71	H2O
+80	Q5JHT1	L-asparagine
+81	Q5JHT1	H2O
+82	H0W0T5	more
+83	H0W0T5	L-asparagine
+84	H0W0T5	H2O
+85	A0A0C5GVW3	more
+86	A0A0C5GVW3	L-asparagine
+87	A0A0C5GVW3	H2O
+88	C0KWF5	L-asparagine
+89	C0KWF5	H2O
+90	P50286	L-asparagine
+91	P50286	H2O
+92	P50286	L-glutamine
+93	P50286	H2O
+94	P0CZ17	more
+95	P0CZ17	L-asparagine
+96	P0CZ17	H2O
+97	A0A0U3U5E8	L-asparagine
+98	A0A0U3U5E8	H2O
+99	A0A2X5A091	L-asparagine
+100	A0A2X5A091	H2O
+101	A0A2X5A091	L-glutamine
+102	A0A2X5A091	H2O
+103	A0A1I0U0N3	more
+104	A0A1I0U0N3	L-asparagine
+105	A0A1I0U0N3	H2O
+0	P37051	10-formyltetrahydrofolate
+1	P37051	H2O
+0	Q75SP7	(R)-piperazine-2-carboxamide
+1	Q75SP7	H2O
+2	Q75SP7	(R)-piperazine-2-tert-butylcarboxamide
+3	Q75SP7	H2O
+4	Q75SP7	(R)-piperidine-3-carboxamide
+5	Q75SP7	H2O
+6	Q75SP7	D-glutamine amide
+7	Q75SP7	H2O
+8	Q75SP7	L-glutamine amide
+9	Q75SP7	H2O
+10	Q75SP7	beta-alaninamide
+11	Q75SP7	H2O
+12	Q75SP7	more
+13	Q75SP7	piperidine-4-carboxamide
+14	Q75SP7	H2O

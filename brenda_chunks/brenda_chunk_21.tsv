@@ -1,0 +1,2095 @@
+	uniprot_ids	substrates
+0	P0CT21	chanoclavine-I aldehyde
+1	P0CT21	NADH
+2	P0CT21	H+
+3	P0CT21	chanoclavine-I aldehyde
+4	P0CT21	NADPH
+5	P0CT21	H+
+0	C5B2R8	7,8-dihydromethanopterin
+1	C5B2R8	NAD(P)H
+2	C5B2R8	H+
+0	M4ZRJ3	2-methyl-1-pyrroline
+1	M4ZRJ3	NADPH
+2	M4ZRJ3	H+
+3	M4ZRJ3	2-methyl-1-pyrroline
+4	M4ZRJ3	NADPH
+5	M4ZRJ3	H+
+6	M4ZRJ3	more
+7	M4ZRJ3	1,2-dimethyl-3,4-dihydroisoquinolin-2-ium
+8	M4ZRJ3	NADPH
+9	M4ZRJ3	H+
+10	M4ZRJ3	1-methyl-3,4-dihydroisoquinoline
+11	M4ZRJ3	NADPH
+12	M4ZRJ3	H+
+13	M4ZRJ3	2-cyclohexyl-1-pyrroline
+14	M4ZRJ3	NADPH
+15	M4ZRJ3	H+
+16	M4ZRJ3	2-methyl-3,4-dihydroisoquinolin-2-ium
+17	M4ZRJ3	NADPH
+18	M4ZRJ3	H+
+19	M4ZRJ3	2-phenyl-1-pyrroline
+20	M4ZRJ3	NADPH
+21	M4ZRJ3	H+
+22	M4ZRJ3	3,4-dihydroisoquinoline
+23	M4ZRJ3	NADPH
+24	M4ZRJ3	H+
+25	M4ZRJ3	5-(4-fluorophenyl)-3,4-dihydro-2H-pyrrole
+26	M4ZRJ3	NADPH
+27	M4ZRJ3	H+
+28	M4ZRJ3	5-(4-methoxyphenyl)-3,4-dihydro-2H-pyrrole
+29	M4ZRJ3	NADPH
+30	M4ZRJ3	H+
+31	M4ZRJ3	5-methyl-3,4-dihydro-2H-pyrrole
+32	M4ZRJ3	NADPH
+33	M4ZRJ3	H+
+34	M4ZRJ3	6-(2-methoxyphenyl)-2,3,4,5-tetrahydropyridine
+35	M4ZRJ3	NADPH
+36	M4ZRJ3	H+
+37	M4ZRJ3	6-(3-methoxyphenyl)-2,3,4,5-tetrahydropyridine
+38	M4ZRJ3	NADPH
+39	M4ZRJ3	H+
+40	M4ZRJ3	6-(4-fluorophenyl)-2,3,4,5-tetrahydropyridine
+41	M4ZRJ3	NADPH
+42	M4ZRJ3	H+
+43	M4ZRJ3	6-(4-methoxyphenyl)-2,3,4,5-tetrahydropyridine
+44	M4ZRJ3	NADPH
+45	M4ZRJ3	H+
+46	M4ZRJ3	6-(4-methylphenyl)-2,3,4,5-tetrahydropyridine
+47	M4ZRJ3	NADPH
+48	M4ZRJ3	H+
+49	M4ZRJ3	6-(naphthalen-2-yl)-2,3,4,5-tetrahydropyridine
+50	M4ZRJ3	NADPH
+51	M4ZRJ3	H+
+52	M4ZRJ3	6-(prop-1-en-2-yl)-2,3,4,5-tetrahydropyridine
+53	M4ZRJ3	NADPH
+54	M4ZRJ3	H+
+55	M4ZRJ3	6-(propan-2-yl)-2,3,4,5-tetrahydropyridine
+56	M4ZRJ3	NADPH
+57	M4ZRJ3	H+
+58	M4ZRJ3	6-(thiophen-2-yl)-2,3,4,5-tetrahydropyridine
+59	M4ZRJ3	NADPH
+60	M4ZRJ3	H+
+61	M4ZRJ3	6-benzyl-2,3,4,5-tetrahydropyridine
+62	M4ZRJ3	NADPH
+63	M4ZRJ3	H+
+64	M4ZRJ3	6-cyclohexyl-2,3,4,5-tetrahydropyridine
+65	M4ZRJ3	NADPH
+66	M4ZRJ3	H+
+67	M4ZRJ3	6-methyl-2,3,4,5-tetrahydropyridine
+68	M4ZRJ3	NADPH
+69	M4ZRJ3	H+
+70	M4ZRJ3	6-phenyl-2,3,4,5-tetrahydropyridine
+71	M4ZRJ3	NADPH
+72	M4ZRJ3	H+
+73	M4ZRJ3	6-propyl-2,3,4,5-tetrahydropyridine
+74	M4ZRJ3	NADPH
+75	M4ZRJ3	H+
+0	Q485S0	DELTA1-pyrroline-2-carboxylate
+1	Q485S0	NADH
+2	Q485S0	H+
+3	Q485S0	DELTA1-pyrroline-2-carboxylate
+4	Q485S0	NADPH
+5	Q485S0	H+
+6	Q485S0	L-proline
+7	Q485S0	NAD+
+8	Q485S0	L-proline
+9	Q485S0	NADP+
+10	Q485S0	more
+0	P11586	5,10-methylene tetrahydrofolate
+1	P11586	NADP+
+2	P11586	more
+3	P13995	5,10-methylenetetrahydrofolate
+4	P13995	NADP+
+5	P13995	5,10-methylenetetrahydrofolate
+6	P13995	NADP+
+7	P13995	5,10-methylenetetrahydropteroylglutamate
+8	P13995	NAD+
+9	P13995	5,10-methylenetetrahydropteroylglutamate
+10	P13995	NADP+
+11	P13995	5,10-methylenetetrahydropteroylpentaglutamate
+12	P13995	NAD+
+13	P13995	5,10-methylenetetrahydropteroylpentaglutamate
+14	P13995	NADP+
+15	Q05213	5,10-methylenetetrahydrofolate
+16	Q05213	NADP+
+17	Q05213	5,10-methylenetetrahydrofolate
+18	Q05213	NADP+
+19	Q4Q9F9	5,10-methylenetetrahydrofolate
+20	Q4Q9F9	NADP+
+21	Q4Q9F9	5,10-methylenetetrahydrofolate
+22	Q4Q9F9	NADP+
+23	D3YZG8	5,10-methylenetetrahydrofolate
+24	D3YZG8	NADP+
+25	D3YZG8	5,10-methylenetetrahydrofolate
+26	D3YZG8	NADP+
+27	D3YZG8	5,10-methylenetetrahydrofolate
+28	D3YZG8	NAD+
+29	D3YZG8	5,10-methylenetetrahydropteroylpoly-L-glutamate
+30	D3YZG8	NADP+
+31	D3YZG8	more
+32	D3ZUA0	5,10-methylenetetrahydrofolate
+33	D3ZUA0	NADP+
+34	D3ZUA0	5,10-methylenetetrahydrofolate
+35	D3ZUA0	NADP+
+36	D3ZUA0	5,10-methylenetetrahydrofolate
+37	D3ZUA0	NAD+
+38	D3ZUA0	more
+39	Q9H903	5,10-methylenetetrahydrofolate
+40	Q9H903	NADP+
+41	Q9H903	5,10-methylenetetrahydrofolate
+42	Q9H903	NADP+
+43	Q9H903	5,10-methylenetetrahydropteroylglutamate
+44	Q9H903	NAD+
+45	Q9H903	5,10-methylenetetrahydropteroylglutamate
+46	Q9H903	NADP+
+47	Q9H903	5,10-methylenetetrahydropteroylpentaglutamate
+48	Q9H903	NAD+
+49	Q9H903	5,10-methylenetetrahydropteroylpentaglutamate
+50	Q9H903	NADP+
+51	Q0TPD4	(6R,S)-5,10-methylenetetrahydrofolate
+52	Q0TPD4	NADP+
+53	P24186	5,10-methylenetetrahydrofolate
+54	P24186	NADP+
+55	P24186	5,10-methylenetetrahydrofolate
+56	P24186	NADP+
+0	P0AFS3	6-hydroxymethyldihydropterin
+1	P0AFS3	NADPH
+2	P0AFS3	H+
+3	P0AFS3	7,8-dihydrofolate
+4	P0AFS3	NADPH
+5	P0AFS3	H+
+6	P0AFS3	7,8-dihydromonapterin
+7	P0AFS3	NADPH
+8	P0AFS3	H+
+9	P0AFS3	more
+0	A0A0H3K9Y6	2-oxoglutarate
+1	A0A0H3K9Y6	L-2,3-diaminopropanoate
+2	A0A0H3K9Y6	NADH
+3	A0A0H3K9Y6	H+
+0	A0A0H3JT80	(2S)-2-amino-4-[[(1R)-1-carboxy-2-(1H-imidazol-4 yl)ethyl]amino]butanoate
+1	A0A0H3JT80	glyoxylate
+2	A0A0H3JT80	NADPH
+3	A0A0H3JT80	H+
+4	A0A0H3JT80	(2S)-2-amino-4-[[(1R)-1-carboxy-2-(1H-imidazol-4 yl)ethyl]amino]butanoate
+5	A0A0H3JT80	oxaloacetate
+6	A0A0H3JT80	NADPH
+7	A0A0H3JT80	H+
+8	A0A0H3JT80	(2S)-2-amino-4-[[(1R)-1-carboxy-2-(1H-imidazol-4 yl)ethyl]amino]butanoate
+9	A0A0H3JT80	pyruvate
+10	A0A0H3JT80	NADPH
+11	A0A0H3JT80	H+
+0	E3NZ06	10-formyltetrahydrofolate
+1	E3NZ06	NADP+
+2	E3NZ06	H2O
+3	E3NZ06	10-formyltetrahydrofolate
+4	E3NZ06	NADP+
+5	E3NZ06	H2O
+6	E3NZ06	more
+7	P28037	10-formyltetrahydrofolate
+8	P28037	NADP+
+9	P28037	H2O
+0	P38998	N6-(L-1,3-dicarboxypropyl)-L-lysine
+1	P38998	NAD+
+2	P38998	H2O
+3	P38998	N6-(L-1,3-dicarboxypropyl)-L-lysine
+4	P38998	NAD+
+5	P38998	H2O
+6	P38998	L-lysine
+7	P38998	2-oxoglutarate
+8	P38998	NADH
+9	P38998	L-lysine
+10	P38998	2-oxoglutarate
+11	P38998	NADH
+12	P38998	N6-(L-1,3-dicarboxypropyl)-L-lysine
+13	P38998	NAD+
+14	P38998	H2O
+15	P38998	N6-(L-1,3-dicarboxypropyl)-L-lysine
+16	P38998	NAD+
+17	P38998	H2O
+0	A0A089MUZ6	N6-(L-1,3-dicarboxypropyl)-L-lysine
+1	A0A089MUZ6	NAD+
+2	A0A089MUZ6	H2O
+3	A0A089MUZ6	more
+4	A0A089MUZ6	L-lysine
+5	A0A089MUZ6	2-oxoglutarate
+6	A0A089MUZ6	NADPH
+7	A0A089MUZ6	H+
+0	D8WKY4	N6-(L-1,3-dicarboxypropyl)-L-lysine
+1	D8WKY4	NAD+
+2	D8WKY4	H2O
+3	A0A089MUZ6	more
+4	A0A089MUZ6	N6-(L-1,3-dicarboxypropyl)-L-lysine
+5	A0A089MUZ6	NAD+
+6	A0A089MUZ6	H2O
+0	Q6ITC6	sarcosine
+1	Q6ITC6	H2O
+2	Q6ITC6	O2
+3	P40859	more
+4	P40859	sarcosine
+5	P40859	O2
+6	P40859	H2O
+7	Q50LF0	sarcosine
+8	Q50LF0	H2O
+9	Q50LF0	O2
+10	Q6ITC6	sarcosine
+11	Q6ITC6	H2O
+12	Q6ITC6	O2
+0	Q9AGP8	N,N-dimethylglycine
+1	Q9AGP8	H2O
+2	Q9AGP8	O2
+0	Q8C0L6	N1-acetylspermidine
+1	Q8C0L6	O2
+2	Q8C0L6	H2O
+3	Q8C0L6	N1-acetylspermidine
+4	Q8C0L6	O2
+5	Q8C0L6	H2O
+6	Q8C0L6	N1-acetylspermine
+7	Q8C0L6	O2
+8	Q8C0L6	H2O
+9	Q8C0L6	spermine
+10	Q8C0L6	O2
+11	Q8C0L6	H2O
+12	Q8C0L6	N1-acetylspermine
+13	Q8C0L6	O2
+14	Q8C0L6	H2O
+15	Q8C0L6	more
+16	Q8C0L6	N1,N11-bis(ethyl)-norspermine
+17	Q8C0L6	O2
+18	Q8C0L6	H2O
+19	Q8C0L6	N1,N12-bis(ethyl)-spermine
+20	Q8C0L6	O2
+21	Q8C0L6	H2O
+22	Q8C0L6	N1,N12-bisethylspermine
+23	Q8C0L6	H2O
+24	Q6QHF9	N1-acetylspermidine
+25	Q6QHF9	O2
+26	Q6QHF9	H2O
+27	Q6QHF9	N1-acetylspermine
+28	Q6QHF9	O2
+29	Q6QHF9	H2O
+30	Q6QHF9	spermine
+31	Q6QHF9	O2
+32	Q6QHF9	H2O
+33	Q6QHF9	N1-acetylspermine
+34	Q6QHF9	O2
+35	Q6QHF9	H2O
+36	Q6QHF9	more
+37	Q6QHF9	N1,N12-diacetylspermine
+38	Q6QHF9	O2
+39	Q6QHF9	H2O
+40	Q6QHF9	N1,N12-diacetylspermine
+41	Q6QHF9	O2
+42	Q6QHF9	H2O
+43	Q6QHF9	(S)-N1-(2-methyl-1-butyl)-N11-ethyl-4,8-diazaundecane-1,11-diamine
+44	Q6QHF9	O2
+45	Q6QHF9	H2O
+46	Q6QHF9	N1,N11-diethylnorspermine
+47	Q6QHF9	O2
+48	Q6QHF9	H2O
+49	Q6QHF9	N1,N12-diethylspermine
+50	Q6QHF9	O2
+51	Q6QHF9	H2O
+52	Q6QHF9	N1,N14-diethylhomospermine
+53	Q6QHF9	O2
+54	Q6QHF9	H2O
+55	Q6QHF9	N1-acetylspermidine
+56	Q6QHF9	O2
+57	Q6QHF9	H2O
+58	Q6QHF9	N1-ethyl-N11-(cycloheptyl)methyl-4,8-diazaundecane
+59	Q6QHF9	O2
+60	Q6QHF9	H2O
+61	Q6QHF9	N1-ethyl-N11-(cyclopropyl)methyl-4,8-diazaundecane
+62	Q6QHF9	O2
+63	Q6QHF9	H2O
+64	Q6QHF9	spermine
+65	Q6QHF9	O2
+66	Q6QHF9	H2O
+67	Q9SU79	N1-acetylspermine
+68	Q9SU79	O2
+69	Q9SU79	H2O
+70	A0A0M3VGH5	N1-acetylspermine
+71	A0A0M3VGH5	O2
+72	A0A0M3VGH5	H2O
+73	A0A0N7IZL9	N1-acetylspermine
+74	A0A0N7IZL9	O2
+75	A0A0N7IZL9	H2O
+76	A0A0N7IZL9	more
+0	O64411	more
+1	O64411	spermidine
+2	O64411	O2
+3	O64411	H2O
+4	O64411	N1-acetylspermidine
+5	O64411	O2
+6	O64411	H2O
+7	O64411	N8-acetylspermine
+8	O64411	O2
+9	O64411	H2O
+10	O64411	spermidine
+11	O64411	O2
+12	O64411	H2O
+13	O64411	spermidine
+14	O64411	O2
+15	O64411	H2O
+16	O64411	spermine
+17	O64411	O2
+18	O64411	H2O
+19	O64411	spermine
+20	O64411	O2
+21	O64411	H2O
+22	O64411	N1-acetylspermine
+23	O64411	O2
+24	O64411	H2O
+25	Q0J290	more
+26	Q0J290	N1-acetylspermine
+27	Q0J290	O2
+28	Q0J290	H2O
+29	Q0J290	N1-acetylspermidine
+30	Q0J290	O2
+31	Q0J290	H2O
+32	Q0J290	norspermidine
+33	Q0J290	O2
+34	Q0J290	H2O
+35	Q0J290	norspermine
+36	Q0J290	O2
+37	Q0J290	H2O
+38	Q0J290	spermidine
+39	Q0J290	O2
+40	Q0J290	H2O
+41	Q0J290	spermine
+42	Q0J290	O2
+43	Q0J290	H2O
+44	Q0J290	thermospermine
+45	Q0J290	O2
+46	Q0J290	H2O
+0	Q9NWM0	spermine
+1	Q9NWM0	O2
+2	Q9NWM0	H2O
+3	Q9NWM0	more
+4	Q9NWM0	spermine
+5	Q9NWM0	O2
+6	Q9NWM0	H2O
+7	Q9NWM0	N1-monoethylspermine
+8	Q9NWM0	O2
+9	Q9NWM0	H2O
+10	Q9NWM0	N1-acetylspermine
+11	Q9NWM0	O2
+12	Q9NWM0	H2O
+13	Q9FNA2	spermine
+14	Q9FNA2	O2
+15	Q9FNA2	H2O
+16	Q9FNA2	more
+17	Q9FNA2	thermospermine
+18	Q9FNA2	O2
+19	Q9FNA2	H2O
+20	Q9FNA2	N1-acetylspermine
+21	Q9FNA2	O2
+22	Q9FNA2	H2O
+23	Q9FNA2	norspermine
+24	Q9FNA2	O2
+25	Q9FNA2	H2O
+26	Q9FNA2	spermine
+27	Q9FNA2	O2
+28	Q9FNA2	H2O
+29	Q9FNA2	thermospermine
+30	Q9FNA2	O2
+31	Q9FNA2	H2O
+32	Q9FNA2	N1-acetylspermine
+33	Q9FNA2	O2
+34	Q9FNA2	H2O
+35	Q9FNA2	norspermine
+36	Q9FNA2	O2
+37	Q9FNA2	H2O
+38	Q8H191	spermine
+39	Q8H191	O2
+40	Q8H191	H2O
+41	Q8H191	more
+42	Q8H191	N1-acetylspermine
+43	Q8H191	O2
+44	Q8H191	H2O
+45	Q8H191	norspermine
+46	Q8H191	O2
+47	Q8H191	H2O
+48	Q8H191	spermine
+49	Q8H191	O2
+50	Q8H191	H2O
+51	Q8H191	thermospermine
+52	Q8H191	O2
+53	Q8H191	H2O
+54	Q9SU79	spermine
+55	Q9SU79	O2
+56	Q9SU79	H2O
+57	Q9SU79	more
+58	Q9SU79	N1-acetylspermine
+59	Q9SU79	O2
+60	Q9SU79	H2O
+61	Q9SU79	thermospermine
+62	Q9SU79	O2
+63	Q9SU79	H2O
+64	Q9SU79	norspermine
+65	Q9SU79	O2
+66	Q9SU79	H2O
+67	A0A0M3VGH5	spermine
+68	A0A0M3VGH5	O2
+69	A0A0M3VGH5	H2O
+70	Q99K82	spermine
+71	Q99K82	O2
+72	Q99K82	H2O
+73	Q99K82	more
+74	Q99K82	spermine
+75	Q99K82	O2
+76	Q99K82	H2O
+77	Q99K82	N1-acetylspermine
+78	Q99K82	O2
+79	Q99K82	H2O
+80	Q99K82	N1-acetylspermine
+81	Q99K82	O2
+82	Q99K82	H2O
+0	Q9SKX5	spermine
+1	Q9SKX5	O2
+2	Q9SKX5	H2O
+3	Q9SKX5	norspermine
+4	Q9SKX5	O2
+5	Q9SKX5	H2O
+6	Q9SKX5	thermospermine
+7	Q9SKX5	O2
+8	Q9SKX5	H2O
+9	Q9SKX5	N1-acetylspermidine
+10	Q9SKX5	O2
+11	Q9SKX5	H2O
+12	Q9SKX5	spermidine
+13	Q9SKX5	O2
+14	Q9SKX5	H2O
+15	Q9SKX5	N1-acetylspermine
+16	Q9SKX5	O2
+17	Q9SKX5	H2O
+18	Q9SKX5	more
+19	Q9SKX5	spermidine
+20	Q9SKX5	O2
+21	Q9SKX5	H2O
+22	Q9SKX5	N1-acetylspermine
+23	Q9SKX5	O2
+24	Q9SKX5	H2O
+25	Q9SKX5	norspermine
+26	Q9SKX5	O2
+27	Q9SKX5	H2O
+28	Q9SKX5	spermine
+29	Q9SKX5	O2
+30	Q9SKX5	H2O
+31	Q9SKX5	thermospermine
+32	Q9SKX5	O2
+33	Q9SKX5	H2O
+34	Q9SU79	spermine
+35	Q9SU79	O2
+36	Q9SU79	H2O
+37	Q9SU79	N1-acetylspermine
+38	Q9SU79	O2
+39	Q9SU79	H2O
+40	Q9SU79	thermospermine
+41	Q9SU79	O2
+42	Q9SU79	H2O
+43	Q9SU79	N1-acetylspermine
+44	Q9SU79	O2
+45	Q9SU79	H2O
+46	Q9SU79	norspermine
+47	Q9SU79	O2
+48	Q9SU79	H2O
+49	Q9SU79	thermospermine
+50	Q9SU79	O2
+51	Q9SU79	H2O
+52	Q9SU79	spermidine
+53	Q9SU79	O2
+54	Q9SU79	H2O
+55	Q9SU79	more
+56	Q9SU79	spermidine
+57	Q9SU79	O2
+58	Q9SU79	H2O
+59	P50264	spermine
+60	P50264	O2
+61	P50264	H2O
+62	P50264	N1-acetylspermine
+63	P50264	O2
+64	P50264	H2O
+65	P50264	more
+66	A0A0M3VGH5	spermine
+67	A0A0M3VGH5	O2
+68	A0A0M3VGH5	H2O
+69	A0A0M3VGH5	N1-acetylspermine
+70	A0A0M3VGH5	O2
+71	A0A0M3VGH5	H2O
+72	A0A0M3VGH5	thermospermine
+73	A0A0M3VGH5	O2
+74	A0A0M3VGH5	H2O
+75	A0A0M3VGH5	norspermine
+76	A0A0M3VGH5	O2
+77	A0A0M3VGH5	H2O
+78	A0A0M3VGH5	spermidine
+79	A0A0M3VGH5	O2
+80	A0A0M3VGH5	H2O
+81	A0A0M3VGH5	thermospermine
+82	A0A0M3VGH5	O2
+83	A0A0M3VGH5	H2O
+84	A0A0N7IZL9	N1-acetylspermine
+85	A0A0N7IZL9	O2
+86	A0A0N7IZL9	H2O
+87	A0A0N7IZL9	more
+88	A0A0N7IZL9	spermidine
+89	A0A0N7IZL9	O2
+90	A0A0N7IZL9	H2O
+91	Q9LYT1	spermine
+92	Q9LYT1	O2
+93	Q9LYT1	H2O
+94	Q9LYT1	N1-acetylspermine
+95	Q9LYT1	O2
+96	Q9LYT1	H2O
+97	Q9LYT1	norspermine
+98	Q9LYT1	O2
+99	Q9LYT1	H2O
+100	Q9LYT1	thermospermine
+101	Q9LYT1	O2
+102	Q9LYT1	H2O
+103	Q9LYT1	N1-acetylspermidine
+104	Q9LYT1	O2
+105	Q9LYT1	H2O
+106	Q9LYT1	spermidine
+107	Q9LYT1	O2
+108	Q9LYT1	H2O
+109	Q9LYT1	N1-acetylspermine
+110	Q9LYT1	O2
+111	Q9LYT1	H2O
+112	Q9LYT1	more
+113	Q9LYT1	spermidine
+114	Q9LYT1	O2
+115	Q9LYT1	H2O
+116	Q9LYT1	N1-acetylspermidine
+117	Q9LYT1	O2
+118	Q9LYT1	H2O
+119	Q9LYT1	N1-acetylspermidine
+120	Q9LYT1	O2
+121	Q9LYT1	H2O
+122	Q9LYT1	N1-acetylspermine
+123	Q9LYT1	O2
+124	Q9LYT1	H2O
+125	Q9LYT1	N1-acetylspermine
+126	Q9LYT1	O2
+127	Q9LYT1	H2O
+128	Q9LYT1	norspermine
+129	Q9LYT1	O2
+130	Q9LYT1	H2O
+131	Q9LYT1	spermine
+132	Q9LYT1	O2
+133	Q9LYT1	H2O
+134	Q9LYT1	thermospermine
+135	Q9LYT1	O2
+136	Q9LYT1	H2O
+137	Q9FNA2	spermine
+138	Q9FNA2	O2
+139	Q9FNA2	H2O
+140	Q9FNA2	norspermine
+141	Q9FNA2	O2
+142	Q9FNA2	H2O
+143	Q9FNA2	thermospermine
+144	Q9FNA2	O2
+145	Q9FNA2	H2O
+0	Q9UTM9	L-saccharopine
+1	Q9UTM9	H2O
+2	Q9UTM9	O2
+3	Q9UTM9	more
+0	Q50497	2 reduced coenzyme F420
+1	Q50497	O2
+2	B1A7S3	2 reduced coenzyme F420
+3	B1A7S3	O2
+0	Q93NH4	(S)-6-hydroxynicotine
+1	Q93NH4	H2O
+2	Q93NH4	O2
+3	A0A075BSX9	(S)-6-hydroxynicotine
+4	A0A075BSX9	H2O
+5	A0A075BSX9	O2
+6	A0A075BSX9	(S)-nicotine
+7	A0A075BSX9	H2O
+8	A0A075BSX9	O2
+9	A0A075XFI8	(S)-6-hydroxynicotine
+10	A0A075XFI8	H2O
+11	A0A075XFI8	O2
+0	Q9P0Z9	L-pipecolate
+1	Q9P0Z9	O2
+2	Q9P0Z9	L-proline
+3	Q9P0Z9	O2
+0	Q9VMQ9	6-pyruvoyl-tetrahydropterin
+1	Q9VMQ9	glutathione
+0	Q16134	reduced electron-transferring flavoprotein
+1	Q16134	ubiquinone
+2	Q16134	reduced electron-transferring flavoprotein
+3	Q16134	ubiquinone
+4	Q16134	more
+5	Q16134	reduced electron-transferring flavoprotein
+6	Q16134	2,6-dichloroindophenol
+7	Q16134	reduced electron-transferring flavoprotein
+8	Q16134	coenzyme Q1
+9	G4MVI8	reduced electron-transferring flavoprotein
+10	G4MVI8	ubiquinone
+11	G4MVI8	reduced electron-transferring flavoprotein
+12	G4MVI8	ubiquinone
+13	A9CJL8	reduced electron-transferring flavoprotein
+14	A9CJL8	ubiquinone
+15	A9CJL8	reduced electron-transferring flavoprotein
+16	A9CJL8	ubiquinone
+17	A9CJL8	more
+18	A9CJL8	reduced electron-transferring flavoprotein
+19	A9CJL8	2,6-dichloroindophenol
+20	A9CJL8	reduced electron-transferring flavoprotein
+21	A9CJL8	coenzyme Q1
+22	B4E7H3	reduced electron-transferring flavoprotein
+23	B4E7H3	ubiquinone
+24	B4E7H3	reduced electron-transferring flavoprotein
+25	B4E7H3	ubiquinone
+26	B4EP03	reduced electron-transferring flavoprotein
+27	B4EP03	ubiquinone
+28	B4EP03	reduced electron-transferring flavoprotein
+29	B4EP03	ubiquinone
+0	Q72IB8	L-proline
+1	Q72IB8	a quinone
+2	Q72IB8	L-proline
+3	Q72IB8	a quinone
+4	Q72IB8	L-proline
+5	Q72IB8	2,6-dichlorphenol-indophenol
+6	O59089	more
+7	O59089	L-proline
+8	O59089	2,6-dichlorphenol-indophenol
+9	O59088	L-proline
+10	O59088	acceptor
+11	Q8U1G2	more
+12	Q8U1G2	L-proline
+13	Q8U1G2	2,6-dichlorphenol-indophenol
+14	Q5JFG7	more
+15	Q5JFG7	L-proline
+16	Q5JFG7	2,6-dichlorphenol-indophenol
+17	Q5JFG2	more
+18	Q5JFG2	L-proline
+19	Q5JFG2	2,6-dichlorphenol-indophenol
+20	O59445	more
+21	O59445	L-proline
+22	O59445	2,6-dichlorphenol-indophenol
+23	Q8U022	more
+24	Q8U022	L-proline
+25	Q8U022	2,6-dichlorphenol-indophenol
+26	Q4CVA1	more
+27	Q4CVA1	L-proline
+28	Q4CVA1	a quinone
+29	Q4CVA1	L-proline
+30	Q4CVA1	a quinone
+31	Q4CVA1	L-proline
+32	Q4CVA1	NAD+
+33	Q4CVA1	L-proline
+34	Q4CVA1	cytochrome c
+35	Q4CVA1	L-proline
+36	Q4CVA1	2,6-dichlorphenol-indophenol
+37	I2D0K8	more
+38	Q76M73	L-proline
+39	Q76M73	2,6-dichlorophenolindophenol
+40	Q76M73	H2O
+41	Q76M73	more
+42	Q76M73	L-proline
+43	Q76M73	2,6-dichlorphenol-indophenol
+44	Q76M73	L-proline
+45	Q76M73	ferricyanide
+46	Q76M73	H2O
+47	P09546	L-proline
+48	P09546	acceptor
+49	P09546	H2O
+50	P09546	more
+51	P09546	L-proline
+52	P09546	NAD+
+53	P09546	H2O
+54	P09546	L-proline
+55	P09546	oxidized dichlorophenolindophenol
+56	P09546	trans-4-hydroxy-L-proline
+57	P09546	oxidized dichlorophenolindophenol
+58	P09546	L-proline
+59	P09546	acceptor
+0	Q9UF12	L-proline
+1	Q9UF12	coenzyme Q1
+2	Q9UF12	more
+3	Q9UF12	trans-4-hydroxy-L-proline
+4	Q9UF12	coenzyme Q1
+5	Q9UF12	trans-4-hydroxy-L-proline
+6	Q9UF12	coenzyme Q10
+7	Q9UF12	trans-4-hydroxy-L-proline
+8	Q9UF12	cytochrome c
+9	Q9UF12	trans-4-hydroxy-L-proline
+10	Q9UF12	duroquinone
+11	Q9UF12	trans-4-hydroxy-L-proline
+12	Q9UF12	menadione
+13	Q9UF12	trans-4-hydroxy-L-proline
+14	Q9UF12	menaquinone
+0	Q8PZ67	oxidized coenzyme F420
+1	Q8PZ67	2 reduced ferredoxin
+2	Q8PZ67	2 H+
+3	Q8PZ67	reduced coenzyme F420
+4	Q8PZ67	2 oxidized ferredoxin
+0	Q63342	N,N-dimethylglycine
+1	Q63342	acceptor
+2	Q63342	H2O
+3	Q63342	N,N-dimethylglycine
+4	Q63342	tetrahydropteroylpentaglutamate
+5	Q63342	acceptor
+6	Q9UI17	N,N-dimethylglycine
+7	Q9UI17	H2O
+8	Q9UI17	oxidized 2,6-dichlorophenolindophenol
+9	Q9UI17	N,N-dimethylglycine
+10	Q9UI17	5,6,7,8-tetrahydrofolate
+11	Q9UI17	electron-transfer flavoprotein
+12	Q9UI17	N,N-dimethylglycine
+13	Q9UI17	FAD
+14	Q9UI17	H2O
+15	Q9UI17	N,N-dimethylglycine
+16	Q9UI17	H2O
+17	Q9UI17	ferrocene
+18	Q9UI17	N,N-dimethylglycine
+19	Q9UI17	ferricenium
+20	Q9UI17	H2O
+0	D1JH91	5,10-methylenetetrahydromethanopterin
+1	D1JH91	oxidized coenzyme F420
+2	D1JH91	5,10-methylenetetrahydromethanopterin
+3	D1JH91	oxidized coenzyme F420
+4	A5UMI1	5,10-methylenetetrahydromethanopterin
+5	A5UMI1	oxidized coenzyme F420
+6	A5UMI1	5,10-methylenetetrahydromethanopterin
+7	A5UMI1	oxidized coenzyme F420
+8	P94951	5,10-methylenetetrahydromethanopterin
+9	P94951	oxidized coenzyme F420
+10	P94951	5,10-methylenetetrahydromethanopterin
+11	P94951	oxidized coenzyme F420
+12	P94951	5,10-methenyltetrahydromethanopterin
+13	P94951	reduced coenzyme F420
+0	Q50744	N5,N10-methylenetetrahydromethanopterin
+1	Q50744	reduced coenzyme F420
+2	Q8TXY4	5,10-methylenetetrahydromethanopterin
+3	Q8TXY4	reduced coenzyme F420
+4	Q8TXY4	N5,N10-methylenetetrahydromethanopterin
+5	Q8TXY4	reduced coenzyme F420
+0	Q9UXN9	reduced coenzyme F420
+1	Q9UXN9	methanophenazine
+0	Q8H6F6	more
+1	Q8H6F6	cytokinin
+2	Q8H6F6	2,3-dimethoxy-5-methyl-1,4-benzoquinone
+3	Q8H6F6	cytokinin riboside
+4	Q8H6F6	2,3-dimethoxy-5-methyl-1,4-benzoquinone
+5	Q8H6F6	isopentenyladenine 9-glucoside
+6	Q8H6F6	2,6-dichlorophenolindophenol
+7	Q8H6F6	isopentenyladenosine
+8	Q8H6F6	2,6-dichlorophenolindophenol
+9	Q8H6F6	isopentenyladenosine monophosphate
+10	Q8H6F6	2,6-dichlorophenolindophenol
+11	Q8H6F6	trans-zeatin
+12	Q8H6F6	2,6-dichlorophenolindophenol
+13	Q8H6F6	trans-zeatin O-glucoside
+14	Q8H6F6	2,6-dichlorophenolindophenol
+15	Q8H6F6	trans-zeatin riboside
+16	Q8H6F6	2,6-dichlorophenolindophenol
+17	Q8H6F6	trans-zeatin riboside O-glucoside
+18	Q8H6F6	2,6-dichlorophenolindophenol
+19	Q8H6F6	trans-zeatin ribotide
+20	Q8H6F6	2,6-dichlorophenolindophenol
+21	Q8H6F6	trans-zeatin-9-glucoside
+22	Q8H6F6	2,6-dichlorophenolindophenol
+23	Q8H6F6	N6-dimethylallyladenine
+24	Q8H6F6	FAD
+25	Q8H6F6	H2O
+26	Q8H6F6	N6-dimethylallyladenine
+27	Q8H6F6	FAD
+28	Q8H6F6	H2O
+29	Q8H6F6	zeatin
+30	Q8H6F6	FAD
+31	Q8H6F6	H2O
+32	Q8H6F6	isopentenyladenine
+33	Q8H6F6	2,6-dichlorophenolindophenol
+34	Q9FE45	more
+35	Q9FE45	N6-dimethylallyladenine
+36	Q9FE45	FAD
+37	Q9FE45	H2O
+38	Q9FE45	N6-dimethylallyladenine
+39	Q9FE45	FAD
+40	Q9FE45	H2O
+41	Q9FE45	zeatin
+42	Q9FE45	FAD
+43	Q9FE45	H2O
+44	Q9FUJ3	N6-(2-isopentenyl)adenine
+45	Q9FUJ3	CuCl2
+46	Q9FUJ3	more
+47	Q9FUJ3	trans-zeatin
+48	Q9FUJ3	FAD
+49	Q9FUJ3	H2O
+50	Q9FUJ3	trans-zeatin
+51	Q9FUJ3	FAD
+52	Q9FUJ3	H2O
+53	Q9FUJ3	N6-dimethylallyladenine
+54	Q9FUJ3	FAD
+55	Q9FUJ3	H2O
+56	Q9FUJ3	N6-dimethylallyladenine
+57	Q9FUJ3	FAD
+58	Q9FUJ3	H2O
+59	Q94KI4	N6-(2-isopentenyl)adenine
+60	Q94KI4	2,6-dichlorophenolindophenol
+61	Q94KI4	H2O
+62	Q9T0N8	N6-(2-isopentenyl)adenine
+63	Q9T0N8	2,6-dichlorophenol indophenol
+64	Q9T0N8	N6-benzyladenine
+65	Q9T0N8	FAD
+66	Q9T0N8	H2O
+67	Q9T0N8	N6-isopentenyladenine
+68	Q9T0N8	FAD
+69	Q9T0N8	H2O
+70	Q9T0N8	trans-zeatin
+71	Q9T0N8	FAD
+72	Q9T0N8	H2O
+73	Q9T0N8	N6-isopentenyladenine
+74	Q9T0N8	oxidized 2,6-dichlorophenolindophenol
+75	Q9T0N8	trans-zeatin
+76	Q9T0N8	oxidized 2,6-dichlorophenolindophenol
+77	Q9T0N8	N6-(2-isopentenyl)adenine
+78	Q9T0N8	2,6-dichlorophenolindophenol
+79	Q9T0N8	H2O
+80	Q9T0N8	more
+81	Q9T0N8	N6-(2-butynyl)adenine
+82	Q9T0N8	2,6-dichlorophenol indophenol
+83	Q9T0N8	N6-(2-isopentenyl)adenine
+84	Q9T0N8	1,4-naphthoquinone
+85	Q9T0N8	N6-(2-isopentenyl)adenine
+86	Q9T0N8	2,3-dimethoxy-5-methyl-1,4-benzoquinone
+87	Q9T0N8	N6-(2-isopentenyl)adenine
+88	Q9T0N8	FAD
+89	Q9T0N8	H2O
+90	Q9T0N8	N6-(2-isopentenyl)adenine
+91	Q9T0N8	O2
+92	Q9T0N8	N6-(2-isopentenyl)adenine
+93	Q9T0N8	caffeic acid
+94	Q9T0N8	N6-(2-isopentenyl)adenine
+95	Q9T0N8	coenzyme Q1
+96	Q9T0N8	N6-(2-isopentenyl)adenine
+97	Q9T0N8	cytochrome c
+98	Q9T0N8	N6-(2-isopentenyl)adenine
+99	Q9T0N8	daphnoretin
+100	Q9T0N8	N6-(2-isopentenyl)adenine
+101	Q9T0N8	o-coumaric acid
+102	Q9T0N8	N6-(2-isopentenyl)adenine
+103	Q9T0N8	plantacyanine
+104	Q9T0N8	N6-(2-isopentenyl)adenine
+105	Q9T0N8	rosmarinic acid
+106	Q9T0N8	N6-(2-isopentenyl)adenine
+107	Q9T0N8	scopoletin
+108	Q9T0N8	N6-(2-isopentenyl)adenine
+109	Q9T0N8	spinach plantacyanine
+110	Q9T0N8	N6-(2-isopentenyl)adenine
+111	Q9T0N8	vitamin K1
+112	Q9T0N8	N6-(2-isopentenyl)adenine
+113	Q9T0N8	vitamin K3
+114	Q9T0N8	N6-(2-isopentenyl)adenosine
+115	Q9T0N8	2,6-dichlorophenol indophenol
+116	Q9T0N8	N6-(2-isopentenyl)adenosine
+117	Q9T0N8	FAD
+118	Q9T0N8	N6-(4-hydroxy-2-butynyl)adenine
+119	Q9T0N8	2,6-dichlorophenol indophenol
+120	Q9T0N8	N6-(DELTA2-isopentenyl)adenine
+121	Q9T0N8	2,6-dichlorophenolindophenol
+122	Q9T0N8	H2O
+123	Q9T0N8	N6-(DELTA2-isopentenyl)adenine
+124	Q9T0N8	4-methylcatechol
+125	Q9T0N8	H2O
+126	Q9T0N8	N6-(DELTA2-isopentenyl)adenine
+127	Q9T0N8	acetosyringone
+128	Q9T0N8	H2O
+129	Q9T0N8	N6-(DELTA2-isopentenyl)adenine
+130	Q9T0N8	guaiacol
+131	Q9T0N8	H2O
+132	Q9T0N8	N6-(DELTA2-isopentenyl)adenosine
+133	Q9T0N8	2,6-dichlorophenolindophenol
+134	Q9T0N8	H2O
+135	Q9T0N8	N6-(DELTA2-isopentenyl)adenosine
+136	Q9T0N8	2,6-dichlorophenolindophenol
+137	Q9T0N8	H2O
+138	Q9T0N8	N6-(DELTA2-isopentenyl)adenosine
+139	Q9T0N8	4-methylcatechol
+140	Q9T0N8	H2O
+141	Q9T0N8	N6-(DELTA2-isopentenyl)adenosine
+142	Q9T0N8	FAD
+143	Q9T0N8	H2O
+144	Q9T0N8	N6-(DELTA2-isopentenyl)adenosine
+145	Q9T0N8	acetosyringone
+146	Q9T0N8	H2O
+147	Q9T0N8	N6-(DELTA2-isopentenyl)adenosine
+148	Q9T0N8	guaiacol
+149	Q9T0N8	H2O
+150	Q9T0N8	N6-dimethylallyladenosine
+151	Q9T0N8	FAD
+152	Q9T0N8	H2O
+153	Q9T0N8	N6-isopentenyladenine
+154	Q9T0N8	2,6-dichlorophenolindophenol
+155	Q9T0N8	N6-isopentenyladenosine
+156	Q9T0N8	2,6-dichlorophenolindophenol
+157	Q9T0N8	N6-isopentenyladenosine
+158	Q9T0N8	oxidized 2,6-dichlorophenolindophenol
+159	Q9T0N8	cis-zeatin
+160	Q9T0N8	2,6-dichlorophenolindophenol
+161	Q9T0N8	H2O
+162	Q9T0N8	cis/trans-zeatin
+163	Q9T0N8	FAD
+164	Q9T0N8	H2O
+165	Q9T0N8	cis/trans-zeatin riboside
+166	Q9T0N8	FAD
+167	Q9T0N8	H2O
+168	Q9T0N8	trans-zeatin
+169	Q9T0N8	2,6-dichlorophenolindophenol
+170	Q9T0N8	H2O
+171	Q9T0N8	trans-zeatin riboside
+172	Q9T0N8	2,6-dichlorophenolindophenol
+173	Q9T0N8	H2O
+174	Q9T0N8	zeatin
+175	Q9T0N8	2,6-dichlorophenolindophenol
+176	Q9T0N8	zeatin
+177	Q9T0N8	FAD
+178	Q9T0N8	H2O
+179	Q9T0N8	zeatin
+180	Q9T0N8	FAD
+181	Q9T0N8	zeatin riboside
+182	Q9T0N8	2,6-dichlorophenolindophenol
+183	Q9T0N8	N6-(2-isopentenyl)adenine
+184	Q9T0N8	FAD
+185	Q9T0N8	N6-(DELTA2-isopentenyl)adenine
+186	Q9T0N8	FAD
+187	Q9T0N8	H2O
+188	Q9T0N8	N6-(DELTA2-isopentenyl)adenine
+189	Q9T0N8	FAD
+190	Q9T0N8	H2O
+191	Q9T0N8	N6-(DELTA2-isopentenyl)adenine
+192	Q9T0N8	2,6-dichlorophenolindophenol
+193	Q9T0N8	H2O
+194	Q9T0N8	N6-(DELTA2-isopentenyl)adenine-9-beta-D-glucoside
+195	Q9T0N8	2,6-dichlorophenolindophenol
+196	Q9T0N8	H2O
+197	Q9T0N8	N6-(DELTA2-isopentenyl)adenosine-5'-monophosphate
+198	Q9T0N8	2,6-dichlorophenolindophenol
+199	Q9T0N8	H2O
+200	Q9T0N8	N6-dimethylallyladenine
+201	Q9T0N8	FAD
+202	Q9T0N8	H2O
+203	Q9T0N8	N6-dimethylallyladenine
+204	Q9T0N8	FAD
+205	Q9T0N8	H2O
+206	Q9T0N8	N6-(2-isopentenyl)adenine
+207	Q9T0N8	2,6-dichlorophenolindophenol
+208	A2TLJ3	N6-isopentenyladenine
+209	A2TLJ3	electron acceptor
+210	A2TLJ3	N6-isopentenyladenine
+211	A2TLJ3	electron acceptor
+212	A2TLJ3	zeatin
+213	A2TLJ3	electron acceptor
+214	A2TLJ3	zeatin
+215	A2TLJ3	electron acceptor
+216	A2TLJ3	more
+217	A0MQ40	N6-(2-isopentenyl)adenine
+218	A0MQ40	2,6-dichlorophenol indophenol
+219	A0MQ40	more
+220	A0MQ40	N6-isopentenyladenine
+221	A0MQ40	CuCl2
+222	B6V8F7	N6-isopentenyladenine
+223	B6V8F7	oxidized 2,6-dichlorophenolindophenol
+224	B6V8F7	trans-zeatin
+225	B6V8F7	oxidized 2,6-dichlorophenolindophenol
+226	B6V8F7	cis-zeatin
+227	B6V8F7	oxidized 2,6-dichlorophenolindophenol
+228	B6V8F7	N6-isopentenyladenine 9-beta-D-glucoside
+229	B6V8F7	oxidized 2,6-dichlorophenolindophenol
+230	B6V8F7	O-beta-D-glucosyl-trans-zeatin
+231	B6V8F7	oxidized 2,6-dichlorophenolindophenol
+232	B6V8F7	N6-(DELTA2-isopentenyl)adenine
+233	B6V8F7	2,6-dichlorophenolindophenol
+234	B6V8F7	H2O
+235	Q9FUJ1	more
+236	O22213	N6-(2-isopentenyl)adenine
+237	O22213	2,3-dimethoxy-5-methyl-1,4-benzoquinone
+238	O22213	H2O
+239	O22213	N6-(2-isopentenyl)adenine 9-beta-D-glucoside
+240	O22213	3',5'-dimethoxy-4'-hydroxyacetophenone
+241	O22213	H2O
+242	O22213	N6-(2-isopentenyl)adenine 9-beta-D-riboside
+243	O22213	2,3,5-triphenyl-tetrazolium chloride
+244	O22213	H2O
+245	O22213	N6-(2-isopentenyl)adenine 9-beta-D-riboside
+246	O22213	2,3-dimethoxy-5-methyl-1,4-benzoquinone
+247	O22213	H2O
+248	O22213	N6-(2-isopentenyl)adenine 9-beta-D-riboside
+249	O22213	3',5'-dimethoxy-4'-hydroxyacetophenone
+250	O22213	H2O
+251	O22213	N6-(2-isopentenyl)adenine 9-beta-D-riboside
+252	O22213	NAD+
+253	O22213	H2O
+254	O22213	N6-(2-isopentenyl)adenine 9-beta-D-riboside
+255	O22213	O2
+256	O22213	H2O
+257	O22213	N6-(2-isopentenyl)adenine 9-beta-D-riboside
+258	O22213	ferricyanide
+259	O22213	H2O
+260	O22213	N6-(2-isopentenyl)adenine 9-beta-D-riboside
+261	O22213	ferricytochrome c
+262	O22213	H2O
+263	O22213	N6-(2-isopentenyl)adenine 9-beta-D-riboside
+264	O22213	oxidized 2,6-dichlorophenolindophenol
+265	O22213	H2O
+266	O22213	N6-(2-isopentenyl)adenine 9-beta-D-riboside 5'-phosphate
+267	O22213	2,3-dimethoxy-5-methyl-1,4-benzoquinone
+268	O22213	H2O
+269	O22213	kinetin
+270	O22213	2,3-dimethoxy-5-methyl-1,4-benzoquinone
+271	O22213	H2O
+272	O22213	kinetin riboside
+273	O22213	2,3-dimethoxy-5-methyl-1,4-benzoquinone
+274	O22213	H2O
+275	O22213	trans-zeatin
+276	O22213	2,3-dimethoxy-5-methyl-1,4-benzoquinone
+277	O22213	H2O
+278	O22213	more
+279	O22213	N6-(DELTA2-isopentenyl)adenine
+280	O22213	2,3-dimetoxy-5-methyl-1,4-benzoquinone
+281	O22213	H2O
+282	Q9LTS3	N6-(2-isopentenyl)adenine
+283	Q9LTS3	2,3-dimethoxy-5-methyl-1,4-benzoquinone
+284	Q9LTS3	H2O
+285	Q9LTS3	N6-(2-isopentenyl)adenine 9-beta-D-glucoside
+286	Q9LTS3	3',5'-dimethoxy-4'-hydroxyacetophenone
+287	Q9LTS3	H2O
+288	Q9LTS3	N6-(2-isopentenyl)adenine 9-beta-D-riboside
+289	Q9LTS3	2,3,5-triphenyl-tetrazolium chloride
+290	Q9LTS3	H2O
+291	Q9LTS3	N6-(2-isopentenyl)adenine 9-beta-D-riboside
+292	Q9LTS3	2,3-dimethoxy-5-methyl-1,4-benzoquinone
+293	Q9LTS3	H2O
+294	Q9LTS3	N6-(2-isopentenyl)adenine 9-beta-D-riboside
+295	Q9LTS3	3',5'-dimethoxy-4'-hydroxyacetophenone
+296	Q9LTS3	H2O
+297	Q9LTS3	N6-(2-isopentenyl)adenine 9-beta-D-riboside
+298	Q9LTS3	NAD+
+299	Q9LTS3	H2O
+300	Q9LTS3	N6-(2-isopentenyl)adenine 9-beta-D-riboside
+301	Q9LTS3	O2
+302	Q9LTS3	H2O
+303	Q9LTS3	N6-(2-isopentenyl)adenine 9-beta-D-riboside
+304	Q9LTS3	ferricyanide
+305	Q9LTS3	H2O
+306	Q9LTS3	N6-(2-isopentenyl)adenine 9-beta-D-riboside
+307	Q9LTS3	ferricytochrome c
+308	Q9LTS3	H2O
+309	Q9LTS3	N6-(2-isopentenyl)adenine 9-beta-D-riboside
+310	Q9LTS3	oxidized 2,6-dichlorophenolindophenol
+311	Q9LTS3	H2O
+312	Q9LTS3	N6-(2-isopentenyl)adenine 9-beta-D-riboside 5'-phosphate
+313	Q9LTS3	2,3-dimethoxy-5-methyl-1,4-benzoquinone
+314	Q9LTS3	H2O
+315	Q9LTS3	kinetin
+316	Q9LTS3	2,3-dimethoxy-5-methyl-1,4-benzoquinone
+317	Q9LTS3	H2O
+318	Q9LTS3	kinetin riboside
+319	Q9LTS3	2,3-dimethoxy-5-methyl-1,4-benzoquinone
+320	Q9LTS3	H2O
+321	Q9LTS3	trans-zeatin
+322	Q9LTS3	2,3-dimethoxy-5-methyl-1,4-benzoquinone
+323	Q9LTS3	H2O
+324	Q9LTS3	more
+325	E3T1X0	N6-(DELTA2-isopentenyl)adenine
+326	E3T1X0	2,6-dichlorophenolindophenol
+327	E3T1X0	H2O
+328	E3T1X1	N6-(DELTA2-isopentenyl)adenine
+329	E3T1X1	2,6-dichlorophenolindophenol
+330	E3T1X1	H2O
+331	E3T1X1	N6-(DELTA2-isopentenyl)adenine-9-beta-D-glucoside
+332	E3T1X1	2,6-dichlorophenolindophenol
+333	E3T1X1	H2O
+334	E3T1X1	N6-(DELTA2-isopentenyl)adenosine-5'-monophosphate
+335	E3T1X1	2,6-dichlorophenolindophenol
+336	E3T1X1	H2O
+337	E3T1X2	N6-(DELTA2-isopentenyl)adenine
+338	E3T1X2	2,6-dichlorophenolindophenol
+339	E3T1X2	H2O
+340	I3VIX5	N6-isopentenyladenine
+341	I3VIX5	2,3-dimethoxy-5-methyl-1,4-benzoquinone
+342	I3VIX5	N6-isopentenyladenine-9-beta-D-glucoside
+343	I3VIX5	2,3-dimethoxy-5-methyl-1,4-benzoquinone
+344	E3T1X3	N6-(DELTA2-isopentenyl)adenine
+345	E3T1X3	2,6-dichlorophenolindophenol
+346	E3T1X3	H2O
+0	A1RVM8	D-alanine
+1	A1RVM8	oxidized 2,6-dichloroindophenol
+2	A1RVM8	H2O
+3	A1RVM8	D-aspartate
+4	A1RVM8	oxidized 2,6-dichloroindophenol
+5	A1RVM8	H2O
+6	A1RVM8	D-histidine
+7	A1RVM8	oxidized 2,6-dichloroindophenol
+8	A1RVM8	H2O
+9	A1RVM8	D-isoleucine
+10	A1RVM8	oxidized 2,6-dichloroindophenol
+11	A1RVM8	H2O
+12	A1RVM8	D-leucine
+13	A1RVM8	oxidized 2,6-dichloroindophenol
+14	A1RVM8	H2O
+15	A1RVM8	D-proline
+16	A1RVM8	oxidized 2,6-dichloroindophenol
+17	A1RVM8	D-valine
+18	A1RVM8	oxidized 2,6-dichloroindophenol
+19	A1RVM8	H2O
+20	A1RVM8	D-arginine
+21	A1RVM8	oxidized 2,6-dichloroindophenol
+22	A1RVM8	H2O
+23	A1RVM8	D-glutamate
+24	A1RVM8	oxidized 2,6-dichloroindophenol
+25	A1RVM8	H2O
+26	A1RVM8	D-phenylalanine
+27	A1RVM8	oxidized 2,6-dichloroindophenol
+28	A1RVM8	H2O
+29	A1RVM8	D-proline
+30	A1RVM8	2,6-dichlorophenolindophenol
+31	A1RVM8	D-proline
+32	A1RVM8	oxidized 3-(4,5-dimethylthiazol-2-yl)-2,5-diphenyltetrazolium bromide
+33	A1RVM8	D-proline
+34	A1RVM8	oxidized phenazine methosulfate
+35	A1RVM8	D-serine
+36	A1RVM8	oxidized 2,6-dichloroindophenol
+37	A1RVM8	H2O
+38	A1RVM8	D-threonine
+39	A1RVM8	oxidized 2,6-dichloroindophenol
+40	A1RVM8	H2O
+41	A1RVM8	D-tryptophan
+42	A1RVM8	oxidized 2,6-dichloroindophenol
+43	A1RVM8	H2O
+44	A1RVM8	allo-4-hydroxy-D-proline
+45	A1RVM8	oxidized 2,6-dichloroindophenol
+46	A1RVM8	H2O
+47	A1RVM8	more
+0	Q8PVV3	7,8-dihydromethanopterin
+1	Q8PVV3	reduced acceptor
+2	Q8PVV3	7,8-dihydromethanopterin
+3	Q8PVV3	reduced dithiothreitol
+4	Q8PVV3	7,8-dihydromethanopterin
+5	Q8PVV3	reduced ferredoxin
+6	Q8PVV3	more
+7	Q57661	7,8-dihydromethanopterin
+8	Q57661	reduced acceptor
+9	Q57661	7,8-dihydromethanopterin
+10	Q57661	reduced dithiothreitol
+11	Q57661	7,8-dihydromethanopterin
+12	Q57661	reduced ferredoxin
+13	Q57661	more
+14	Q13QT8	5,6,7,8-tetrahydromethanopterin
+15	Q13QT8	oxidized acceptor
+16	Q13QT8	7,8-dihydromethanopterin
+17	Q13QT8	FMNH2
+0	M4T5L3	(RS)-nicotine
+1	M4T5L3	acceptor
+2	M4T5L3	H2O
+3	M4T5L3	(S)-nicotine
+4	M4T5L3	acceptor
+5	M4T5L3	H2O
+6	A0A0Y0MN26	nicotine
+7	A0A0Y0MN26	acceptor
+8	A0A0Y0MN26	H2O
+9	A0A0Y0MN26	nornicotine
+10	A0A0Y0MN26	acceptor
+11	A0A0Y0MN26	H2O
+12	Q59128	L-nicotine
+13	Q59128	acceptor
+14	Q59128	H2O
+15	Q59128	(R)-nicotine
+16	Q59128	acceptor
+17	Q59128	H2O
+18	Q59128	D-nicotine
+19	Q59128	acceptor
+20	Q59128	H2O
+21	Q59128	more
+0	P27306	NADPH
+1	P27306	NAD+
+2	P27306	NADPH
+3	P27306	NAD+
+4	P27306	NADPH
+5	P27306	thio-NAD+
+6	P27306	H+[side 1]
+7	P27306	NADPH
+8	P27306	thio-NAD+
+9	P27306	H+[side 1]
+0	Q13423	NADPH
+1	Q13423	NAD+
+2	Q13423	H+[side 1]
+3	Q13423	NADH
+4	Q13423	NADP+
+5	Q13423	NADH
+6	Q13423	NADP+
+7	Q13423	NADPH
+8	Q13423	NAD+
+9	Q13423	NADPH
+10	Q13423	NAD+
+11	Q13423	NADPH
+12	Q13423	3-acetylpyridine adenine dinucleotide
+13	Q24858	NADPH
+14	Q24858	NAD+
+15	Q24858	H+/in
+16	P07001	NADPH
+17	P07001	NAD+
+18	P07001	NADPH
+19	P07001	NAD+
+20	Q2RSB4	NADH
+21	Q2RSB4	NADP+
+22	Q2RSB4	NADH
+23	Q2RSB4	NADP+
+0	Q8U195	NADH
+1	Q8U195	H+
+2	Q8U195	2 NADP+
+3	Q8U195	2 reduced ferredoxin [iron-sulfur] cluster
+4	Q8U195	NAD+
+5	Q8U195	2 NADPH
+6	Q8U195	2 oxidized ferredoxin [iron-sulfur] cluster
+7	A5N5D2	NAD+
+8	A5N5D2	2 NADPH
+9	A5N5D2	2 oxidized ferredoxin iron-sulfur cluster
+10	A5N5D2	NADH
+11	A5N5D2	H+
+12	A5N5D2	2 NADP+
+13	A5N5D2	2 reduced ferredoxin iron-sulfur cluster
+14	A5N5D2	NADH
+15	A5N5D2	H+
+16	A5N5D2	2 NADP+
+17	A5N5D2	2 reduced ferredoxin iron-sulfur cluster
+18	Q9X1X4	NADH
+19	Q9X1X4	H+
+20	Q9X1X4	NADP+
+21	Q9X1X4	reduced ferredoxin [iron-sulfur] cluster
+0	Q9ZPN0	Cu2+-citrate
+1	Q9ZPN0	NADH
+2	Q9ZPN0	Fe3+-EDTA
+3	Q9ZPN0	NADH
+4	Q9ZPN0	Fe3+-citrate
+5	Q9ZPN0	NADH
+6	Q9ZPN0	2 ferricytochrome c
+7	Q9ZPN0	NADH
+8	Q8W2K4	Cu2+-citrate
+9	Q8W2K4	NADH
+10	Q8W2K4	Fe3+-EDTA
+11	Q8W2K4	NADH
+12	Q8W2K4	Fe3+-citrate
+13	Q8W2K4	NADH
+14	Q8W2K4	2 ferricytochrome b5
+15	Q8W2K4	NADH
+16	Q8W2K4	2 ferricytochrome c
+17	Q8W2K4	NADH
+18	Q3TDX8	2 ferricytochrome b5
+19	Q3TDX8	NADH
+20	Q68EJ0	2 ferricytochrome b5
+21	Q68EJ0	NADH
+22	P00387	NADH
+23	P00387	ferricytochrome b5
+24	P00387	NADH
+25	P00387	ferricytochrome b5
+26	P00387	2 ferricytochrome b5
+27	P00387	NADH
+28	P00387	2 ferricyanide
+29	P00387	NADH
+30	P00387	NADH
+31	P00387	ferricyanide
+32	P00387	NADH
+33	P00387	ferricyanide
+34	Q5PY86	more
+35	P20070	NADH
+36	P20070	ferricytochrome b5
+37	P20070	NADH
+38	P20070	ferricytochrome b5
+39	P20070	2 ferricytochrome b5
+40	P20070	NADH
+41	P20070	NADH
+42	P20070	ferricytochrome b5
+43	P20070	2 ferricyanide
+44	P20070	NADH
+45	P20070	2 ferricyanide
+46	P20070	NADPH
+47	Q1HA49	2 ferricytochrome b5
+48	Q1HA49	NADPH
+49	Q1HA49	2 ferricytochrome b5
+50	Q1HA49	NADH
+51	A8WEG5	2 ferricyanide
+52	A8WEG5	NADH
+53	Q7L1T6	NADH
+54	Q7L1T6	ferricytochrome b5
+55	Q7L1T6	NADH
+56	Q7L1T6	ferricytochrome b5
+57	Q7L1T6	2 ferricytochrome b5
+58	Q7L1T6	NADH
+59	P83686	NADH
+60	P83686	ferricytochrome b5
+61	P83686	NADH
+62	P83686	ferricytochrome b5
+63	P83686	2 ferricytochrome b5
+64	P83686	NADH
+65	P83686	2 ferricyanide
+66	P83686	NADH
+67	Q6BCY4	2 ferricytochrome b5
+68	Q6BCY4	NADH
+69	Q6BCY4	2-[4-iodophenyl]-3-[4-nitrophenyl]-5-[2,4-disulfophenyl]-2H tetrazolium monosodium salt
+70	Q6BCY4	NADH
+71	Q6BCY4	lucigenin
+72	Q6BCY4	NADH
+73	A0A178US77	NADH
+74	A0A178US77	ferricytochrome b5
+75	A0A178US77	NADH
+76	A0A178US77	ferricytochrome b5
+77	A0A178US77	NADH
+78	A0A178US77	oxidized 2,6-dichlorophenolindophenol
+79	A0A178US77	NADH
+80	A0A178US77	oxidized 2,6-dichlorophenolindophenol
+81	A0A178US77	NADH
+82	A0A178US77	ferricyanide
+83	A0A178US77	NADH
+84	A0A178US77	ferricyanide
+85	P07514	NADH
+86	P07514	ferricytochrome b5
+87	P07514	NADH
+88	P07514	ferricytochrome b5
+89	P07514	NADH
+90	P07514	oxidized 2,6-dichlorophenolindophenol
+91	P07514	NADH
+92	P07514	oxidized 2,6-dichlorophenolindophenol
+93	P07514	NADH
+94	P07514	ferricyanide
+95	P07514	NADH
+96	P07514	ferricyanide
+97	F9X691	NADH
+98	F9X691	ferricytochrome b5
+99	F9X691	NADH
+100	F9X691	ferricytochrome b5
+0	A5Y0M3	2 ferricytochrome P450
+1	A5Y0M3	NADPH
+2	A5Y0M3	more
+3	Q003G8	2 ferricytochrome c
+4	Q003G8	NADPH
+5	Q003G8	more
+6	Q003G8	NADPH
+7	Q003G8	H+
+8	Q003G8	oxidized 2,6-dichlorophenolindophenol
+9	Q0MRD4	2 ferricytochrome c
+10	Q0MRD4	NADPH
+11	Q0MRD4	more
+12	Q0MRD4	NADPH
+13	Q0MRD4	H+
+14	Q0MRD4	oxidized 2,6-dichlorophenolindophenol
+15	Q003G7	2 ferricytochrome c
+16	Q003G7	NADPH
+17	Q003G7	more
+18	P14779	more
+19	P16435	2 ferricytochrome P450
+20	P16435	NADPH
+21	P16435	NADPH
+22	P16435	H+
+23	P16435	oxidized cytochrome c
+24	Q6PLI6	NADPH
+25	Q6PLI6	H+
+26	Q6PLI6	2 oxidized cytochrome c
+27	C0Z3X6	2 ferricytochrome c
+28	C0Z3X6	NADPH
+29	C0Z3X6	NADPH
+30	C0Z3X6	H+
+31	C0Z3X6	2 oxidized cytochrome c
+32	P00388	2 ferricytochrome c
+33	P00388	NADPH
+34	P00388	NADPH
+35	P00388	H+
+36	P00388	2 oxidized cytochrome c
+37	P00388	NADPH
+38	P00388	H+
+39	P00388	2 oxidized cytochrome P450 2B4
+40	P00388	2 ferricytochrome P450
+41	P00388	NADPH
+42	P00388	more
+43	P00388	NADPH
+44	P00388	H+
+45	P00388	ferricytochrome c
+46	P00388	NADPH
+47	P00388	H+
+48	P00388	ferricytochrome c
+49	P00388	NADPH
+50	P00388	H+
+51	P00388	cytochrome c
+52	C0LLU5	2 ferricytochrome c
+53	C0LLU5	NADPH
+54	C0LLU5	NADPH
+55	C0LLU5	H+
+56	C0LLU5	dichlorophenolindophenol
+57	C0LLU5	2 ferricytochrome P450
+58	C0LLU5	NADPH
+59	C0LLU5	more
+60	C0LLU5	2 ferricyanide
+61	C0LLU5	NADPH
+62	C0LLU4	2 ferricytochrome c
+63	C0LLU4	NADPH
+64	C0LLU4	NADPH
+65	C0LLU4	H+
+66	C0LLU4	dichlorophenolindophenol
+67	C0LLU4	2 ferricytochrome P450
+68	C0LLU4	NADPH
+69	C0LLU4	more
+70	C0LLU4	2 ferricyanide
+71	C0LLU4	NADPH
+72	A4ZIT2	2 ferricytochrome c
+73	A4ZIT2	NADPH
+74	P16603	2 ferricytochrome c
+75	P16603	NADPH
+76	P16603	2 oxidized cytochrome c
+77	P16603	NADPH
+78	P16603	H+
+79	F1P2T2	NADPH
+80	F1P2T2	H+
+81	F1P2T2	cytochrome c
+82	R4UB73	NADPH
+83	R4UB73	H+
+84	R4UB73	cytochrome c
+85	A8PYK0	more
+86	A8PYK0	NADPH
+87	A8PYK0	H+
+88	A8PYK0	cytochrome c
+89	I1E3I6	NADPH
+90	I1E3I6	H+
+91	I1E3I6	cytochrome c
+92	D6P3J1	NADPH
+93	D6P3J1	H+
+94	D6P3J1	cytochrome c
+95	H2ER12	NADPH
+96	H2ER12	H+
+97	H2ER12	cytochrome c
+98	G9JVI0	NADPH
+99	G9JVI0	H+
+100	G9JVI0	oxidized cytochrome c
+101	F1DI27	NADPH
+102	F1DI27	H+
+103	F1DI27	n oxidized hemoprotein
+104	F1DI27	NADPH
+105	F1DI27	H+
+106	F1DI27	ferricytochrome c
+107	F1DI27	NADPH
+108	F1DI27	H+
+109	F1DI27	ferricytochrome c
+110	B8Y644	NADPH
+111	B8Y644	H+
+112	B8Y644	ferricytochrome c
+113	B8Y644	NADPH
+114	B8Y644	H+
+115	B8Y644	ferricytochrome c
+116	E0A3A7	NADPH
+117	E0A3A7	H+
+118	E0A3A7	ferricytochrome c
+119	E0A3A7	NADPH
+120	E0A3A7	H+
+121	E0A3A7	ferricytochrome c
+122	A0A0N6XHR4	NADPH
+123	A0A0N6XHR4	H+
+124	A0A0N6XHR4	doxorubicin
+125	A0A0N6XHR4	NADPH
+126	A0A0N6XHR4	H+
+127	A0A0N6XHR4	ferricytochrome b5
+128	A0A0N6XHR4	NADPH
+129	A0A0N6XHR4	H+
+130	A0A0N6XHR4	oxidized 5-cyano-2,3-ditolyl tetrazolium chloride
+131	A0A0N6XHR4	NADPH
+132	A0A0N6XHR4	H+
+133	A0A0N6XHR4	oxidized tetrazolium
+134	A0A0N6XHR4	NADPH
+135	A0A0N6XHR4	H+
+136	A0A0N6XHR4	ferricytochrome c
+137	A0A0N6XHR4	NADPH
+138	A0A0N6XHR4	H+
+139	A0A0N6XHR4	ferricytochrome c
+140	A0A0N6XHR4	NADPH
+141	A0A0N6XHR4	H+
+142	A0A0N6XHR4	ferricyanide
+143	A0A0N6XHR4	NADPH
+144	A0A0N6XHR4	H+
+145	A0A0N6XHR4	oxidized 3-(4,5-dimethylthiazol-2-yl)-2,5-diphenyltetrazolium bromide
+146	B5LAU2	NADPH
+147	B5LAU2	H+
+148	B5LAU2	doxorubicin
+149	B5LAU2	NADPH
+150	B5LAU2	H+
+151	B5LAU2	ferricytochrome b5
+152	B5LAU2	NADPH
+153	B5LAU2	H+
+154	B5LAU2	oxidized 5-cyano-2,3-ditolyl tetrazolium chloride
+155	B5LAU2	NADPH
+156	B5LAU2	H+
+157	B5LAU2	oxidized tetrazolium
+158	B5LAU2	NADPH
+159	B5LAU2	H+
+160	B5LAU2	ferricytochrome c
+161	B5LAU2	NADPH
+162	B5LAU2	H+
+163	B5LAU2	ferricytochrome c
+164	B5LAU2	NADPH
+165	B5LAU2	H+
+166	B5LAU2	ferricyanide
+167	B5LAU2	NADPH
+168	B5LAU2	H+
+169	B5LAU2	oxidized 3-(4,5-dimethylthiazol-2-yl)-2,5-diphenyltetrazolium bromide
+170	A0A0A8KYF2	more
+171	A0A172R1D8	NADPH
+172	A0A172R1D8	H+
+173	A0A172R1D8	ferricytochrome c
+174	A0A172R1D8	NADPH
+175	A0A172R1D8	H+
+176	A0A172R1D8	ferricytochrome c
+177	A0A0D5BVX3	more
+178	A0A0D5BVX3	NADPH
+179	A0A0D5BVX3	H+
+180	A0A0D5BVX3	ferricytochrome c
+181	A0A0D5BVX3	NADPH
+182	A0A0D5BVX3	H+
+183	A0A0D5BVX3	ferricytochrome c
+184	A0A0D5BVX3	NADPH
+185	A0A0D5BVX3	H+
+186	A0A0D5BVX3	ferricyanide
+187	A0A034WP73	NADPH
+188	A0A034WP73	H+
+189	A0A034WP73	ferricytochrome c
+190	A0A034WP73	NADPH
+191	A0A034WP73	H+
+192	A0A034WP73	ferricytochrome c
+193	A0A0K0PSZ5	NADPH
+194	A0A0K0PSZ5	H+
+195	A0A0K0PSZ5	ferricytochrome c
+196	A0A0K0PSZ5	NADPH
+197	A0A0K0PSZ5	H+
+198	A0A0K0PSZ5	ferricytochrome c
+199	Q8X1W0	2 ferricytochrome c
+200	Q8X1W0	NADPH
+201	Q8X1W0	2 ferricytochrome P450
+202	Q8X1W0	NADPH
+0	O81413	NADH
+1	O81413	ferrileghemoglobin
+2	O81413	NADH
+3	O81413	lipoamide
+0	Q9NRD8	NAD(P)H
+1	Q9NRD8	H+
+2	Q9NRD8	O2
+3	O61213	NAD(P)H
+4	O61213	H+
+5	O61213	O2
+6	Q8HZK2	NAD(P)H
+7	Q8HZK2	H+
+8	Q8HZK2	O2
+9	Q8CIZ9	more
+10	Q672J9	NADPH
+11	Q672J9	H+
+12	Q672J9	O2
+13	Q672K1	NADPH
+14	Q672K1	H+
+15	Q672K1	O2
+16	Q9NRD9	more
+17	Q924V1	NADPH
+18	Q924V1	H+
+19	Q924V1	O2
+20	F4ZCJ9	NADPH
+21	F4ZCJ9	H+
+22	F4ZCJ9	O2
+23	Q5JFZ8	NADH
+24	Q5JFZ8	H+
+25	Q5JFZ8	O2
+26	Q5JFZ8	NADPH
+27	Q5JFZ8	H+
+28	Q5JFZ8	O2
+29	Q5JFZ8	more
+30	Q5JGP4	NADH
+31	Q5JGP4	H+
+32	Q5JGP4	O2
+33	Q5JGP4	NADPH
+34	Q5JGP4	H+
+35	Q5JGP4	O2
+36	Q5JGF8	NADH
+37	Q5JGF8	H+
+38	Q5JGF8	O2
+39	Q5JGF8	NADPH
+40	Q5JGF8	H+
+41	Q5JGF8	O2
+42	Q5JJB9	NADH
+43	Q5JJB9	H+
+44	Q5JJB9	O2
+45	Q5JJB9	NADPH
+46	Q5JJB9	H+
+47	Q5JJB9	O2
+48	Q5JHY2	NADH
+49	Q5JHY2	H+
+50	Q5JHY2	O2
+51	Q5JHY2	NADPH
+52	Q5JHY2	H+
+53	Q5JHY2	O2
+54	K9WT99	NADPH
+55	K9WT99	H+
+56	K9WT99	O2
+57	A0A145P6Q3	NADPH
+58	A0A145P6Q3	H+
+59	A0A145P6Q3	O2
+0	B2G3S1	2 NADPH
+1	B2G3S1	2 H+
+2	B2G3S1	O2
+3	B2G3S1	2 NAD(P)H
+4	B2G3S1	H+
+5	B2G3S1	O2
+6	B2G3S1	2 NADH
+7	B2G3S1	H+
+8	B2G3S1	O2
+9	Q7M4I9	2 NADPH
+10	Q7M4I9	2 H+
+11	Q7M4I9	O2
+12	Q7M4I9	2 NADH
+13	Q7M4I9	H+
+14	Q7M4I9	O2
+15	Q7M4I9	more
+16	Q5JGP4	NADH
+17	Q5JGP4	H+
+18	Q5JGP4	O2
+19	Q5JGP4	NADPH
+20	Q5JGP4	H+
+21	Q5JGP4	O2
+22	Q5JGP4	3 NADH
+23	Q5JGP4	3 H+
+24	Q5JGP4	2 O2
+25	Q5JGP4	3 NADPH
+26	Q5JGP4	3 H+
+27	Q5JGP4	2 O2
+0	O58049	beta-NADH
+1	O58049	H+
+2	O58049	O2
+3	Q58065	2 NADH
+4	Q58065	H+
+5	Q58065	O2
+6	Q58065	NADPH
+7	Q58065	H+
+8	Q58065	O2
+9	O29985	NADH
+10	O29985	H+
+11	O29985	O2
+12	O29794	NADH
+13	O29794	H+
+14	O29794	O2
+15	O29852	NADH
+16	O29852	H+
+17	O29852	O2
+18	O29852	more
+19	O66266	NADH
+20	O66266	H+
+21	O66266	O2
+0	Q54453	2 NADH
+1	Q54453	H+
+2	Q54453	O2
+3	Q2WFW5	2 NADH
+4	Q2WFW5	H+
+5	Q2WFW5	O2
+6	Q8E5N5	2 NADH
+7	Q8E5N5	H+
+8	Q8E5N5	O2
+9	Q8KRG4	2 NADH
+10	Q8KRG4	2 H+
+11	Q8KRG4	O2
+12	A2RIB7	NADH
+13	A2RIB7	H+
+14	A2RIB7	O2
+15	A2RIB7	NADH
+16	A2RIB7	H+
+17	A2RIB7	oxidized methylene blue
+18	F6IXY6	more
+19	F6IXY6	NADH
+20	F6IXY6	H+
+21	F6IXY6	O2
+22	F6IXY6	BNAH
+23	F6IXY6	H+
+24	F6IXY6	O2
+25	F6IXY6	MNAH
+26	F6IXY6	H+
+27	F6IXY6	O2
+0	Q5VYX0	alpha-NADH
+1	Q5VYX0	H+
+2	Q5VYX0	O2
+3	Q5VYX0	1,2-dihydro-beta-NADH
+4	Q5VYX0	H+
+5	Q5VYX0	O2
+6	Q5VYX0	1,2-dihydro-beta-NADPH
+7	Q5VYX0	H+
+8	Q5VYX0	O2
+9	Q5VYX0	1,6-dihydro-beta-NADH
+10	Q5VYX0	H+
+11	Q5VYX0	O2
+12	Q5VYX0	1,6-dihydro-beta-NADPH
+13	Q5VYX0	H+
+14	Q5VYX0	O2
+15	Q5VYX0	alpha-NADPH
+16	Q5VYX0	H+
+17	Q5VYX0	O2
+18	Q5VYX0	more
+19	Q5VYX0	NAD(P)H
+20	Q5VYX0	H+
+21	Q5VYX0	tetrazolium
+22	Q5VYX0	alpha-NAD(P)H
+23	Q5VYX0	H+
+24	Q5VYX0	O2
+25	Q5VYX0	catecholamine
+26	Q5VYX0	O2
+27	Q5VYX0	catecholamine
+28	Q5VYX0	O2
+29	Q48MT7	alpha-NADH
+30	Q48MT7	H+
+31	Q48MT7	O2
+32	Q48MT7	1,2-dihydro-beta-NADH
+33	Q48MT7	H+
+34	Q48MT7	O2
+35	Q48MT7	1,2-dihydro-beta-NADPH
+36	Q48MT7	H+
+37	Q48MT7	O2
+38	Q48MT7	1,6-dihydro-beta-NADH
+39	Q48MT7	H+
+40	Q48MT7	O2
+41	Q48MT7	1,6-dihydro-beta-NADPH
+42	Q48MT7	H+
+43	Q48MT7	O2
+44	Q48MT7	alpha-NADPH
+45	Q48MT7	H+
+46	Q48MT7	O2
+47	Q48MT7	alpha-NADH
+48	Q48MT7	H+
+49	Q48MT7	O2
+50	Q48MT7	1,2-dihydro-beta-NADH
+51	Q48MT7	H+
+52	Q48MT7	O2
+53	Q48MT7	1,2-dihydro-beta-NADPH
+54	Q48MT7	H+
+55	Q48MT7	O2
+56	Q48MT7	1,6-dihydro-beta-NADH
+57	Q48MT7	H+
+58	Q48MT7	O2
+59	Q48MT7	1,6-dihydro-beta-NADPH
+60	Q48MT7	H+
+61	Q48MT7	O2
+62	Q48MT7	alpha-NADPH
+63	Q48MT7	H+
+64	Q48MT7	O2
+65	Q48MT7	more
+66	Q48MT7	2-dihydronicotinamide adenine dinucleotide phosphate
+67	Q48MT7	O2
+68	Q48MT7	2-dihydronicotinamide riboside
+69	Q48MT7	O2
+70	Q48MT7	6-dihydronicotinamide adenine dinucleotide phosphate
+71	Q48MT7	O2
+72	Q48MT7	6-dihydronicotinamide riboside
+73	Q48MT7	O2
+0	Q8NJJ9	NADPH
+1	Q8NJJ9	H+
+2	Q8NJJ9	1,4-benzoquinone
+3	Q8NJJ9	NADPH
+4	Q8NJJ9	H+
+5	Q8NJJ9	2,3-dichloro-5,6-dicyano-1,4-benzoquinone
+6	Q8NJJ9	NADPH
+7	Q8NJJ9	H+
+8	Q8NJJ9	phenyl-1,4-benzoquinone
+9	Q8NJJ9	NADPH
+10	Q8NJJ9	H+
+11	Q8NJJ9	quinone
+12	P23457	(R,S)-camphorquinone
+13	P23457	NADPH
+14	P23457	H+
+15	P23457	acenaphthenequinone
+16	P23457	NADPH
+17	P23457	H+
+18	P23457	more
+19	P23457	9,10-phenanthrenequinone
+20	P23457	NADPH
+21	P23457	H+
+0	Q8GXR9	demethylphylloquinone
+1	Q8GXR9	NADPH
+2	Q8GXR9	H+
+3	Q8GXR9	decyl prenylquinone
+4	Q8GXR9	NADH
+5	Q8GXR9	H+
+0	P15559	more
+1	P15559	NAD(P)H
+2	P15559	H+
+3	P15559	oxidized 2,6-dichlorophenolindophenol
+4	P15559	2,3,3-trimethyl-2,3-dihydronaphtho[1,2-b]furan-4,5-dione
+5	P15559	NADH
+6	P15559	H+
+7	P15559	2,3,5,6-tetramethyl-1,4-benzoquinone
+8	P15559	NAD(P)H
+9	P15559	2,5-bis(aziridin-1-yl)-3,6-dimethylcyclohexa-2,5-diene-1,4-dione
+10	P15559	NAD(P)H
+11	P15559	2,5-bis(aziridin-1-yl)-3-(hydroxymethyl)-6-methylcyclohexane-1,4-dione
+12	P15559	NAD(P)H
+13	P15559	2,5-dimethoxy-1,3-benzothiazole-4,7-dione
+14	P15559	NAD(P)H
+15	P15559	2,5-dimethoxy-1-methyl-1H-benzimidazole-4,7-dione
+16	P15559	NAD(P)H
+17	P15559	2-(1-hydroxyethyl)-5-methoxy-3-methyl-1-benzofuran-4,7-dione
+18	P15559	NADH
+19	P15559	H+
+20	P15559	3-(1-hydroxyethyl)-5-methoxy-2-methyl-1-benzofuran-4,7-dione
+21	P15559	NADH
+22	P15559	H+
+23	P15559	3-(hydroxymethyl)-5-methoxy-1-methyl-1H-indazole-4,7-dione
+24	P15559	NADH
+25	P15559	H+
+26	P15559	3-(hydroxymethyl)-5-methoxy-1-methyl-2-phenyl-1H-indole-4,7-dione
+27	P15559	NAD(P)H
+28	P15559	5-aziridin-1-yl-3-(hydroxymethyl)-2-[(1E)-3-hydroxyprop-1-en-1-yl]-1 methyl-1H-indole-4,7-dione
+29	P15559	NAD(P)H
+30	P15559	5-methoxy-1,2-dimethyl-3-(hydroxymethyl)indole-4,7-dione
+31	P15559	NADH
+32	P15559	5-methoxy-1,2-dimethyl-3-[(phenoxy)methyl]indole-4,7-dione
+33	P15559	NADH
+34	P15559	5-methoxy-4,7-dioxo-4,7-dihydro-1-benzothiophene-2-carboxylic acid
+35	P15559	NADH
+36	P15559	H+
+37	P15559	6-methoxy-1,2-dimethyl-3-(hydroxymethyl)indole-4,7-dione
+38	P15559	NADH
+39	P15559	6-methoxy-1,2-dimethyl-3-[(phenoxy)methyl]indole-4,7-dione
+40	P15559	NADH
+41	P15559	7-N-(2-furoyl)demethyllavendamycin methyl ester
+42	P15559	NADH
+43	P15559	7-N-acetyldemethyllavendamycin n-butyl amide
+44	P15559	NADH
+45	P15559	7-N-acetyldemethyllavendamycin sec-butyl amide
+46	P15559	NADH
+47	P15559	8-methoxy-2,3,3-trimethyl-2,3-dihydronaphtho[1,2-b]furan-4,5-dione
+48	P15559	NADH
+49	P15559	H+
+50	P15559	9-methoxy-2,3,3-trimethyl-2,3-dihydronaphtho[1,2-b]furan-4,5-dione
+51	P15559	NADH
+52	P15559	H+
+53	P15559	N-desethylamodiaquine
+54	P15559	NAD+
+55	P15559	N-desethylamodiaquine quinoneimine
+56	P15559	NADH
+57	P15559	H+
+58	P15559	NAD(P)H
+59	P15559	H+
+60	P15559	a quinone
+61	P15559	NAD(P)H
+62	P15559	H+
+63	P15559	amrubicin
+64	P15559	NAD(P)H
+65	P15559	H+
+66	P15559	amrubicinol
+67	P15559	amodiaquine
+68	P15559	NAD+
+69	P15559	amodiaquine quinoneimine
+70	P15559	NADH
+71	P15559	H+
+72	P15559	beta-lapachone
+73	P15559	NAD(P)H
+74	P15559	diethyl [2,5-bis(aziridin-1-yl)-3,6-dioxocyclohexa-1,4-diene-1 4-diyl]biscarbamate
+75	P15559	NAD(P)H
+76	P15559	duroquinone
+77	P15559	NAD(P)H
+78	P15559	geldanamycin
+79	P15559	NAD(P)H
+80	P15559	lavendamycin beta-hydroxyethyl ester
+81	P15559	NADH
+82	P15559	menadione
+83	P15559	NADH
+84	P15559	H+
+85	P15559	menadione
+86	P15559	NADPH
+87	P15559	H+
+88	P15559	methyl 5-methoxy-4,7-dioxo-4,7-dihydro-1-benzothiophene-2-carboxylate
+89	P15559	NADH
+90	P15559	H+
+91	P15559	mitomycin C
+92	P15559	NAD(P)H
+93	P15559	oxidized dichlorophenolindophenol
+94	P15559	NADH
+95	P15559	H+
+96	P15559	streptonigrin
+97	P15559	NAD(P)H
+98	P15559	menadione
+99	P15559	NADH
+100	P15559	alpha-tocopherolquinone
+101	P15559	NAD(P)H
+102	P15559	ubiquinone
+103	P15559	NAD(P)H
+104	P0A8G6	more
+105	P0A8G6	NAD(P)H
+106	P0A8G6	H+
+107	P0A8G6	oxidized 2,6-dichlorophenolindophenol
+108	P0A8G6	1,4-naphthoquinone
+109	P0A8G6	NAD(P)H
+110	P0A8G6	1,4-benzoquinone
+111	P0A8G6	NAD(P)+
+112	P0A8G6	1,4-benzoquinone
+113	P0A8G6	NADH
+114	P0A8G6	H+
+115	P0A8G6	2,3-dihydroxy-5-methyl-1,4-benzoquinone
+116	P0A8G6	NAD(P)H
+117	P0A8G6	[Fe(CN)6]3-
+118	P0A8G6	NAD(P)H
+119	P0A8G6	menadione
+120	P0A8G6	NAD(P)H
+121	P58795	more
+122	P58795	NAD(P)H
+123	P58795	H+
+124	P58795	oxidized 2,6-dichlorophenolindophenol
+125	P58795	1,4-naphthoquinone
+126	P58795	NAD(P)H
+127	P58795	1,4-benzoquinone
+128	P58795	NAD(P)+
+129	P58795	1,4-benzoquinone
+130	P58795	NADH
+131	P58795	H+
+132	P58795	2,3-dihydroxy-5-methyl-1,4-benzoquinone
+133	P58795	NAD(P)H
+134	P58795	[Fe(CN)6]3-
+135	P58795	NAD(P)H
+136	P58795	menadione
+137	P58795	NAD(P)H
+138	Q5EI63	more
+139	Q5EI63	menadione
+140	Q5EI63	NADH
+141	Q5EI63	H+
+142	Q5EI63	menadione
+143	Q5EI63	NADPH
+144	Q5EI63	H+
+145	P39315	methyl-1,4-benzoquinone
+146	P39315	NADPH
+147	P39315	H+
+148	A1B9E3	NADH
+149	A1B9E3	H+
+150	A1B9E3	2,3-dimethoxy-5-methyl-1,4-benzoquinone
+151	A1B9E3	NADH
+152	A1B9E3	H+
+153	A1B9E3	2,3-dimethoxy-5-methyl-1,4-benzoquinone
+154	A1B9E3	more
+155	A1B9E3	NADH
+156	A1B9E3	H+
+157	A1B9E3	2,3-dimethoxy-5-methyl-2,5-cyclohexadiene-1,4-dione
+158	A1B9E3	NADH
+159	A1B9E3	H+
+160	A1B9E3	a quinone
+161	A1B9E3	NADH
+162	A1B9E3	H+
+163	A1B9E3	a quinone
+164	Q9Y763	more
+165	Q9Y763	2,5-di-tert-butyl-1,2-benzoquinone
+166	Q9Y763	NADH
+167	Q9Y763	2,6-dichlorophenolindophenol
+168	Q9Y763	NADPH
+169	Q9Y763	2,6-dimethoxy-1,4-benzoquinone
+170	Q9Y763	NADH
+171	Q9Y763	2-methoxy-1,4-benzoquinone
+172	Q9Y763	NADPH
+173	Q9Y763	menadione
+174	Q9Y763	NADH
+0	P92947	1-chloro-2,4-dinitrobenzene
+1	P92947	NADH
+2	P92947	H+
+3	P92947	2,4,6-trinitrotoluene
+4	P92947	NADH
+5	P92947	H+
+6	P92947	monodehydroascorbate
+7	P92947	NADH
+8	P92947	H+
+9	Q84UV8	NADH
+10	Q84UV8	monodehydroascorbate
+11	Q84UV8	NADH
+12	Q84UV8	monodehydroascorbate
+13	Q84UV8	CO2
+14	Q84UV8	H2O
+15	Q84UV8	more
+16	Q93X74	NADH
+17	Q93X74	monodehydroascorbate
+18	Q93X74	NADH
+19	Q93X74	monodehydroascorbate
+20	Q6Q8S2	NADH
+21	Q6Q8S2	monodehydroascorbate
+22	Q6Q8S2	NADH
+23	Q6Q8S2	monodehydroascorbate
+24	Q6VBI6	NADH
+25	Q6VBI6	monodehydroascorbate
+26	Q6VBI6	NADH
+27	Q6VBI6	monodehydroascorbate
+28	Q2I828	NADH
+29	Q2I828	monodehydroascorbate
+30	Q2I828	NADH
+31	Q2I828	monodehydroascorbate
+32	Q2I828	NADPH
+33	Q2I828	monodehydroascorbate
+34	Q2I827	NADH
+35	Q2I827	monodehydroascorbate
+36	Q2I827	NADH
+37	Q2I827	monodehydroascorbate
+38	Q2I827	NADPH
+39	Q2I827	monodehydroascorbate
+40	Q2I826	NADH
+41	Q2I826	monodehydroascorbate
+42	Q2I826	NADH
+43	Q2I826	monodehydroascorbate
+44	Q2I826	NADPH
+45	Q2I826	monodehydroascorbate
+46	C3VPH7	NADH
+47	C3VPH7	monodehydroascorbate
+48	C3VPH7	NADH
+49	C3VPH7	monodehydroascorbate
+50	E2RWY5	NADH
+51	E2RWY5	monodehydroascorbate
+52	E2RWY5	NADH
+53	E2RWY5	monodehydroascorbate
+54	B3EYD3	NADH
+55	B3EYD3	monodehydroascorbate
+56	B3EYD3	NADH
+57	B3EYD3	monodehydroascorbate
+58	Q66PF9	NADH
+59	Q66PF9	monodehydroascorbate
+60	Q66PF9	NADH
+61	Q66PF9	monodehydroascorbate
+62	Q652L6	monodehydroascorbate
+63	Q652L6	NADH
+64	Q652L6	H+
+65	Q9ZSC6	monodehydroascorbate
+66	Q9ZSC6	NADH
+67	Q9ZSC6	H+
+68	Q9ZSC6	more
+69	B6VJL9	monodehydroascorbate
+70	B6VJL9	NADH
+71	B6VJL9	H+
+72	B6VJL9	more
+0	Q56D13	more
+1	Q08257	2-hexenal
+2	Q08257	NADPH
+3	Q08257	2-nonenal
+4	Q08257	NADPH
+5	Q08257	2-pentenal
+6	Q08257	NADPH
+7	Q08257	3-buten-2-one
+8	Q08257	NADPH
+9	Q08257	3-nonen-2-one
+10	Q08257	NADPH
+11	Q08257	3-penten-2-one
+12	Q08257	NADPH
+13	Q08257	4-hydroxy-2-hexenal
+14	Q08257	NADPH
+15	Q08257	4-hydroxy-2-nonenal
+16	Q08257	NADPH
+17	Q08257	propenal
+18	Q08257	NADPH
+19	A0A0H3JVE7	9,10-phenanthrenequinone
+20	A0A0H3JVE7	NADPH
+21	A0A0H3JVE7	H+
+22	A0A0H3JVE7	menadione
+23	A0A0H3JVE7	NADPH
+24	A0A0H3JVE7	H+
+0	C1I202	NADPH
+1	C1I202	H+
+2	C1I202	p-benzoquinone
+3	K8RBK3	NADPH
+4	K8RBK3	H+
+5	K8RBK3	p-benzoquinone
+6	K8RBK3	NADPH
+7	K8RBK3	H+
+8	K8RBK3	chloro-1,4-benzoquinone
+9	K8RBK3	NADPH
+10	K8RBK3	H+
+11	K8RBK3	methyl-1,4-benzoquinone

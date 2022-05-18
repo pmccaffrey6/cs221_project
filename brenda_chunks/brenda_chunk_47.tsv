@@ -1,0 +1,2544 @@
+	uniprot_ids	substrates
+0	Q6FBP5	mannitol 1-phosphate
+1	Q6FBP5	H2O
+2	Q6FBP5	mannitol 1-phosphate
+3	Q6FBP5	H2O
+4	Q6FBP5	more
+0	Q8IJ74	4-nitrophenyl phosphate
+1	Q8IJ74	H2O
+2	Q8IJ74	D-glucose 6-phosphate
+3	Q8IJ74	H2O
+4	Q8IJ74	D-fructose 6-phosphate
+5	Q8IJ74	H2O
+6	Q8IJ74	more
+7	Q8IJ74	D-erythrose 4-phosphate
+8	Q8IJ74	H2O
+9	Q8IJ74	D-glucose 1-phosphate
+10	Q8IJ74	H2O
+11	Q8IJ74	D-glucose 2-phosphate
+12	Q8IJ74	H2O
+13	Q8IJ74	D-ribulose 5-phosphate
+14	Q8IJ74	H2O
+15	Q8IJ74	deoxyribose 5-phosphate
+16	Q8IJ74	H2O
+17	Q8IJ74	deoxyxylulose 5-phosphate
+18	Q8IJ74	H2O
+19	Q8IJ74	methylerythritol phosphate
+20	Q8IJ74	H2O
+21	Q8IJ74	D-ribose 5-phosphate
+22	Q8IJ74	H2O
+23	Q8IJ74	D-fructose 1-phosphate
+24	Q8IJ74	H2O
+25	Q8IJ74	D-mannose 6-phosphate
+26	Q8IJ74	H2O
+27	Q8IJ74	dihydroxyacetone phosphate
+28	Q8IJ74	H2O
+29	Q9ZVJ5	D-glucose 6-phosphate
+30	Q9ZVJ5	H2O
+31	Q9ZVJ5	D-fructose 6-phosphate
+32	Q9ZVJ5	H2O
+33	Q9ZVJ5	2-deoxy-D-ribose 5-phosphate
+34	Q9ZVJ5	H2O
+35	Q9ZVJ5	DL-glycerol 3-phosphate
+36	Q9ZVJ5	H2O
+37	Q9ZVJ5	D-ribose 5-phosphate
+38	Q9ZVJ5	H2O
+39	Q9ZVJ5	D-fructose 1-phosphate
+40	Q9ZVJ5	H2O
+41	Q9ZVJ5	2-Deoxy-D-glucose 6-phosphate
+42	Q9ZVJ5	H2O
+43	Q9ZVJ5	D-mannose 6-phosphate
+44	Q9ZVJ5	H2O
+45	C3K9U8	4-nitrophenyl phosphate
+46	C3K9U8	H2O
+47	C3K9U8	D-glucose 6-phosphate
+48	C3K9U8	H2O
+49	C3K9U8	D-fructose 6-phosphate
+50	C3K9U8	H2O
+51	C3K9U8	D-ribose 5-phosphate
+52	C3K9U8	H2O
+0	Q93M81	more
+1	Q93M81	sucrose 6-phosphate
+2	Q93M81	H2O
+3	Q9FQ11	sucrose 6-phosphate
+4	Q9FQ11	H2O
+5	A7LH88	sucrose 6-phosphate
+6	A7LH88	H2O
+7	A7LH87	sucrose 6-phosphate
+8	A7LH87	H2O
+9	A7IZK6	more
+10	Q9SJ66	sucrose 6-phosphate
+11	Q9SJ66	H2O
+12	Q93XN8	sucrose 6-phosphate
+13	Q93XN8	H2O
+0	O30298	more
+1	O30298	2'-AMP
+2	O30298	H2O
+3	O30298	2'-phosphoadenosine 5'-phosphate
+4	O30298	H2O
+5	O30298	D-glucose 1-phosphate
+6	O30298	H2O
+7	O30298	D-myo-inositol 1,4-bisphosphate
+8	O30298	H2O
+9	O30298	D-myo-inositol 2-phosphate
+10	O30298	H2O
+11	O30298	myo-inositol phosphate
+12	O30298	H2O
+13	O30298	3,5-dideoxy-D-myo-inositol 1-phosphate
+14	O30298	H2O
+15	O30298	3,5-dideoxy-L-myo-inositol 1-phosphate
+16	O30298	H2O
+17	O30298	L-myo-inositol 1-phosphate
+18	O30298	H2O
+19	O30298	D-myo-inositol 1-phosphate
+20	O30298	H2O
+21	O30298	D-fructose 1-phosphate
+22	O30298	H2O
+23	O30298	p-nitrophenyl phosphate
+24	O30298	H2O
+25	Q91UZ5	alpha-D-glucose 1-phosphate
+26	Q91UZ5	scyllo-inositol 1-phosphate
+27	Q91UZ5	H2O
+28	Q91UZ5	D-myo-inositol 1-phosphate
+29	Q91UZ5	H2O
+30	O33832	glycerol 2-phosphate
+31	O33832	H2O
+32	O33832	L-myo-inositol 1-phosphate
+33	O33832	H2O
+34	B3DFH0	DL-myo-inositol 1-phosphate
+35	B3DFH0	H2O
+36	B3DFH0	L-myo-inositol 1-phosphate
+37	B3DFH0	H2O
+38	B3DFH0	D-myo-inositol 1-phosphate
+39	B3DFH0	H2O
+40	Q94F00	glycerol 2-phosphate
+41	Q94F00	H2O
+42	Q94F00	D-myo-inositol 2-phosphate
+43	Q94F00	H2O
+44	Q94F00	D-galactose 1-phosphate
+45	Q94F00	H2O
+46	Q94F00	D-myo-inositol 3-phosphate
+47	Q94F00	H2O
+48	Q94F00	D-myo-inositol 1-phosphate
+49	Q94F00	H2O
+50	Q94F00	myo-inositol 3-phosphate
+51	Q94F00	H2O
+52	Q9M8S8	myo-inositol 3-phosphate
+53	Q9M8S8	H2O
+54	Q6NPM8	myo-inositol 3-phosphate
+55	Q6NPM8	H2O
+56	A0A1I9GET0	myo-inositol phosphate
+57	A0A1I9GET0	H2O
+58	Q57573	glycerol 2-phosphate
+59	Q57573	H2O
+60	Q57573	more
+61	Q57573	2'-AMP
+62	Q57573	H2O
+63	Q57573	myo-inositol 2-phosphate
+64	Q57573	H2O
+65	Q57573	alpha-D-glucose 1-phosphate
+66	Q57573	H2O
+67	Q57573	4-nitrophenyl phosphate
+68	Q57573	H2O
+69	Q57573	myo-inositol 1-phosphate
+70	Q57573	H2O
+71	Q57573	D-fructose 2,6-bisphosphate
+72	Q57573	H2O
+73	Q57573	D-fructose 1,6-bisphosphate
+74	Q57573	H2O
+75	P0ADG4	D-myo-inositol 1-phosphate
+76	P0ADG4	H2O
+77	P20456	more
+78	P20456	myo-inositol phosphate
+79	P20456	H2O
+80	O55023	alpha-D-glucose 1-phosphate
+81	O55023	scyllo-inositol 1-phosphate
+82	O55023	H2O
+83	O55023	myo-inositol phosphate
+84	O55023	H2O
+85	O55023	D-myo-inositol 1-phosphate
+86	O55023	H2O
+87	A0QX86	inositol 1-phosphate
+88	A0QX86	H2O
+89	G7J7Q5	more
+90	G7J7Q5	L-histidinol phosphate
+91	G7J7Q5	H2O
+92	Q8CDA1	more
+93	Q8CDA1	phosphatidylinositol 4-phosphate
+94	Q8CDA1	H2O
+0	O00107	myo-inositol hexakisphosphate
+1	O00107	H2O
+2	O00096	myo-inositol hexakisphosphate
+3	O00096	H2O
+4	O00093	myo-inositol hexakisphosphate
+5	O00093	H2O
+6	O00092	myo-inositol hexakisphosphate
+7	O00092	H2O
+8	P34753	myo-inositol hexakisphosphate
+9	P34753	H2O
+10	Q8KTX7	myo-inositol hexakisphosphate
+11	Q8KTX7	H2O
+12	Q96VH9	myo-inositol hexakisphosphate
+13	Q96VH9	H2O
+14	Q0ZQJ1	myo-inositol hexakisphosphate
+15	Q0ZQJ1	H2O
+16	Q003Y3	myo-inositol hexakisphosphate
+17	Q003Y3	H2O
+18	Q000T0	myo-inositol hexakisphosphate
+19	Q000T0	H2O
+20	Q0ZQI5	myo-inositol hexakisphosphate
+21	Q0ZQI5	H2O
+22	A5A5J1	myo-inositol hexakisphosphate
+23	A5A5J1	H2O
+24	A0A1D7YZ01	myo-inositol hexakisphosphate
+25	A0A1D7YZ01	H2O
+26	A2TBB4	myo-inositol hexakisphosphate
+27	A2TBB4	H2O
+28	B1GSN6	ADP
+29	B1GSN6	H2O
+30	B1GSN6	ATP
+31	B1GSN6	H2O
+32	B1GSN6	myo-inositol hexakisphosphate
+33	B1GSN6	H2O
+34	C0K087	myo-inositol hexakisphosphate
+35	C0K087	H2O
+36	Q6RK08	myo-inositol hexakisphosphate
+37	Q6RK08	H2O
+38	B4X9S4	myo-inositol hexakisphosphate
+39	B4X9S4	H2O
+40	B4X9S4	more
+41	B4X9S4	myo-inositol hexakisphosphate
+42	B4X9S4	H2O
+43	Q7CIZ7	myo-inositol hexakisphosphate
+44	Q7CIZ7	H2O
+45	B3VPB2	myo-inositol hexakisphosphate
+46	B3VPB2	H2O
+47	B3VPB3	myo-inositol hexakisphosphate
+48	B3VPB3	H2O
+49	C4B6T1	alpha-glycerophosphate
+50	C4B6T1	H2O
+51	C4B6T1	4-nitrophenyl phosphate
+52	C4B6T1	H2O
+53	C4B6T1	D-glucose 1-phosphate
+54	C4B6T1	H2O
+55	C4B6T1	D-glucose 6-phosphate
+56	C4B6T1	H2O
+57	C4B6T1	beta-glycerophosphate
+58	C4B6T1	H2O
+59	C4B6T1	myo-inositol hexakisphosphate
+60	C4B6T1	H2O
+61	D6QSX9	myo-inositol-1,2,3,4,5,6-hexakisphosphate
+62	D6QSX9	H2O
+63	D6QSX9	more
+64	P07102	myo-inositol hexakisphosphate
+65	P07102	H2O
+66	P07102	myo-inositol-1,2,3,4,5,6-hexakisphosphate
+67	P07102	H2O
+68	P07102	myo-inositol hexakisphosphate
+69	P07102	H2O
+70	C4PKL2	myo-inositol hexakisphosphate
+71	C4PKL2	H2O
+72	C4PKL2	more
+73	H9TUK5	myo-inositol hexakisphosphate
+74	H9TUK5	H2O
+75	H9TUK5	myo-inositol hexakisphosphate
+76	H9TUK5	H2O
+77	H9TUK6	myo-inositol hexakisphosphate
+78	H9TUK6	H2O
+79	H9TUK6	myo-inositol hexakisphosphate
+80	H9TUK6	H2O
+81	Q6YNE9	myo-inositol hexakisphosphate
+82	Q6YNE9	H2O
+83	Q6YNE9	more
+84	A0A125R6G8	myo-inositol hexakisphosphate
+85	A0A125R6G8	H2O
+86	F6IQ86	myo-inositol hexakisphosphate
+87	F6IQ86	H2O
+88	F6IQ86	more
+89	B6RGT1	myo-inositol hexakisphosphate
+90	B6RGT1	H2O
+91	B6RGT1	more
+92	C0BTR1	myo-inositol hexakisphosphate
+93	C0BTR1	H2O
+94	C0BTR1	more
+95	B7GTV0	myo-inositol hexakisphosphate
+96	B7GTV0	H2O
+97	B7GTV0	more
+98	D9I0I9	myo-inositol hexakisphosphate
+99	D9I0I9	H2O
+100	D9I0I9	more
+101	A0A0E3VIU5	myo-inositol hexakisphosphate
+102	A0A0E3VIU5	H2O
+103	A0A0E3VIU5	more
+104	Q96VT0	myo-inositol hexakisphosphate
+105	Q96VT0	H2O
+106	Q96VK8	myo-inositol hexakisphosphate
+107	Q96VK8	H2O
+108	Q96VF5	myo-inositol hexakisphosphate
+109	Q96VF5	H2O
+110	P34752	myo-inositol hexakisphosphate
+111	P34752	H2O
+112	O00085	myo-inositol hexakisphosphate
+113	O00085	H2O
+0	A0A140N9T3	1,2-dioctanoyl-sn-glycero-3-diphosphate
+1	A0A140N9T3	H2O
+2	A0A140N9T3	1,2-dioleoyl-sn-glycero-3-diphosphate
+3	A0A140N9T3	H2O
+4	A0A140N9T3	1,2-dioleoyl-sn-glycero-3-phosphate
+5	A0A140N9T3	H2O
+6	A0A140N9T3	1-oleoyl-2-lyso-sn-glycero-3-phosphate
+7	A0A140N9T3	H2O
+8	A0A140N9T3	undecaprenyl diphosphate
+9	A0A140N9T3	H2O
+10	P0A924	(2S,3R,4E)-2-aminooctadec-4-ene-1,3-diol-1-phosphate
+11	P0A924	H2O
+12	P0A924	1,2-dihexadecanoyl-sn-glycero-3-phosphate
+13	P0A924	H2O
+14	P0A924	1,2-dipalmitoyl-sn-glycero-3-[phospho-rac-(1'-(3'-phospho)glycerol)]
+15	P0A924	H2O
+16	P0A924	1-(9Z-octadecenoyl)-sn-glycero-3-phosphate
+17	P0A924	H2O
+18	P0A924	1-hexanoyl-sn-glycero-3-phosphate
+19	P0A924	H2O
+20	O34349	1,2-diacyl-sn-glycero-3-phospho-(1'-sn-glycero-3'-phosphate)
+21	O34349	H2O
+22	O34349	farnesyldiphosphate
+23	O34349	H2O
+24	O34349	isopentenyldiphosphate
+25	O34349	H2O
+26	O34349	undecaprenyldiphosphate
+27	O34349	H2O
+28	Q84VV0	phosphatidylglycerophosphate
+29	Q84VV0	H2O
+30	Q84VV0	phosphatidylglycerophosphate
+31	Q84VV0	H2O
+0	P42941	L-O-phospho-serine
+1	P42941	H2O
+2	P42941	p-nitrophenyl phosphate
+3	P42941	H2O
+4	P42941	O-phospho-L-serine
+5	P42941	H2O
+6	P42941	O-phospho-L-serine
+7	P42941	H2O
+8	Q58989	O-phospho-L-serine
+9	Q58989	H2O
+10	Q58989	O-phospho-L-serine
+11	Q58989	H2O
+12	Q58989	O-phospho-D-serine
+13	Q58989	H2O
+14	Q58989	O-phospho-D-serine
+15	Q58989	H2O
+16	O82796	L-phosphoserine
+17	O82796	H2O
+18	O82796	L-phosphoserine
+19	O82796	H2O
+20	O82796	L-3-phosphoserine
+21	O82796	H2O
+22	B6YX36	O-phospho-L-serine
+23	B6YX36	H2O
+24	B6YX36	O-phospho-L-serine
+25	B6YX36	H2O
+26	D3DFG8	more
+27	D3DFG8	L-phosphoserine
+28	D3DFG8	H2O
+29	D3DFP8	more
+30	D3DFP8	L-phosphoserine
+31	D3DFP8	H2O
+32	O53289	O-phospho-L-serine
+33	O53289	H2O
+34	O53289	O-phospho-L-serine
+35	O53289	H2O
+36	O53289	O-phospho-D-serine
+37	O53289	H2O
+38	O53289	O-phospho-D-serine
+39	O53289	H2O
+40	O53289	more
+41	P17906	[RsbS]-serine/threonine phosphate
+42	P17906	H2O
+43	P17906	[TsbR]-serine/threonine phosphate
+44	P17906	H2O
+45	P17906	O-phospho-L(or D)-serine
+46	P17906	H2O
+47	P78330	O-phospho-L-serine
+48	P78330	H2O
+49	P78330	O-phospho-L-serine
+50	P78330	H2O
+51	P78330	O-phospho-D-serine
+52	P78330	H2O
+53	P78330	O-phospho-D-serine
+54	P78330	H2O
+55	P78330	3-phospho-L-serine
+56	P78330	H2O
+57	P40399	O-phospho-L(or D)-serine
+58	P40399	H2O
+59	P40399	[RsbV]-serine/threonine phosphate
+60	P40399	H2O
+61	O07014	O-phospho-L(or D)-serine
+62	O07014	H2O
+63	O07014	[RsbV]-serine/threonine phosphate
+64	O07014	H2O
+0	O08351	3'-GMP
+1	O08351	H2O
+2	O08351	5'-AMP
+3	O08351	H2O
+4	O08351	5'-GMP
+5	O08351	H2O
+6	O08351	D-ribose 5-phosphate
+7	O08351	H2O
+8	O08351	3'-CMP
+9	O08351	H2O
+10	O08351	3'-AMP
+11	O08351	H2O
+12	O08351	5'-UMP
+13	O08351	H2O
+14	O08351	5'-CMP
+15	O08351	H2O
+16	O08351	3'-UMP
+17	O08351	H2O
+18	O08351	p-nitrophenyl phosphate
+19	O08351	H2O
+20	D4GUJ7	GTP
+21	D4GUJ7	H2O
+22	D4GUJ7	ATP
+23	D4GUJ7	H2O
+24	Q8AVX8	ADP
+25	Q8AVX8	H2O
+26	Q8AVX8	ATP
+27	Q8AVX8	H2O
+28	Q8AVX8	UDP
+29	Q8AVX8	H2O
+30	Q8AVX8	UTP
+31	Q8AVX8	H2O
+32	O75355	more
+33	Q5ZV70	more
+34	Q5ZV70	3'-AMP
+35	Q5ZV70	H2O
+0	Q9HET9	more
+1	Q9HET9	dsDNA
+2	Q9HET9	H2O
+3	Q84JE8	DNA with single-strand breaks
+4	Q84JE8	H2O
+5	Q96T60	3'-phopsho-5'-hydroxy-DNA
+6	Q96T60	pTp
+7	Q96T60	H2O
+8	O13911	H2O2-damaged DNA
+9	O13911	H2O
+10	O13911	bleomycin-damaged DNA
+11	O13911	H2O
+0	Q9JM14	3'-dGMP
+1	Q9JM14	H2O
+2	Q9JM14	3'-dUMP
+3	Q9JM14	H2O
+0	Q9JII1	D-myo-phosphatidylinositol 3,4,5-trisphosphate
+1	Q9JII1	D-myo-phosphatidylinositol 3,5-bisphosphate
+2	Q9JII1	phosphatidylinositol 3,4,5-trisphosphate
+3	Q9JII1	H2O
+4	Q9JII1	phosphatidylinositol 3,5-bisphosphate
+5	Q9JII1	H2O
+6	Q9SKB7	1-phosphatidyl-1D-myo-inositol 4,5-bisphosphate
+7	Q9SKB7	H2O
+8	Q9SKB7	1D-myo-inositol 1,4,5-trisphosphate
+9	Q9SKB7	H2O
+10	Q9SKB7	1-phosphatidyl-1D-myo-inositol 3,4,5-trisphosphate
+11	Q9SKB7	H2O
+12	Q9SKB7	more
+13	Q9SYK4	1D-myo-inositol 1,4,5-trisphosphate
+14	Q9SYK4	H2O
+15	Q9SYK4	1D-myo-inositol 1,3,4,5-tetrakisphosphate
+16	Q9SYK4	H2O
+17	P32019	1-phosphatidyl-1D-myo-inositol 4,5-bisphosphate
+18	P32019	H2O
+19	P32019	1D-myo-inositol 1,3,4,5-tetrakisphosphate
+20	P32019	H2O
+21	Q01968	1-phosphatidyl-1D-myo-inositol 4,5-bisphosphate
+22	Q01968	H2O
+23	Q01968	more
+24	Q9NRR6	1-phosphatidyl-1D-myo-inositol 4,5-bisphosphate
+25	Q9NRR6	H2O
+26	Q9NRR6	1-phosphatidyl-1D-myo-inositol 3,4,5-trisphosphate
+27	Q9NRR6	H2O
+28	Q84W55	1-phosphatidyl-1D-myo-inositol 4,5-bisphosphate
+29	Q84W55	H2O
+30	Q84W55	1D-myo-inositol 1,4,5-trisphosphate
+31	Q84W55	H2O
+32	Q84W55	1-phosphatidyl-1D-myo-inositol 3,4,5-trisphosphate
+33	Q84W55	H2O
+34	Q84W55	more
+35	B3IUN7	phosphatidylinositol 3,4,5-trisphosphate
+36	B3IUN7	H2O
+37	B3IUN7	more
+38	B3IUN7	phosphatidylinositol 4,5-bisphosphate
+39	B3IUN7	H2O
+0	C4PAW8	sedoheptulose 1,7-bisphosphate
+1	C4PAW8	H2O
+2	C4PAW8	sedoheptulose 1,7-bisphosphate
+3	C4PAW8	H2O
+4	P73922	sedoheptulose 1,7-bisphosphate
+5	P73922	H2O
+6	P73922	sedoheptulose 1,7-bisphosphate
+7	P73922	H2O
+8	P46284	sedoheptulose 1,7-bisphosphate
+9	P46284	H2O
+10	P46284	sedoheptulose 1,7-bisphosphate
+11	P46284	H2O
+12	B1XLK5	sedoheptulose 1,7-bisphosphate
+13	B1XLK5	H2O
+14	B1XLK5	sedoheptulose 1,7-bisphosphate
+15	B1XLK5	H2O
+16	Q8DJE9	sedoheptulose 1,7-bisphosphate
+17	Q8DJE9	H2O
+18	Q8DJE9	sedoheptulose 1,7-bisphosphate
+19	Q8DJE9	H2O
+20	Q8DJE9	more
+0	Q96GM1	phosphatidic acid
+1	Q96GM1	H2O
+2	Q96GM1	lysophosphatidic acid
+3	Q96GM1	H2O
+4	Q96GM1	ceramide 1-phosphate
+5	Q96GM1	H2O
+6	Q96GM1	sphingosine 1-phosphate
+7	Q96GM1	H2O
+8	Q96GM1	more
+9	Q6T4P5	phosphatidic acid
+10	Q6T4P5	H2O
+11	Q6T4P5	lysophosphatidic acid
+12	Q6T4P5	H2O
+13	Q6T4P5	ceramide 1-phosphate
+14	Q6T4P5	H2O
+15	Q6T4P5	sphingosine 1-phosphate
+16	Q6T4P5	H2O
+17	Q6T4P5	more
+18	Q7Z2D5	phosphatidic acid
+19	Q7Z2D5	H2O
+20	Q7Z2D5	lysophosphatidic acid
+21	Q7Z2D5	H2O
+22	Q7Z2D5	ceramide 1-phosphate
+23	Q7Z2D5	H2O
+24	Q7Z2D5	sphingosine 1-phosphate
+25	Q7Z2D5	H2O
+26	Q7Z2D5	more
+27	Q32ZL2	more
+28	Q8TBJ4	phosphatidic acid
+29	Q8TBJ4	H2O
+30	Q8TBJ4	lysophosphatidic acid
+31	Q8TBJ4	H2O
+32	Q8TBJ4	ceramide 1-phosphate
+33	Q8TBJ4	H2O
+34	Q8TBJ4	sphingosine 1-phosphate
+35	Q8TBJ4	H2O
+36	Q8TBJ4	more
+37	Q8TBJ4	lyso-phosphatidic acid
+38	Q8TBJ4	H2O
+39	Q5VZY2	diacylglycerol diphosphate
+40	Q5VZY2	H2O
+41	Q5VZY2	phosphatidic acid
+42	Q5VZY2	H2O
+43	Q5VZY2	phosphatidic acid
+44	Q5VZY2	H2O
+45	Q5VZY2	phosphatidic acid
+46	Q5VZY2	H2O
+47	Q5VZY2	lysophosphatidic acid
+48	Q5VZY2	H2O
+49	Q9SUW4	phosphatidic acid
+50	Q9SUW4	H2O
+51	Q6NLA5	phosphatidic acid
+52	Q6NLA5	H2O
+53	Q0WUC2	phosphatidic acid
+54	Q0WUC2	H2O
+55	Q6NQL6	phosphatidic acid
+56	Q6NQL6	H2O
+57	Q8NEB5	diacylglycerol diphosphate
+58	Q8NEB5	H2O
+59	Q8NEB5	phosphatidic acid
+60	Q8NEB5	H2O
+61	Q8NEB5	phosphatidic acid
+62	Q8NEB5	H2O
+63	Q8NEB5	phosphatidic acid
+64	Q8NEB5	H2O
+65	Q8NEB5	lysophosphatidic acid
+66	Q8NEB5	H2O
+67	A5HKK6	lysophosphatidic acid
+68	A5HKK6	H2O
+69	A5HKK6	phosphatidic acid
+70	A5HKK6	H2O
+71	A5HKK6	diacylglycerol diphosphate
+72	A5HKK6	H2O
+73	A5HKK6	more
+74	A5HKK6	a 3-sn-phosphatidate
+75	A5HKK6	H2O
+76	Q91ZP3	phosphatidic acid
+77	Q91ZP3	H2O
+78	Q91ZP3	phosphatidic acid
+79	Q91ZP3	H2O
+80	Q14693	a 3-sn-phosphatidate
+81	Q14693	H2O
+82	P32567	1,2-diacylglycerol 3-phosphate
+83	P32567	H2O
+84	P32567	1,2-diacylglycerol 3-phosphate
+85	P32567	H2O
+86	A0A0A7H6F4	lysophosphatidate
+87	A0A0A7H6F4	H2O
+88	A0A0A7H6F4	ceramide-1-phosphate
+89	A0A0A7H6F4	H2O
+90	A0A0A7H6F4	phosphatidate
+91	A0A0A7H6F4	H2O
+92	A0A0A7H6F4	sphingosine-1-phosphate
+93	A0A0A7H6F4	H2O
+94	A0A0A7H9U0	lysophosphatidate
+95	A0A0A7H9U0	H2O
+96	A0A0A7H9U0	ceramide-1-phosphate
+97	A0A0A7H9U0	H2O
+98	A0A0A7H9U0	phosphatidate
+99	A0A0A7H9U0	H2O
+100	A0A0A7H9U0	sphingosine-1-phosphate
+101	A0A0A7H9U0	H2O
+102	A0A0A7H9C0	lysophosphatidate
+103	A0A0A7H9C0	H2O
+104	A0A0A7H9C0	phosphatidate
+105	A0A0A7H9C0	H2O
+106	A0A0A7H9C0	sphingosine-1-phosphate
+107	A0A0A7H9C0	H2O
+108	Q99JY8	lysophosphatidic acid
+109	Q99JY8	H2O
+110	Q99JY8	sphingosine-1-phosphate
+111	Q99JY8	H2O
+112	O14495	lysophosphatidic acid
+113	O14495	H2O
+114	O14495	sphingosine-1-phosphate
+115	O14495	H2O
+116	Q9FMN2	phosphatidic acid
+117	Q9FMN2	H2O
+118	Q9FMN2	phosphatidic acid
+119	Q9FMN2	H2O
+120	Q9FMN2	phosphatidic acid
+121	Q9FMN2	H2O
+122	Q9SF47	phosphatidic acid
+123	Q9SF47	H2O
+124	Q9SF47	phosphatidic acid
+125	Q9SF47	H2O
+126	Q9SF47	phosphatidic acid
+127	Q9SF47	H2O
+0	Q8L1N9	4-nitrophenyl phosphate
+1	Q8L1N9	H2O
+2	Q9HJW8	p-nitrophenyl phosphate
+3	Q9HJW8	H2O
+0	O88483	[pyruvate dehydrogenase (acetyl-transferring)] phosphate
+1	O88483	H2O
+2	O88483	[pyruvate dehydrogenase (lipoamide)]-phosphate
+3	O88483	H2O
+4	O88483	[pyruvate dehydrogenase (lipoamide)]-phosphate
+5	O88483	H2O
+6	O88483	[pyruvate dehydrogenase (lipoamide)]-phosphate
+7	O88483	H2O
+8	P35816	[pyruvate dehydrogenase (lipoamide)]-phosphate
+9	P35816	H2O
+10	P35816	[pyruvate dehydrogenase (lipoamide)]-phosphate
+11	P35816	H2O
+0	P45314	2-oxo-3-deoxy-D-manno-octulosonate 8-phosphate
+1	P45314	H2O
+2	P45314	KDN 9-phosphate
+3	P45314	H2O
+0	O81398	fructose 2,6-bisphosphate
+1	O81398	H2O
+2	O81398	fructose 2,6-bisphosphate
+3	O81398	H2O
+4	Q9MB58	D-fructose 2,6-bisphosphate
+5	Q9MB58	H2O
+6	Q9MB58	beta-D-fructose 2,6-bisphosphate
+7	Q9MB58	H2O
+8	Q9MB58	more
+9	O64983	D-fructose 2,6-bisphosphate
+10	O64983	H2O
+11	Q16875	beta-D-fructose 2,6-bisphosphate
+12	Q16875	H2O
+13	Q16875	more
+14	Q16877	beta-D-fructose 2,6-bisphosphate
+15	Q16877	H2O
+16	Q16877	more
+17	P25114	beta-D-fructose 2,6-bisphosphate
+18	P25114	H2O
+19	P25114	more
+20	Q28901	beta-D-fructose 2,6-bisphosphate
+21	Q28901	H2O
+22	Q28901	more
+23	Q9ESY2	beta-D-fructose 2,6-bisphosphate
+24	Q9ESY2	H2O
+25	Q9ESY2	more
+26	Q9VWH7	beta-D-fructose 2,6-bisphosphate
+27	Q9VWH7	H2O
+28	Q9VWH7	more
+29	O60825	beta-D-fructose 2,6-bisphosphate
+30	O60825	H2O
+31	O60825	more
+32	P16118	beta-D-fructose 2,6-bisphosphate
+33	P16118	H2O
+34	P16118	more
+35	P49872	beta-D-fructose 2,6-bisphosphate
+36	P49872	H2O
+37	P49872	more
+38	O35552	beta-D-fructose 2,6-bisphosphate
+39	O35552	H2O
+40	O35552	more
+41	Q9JJH5	beta-D-fructose 2,6-bisphosphate
+42	Q9JJH5	H2O
+43	Q9JJH5	more
+44	P07953	fructose 2,6-bisphosphate
+45	P07953	H2O
+46	P07953	fructose 2,6-bisphosphate
+47	P07953	H2O
+48	P07953	beta-D-fructose 2,6-bisphosphate
+49	P07953	H2O
+50	P07953	more
+51	P70265	beta-D-fructose 2,6-bisphosphate
+52	P70265	H2O
+53	P70265	more
+54	P26285	beta-D-fructose 2,6-bisphosphate
+55	P26285	H2O
+56	P26285	more
+57	B0ZTI0	beta-D-fructose 2,6-bisphosphate
+58	B0ZTI0	H2O
+0	Q4JB88	4-nitrophenyl phosphate
+1	Q4JB88	H2O
+2	Q4JB88	TEVGKRI(pY)RLVGDKN
+3	Q4JB88	H2O
+4	Q4JB88	[protein]-L-tyrosine phosphate
+5	Q4JB88	H2O
+6	B4FJN0	4-nitrophenyl phosphate
+7	B4FJN0	H2O
+8	B4FJN0	[EGF receptor]-tyrosine1018 phosphate
+9	B4FJN0	H2O
+10	Q6MNP0	4-nitrophenyl phosphate
+11	Q6MNP0	H2O
+12	Q6MNP0	1-naphthyl phosphate
+13	Q6MNP0	H2O
+14	Q6MNP0	ADP
+15	Q6MNP0	H2O
+16	Q6MNP0	ATP
+17	Q6MNP0	H2O
+18	Q6MNP0	D-fructose 1,6-diphosphate
+19	Q6MNP0	H2O
+20	Q6MNP0	O-phospho-L-tyrosine
+21	Q6MNP0	H2O
+22	Q6MNP0	inositol hexakisphosphate
+23	Q6MNP0	H2O
+24	Q6MNP0	phenolphthalein diphosphate
+25	Q6MNP0	H2O
+26	Q6MNP0	more
+27	P55798	[casein]-tyrosine phosphate
+28	P55798	H2O
+29	P55798	[myelin basic protein]-tyrosine phosphate
+30	P55798	H2O
+31	P55798	more
+32	P55798	[a protein]-tyrosine phosphate
+33	P55798	H2O
+34	P51452	more
+35	P51452	[a protein]-tyrosine phosphate
+36	P51452	H2O
+37	Q8X270	6,8-difluoro-4-methylumbelliferyl phosphate
+38	Q8X270	H2O
+39	Q8X270	more
+40	Q8X270	[a protein]-tyrosine phosphate
+41	Q8X270	H2O
+42	Q9A1Y0	4-nitrophenyl phosphate
+43	Q9A1Y0	H2O
+44	Q9A1Y0	more
+45	Q9A1Y0	[epidermal growth factor receptor]-tyrosine phosphate
+46	Q9A1Y0	H2O
+47	Q9A1Y0	[a protein]-tyrosine phosphate
+48	Q9A1Y0	H2O
+49	Q48VV6	4-nitrophenyl phosphate
+50	Q48VV6	H2O
+51	Q48VV6	more
+52	Q48VV6	[epidermal growth factor receptor]-tyrosine phosphate
+53	Q48VV6	H2O
+54	Q48VV6	[a protein]-tyrosine phosphate
+55	Q48VV6	H2O
+56	Q9BVJ7	more
+57	Q9BVJ7	[a protein]-tyrosine phosphate
+58	Q9BVJ7	H2O
+59	A0A0A1EI83	3-o-methyl fluorescein phosphate
+60	A0A0A1EI83	H2O
+61	A0A0A1EI83	[a protein]-tyrosine phosphate
+62	A0A0A1EI83	H2O
+63	Q64455	more
+64	Q64455	[a protein]-tyrosine phosphate
+65	Q64455	H2O
+66	Q4QEZ7	4-nitrophenyl phosphate
+67	Q4QEZ7	H2O
+68	Q4QEZ7	more
+69	Q4QEZ7	[a protein]-tyrosine phosphate
+70	Q4QEZ7	H2O
+71	A0A0H2ZQ64	4-nitrophenyl phosphate
+72	A0A0H2ZQ64	H2O
+73	A0A0H2ZQ64	END(pY)INASL
+74	A0A0H2ZQ64	H2O
+75	A0A0H2ZQ64	more
+76	A0A0H2ZQ64	DADE(pY)LIPQQG
+77	A0A0H2ZQ64	H2O
+78	A0A0H2ZQ64	[a protein]-tyrosine phosphate
+79	A0A0H2ZQ64	H2O
+80	E9QAS3	[a protein]-tyrosine phosphate
+81	E9QAS3	H2O
+82	A1X864	[protein Golgi p230]-tyrosine phosphate
+83	A1X864	H2O
+84	A1X864	more
+85	A1X864	O-phospho-L-tyrosine
+86	A1X864	H2O
+87	A1X864	[a protein]-tyrosine phosphate
+88	A1X864	H2O
+89	P53965	more
+90	P53965	[a protein]-tyrosine phosphate
+91	P53965	H2O
+92	Q9HXC7	[FHA-1]-tyrosine phosphate
+93	Q9HXC7	H2O
+94	Q9HXC7	[diguanylate cyclase TpbB]-tyrosine phosphate
+95	Q9HXC7	H2O
+96	Q9HXC7	[protein]-tyrosine phosphate
+97	Q9HXC7	H2O
+98	P35821	more
+99	P35821	[a protein]-tyrosine phosphate
+100	P35821	H2O
+101	P41893	more
+102	P41893	[a protein]-tyrosine phosphate
+103	P41893	H2O
+104	Q6JHV2	4-nitrophenyl phosphate
+105	Q6JHV2	H2O
+106	P18031	4-nitrophenyl phosphate
+107	P18031	H2O
+108	P18031	phosphotyrosine
+109	P18031	H2O
+110	P18031	6,8-difluoro-4-methylumbelliferyl phosphate
+111	P18031	H2O
+112	P18031	more
+113	P18031	p-nitrophenyl phosphate
+114	P18031	H2O
+115	P18031	3,6-fluorescein diphosphate
+116	P18031	H2O
+117	P18031	4-nitrophenyl phosphate
+118	P18031	H2O
+119	P18031	[insulin receptor kinase]-tyrosine phosphate
+120	P18031	H2O
+121	P18031	acetyl-DADEpYL-NH2
+122	P18031	H2O
+123	P18031	bis-(p-phosphophenyl) methane
+124	P18031	H2O
+125	P18031	difluoromethylumbelliferyl phosphate
+126	P18031	H2O
+127	P18031	[epidermal growth factor receptor]-tyrosine phosphate
+128	P18031	H2O
+129	P18031	[Eps15 peptide846-854]-tyrosine phosphate
+130	P18031	H2O
+131	P18031	DADE(pY)LIPQQG
+132	P18031	H2O
+133	P18031	6,8-difluoro-4-methylumbelliferyl phosphate
+134	P18031	H2O
+135	P18031	[a protein]-tyrosine phosphate
+136	P18031	H2O
+137	P18031	DADEpYLIPQQG
+138	P18031	H2O
+139	P30307	phosphotyrosine
+140	P30307	H2O
+141	Q0PEE2	p-nitrophenyl phosphate
+142	Q0PEE2	H2O
+143	Q16828	6,8-difluoro-4-methylumbelliferyl phosphate
+144	Q16828	H2O
+145	Q16828	phosphorylated JNK
+146	Q16828	H2O
+147	Q16828	p38
+148	Q16828	H2O
+149	Q15256	4-nitrophenyl phosphate
+150	Q15256	H2O
+151	Q15256	phosphotyrosine
+152	Q15256	H2O
+153	Q15256	more
+154	Q15256	bis(4-nitrophenyl) phosphate
+155	Q15256	H2O
+156	Q15256	O-phospho-L-tyrosine
+157	Q15256	H2O
+158	Q15256	[a protein]-tyrosine phosphate
+159	Q15256	H2O
+160	P30305	phosphotyrosine
+161	P30305	H2O
+162	P30305	phosphorylated Cdk2-pTpY/CycA protein
+163	P30305	H2O
+164	Q9Y6W6	6,8-difluoro-4-methylumbelliferyl phosphate
+165	Q9Y6W6	H2O
+166	Q9Y6W6	phosphorylated JNK
+167	Q9Y6W6	H2O
+168	Q9Y6W6	p38
+169	Q9Y6W6	H2O
+170	Q99956	6,8-difluoro-4-methylumbelliferyl phosphate
+171	Q99956	H2O
+172	Q99956	phosphorylated JNK
+173	Q99956	H2O
+174	Q99956	p38
+175	Q99956	H2O
+176	P54829	4-nitrophenyl phosphate
+177	P54829	H2O
+178	P54829	phosphotyrosine
+179	P54829	H2O
+180	P54829	[a protein]-tyrosine phosphate
+181	P54829	H2O
+182	P35236	4-nitrophenyl phosphate
+183	P35236	H2O
+184	P35236	phosphotyrosine
+185	P35236	H2O
+186	P35236	LDEpYVATR
+187	P35236	H2O
+188	P35236	phosphorylated ERK1
+189	P35236	H2O
+190	P35236	phosphorylated ERK2
+191	P35236	H2O
+192	P35236	phosphorylated p38 mitogen-activated protein kinase
+193	P35236	H2O
+194	Q8CHP8	more
+195	P17706	4-nitrophenyl phosphate
+196	P17706	H2O
+197	P17706	phosphotyrosine
+198	P17706	H2O
+199	P17706	more
+200	P17706	phosphorylated BCR-Abl
+201	P17706	H2O
+202	P17706	DADEpYLIPQQG
+203	P17706	H2O
+204	P26045	phosphotyrosine
+205	P26045	H2O
+206	P26045	[Eps15 peptide846-854]-tyrosine phosphate
+207	P26045	H2O
+208	P26045	[Eps15 peptide846-854 P850V]-tyrosine phosphate
+209	P26045	H2O
+210	P26045	[Eps15 peptide]-tyrosine phosphate
+211	P26045	H2O
+212	P26045	[a protein]-tyrosine phosphate
+213	P26045	H2O
+214	P29350	4-nitrophenyl phosphate
+215	P29350	H2O
+216	P29350	phosphotyrosine
+217	P29350	H2O
+218	P29350	more
+219	P29350	DADE(pY)LIPQQG
+220	P29350	H2O
+221	P29350	phosphorylated insulin receptor
+222	P29350	H2O
+223	P29350	[a protein]-tyrosine phosphate
+224	P29350	H2O
+225	P43378	phosphotyrosine
+226	P43378	H2O
+227	P29074	phosphotyrosine
+228	P29074	H2O
+229	Q06124	4-nitrophenyl phosphate
+230	Q06124	H2O
+231	Q06124	phosphotyrosine
+232	Q06124	H2O
+233	Q06124	platelet-derived growth factor receptor
+234	Q06124	H2O
+235	Q05209	4-nitrophenyl phosphate
+236	Q05209	H2O
+237	Q05209	phosphotyrosine
+238	Q05209	H2O
+239	Q05209	[a protein]-tyrosine phosphate
+240	Q05209	H2O
+241	Q05209	ENPE(pY)LGLD
+242	Q05209	H2O
+243	Q05209	ENPE(pY)LTPQ
+244	Q05209	H2O
+245	Q05209	FDNL(pY)2WDQD
+246	Q05209	H2O
+247	Q05209	PLQR(pY)SEDP
+248	Q05209	H2O
+249	Q05209	[FAK]-tyrosine phosphate
+250	Q05209	H2O
+251	Q05209	[HER2]-tyrosine phosphate
+252	Q05209	H2O
+253	Q05209	[SRC]-tyrosine phosphate
+254	Q05209	H2O
+255	Q05209	[VAV2]-tyrosine phosphate
+256	Q05209	H2O
+257	Q05209	[epidermal growth factor receptor 2]-tyrosine phosphate
+258	Q05209	H2O
+259	Q05209	[p130Cas]-tyrosine phosphate
+260	Q05209	H2O
+261	Q05209	[p190RhoGAP]-tyrosine phosphate
+262	Q05209	H2O
+263	Q05209	[paxillin]-tyrosine phosphate
+264	Q05209	H2O
+265	Q12923	phosphotyrosine
+266	Q12923	H2O
+267	Q12923	more
+268	Q12923	[Eps15 peptide846-854]-tyrosine phosphate
+269	Q12923	H2O
+270	Q12923	[a protein]-tyrosine phosphate
+271	Q12923	H2O
+272	Q15678	phosphotyrosine
+273	Q15678	H2O
+274	Q15678	more
+275	Q15678	[a protein]-tyrosine phosphate
+276	Q15678	H2O
+277	Q99952	phosphotyrosine
+278	Q99952	H2O
+279	Q4JDK3	phosphotyrosine
+280	Q4JDK3	H2O
+281	Q16825	phosphotyrosine
+282	Q16825	H2O
+283	Q16825	more
+284	Q16825	[a protein]-tyrosine phosphate
+285	Q16825	H2O
+286	Q9Y2R2	phosphotyrosine
+287	Q9Y2R2	H2O
+288	Q9H3S7	phosphotyrosine
+289	Q9H3S7	H2O
+290	Q9H3S7	[FYN kinase]-tyrosine phosphate
+291	Q9H3S7	H2O
+292	P18433	phosphotyrosine
+293	P18433	H2O
+294	P23467	phosphotyrosine
+295	P23467	H2O
+296	Q0VAE8	phosphotyrosine
+297	Q0VAE8	H2O
+298	P23468	4-nitrophenyl phosphate
+299	P23468	H2O
+300	P23468	phosphotyrosine
+301	P23468	H2O
+302	P23468	more
+303	P23468	bis(4-nitrophenyl) phosphate
+304	P23468	H2O
+305	P23468	O-phospho-L-tyrosine
+306	P23468	H2O
+307	P23468	[a protein]-tyrosine phosphate
+308	P23468	H2O
+309	P23469	4-nitrophenyl phosphate
+310	P23469	H2O
+311	P23469	phosphotyrosine
+312	P23469	H2O
+313	P23469	more
+314	P23469	[a protein]-tyrosine phosphate
+315	P23469	H2O
+316	P23469	PGSAAP-pY-LKTKFI
+317	P23469	H2O
+318	P23469	PQDKEY-pY-KVKEPG
+319	P23469	H2O
+320	P23469	RKGSGD-pY-MPMSPK
+321	P23469	H2O
+322	P10586	phosphotyrosine
+323	P10586	H2O
+324	P23470	phosphotyrosine
+325	P23470	H2O
+326	Q9HD43	phosphotyrosine
+327	Q9HD43	H2O
+328	Q12913	phosphotyrosine
+329	Q12913	H2O
+330	Q15262	phosphotyrosine
+331	Q15262	H2O
+332	P28827	phosphotyrosine
+333	P28827	H2O
+334	Q92932	phosphotyrosine
+335	Q92932	H2O
+336	Q16849	phosphotyrosine
+337	Q16849	H2O
+338	Q16849	more
+339	Q16827	phosphotyrosine
+340	Q16827	H2O
+341	Q9UMZ3	phosphotyrosine
+342	Q9UMZ3	H2O
+343	Q13332	phosphotyrosine
+344	Q13332	H2O
+345	O14522	phosphotyrosine
+346	O14522	H2O
+347	Q92729	phosphotyrosine
+348	Q92729	H2O
+349	P23471	phosphotyrosine
+350	P23471	H2O
+351	Q9S427	4-nitrophenyl phosphate
+352	Q9S427	H2O
+353	Q72JF6	4-nitrophenyl phosphate
+354	Q72JF6	H2O
+355	O00167	more
+356	P40347	4-nitrophenyl phosphate
+357	P40347	H2O
+358	P9WIA1	4-nitrophenyl phosphate
+359	P9WIA1	H2O
+360	P9WIA1	[a protein]-tyrosine phosphate
+361	P9WIA1	H2O
+362	P9WIA1	[ATP synthase]-tyrosine phosphate
+363	P9WIA1	H2O
+364	P9WIA1	[cytosolic 6-phosphofructokinase]-tyrosine phosphate
+365	P9WIA1	H2O
+366	P9WIA1	[sulfide quinone oxidoreductase]-tyrosine phosphate
+367	P9WIA1	H2O
+368	P9WIA1	[trifunctional enzyme]-tyrosine phosphate
+369	P9WIA1	H2O
+370	P24666	4-nitrophenyl phosphate
+371	P24666	H2O
+372	Q64604	4-nitrophenyl phosphate
+373	Q64604	H2O
+374	Q64604	DRVpYIHPFHL
+375	Q64604	H2O
+376	P15273	4-nitrophenyl phosphate
+377	P15273	H2O
+378	Q62130	more
+0	B6EWW8	AMP
+1	B6EWW8	H2O
+2	O46411	5'-IMP
+3	O46411	H2O
+4	O46411	5'-IMP
+5	O46411	H2O
+6	P07024	5'-AMP
+7	P07024	H2O
+8	P07024	a 5'-ribonucleotide
+9	P07024	H2O
+10	P07024	p-nitrophenyl phosphate
+11	P07024	H2O
+12	Q53Z63	5'-AMP
+13	Q53Z63	H2O
+14	Q9PBQ1	4-nitrophenyl phosphate
+15	Q9PBQ1	H2O
+16	Q5ZZB6	5'-GMP
+17	Q5ZZB6	H2O
+18	Q5ZZB6	5'-GMP
+19	Q5ZZB6	H2O
+20	Q5ZZB6	5'-IMP
+21	Q5ZZB6	H2O
+22	Q5ZZB6	5'-IMP
+23	Q5ZZB6	H2O
+24	Q5ZZB6	5'-dGMP
+25	Q5ZZB6	H2O
+26	Q5ZZB6	more
+27	Q5ZZB6	5'-dIMP
+28	Q5ZZB6	H2O
+29	Q6NZX3	5'-AMP
+30	Q6NZX3	H2O
+31	Q6NZX3	5'-GMP
+32	Q6NZX3	H2O
+33	Q6NZX3	5'-GMP
+34	Q6NZX3	H2O
+35	Q6NZX3	5'-IMP
+36	Q6NZX3	H2O
+37	Q6NZX3	5'-IMP
+38	Q6NZX3	H2O
+39	Q6NZX3	5'-CMP
+40	Q6NZX3	H2O
+41	Q6NZX3	5'-UMP
+42	Q6NZX3	H2O
+43	Q6NZX3	5'-TMP
+44	Q6NZX3	H2O
+45	Q6NZX3	5'-dAMP
+46	Q6NZX3	H2O
+47	Q6NZX3	more
+48	Q9D020	5'-UMP
+49	Q9D020	H2O
+50	P21589	5'-AMP
+51	P21589	H2O
+52	P21589	AMP
+53	P21589	H2O
+54	P21589	a 5'-ribonucleotide
+55	P21589	H2O
+56	P21588	5'-AMP
+57	P21588	H2O
+58	P21588	a 5'-ribonucleotide
+59	P21588	H2O
+60	O32125	5'-AMP
+61	O32125	H2O
+62	O32125	5'-GMP
+63	O32125	H2O
+64	O32125	5'-GMP
+65	O32125	H2O
+66	O32125	5'-IMP
+67	O32125	H2O
+68	O32125	5'-IMP
+69	O32125	H2O
+70	O32125	5'-UMP
+71	O32125	H2O
+72	O32125	5'-dGMP
+73	O32125	H2O
+74	O32125	5'-ADP
+75	O32125	H2O
+76	O32125	5'-ATP
+77	O32125	H2O
+78	O32125	5'-CTP
+79	O32125	H2O
+80	O32125	5'-GDP
+81	O32125	H2O
+82	O32125	5'-GTP
+83	O32125	H2O
+84	O32125	5'-IDP
+85	O32125	H2O
+86	O32125	5-phosphoribosyl-1-diphosphate
+87	O32125	H2O
+88	O32125	D-glucose 6-phosphate
+89	O32125	H2O
+90	O32125	D-ribose 5-phosphate
+91	O32125	H2O
+92	O32125	ITP
+93	O32125	H2O
+94	O32125	UTP
+95	O32125	H2O
+96	O32125	5'-dAMP
+97	O32125	H2O
+98	O32125	4-nitrophenyl phosphate
+99	O32125	H2O
+100	O32125	more
+101	O32125	a 5'-ribonucleotide
+102	O32125	H2O
+103	O32125	5'-dIMP
+104	O32125	H2O
+105	O32125	5'-XMP
+106	O32125	H2O
+107	Q61503	5'-AMP
+108	Q61503	H2O
+109	W8EFS0	5'-AMP
+110	W8EFS0	H2O
+111	W8EFS0	5'-GMP
+112	W8EFS0	H2O
+113	W8EFS0	5'-GMP
+114	W8EFS0	H2O
+115	W8EFS0	ADP
+116	W8EFS0	H2O
+117	W8EFS0	ATP
+118	W8EFS0	H2O
+119	W8EFS0	more
+120	Q9A0A2	5'-AMP
+121	Q9A0A2	H2O
+122	Q9A0A2	5'-GMP
+123	Q9A0A2	H2O
+124	Q9A0A2	5'-GMP
+125	Q9A0A2	H2O
+126	Q9A0A2	5'-TMP
+127	Q9A0A2	H2O
+128	Q9A0A2	ADP
+129	Q9A0A2	H2O
+130	Q9A0A2	5'-CMP
+131	Q9A0A2	H2O
+132	Q9A0A2	5'-dAMP
+133	Q9A0A2	H2O
+134	Q9A0A2	more
+135	Q9BXI3	5'-AMP
+136	Q9BXI3	H2O
+137	Q9BXI3	5'-GMP
+138	Q9BXI3	H2O
+139	Q9BXI3	5'-GMP
+140	Q9BXI3	H2O
+141	Q9BXI3	5'-IMP
+142	Q9BXI3	H2O
+143	Q9BXI3	5'-IMP
+144	Q9BXI3	H2O
+145	Q9BXI3	5'-CMP
+146	Q9BXI3	H2O
+147	Q9BXI3	5'-UMP
+148	Q9BXI3	H2O
+149	Q9BXI3	5'-TMP
+150	Q9BXI3	H2O
+151	Q9BXI3	dCMP
+152	Q9BXI3	H2O
+153	Q9BXI3	more
+154	Q9BXI3	2-chloro-2'-deoxyadenosine monophosphate
+155	Q9BXI3	H2O
+156	Q9BXI3	dAMP
+157	Q9BXI3	H2O
+158	Q9BXI3	dGMP
+159	Q9BXI3	H2O
+160	Q9BXI3	dUMP
+161	Q9BXI3	H2O
+162	Q9BXI3	dIMP
+163	Q9BXI3	H2O
+164	Q9BXI3	5'-dIMP
+165	Q9BXI3	H2O
+166	Q6UC93	5'-AMP
+167	Q6UC93	H2O
+168	Q6UC93	5'-GMP
+169	Q6UC93	H2O
+170	Q6UC93	5'-GMP
+171	Q6UC93	H2O
+172	Q6UC93	5'-CMP
+173	Q6UC93	H2O
+174	Q6UC93	5'-UMP
+175	Q6UC93	H2O
+176	Q6UC93	5'-TMP
+177	Q6UC93	H2O
+178	Q6UC93	4-nitrophenyl phosphate
+179	Q6UC93	H2O
+180	Q6UC93	more
+181	Q6UC93	4-methylumbelliferyl phosphate
+182	Q6UC93	H2O
+183	P0A840	5'-AMP
+184	P0A840	H2O
+185	P0A840	5'-GMP
+186	P0A840	H2O
+187	P0A840	5'-GMP
+188	P0A840	H2O
+189	P0A840	5'-dGMP
+190	P0A840	H2O
+191	P0A840	5'-dAMP
+192	P0A840	H2O
+193	P0A840	4-nitrophenyl phosphate
+194	P0A840	H2O
+195	P0A840	5'-dUMP
+196	P0A840	H2O
+197	P0A840	5'-dIMP
+198	P0A840	H2O
+199	P0A840	(polyphosphate)n
+200	P0A840	H2O
+201	P0A840	(polyphosphate)n
+202	P0A840	H2O
+203	P0A840	3'-AMP
+204	P0A840	H2O
+205	P0A840	3'-CMP
+206	P0A840	H2O
+207	P0A840	5'-dCMP
+208	P0A840	H2O
+209	P0A840	5'-dTMP
+210	P0A840	H2O
+211	P76491	5'-dGMP
+212	P76491	H2O
+213	P76491	5'-dAMP
+214	P76491	H2O
+215	P76491	5'-dUMP
+216	P76491	H2O
+217	P76491	5'-dCMP
+218	P76491	H2O
+219	P76491	5'-dTMP
+220	P76491	H2O
+221	P76491	5'-dIMP
+222	P76491	H2O
+223	P76491	p-nitrophenyl phosphate
+224	P76491	H2O
+225	Q9I767	5'-IMP
+226	Q9I767	H2O
+227	Q9I767	5'-IMP
+228	Q9I767	H2O
+229	Q9I767	5'-UMP
+230	Q9I767	H2O
+231	Q9I767	p-nitrophenyl phosphate
+232	Q9I767	H2O
+233	Q8MQS9	5'-AMP
+234	Q8MQS9	H2O
+235	P49902	5'-AMP
+236	P49902	H2O
+237	P49902	5'-GMP
+238	P49902	H2O
+239	P49902	5'-GMP
+240	P49902	H2O
+241	P49902	5'-IMP
+242	P49902	H2O
+243	P49902	5'-IMP
+244	P49902	H2O
+245	P49902	5'-UMP
+246	P49902	H2O
+247	P49902	5'-dGMP
+248	P49902	H2O
+249	P49902	inosine
+250	P49902	phosphate
+251	P49902	more
+252	P49902	inosine
+253	P49902	5'-IMP
+254	P49902	ribavirin
+255	P49902	5'-IMP
+256	P49902	viramidine
+257	P49902	5'-IMP
+258	P40025	p-nitrophenyl phosphate
+259	P40025	H2O
+260	P40025	CMP
+261	P40025	H2O
+262	P40025	GMP
+263	P40025	H2O
+264	P40025	UMP
+265	P40025	H2O
+266	P40025	XMP
+267	P40025	H2O
+0	Q8N3J5	4-nitrophenyl phosphate
+1	Q8N3J5	H2O
+2	D4A7X5	[3-methyl-2-oxobutanoate dehydrogenase (2-methylpropanoyl-transferring)] phosphate
+3	D4A7X5	H2O
+4	D4A7X5	[ATP-citrate lyase] phosphate
+5	D4A7X5	H2O
+0	O60237	more
+1	O14974	phosphorylated myosin
+2	O14974	H2O
+3	O14974	P-MLC20
+4	O14974	H2O
+0	Q29467	D-myo-inositol 1,4,5-trisphosphate
+1	Q29467	H2O
+2	Q29467	D-myo-inositol 1,3,4,5-tetrakisphosphate
+3	Q29467	H2O
+4	O80560	more
+5	O80560	1D-myo-inositol 1,4,5-trisphosphate
+6	O80560	H2O
+7	Q9SYK4	more
+8	Q9SYK4	1D-myo-inositol 1,4,5-trisphosphate
+9	Q9SYK4	H2O
+10	Q14642	1D-myo-inositol 1,4,5-trisphosphate
+11	Q14642	H2O
+12	O15357	more
+13	O15357	1D-myo-inositol 1,3,4,5-tetrakisphosphate
+14	O15357	H2O
+15	O15357	1D-myo-inositol 3,4,5-trisphosphate
+16	O15357	H2O
+17	O15357	1D-myo-inositol 3,5-bisphosphate
+18	O15357	H2O
+0	Q9Z1N4	D-myo-inositol 1,4-bisphosphate
+1	Q9Z1N4	H2O
+2	Q9Z1N4	D-myo-inositol 1,3,4-trisphosphate
+3	Q9Z1N4	H2O
+4	Q9Z1N4	2'-phosphoadenosine 5'-phosphate
+5	Q9Z1N4	H2O
+6	Q9Z1N4	3'-phosphoadenosine 5'-phosphate
+7	Q9Z1N4	H2O
+8	Q9Z1N4	3'-phosphoadenosine 5'-phosphosulfate
+9	Q9Z1N4	H2O
+10	P49441	1D-myo-inositol 1,4-bisphosphate
+11	P49441	H2O
+12	P49442	1D-myo-inositol 1,4-bisphosphate
+13	P49442	H2O
+14	Q8VWZ6	3'-phosphoadenosine 5'-phosphosulfate
+15	Q8VWZ6	H2O
+16	Q8VWZ6	3'-phosphoadenosine 5'-phosphosulfate
+17	Q8VWZ6	H2O
+18	Q8VWZ6	adenosine 3',5'-bisphosphate
+19	Q8VWZ6	H2O
+20	Q8VWZ6	inositol 1,4,5-trisphosphate
+21	Q8VWZ6	H2O
+22	Q8VWZ6	inositol 1,4-bisphosphate
+23	Q8VWZ6	H2O
+0	Q9X0Y1	2-Deoxy-D-glucose 6-phosphate
+1	Q9X0Y1	H2O
+2	Q9X0Y1	D-mannose 6-phosphate
+3	Q9X0Y1	H2O
+4	Q9X0Y1	D-fructose 6-phosphate
+5	Q9X0Y1	H2O
+6	Q9X0Y1	erythrose 4-phosphate
+7	Q9X0Y1	H2O
+8	Q9X0Y1	p-nitrophenyl phosphate
+9	Q9X0Y1	H2O
+0	Q9GNZ4	3'-AMP
+1	Q9GNZ4	H2O
+2	Q9GNZ4	more
+3	Q9NJI3	more
+4	P0A840	3'-AMP
+5	P0A840	H2O
+6	P0A840	(polyphosphate)n
+7	P0A840	H2O
+8	P0A840	5'-AMP
+9	P0A840	H2O
+10	P0A840	5'-GMP
+11	P0A840	H2O
+12	P0A840	5'-dGMP
+13	P0A840	H2O
+14	P0A840	p-nitrophenyl phosphate
+15	P0A840	H2O
+16	P0A840	3'-CMP
+17	P0A840	H2O
+18	F6MDM5	3'-AMP
+19	F6MDM5	H2O
+20	P08331	3'-AMP
+21	P08331	H2O
+22	P08331	more
+0	Q9Z2L6	4-nitrophenyl phosphate
+1	Q9Z2L6	H2O
+2	Q9Z2L6	D-myo-inositol 1,3,4,5-tetrakisphosphate
+3	Q9Z2L6	H2O
+4	Q0GYS1	inositol hexakisphosphate
+5	Q0GYS1	H2O
+6	Q0GYS2	inositol hexakisphosphate
+7	Q0GYS2	H2O
+8	A0FHB1	inositol hexakisphosphate
+9	A0FHB1	H2O
+10	A0FHA9	inositol hexakisphosphate
+11	A0FHA9	H2O
+12	Q9UNW1	D-myo-inositol 1,3,4,5-tetrakisphosphate
+13	Q9UNW1	H2O
+14	Q9UNW1	more
+0	Q13496	more
+1	Q13496	1-phosphatidyl-1D-myo-inositol 3,5-bisphosphate
+2	Q13496	H2O
+3	Q13496	1-phosphatidyl-1D-myo-inositol 3-phosphate
+4	Q13496	H2O
+5	Q13496	1-hexanoyl-2-lysophosphatidyl-1D-myo-inositol 3,5-bisphosphate
+6	Q13496	H2O
+7	Q13496	hexanoylglyceryl 1-phosphatidyl-1D-myo-inositol 3-phosphate
+8	Q13496	H2O
+9	Q8NCE2	phosphatidylinositol 3,5-bisphosphate
+10	Q8NCE2	H2O
+11	Q8NCE2	phosphatidylinositol 3-phosphate
+12	Q8NCE2	H2O
+13	Q9Z2C4	phosphatidylinositol 3,5-bisphosphate
+14	Q9Z2C4	H2O
+15	Q9Z2C4	phosphatidylinositol 3-phosphate
+16	Q9Z2C4	H2O
+17	Q965W9	phosphatidylinositol 3,5-bisphosphate
+18	Q965W9	H2O
+19	Q965W9	phosphatidylinositol 3-phosphate
+20	Q965W9	H2O
+21	D3HMN4	1-phosphatidyl-1D-myo-inositol 3-phosphate
+22	D3HMN4	H2O
+23	Q9C0I1	phosphatidylinositol 3-phosphate
+24	Q9C0I1	H2O
+25	Q9C0I1	more
+26	Q9C0I1	phosphatidylinositol 3,4-bisphosphate
+27	Q9C0I1	H2O
+28	Q13614	more
+29	Q13614	1-phosphatidyl-1D-myo-inositol 3,5-bisphosphate
+30	Q13614	H2O
+31	Q13614	1-phosphatidyl-1D-myo-inositol 3-phosphate
+32	Q13614	H2O
+0	Q96PE3	1-phosphatidyl-1D-myo-inositol 3,4-bisphosphate
+1	Q96PE3	H2O
+2	Q96PE3	more
+3	Q96PE3	D-myo-inositol 3,4-bisphosphate
+4	Q96PE3	H2O
+5	Q96PE3	D-myo-inositol 1,3,4-trisphosphate
+6	Q96PE3	H2O
+7	Q62784	1-phosphatidyl-1D-myo-inositol 3,4-bisphosphate
+8	Q62784	H2O
+9	Q62784	more
+10	Q62784	D-myo-inositol 3,4-bisphosphate
+11	Q62784	H2O
+12	Q62784	D-myo-inositol 1,3,4-trisphosphate
+13	Q62784	H2O
+14	Q9QWG5	1-phosphatidyl-1D-myo-inositol 3,4-bisphosphate
+15	Q9QWG5	H2O
+16	Q9QWG5	D-myo-inositol 3,4-bisphosphate
+17	Q9QWG5	H2O
+18	Q9QWG5	D-myo-inositol 1,3,4-trisphosphate
+19	Q9QWG5	H2O
+20	Q9C5G5	phosphatidylinositol-4-phosphate
+21	Q9C5G5	H2O
+0	B3IUN7	more
+1	B3IUN7	phosphatidylinositol 4,5-bisphosphate
+2	B3IUN7	H2O
+3	B3IUN7	phosphatidylinositol 3,4,5-trisphosphate
+4	B3IUN7	H2O
+5	O54857	phosphatidylinositol 3,4,5-trisphosphate
+6	O54857	H2O
+7	O54857	phosphatidylinositol-3,4-bisphosphate
+8	O54857	H2O
+9	Q5ZSD5	phosphatidylinositol 3,4-bisphosphate
+10	Q5ZSD5	H2O
+11	Q5ZSD5	phosphatidylinositol 3,4,5-trisphosphate
+12	Q5ZSD5	H2O
+0	Q5GMP2	2-(beta-D-glucosyl)-sn-glycerol-3-phosphate
+1	Q5GMP2	H2O
+0	O95861	adenosine 3',5'-bisphosphate
+1	O95861	H2O
+2	O95861	adenosine 2',5'-bisphosphate
+3	O95861	H2O
+4	O95861	inositol-1,4-bisphosphate
+5	O95861	H2O
+6	Q94G04	more
+7	Q94G04	adenosine 3',5'-bisphosphate
+8	Q94G04	H2O
+9	Q94G04	inositol 1,4-bisphosphate
+10	Q94G04	H2O
+11	Q94FY6	adenosine 3',5'-bisphosphate
+12	Q94FY6	H2O
+13	Q94FY6	adenosine 2',5'-bisphosphate
+14	Q94FY6	H2O
+15	Q94FY6	3'-phosphoadenosine 5'-phosphosulfate
+16	Q94FY6	H2O
+17	Q3LS17	adenosine 3',5'-bisphosphate
+18	Q3LS17	H2O
+19	Q3LS17	inositol-1,4-bisphosphate
+20	Q3LS17	H2O
+21	Q3LS17	5'-ADP
+22	Q3LS17	H2O
+23	Q3LS17	adenosine 3'-phosphate 5'-phosphosulfate
+24	Q3LS17	H2O
+25	Q38945	adenosine 3',5'-bisphosphate
+26	Q38945	H2O
+27	Q38945	adenosine 2',5'-bisphosphate
+28	Q38945	H2O
+29	P9WKJ1	D-fructose 1,6-bisphosphate
+30	P9WKJ1	H2O
+31	P9WKJ1	D-myo-inositol monophosphate
+32	P9WKJ1	H2O
+33	P9WKJ1	more
+34	P9WKJ1	adenosine 3',5'-bisphosphate
+35	P9WKJ1	H2O
+36	P9WKJ1	adenosine 3',5'-bisphosphate
+37	P9WKJ1	H2O
+38	Q8VWZ6	more
+39	Q8VWZ6	adenosine 3',5'-bisphosphate
+40	Q8VWZ6	H2O
+41	Q8VWZ6	adenosine 3',5'-bisphosphate sulfate
+42	Q8VWZ6	H2O
+43	Q9Z0S1	adenosine 3',5'-bisphosphate
+44	Q9Z0S1	H2O
+45	Q9Z0S1	inositol 1,3,4-trisphosphate
+46	Q9Z0S1	H2O
+47	Q9Z0S1	inositol 1,4-bisphosphate
+48	Q9Z0S1	H2O
+49	Q80V26	more
+50	Q80V26	adenosine 3',5'-bisphosphate
+51	Q80V26	H2O
+52	P32179	adenosine 3',5'-bisphosphate
+53	P32179	H2O
+54	P32179	3'-phosphoadenosine 5'-phosphate
+55	P32179	H2
+56	P0C5A3	more
+57	P0C5A3	adenosine 3',5'-bisphosphate
+58	P0C5A3	H2O
+59	P0C5A3	adenosine 2',5'-bisphosphate
+60	P0C5A3	H2O
+61	P0C5A3	adenosine 3'-phosphate 5'-phosphosulfate
+62	P0C5A3	H2O
+63	Q7NXD4	more
+64	Q7NXD4	adenosine 3',5'-bisphosphate
+65	Q7NXD4	H2O
+66	Q7NXD4	2'-deoxyadenosine 3',5'-bisphosphate
+67	Q7NXD4	H2O
+68	Q7NXD4	2'-deoxycytidine 3',5'-bisphosphate
+69	Q7NXD4	H2O
+70	Q7NXD4	2'-deoxyguanosine 3',5'-bisphosphate
+71	Q7NXD4	H2O
+72	Q7NXD4	2'-deoxythymidine 3',5'-bisphosphate
+73	Q7NXD4	H2O
+74	Q7NXD4	2'-deoxyuridine 3',5'-bisphosphate
+75	Q7NXD4	H2O
+76	Q7NXD4	5'-phosphoadenylyl-(3'->5')-adenosine
+77	Q7NXD4	H2O
+78	Q7NXD4	N6-methyl-5'-phosphoadenylyl-(3'->5')-adenosine
+79	Q7NXD4	H2O
+80	Q7NXD4	cytidine 3',5'-bisphosphate
+81	Q7NXD4	H2O
+82	Q7NXD4	thymidine 3',5'-bisphosphate
+83	Q7NXD4	H2O
+84	Q7NXD4	uridine 3',5'-bisphosphate
+85	Q7NXD4	H2O
+86	Q7NXD4	guanosine 3',5'-bisphosphate
+87	Q7NXD4	H2O
+88	A0A0H2XFX6	more
+89	A0A0H2XFX6	adenosine 3',5'-bisphosphate
+90	A0A0H2XFX6	H2O
+91	P71615	more
+92	P71615	adenosine 3',5'-bisphosphate
+93	P71615	H2O
+94	Q23493	adenosine 3',5'-bisphosphate
+95	Q23493	H2O
+0	O58690	2-(alpha-D-glucosyl)-3-phosphoglycerate
+1	O58690	H2O
+2	Q84B23	2-O-(alpha-D-mannosyl)-3-phosphoglycerate
+3	Q84B23	H2O
+4	Q2VPS0	2(alpha-D-mannosyl)-3-phosphoglycerate
+5	Q2VPS0	H2O
+0	Q97E82	more
+0	Q0ZQJ3	more
+1	Q0GYS2	myo-inositol hexakisphosphate
+2	Q0GYS2	H2O
+3	F6IQ86	more
+4	F6IQ86	myo-inositol hexakisphosphate
+5	F6IQ86	H2O
+0	P39701	alpha-ribazole 5'-phosphate
+1	P39701	H2O
+2	P39701	N1-(5-phospho-alpha-D-ribosyl)-5,6-dimethylbenzimidazole
+3	P39701	H2O
+4	P9WLH5	alpha-ribazole 5'-phosphate
+5	P9WLH5	H2O
+6	P9WLH5	p-nitrophenyl phosphate
+7	P9WLH5	H2O
+0	P60487	pyridoxine 5'-phosphate
+1	P60487	H2O
+2	P60487	pyridoxal 5'-phosphate
+3	P60487	H2O
+4	Q96GD0	pyridoxal-5'-phosphate
+5	Q96GD0	H2O
+6	Q96GD0	pyridoxal 5'phosphate
+7	Q96GD0	H2O
+8	Q96GD0	pyridoxal 5'-phosphate
+9	Q96GD0	H2O
+10	Q96GD0	pyridoxamine 5'-phosphate
+11	Q96GD0	H2O
+12	Q96GD0	pyridoxine 5'-phosphate
+13	Q96GD0	H2O
+14	Q96GD0	more
+15	A7BK78	pyridoxine 5'-phosphate
+16	A7BK78	H2O
+17	A7BK78	more
+18	Q8CHP8	pyridoxal 5'-phosphate
+19	Q8CHP8	H2O
+0	Q8R2H9	phosphocholine
+1	Q8R2H9	H2O
+2	Q8R2H9	phosphoethanolamine
+3	Q8R2H9	H2O
+4	O73884	more
+5	Q8TCT1	O-phosphoethanolamine
+6	Q8TCT1	H2O
+7	Q8TCT1	more
+8	Q8TCT1	O-phosphocholine
+9	Q8TCT1	H2O
+10	Q9HTR2	more
+11	Q9HTR2	p-nitrophenyl phosphate
+12	Q9HTR2	H2O
+13	Q9HTR2	phosphocholine
+14	Q9HTR2	H2O
+15	Q9HTR2	4-nitrophenyl phosphate
+16	Q9HTR2	H2O
+17	Q9HTR2	phosphoethanolamine
+18	Q9HTR2	H2O
+19	Q9FZ62	more
+20	Q9FZ62	phosphocholine
+21	Q9FZ62	H2O
+22	Q9FZ62	phosphoethanolamine
+23	Q9FZ62	H2O
+0	Q9UHY7	(1-oxo-heptyl)-phosphonic acid
+1	Q9UHY7	H2O
+0	Q86T03	phosphatidylinositol-4,5-bisphosphate
+1	Q86T03	H2O
+2	Q86T03	more
+3	Q8N4L2	phosphatidylinositol-4,5-bisphosphate
+4	Q8N4L2	H2O
+5	Q8N4L2	more
+6	Q07566	phosphatidylinositol 3,4,5-trisphosphate
+7	Q07566	H2O
+8	Q07566	inositol 1,3,4,5-tetrakisphosphate
+9	Q07566	H2O
+10	Q07566	inositol 1,4,5-trisphosphate
+11	Q07566	H2O
+12	Q07566	phosphatidylinositol 3,4-bisphosphate
+13	Q07566	H2O
+14	Q07566	phosphatidylinositol 3-phosphate
+15	Q07566	H2O
+16	Q07566	phosphatidylinositol 4,5-bisphosphate
+17	Q07566	H2O
+18	Q07566	phosphatidylinositol 4-phosphate
+19	Q07566	H2O
+20	O30916	phosphatidylinositol 3,4,5-trisphosphate
+21	O30916	H2O
+0	A9CK30	beta-D-fructofuranosyl-alpha-D-mannopyranoside 6F-phosphate
+1	A9CK30	H2O
+0	P34752	myo-inositol hexakisphosphate
+1	P34752	H2O
+2	P34752	myo-inositol hexakisphosphate
+3	P34752	H2O
+4	P34752	myo-inositol-1,2,3,4,5,6-hexakisphosphate
+5	P34752	H2O
+6	O00085	myo-inositol hexakisphosphate
+7	O00085	H2O
+8	O00107	myo-inositol hexakisphosphate
+9	O00107	H2O
+10	O00107	myo-inositol hexakisphosphate
+11	O00107	H2O
+12	O00096	myo-inositol hexakisphosphate
+13	O00096	H2O
+14	O00096	myo-inositol hexakisphosphate
+15	O00096	H2O
+16	O00093	myo-inositol hexakisphosphate
+17	O00093	H2O
+18	O00093	myo-inositol hexakisphosphate
+19	O00093	H2O
+20	O00092	myo-inositol hexakisphosphate
+21	O00092	H2O
+22	P34753	myo-inositol hexakisphosphate
+23	P34753	H2O
+24	Q8KTX7	myo-inositol hexakisphosphate
+25	Q8KTX7	H2O
+26	Q6U677	myo-inositol hexakisphosphate
+27	Q6U677	H2O
+28	Q6U677	D-glucose 6-phosphate
+29	Q6U677	H2O
+30	Q6U677	D-fructose 1-phosphate
+31	Q6U677	H2O
+32	Q6U677	D-glucose 1-phosphate
+33	Q6U677	H2O
+34	Q6U677	D-ribose 5-phosphate
+35	Q6U677	H2O
+36	Q0GYS1	more
+37	Q0GYS1	4-nitrophenyl phosphate
+38	Q0GYS1	H2O
+39	Q0GYS1	phytate
+40	Q0GYS1	H2O
+41	Q0GYS2	more
+42	Q0GYS2	4-nitrophenyl phosphate
+43	Q0GYS2	H2O
+44	Q0GYS2	phytate
+45	Q0GYS2	H2O
+46	Q6T9Z6	myo-inositol hexakisphosphate
+47	Q6T9Z6	H2O
+48	Q6T9Z6	p-nitrophenyl phosphate
+49	Q6T9Z6	H2O
+50	A5A5J1	myo-inositol hexakisphosphate
+51	A5A5J1	H2O
+52	A2TBB4	myo-inositol hexakisphosphate
+53	A2TBB4	H2O
+54	Q6RK08	phytate
+55	Q6RK08	H2O
+56	B4X9S4	myo-inositol hexakisphosphate
+57	B4X9S4	H2O
+58	Q7CIZ7	myo-inositol hexakisphosphate
+59	Q7CIZ7	H2O
+60	B3VPB2	more
+61	B3VPB2	myo-inositol hexakisphosphate disodium salt
+62	B3VPB2	H2O
+63	B3VPB2	myo-inositol hexakisphosphate sodium salt
+64	B3VPB2	H2O
+65	B3VPB3	more
+66	B3VPB3	myo-inositol hexakisphosphate disodium salt
+67	B3VPB3	H2O
+68	B3VPB3	myo-inositol hexakisphosphate sodium salt
+69	B3VPB3	H2O
+70	Q84CN9	more
+71	Q84CN9	myo-inositol-1,2,3,4,5,6-hexakisphosphate
+72	Q84CN9	H2O
+73	Q84CN9	myo-inositol-1,2,3,4,5,6-hexakisphosphate
+74	Q84CN9	H2O
+75	D3HIF3	more
+76	D3HIF3	myo-inositol hexakisphosphate
+77	D3HIF3	H2O
+78	D3HIF3	myo-inositol-1,2,3,4,5,6-hexakisphosphate
+79	D3HIF3	H2O
+80	O31097	more
+81	O31097	myo-inositol hexakisphosphate
+82	O31097	H2O
+83	D9D7K9	more
+84	D9D7K9	myo-inositol hexakisphosphate
+85	D9D7K9	H2O
+86	D9D7K9	myo-inositol-1,2,3,4,5,6-hexakisphosphate
+87	D9D7K9	H2O
+88	C4PKK7	more
+89	C4PKK7	myo-inositol-1,2,3,4,5,6-hexakisphosphate
+90	C4PKK7	H2O
+91	C4PKL2	more
+92	C4PKL2	myo-inositol-1,2,3,4,5,6-hexakisphosphate
+93	C4PKL2	H2O
+94	C4PKL2	myo-inositol hexakisphosphate
+95	C4PKL2	H2O
+96	C4PKL6	more
+97	C4PKL6	myo-inositol-1,2,3,4,5,6-hexakisphosphate
+98	C4PKL6	H2O
+99	G4WZU3	more
+100	G4WZU3	phytate
+101	G4WZU3	H2O
+102	C4PKK9	more
+103	C4PKK9	myo-inositol-1,2,3,4,5,6-hexakisphosphate
+104	C4PKK9	H2O
+105	C4PKL4	more
+106	C4PKL4	myo-inositol-1,2,3,4,5,6-hexakisphosphate
+107	C4PKL4	H2O
+108	P42094	myo-inositol hexakisphosphate
+109	P42094	H2O
+110	G4WZU4	more
+111	G4WZU4	phytate
+112	G4WZU4	H2O
+113	Q84B22	ADP
+114	Q84B22	H2O
+115	Q84B22	myo-inositol hexakisphosphate
+116	Q84B22	H2O
+117	Q84B22	ATP
+118	Q84B22	H2O
+119	Q84B22	AMP
+120	Q84B22	H2O
+121	H9TUK5	more
+122	H9TUK5	myo-inositol hexakisphosphate
+123	H9TUK5	H2O
+124	H9TUK6	more
+125	H9TUK6	myo-inositol hexakisphosphate
+126	H9TUK6	H2O
+127	H9C9P0	myo-inositol hexakisphosphate
+128	H9C9P0	H2O
+129	Q6YNE9	D-glucose 6-phosphate
+130	Q6YNE9	H2O
+131	Q6YNE9	ADP
+132	Q6YNE9	H2O
+133	Q6YNE9	myo-inositol hexakisphosphate
+134	Q6YNE9	H2O
+135	Q6YNE9	ATP
+136	Q6YNE9	H2O
+137	Q6YNE9	AMP
+138	Q6YNE9	H2O
+139	Q6YNE9	D-fructose 6-phosphate
+140	Q6YNE9	H2O
+141	Q6YNE9	glycerol 2-phosphate
+142	Q6YNE9	H2O
+143	Q6YNE9	more
+144	Q6YNE9	myo-inositol hexakisphosphate
+145	Q6YNE9	H2O
+146	Q6YNE9	myo-inositol hexakisphosphate
+147	Q6YNE9	H2O
+148	O66037	myo-inositol hexakisphosphate
+149	O66037	H2O
+150	F1DH12	more
+151	Q5XNQ9	myo-inositol hexakisphosphate
+152	Q5XNQ9	H2O
+153	V5M269	myo-inositol hexakisphosphate
+154	V5M269	H2O
+155	A0A075FFV0	more
+156	A0A075FFV0	myo-inositol hexakisphosphate
+157	A0A075FFV0	H2O
+158	A0A125R6G8	myo-inositol hexakisphosphate
+159	A0A125R6G8	H2O
+160	F6IQ86	more
+161	F6IQ86	myo-inositol hexakisphosphate
+162	F6IQ86	H2O
+163	B6RGT1	more
+164	B6RGT1	myo-inositol hexakisphosphate
+165	B6RGT1	H2O
+166	C0BTR1	more
+167	C0BTR1	myo-inositol hexakisphosphate
+168	C0BTR1	H2O
+169	B7GTV0	more
+170	B7GTV0	myo-inositol hexakisphosphate
+171	B7GTV0	H2O
+172	D9I0I9	more
+173	D9I0I9	myo-inositol hexakisphosphate
+174	D9I0I9	H2O
+175	A0A0E3VIU5	more
+176	A0A0E3VIU5	myo-inositol hexakisphosphate
+177	A0A0E3VIU5	H2O
+178	P34754	myo-inositol hexakisphosphate
+179	P34754	H2O
+180	Q1KNE3	more
+181	Q1KNE3	myo-inositol hexakisphosphate
+182	Q1KNE3	H2O
+183	V5M269	more
+184	V5M269	myo-inositol hexakisphosphate
+185	V5M269	H2O
+186	A0A0G4QKE4	more
+187	A0A0G4QKE4	myo-inositol hexakisphosphate
+188	A0A0G4QKE4	H2O
+189	A0A2H4W727	more
+190	A0A2H4W727	myo-inositol hexakisphosphate
+191	A0A2H4W727	H2O
+192	F4ZE79	more
+193	F4ZE79	myo-inositol hexakisphosphate
+194	F4ZE79	H2O
+195	A0A2L2NKH0	myo-inositol hexakisphosphate
+196	A0A2L2NKH0	H2O
+197	A0A2L2ND21	myo-inositol hexakisphosphate
+198	A0A2L2ND21	H2O
+199	O31097	more
+200	O31097	myo-inositol hexakisphosphate
+201	O31097	H2O
+202	C4S833	myo-inositol hexakisphosphate
+203	C4S833	H2O
+204	C4S833	4-methylumbelliferyl phosphate
+205	C4S833	H2O
+206	G8GYH6	myo-inositol hexakisphosphate
+207	G8GYH6	H2O
+208	A0A1S6WME7	more
+209	A0A1S6WME7	myo-inositol hexakisphosphate
+210	A0A1S6WME7	H2O
+211	A0A0F7VP60	myo-inositol hexakisphosphate
+212	A0A0F7VP60	H2O
+213	O00107	myo-inositol hexakisphosphate
+214	O00107	H2O
+215	G2QH47	myo-inositol hexakisphosphate
+216	G2QH47	H2O
+0	Q54NE6	2,3-bisphospho-D-glycerate
+1	Q54NE6	H2O
+0	Q5VZY2	diacylglycerol diphosphate
+1	Q5VZY2	H2O
+2	Q8NEB5	diacylglycerol diphosphate
+3	Q8NEB5	H2O
+4	Q05521	diacylglycerol diphosphate
+5	Q05521	H2O
+6	Q05521	more
+7	Q61469	diacylglycerol diphosphate
+8	Q61469	H2O
+9	Q61469	more
+0	Q98I56	D-glycero-beta-D-manno-heptose 1,7-bisphosphate
+1	Q98I56	H2O
+2	Q98I56	D-glycero-alpha-D-manno-heptose 1,7-bisphosphate
+3	Q98I56	H2O
+4	Q97EQ5	D-glycero-beta-D-manno-heptose 1,7-bisphosphate
+5	Q97EQ5	H2O
+6	Q7VL21	D-glycero-beta-D-manno-heptose 1,7-bisphosphate
+7	Q7VL21	H2O
+8	P46452	D-glycero-beta-D-manno-heptose 1,7-bisphosphate
+9	P46452	H2O
+10	Q9ZKY8	D-glycero-beta-D-manno-heptose 1,7-bisphosphate
+11	Q9ZKY8	H2O
+12	O25531	D-glycero-beta-D-manno-heptose 1,7-bisphosphate
+13	O25531	H2O
+14	Q9JWE9	D-glycero-beta-D-manno-heptose 1,7-bisphosphate
+15	Q9JWE9	H2O
+16	Q9I7C0	D-glycero-beta-D-manno-heptose 1,7-bisphosphate
+17	Q9I7C0	H2O
+18	Q8ZRM8	D-glycero-beta-D-manno-heptose 1,7-bisphosphate
+19	Q8ZRM8	H2O
+20	Q9KTJ4	D-glycero-beta-D-manno-heptose 1,7-bisphosphate
+21	Q9KTJ4	H2O
+22	P63228	D-glycero-beta-D-manno-heptose 1,7-bisphosphate
+23	P63228	H2O
+24	P63228	D-fructose 1,6-bisphosphate
+25	P63228	H2O
+26	P63228	D-glycero-D-manno-heptose 1,7-bisphosphate
+27	P63228	H2O
+28	P63228	D-sedoheptulose 1,7-bisphosphate
+29	P63228	H2O
+30	P63228	more
+31	P63228	D-glycero-alpha-D-manno-heptose 1,7-bisphosphate
+32	P63228	H2O
+33	Q7WG29	D-glycero-beta-D-manno-heptose 1,7-bisphosphate
+34	Q7WG29	H2O
+35	Q7WG29	D-glycero-alpha-D-manno-heptose 1,7-bisphosphate
+36	Q7WG29	H2O
+37	Q7WG29	D-fructose 1,6-bisphosphate
+38	Q7WG29	H2O
+0	Q9AGY5	D-glycero-alpha-D-manno-heptose 1,7-bisphosphate
+1	Q9AGY5	H2O
+2	Q8AAI7	D-glycero-alpha-D-manno-heptose 1,7-bisphosphate
+3	Q8AAI7	H2O
+4	Q8AAI7	D-glycero-beta-D-manno-heptose 1,7-bisphosphate
+5	Q8AAI7	H2O
+0	P38218	ADP-ribose 1''-phosphate
+1	P38218	H2O
+2	P38218	more
+0	A9QXB5	2-O-(alpha-D-mannopyranosyl)-3-phospho-D-glycerate
+1	A9QXB5	H2O
+2	A9QXB5	2-O-(alpha-D-glucopyranosyl)-3-phospho-D-glycerate
+3	A9QXB5	H2O
+4	A9QXB5	2-O-(alpha-D-glucopyranosyl)-3-phospho-D-glycerate
+5	A9QXB5	H2O
+6	Q84B23	2-O-(alpha-D-mannopyranosyl)-3-phospho-D-glycerate
+7	Q84B23	H2O
+8	Q84B23	2-O-(alpha-D-glucopyranosyl)-3-phospho-D-glycerate
+9	Q84B23	H2O
+10	P9WIC6	4-nitrophenyl phosphate
+11	P9WIC6	H2O
+12	P9WIC7	2-O-(alpha-D-glucopyranosyl)-3-phospho-D-glycerate
+13	P9WIC7	H2O
+14	P9WIC7	more
+0	Q92835	1-phosphatidyl-1D-myo-inositol 3,4,5-trisphosphate
+1	Q92835	H2O
+2	Q92835	1-phosphatidyl-1D-myo-inositol 1,3,4,5-tetrakisphosphate
+3	Q92835	H2O
+4	O15357	1-phosphatidyl-1D-myo-inositol 3,4,5-trisphosphate
+5	O15357	H2O
+6	O15357	1-phosphatidyl-1D-myo-inositol 1,3,4,5-tetrakisphosphate
+7	O15357	H2O
+8	O15357	more
+9	O15357	inositol 1,3,4,5-tetrakisphosphate
+10	O15357	H2O
+11	O15357	1-phosphatidyl-1D-myo-inositol 4,5-bisphosphate
+12	O15357	H2O
+0	O31667	2-hydroxy-5-methylthio-pent-1-ene-3-one phosphate
+1	O31667	H2O
+0	P76491	5'-dAMP
+1	P76491	H2O
+2	P53144	5'-dAMP
+3	P53144	H2O
+4	P53144	4-nitrophenyl phosphate
+5	P53144	H2O
+6	P53144	5'-dGMP
+7	P53144	H2O
+8	P53144	more
+9	P53144	5'-dCMP
+10	P53144	H2O
+11	P53144	5'-dTMP
+12	P53144	H2O
+13	P53144	AMP
+14	P53144	H2O
+15	P53144	CMP
+16	P53144	H2O
+17	P53144	GMP
+18	P53144	H2O
+19	P53144	UMP
+20	P53144	H2O
+0	Q98UF8	D-glucose 6-phosphate
+1	Q98UF8	H2O
+2	Q98UF8	D-glucose 6-phosphate
+3	Q98UF8	H2O
+4	Q8AYI6	D-glucose 6-phosphate
+5	Q8AYI6	H2O
+6	Q8AYI6	D-glucose 6-phosphate
+7	Q8AYI6	H2O
+8	P35575	D-glucose 6-phosphate
+9	P35575	H2O
+10	P35575	D-glucose 6-phosphate
+11	P35575	H2O
+12	P35575	more
+13	Q9BUM1	D-glucose 6-phosphate
+14	Q9BUM1	H2O
+15	Q9BUM1	D-glucose 6-phosphate
+16	Q9BUM1	H2O
+17	Q9BUM1	2-Deoxy-D-glucose 6-phosphate
+18	Q9BUM1	H2O
+19	Q9BUM1	p-nitrophenyl phosphate
+20	Q9BUM1	H2O
+21	P43428	D-glucose 6-phosphate
+22	P43428	H2O
+23	P43428	D-glucose 6-phosphate
+24	P43428	H2O
+0	E6ENP9	leucrose 6'-phosphate
+1	E6ENP9	H2O
+2	E6ENP9	maltose 6'-phosphate
+3	E6ENP9	H2O
+4	E6ENP9	turanose 6'-phosphate
+5	E6ENP9	H2O
+0	Q9W197	N7-methyl-GDP
+1	Q9W197	H2O
+2	Q9W197	N7-methyl-GMP
+3	Q9W197	H2O
+4	Q9W197	more
+5	Q9H0P0	N7-methyl-GDP
+6	Q9H0P0	H2O
+7	Q9H0P0	N7-methyl-GMP
+8	Q9H0P0	H2O
+9	Q9H0P0	more
+0	O07565	D-glucosamine 6-phosphate
+1	O07565	H2O
+2	O07565	kanosamine 6-phosphate
+3	O07565	H2O
+4	O07565	more
+0	Q9M8S8	beta-L-galactose 1-phosphate
+1	Q9M8S8	H2O
+2	Q9M8S8	D-galactose 1-phosphate
+3	Q9M8S8	H2O
+4	Q9M8S8	D-inositol 3-phosphate
+5	Q9M8S8	H2O
+6	Q9M8S8	alpha-D-glucose 1-phosphate
+7	Q9M8S8	H2O
+8	Q9M8S8	glycerol 2-phosphate
+9	Q9M8S8	H2O
+10	Q9M8S8	more
+11	Q9M8S8	myo-inositol 1-phosphate
+12	Q9M8S8	H2O
+13	Q5U789	beta-L-galactose 1-phosphate
+14	Q5U789	H2O
+15	B3GK03	beta-L-galactose 1-phosphate
+16	B3GK03	H2O
+17	B3GK03	myo-inositol 1-phosphate
+18	B3GK03	H2O
+0	Q13496	1-phosphatidyl-1D-myo-inositol 3,5-bisphosphate
+1	Q13496	H2O
+2	Q13496	more
+3	Q13615	1-phosphatidyl-1D-myo-inositol 3,5-bisphosphate
+4	Q13615	H2O
+5	Q9Y217	1-phosphatidyl-1D-myo-inositol 3,5-bisphosphate
+6	Q9Y217	H2O
+7	Q9Y217	1-phosphatidyl-1D-myo-inositol 3-phosphate
+8	Q9Y217	H2O
+9	Q9Y217	more
+10	Q9Z2D1	1-phosphatidyl-1D-myo-inositol 3,5-bisphosphate
+11	Q9Z2D1	H2O
+12	Q9Z2D1	1-phosphatidyl-1D-myo-inositol 3-phosphate
+13	Q9Z2D1	H2O
+14	Q96EF0	1-phosphatidyl-1D-myo-inositol 3,5-bisphosphate
+15	Q96EF0	H2O
+16	Q96EF0	1-phosphatidyl-1D-myo-inositol 3-phosphate
+17	Q96EF0	H2O
+18	Q13613	1-phosphatidyl-1D-myo-inositol 3,5-bisphosphate
+19	Q13613	H2O
+20	Q13613	1-phosphatidyl-1D-myo-inositol 5-phosphate
+21	Q13613	H2O
+22	Q13613	di-C8 phosphatidylinositol 3,5-bisphosphate
+23	Q13613	H2O
+24	Q13613	di-C8 phosphatidylinositol 5-phosphate
+25	Q13613	H2O
+0	Q99312	IMP
+1	Q99312	H2O
+0	Q9LL59	heteroduplex DNA
+1	Q9LL59	H2O
+2	Q9NJY3	ssDNA
+3	Q9NJY3	H2O
+4	Q8LDW6	more
+0	Q8I9M9	DNA
+1	Q8I9M9	H2O
+2	P13717	DNA
+3	P13717	H2O
+4	P13717	RNA
+5	P13717	H2O
+6	Q9SXA6	more
+7	Q9C9G4	more
+8	F4JJL3	more
+9	F4JJL0	more
+0	P00644	more
+1	P00644	ss-DNA
+2	P00644	H2O
+3	A0A0H3JPX6	more
+4	Q7A6P2	more
+5	G1ARD5	more
+6	Q19328	RNA
+7	Q19328	H2O
+0	P67095	bis-p-nitrophenyl phosphate
+1	P67095	H2O
+2	P67095	p-nitrophenylphosphorylcholine
+3	P67095	H2O
+4	P67095	p-nitrophenyl 5'-thymidine monophosphate
+5	P67095	H2O
+6	P06802	DNA
+7	P06802	H2O
+8	Q6ZI95	more
+9	Q10Q09	more
+10	C8CT07	more
+11	Q8H1D9	more
+12	Q58346	bis-p-nitrophenyl phosphate
+13	Q58346	H2O
+14	Q58346	p-nitrophenylphosphorylcholine
+15	Q58346	H2O
+16	Q58346	p-nitrophenyl 5'-thymidine monophosphate
+17	Q58346	H2O
+18	Q92484	more
+19	Q92484	4-nitrophenyl phosphocholine
+20	Q92484	H2O
+21	P38319	more
+22	P38319	(5'-GATCTAAAAGACTT-3')-phosphotyrosine
+23	P38319	H2O
+24	Q9NUW8	more
+25	Q9NUW8	3'-phosphohistidyl-linked tyrosyl-DNA phosphodiesterase I-DNA complex
+26	Q9NUW8	H2O
+27	Q9NUW8	3'-phosphotyrosyl-linked topoisomerase I-DNA complex
+28	Q9NUW8	H2O
+29	Q9NUW8	5'-phosphotyrosyl-linked topoisomerase II-DNA complex
+30	Q9NUW8	H2O
+31	Q9NUW8	5'-(5,6-FAM-aacgtcagggtcttcc-BHQ1)-3'
+32	Q9NUW8	H2O
+33	Q8BJ37	more
+34	Q4G056	more
+35	E2REL5	more
+36	F1NSQ5	more
+37	Q9VQM4	more
+38	Q9NKW8	more
+39	Q9NKW8	5'-(5,6-FAM-aacgtcagggtcttcc-BHQ1)-3'
+40	Q9NKW8	H2O
+0	P51178	1-phosphatidyl-1D-myo-inositol 4,5-bisphosphate
+1	P51178	H2O
+2	P19174	1-phosphatidyl-1D-myo-inositol 4,5-bisphosphate
+3	P19174	H2O
+4	B2LSE7	phosphatidylinositol 4,5-bisphosphate
+5	B2LSE7	H2O
+6	A0A0H3GCV8	more
+7	A0A0H3GCV8	dibutyrylphosphatidylinositol
+8	A0A0H3GCV8	H2O
+9	A0A0H3GCV8	phosphatidylinositol
+10	A0A0H3GCV8	H2O
+11	A0A1S4NYD4	soybean oil
+12	A0A1S4NYD4	H2O
+13	A0A1S4NYD4	1-phosphatidyl-1D-myo-inositol 4,5-bisphosphate
+14	A0A1S4NYD4	H2O
+15	Q9NQ66	1-phosphatidyl-1D-myo-inositol 4,5-bisphosphate
+16	Q9NQ66	H2O
+17	Q99P84	more
+18	Q99P84	1-phosphatidyl-1D-myo-inositol 4,5-bisphosphate
+19	Q99P84	H2O
+20	Q9FSW1	1-phosphatidyl-1D-myo-inositol 4,5-bisphosphate
+21	Q9FSW1	H2O
+22	Q39033	more
+23	Q39033	phosphatidylinositol
+24	Q39033	H2O
+25	Q39033	1-phosphatidyl-1D-myo-inositol 4,5-bisphosphate
+26	Q39033	H2O
+27	P16885	more
+28	P16885	1-phosphatidyl-1D-myo-inositol 4,5-bisphosphate
+29	P16885	H2O
+30	Q8K4D7	more
+31	Q8K4D7	1-phosphatidyl-1D-myo-inositol 4,5-bisphosphate
+32	Q8K4D7	H2O
+33	Q8R3B1	1-phosphatidyl-1D-myo-inositol 4,5-bisphosphate
+34	Q8R3B1	H2O
+35	Q9TZN8	phosphatidylinositol
+36	Q9TZN8	H2O
+37	Q9TZN8	1-phosphatidyl-1D-myo-inositol 4,5-bisphosphate
+38	Q9TZN8	H2O
+39	O24297	more
+40	O24297	1-phosphatidyl-1D-myo-inositol 4,5-bisphosphate
+41	O24297	H2O
+42	A2AP18	more
+43	A2AP18	1-phosphatidyl-1D-myo-inositol 4,5-bisphosphate
+44	A2AP18	H2O
+45	Q4KWH8	more
+46	Q4KWH8	1-phosphatidyl-1D-myo-inositol 4,5-bisphosphate
+47	Q4KWH8	H2O
+48	Q2YGU0	more
+49	Q2YGU1	more
+50	Q7T274	1-phosphatidyl-1D-myo-inositol 4,5-bisphosphate
+51	Q7T274	H2O
+52	Q3ZTU7	1-phosphatidyl-1D-myo-inositol 4,5-bisphosphate
+53	Q3ZTU7	H2O
+54	Q3ZTU7	phosphatidylinositol
+55	Q3ZTU7	H2O
+56	Q4KWH5	more
+57	Q4KWH5	1-phosphatidyl-1D-myo-inositol 4,5-bisphosphate
+58	Q4KWH5	H2O
+59	Q9Z1B3	more
+60	Q9Z1B3	1-phosphatidyl-1D-myo-inositol 4,5-bisphosphate
+61	Q9Z1B3	H2O
+62	P10687	more
+63	P10687	1-phosphatidyl-1D-myo-inositol 4,5-bisphosphate
+64	P10687	H2O
+65	Q62077	more
+66	Q01970	more
+67	Q01970	1-phosphatidyl-1D-myo-inositol 4,5-bisphosphate
+68	Q01970	H2O
+69	Q00722	more
+70	Q00722	1-phosphatidyl-1D-myo-inositol 4,5-bisphosphate
+71	Q00722	H2O
+72	Q99JE6	1-phosphatidyl-1D-myo-inositol 4,5-bisphosphate
+73	Q99JE6	H2O
+74	P10686	1-phosphatidyl-1D-myo-inositol 4,5-bisphosphate
+75	P10686	H2O
+76	P10688	1-phosphatidyl-1D-myo-inositol 4,5-bisphosphate
+77	P10688	H2O
+78	Q8K4S1	more
+79	Q9P212	more
+80	Q8CIH5	more
+81	Q8CIH5	1-phosphatidyl-1D-myo-inositol 4,5-bisphosphate
+82	Q8CIH5	H2O
+83	Q6TM09	1-phosphatidyl-1D-myo-inositol 4,5-bisphosphate
+84	Q6TM09	H2O
+85	Q6SA76	1-phosphatidyl-1D-myo-inositol 4,5-bisphosphate
+86	Q6SA76	H2O
+87	Q6TM10	1-phosphatidyl-1D-myo-inositol 4,5-bisphosphate
+88	Q6TM10	H2O
+0	O60906	sphingomyelin
+1	O60906	H2O
+2	O60906	sphingomyelin
+3	O60906	H2O
+4	Q9ET64	sphingomyelin
+5	Q9ET64	H2O
+6	Q9ET64	sphingomyelin
+7	Q9ET64	H2O
+8	Q6UWV6	sphingomyelin
+9	Q6UWV6	H2O
+10	Q6UWV6	sphingomyelin
+11	Q6UWV6	H2O
+12	Q6UWV6	more
+13	Q6UWV6	4-nitrophenyl phosphorylcholine
+14	Q6UWV6	H2O
+15	Q6UWV6	bis(4-nitrophenyl)phosphate
+16	Q6UWV6	H2O
+17	Q6UWV6	sphingomyelin
+18	Q6UWV6	H2O
+19	Q9NY59	sphingomyelin
+20	Q9NY59	H2O
+21	Q9NY59	sphingomyelin
+22	Q9NY59	H2O
+23	Q9JJY3	sphingomyelin
+24	Q9JJY3	H2O
+25	Q9JJY3	sphingomyelin
+26	Q9JJY3	H2O
+27	Q9JJY3	more
+28	Q9JJY3	a sphingomyelin
+29	Q9JJY3	H2O
+30	Q9RLV9	sphingomyelin
+31	Q9RLV9	H2O
+32	Q9RLV9	sphingomyelin
+33	Q9RLV9	H2O
+34	Q9RLV9	more
+35	Q9BDR3	sphingomyelin
+36	Q9BDR3	H2O
+37	Q9BDR3	sphingomyelin
+38	Q9BDR3	H2O
+39	Q9BDR3	more
+40	P09599	sphingomyelin
+41	P09599	H2O
+42	P09599	sphingomyelin
+43	P09599	H2O
+44	P09599	more
+45	Q4LEU0	sphingomyelin
+46	Q4LEU0	H2O
+47	Q4LEU0	sphingomyelin
+48	Q4LEU0	H2O
+49	Q4LEU0	more
+50	Q4LEU0	choline-methyl-sphingomyelin
+51	Q4LEU0	H2O
+52	Q4LEU0	1-O-octadecyl-2-lyso-platelet-activating factor
+53	Q4LEU0	H2O
+54	Q4LEU0	C6-7-nitro-2-1,3-benzoxadiazol-4-yl-sphingomyelin
+55	Q4LEU0	H2O
+56	D6MZJ6	sphingomyelin
+57	D6MZJ6	H2O
+58	D6MZJ6	sphingomyelin
+59	D6MZJ6	H2O
+60	A6P7M9	sphingomyelin
+61	A6P7M9	H2O
+62	A6P7M9	sphingomyelin
+63	A6P7M9	H2O
+64	A6P7M9	more
+65	A6P7M9	1,2-di [(cis)-9-octadecenoyl]-sn-glycero-3-phospho-(1-rac-glycerol)
+66	A6P7M9	H2O
+67	A6P7M9	1,2-di(cis-9-octadecenoyl)-sn-glycerol-3-phosphate
+68	A6P7M9	H2O
+69	A6P7M9	1,2-dioleoyl-sn-glycero-3-phospho-L-serine
+70	A6P7M9	H2O
+71	A6P7M9	1,2-dioleoyl-sn-glycero-3-phosphocholine
+72	A6P7M9	H2O
+73	A6P7M9	L-alpha-phosphatidylinositol
+74	A6P7M9	H2O
+75	Q9NXE4	sphingomyelin
+76	Q9NXE4	H2O
+77	Q9NXE4	sphingomyelin
+78	Q9NXE4	H2O
+79	P11889	sphingomyelin
+80	P11889	H2O
+81	P11889	sphingomyelin
+82	P11889	H2O
+83	I4DXK5	more
+84	I4DXK5	a sphingomyelin
+85	I4DXK5	H2O
+86	P59116	a sphingomyelin
+87	P59116	H2O
+88	P17405	a sphingomyelin
+89	P17405	H2O
+90	P17405	sphingomyelin
+91	P17405	H2O
+92	E9LUE7	a sphingomyelin
+93	E9LUE7	H2O
+94	E9LUE8	a sphingomyelin
+95	E9LUE8	H2O
+96	E9LUE9	a sphingomyelin
+97	E9LUE9	H2O
+98	Q8IUN0	a sphingomyelin
+99	Q8IUN0	H2O
+100	Q92484	more
+101	Q92484	ADP
+102	Q92484	H2O
+103	Q92484	ADP-ribose
+104	Q92484	H2O
+105	Q92484	ATP
+106	Q92484	H2O
+107	Q92484	CDP-choline
+108	Q92484	H2O
+109	Q92484	CDP-ethanolamine
+110	Q92484	H2O
+111	A0A2U6TC85	N-[[6-[(7-nitro-2-1 3-benzoxadiazol-4-yl)amino]hexanoyl]-hexanoyl]-sphingosine-1 phosphocholine
+112	A0A2U6TC85	H2O
+113	A0A2U6TC85	sphingomyelin
+114	A0A2U6TC85	H2O
+115	P58242	more
+116	P58242	bis(4-nitrophenyl)phosphate
+117	P58242	H2O
+118	P58242	sphingomyelin
+119	P58242	H2O
+120	P58242	ADP
+121	P58242	H2O
+122	P58242	ATP
+123	P58242	H2O
+124	P58242	CDP-choline
+125	P58242	H2O
+126	Q04519	bis(4-nitrophenyl)phosphate
+127	Q04519	H2O
+128	Q04519	sphingomyelin
+129	Q04519	H2O
+0	P21515	acyl-carrier-protein
+1	P21515	H2O
+0	P53052	cyclic 2',3'-UMP
+1	P53052	H2O
+2	P53052	di(p-nitrophenyl) phosphate
+3	P53052	H2O
+4	P53052	more
+5	P53052	cyclic 2',3'-CMP
+6	P53052	H2O
+7	P53052	cyclic 2',3'-AMP
+8	P53052	H2O
+9	P53052	cyclic 2',3'-AMP
+10	P53052	H2O
+11	P53052	cyclic 2',3'-GMP
+12	P53052	H2O
+13	P53052	p-nitrophenyl phosphorylcholine
+14	P53052	H2O
+15	P53052	nucleoside 2',3'-cyclic phosphate
+16	P53052	H2O
+17	P67095	bis-p-nitrophenyl phosphate
+18	P67095	H2O
+19	P67095	cyclic 3',5'-UMP
+20	P67095	H2O
+21	P67095	more
+22	P67095	cyclic 2',3'-AMP
+23	P67095	H2O
+24	P67095	cyclic 2',3'-AMP
+25	P67095	H2O
+26	P67095	cyclic 2',3'-GMP
+27	P67095	H2O
+28	P67095	cyclic 3',5'-AMP
+29	P67095	H2O
+30	P67095	cyclic 3',5'-GMP
+31	P67095	H2O
+32	P67095	p-nitrophenyl phosphate
+33	P67095	H2O
+34	P06961	diphosphate
+35	P06961	H2O
+36	P06961	2',3'-cAMP
+37	P06961	H2O
+38	P06961	2',3'-cGMP
+39	P06961	H2O
+40	P06961	2'-AMP
+41	P06961	H2O
+42	P06961	ADP
+43	P06961	H2O
+44	P06961	ATP
+45	P06961	H2O
+46	P06961	CDP
+47	P06961	H2O
+48	P06961	CTP
+49	P06961	H2O
+50	P06961	NADP+
+51	P06961	H2O
+52	P06961	p-nitrophenyl phosphate
+53	P06961	H2O
+0	Q9HCR9	cAMP
+1	Q9HCR9	H2O
+2	Q9HCR9	cGMP
+3	Q9HCR9	H2O
+4	P27815	3',5'-cAMP
+5	P27815	H2O
+6	P27815	3',5'-cGMP
+7	P27815	H2O
+8	P54750	3',5'-cAMP
+9	P54750	H2O
+10	P54750	3',5'-cGMP
+11	P54750	H2O
+12	Q01064	3',5'-cAMP
+13	Q01064	H2O
+14	Q01064	3',5'-cGMP
+15	Q01064	H2O
+16	Q01064	nucleoside 3',5'-cyclic phosphate
+17	Q01064	H2O
+18	O00408	3',5'-cAMP
+19	O00408	H2O
+20	O00408	3',5'-cGMP
+21	O00408	H2O
+22	C7DXW3	3',5'-cAMP
+23	C7DXW3	H2O
+24	C7DXW3	3',5'-cGMP
+25	C7DXW3	H2O
+26	C7DXW4	3',5'-cAMP
+27	C7DXW4	H2O
+28	C7DXW4	3',5'-cGMP
+29	C7DXW4	H2O
+30	C7DXW5	3',5'-cAMP
+31	C7DXW5	H2O
+32	C7DXW5	3',5'-cGMP
+33	C7DXW5	H2O
+34	C7DXW6	3',5'-cAMP
+35	C7DXW6	H2O
+36	C7DXW6	3',5'-cGMP
+37	C7DXW6	H2O
+38	C7DXW7	3',5'-cAMP
+39	C7DXW7	H2O
+40	C7DXW7	3',5'-cGMP
+41	C7DXW7	H2O
+42	Q01065	more
+43	P9WP65	3',5'-cAMP
+44	P9WP65	H2O
+45	P9WP65	3',5'-cGMP
+46	P9WP65	H2O
+47	P9WP65	2',3'-cAMP
+48	P9WP65	H2O
+49	Q01062	more
+50	Q61481	more
+51	P22434	3',5'-cAMP
+52	P22434	H2O
+53	P22434	3',5'-cGMP
+54	P22434	H2O
+55	P22434	more
+56	M9W6G9	3',5'-cAMP
+57	M9W6G9	H2O
+58	M9W6G9	3',5'-cGMP
+59	M9W6G9	H2O
+60	M9W6G9	2',3'-cAMP
+61	M9W6G9	H2O
+62	Q9X1T1	3',5'-cAMP
+63	Q9X1T1	H2O
+64	Q9X1T1	more
+65	Q9X1T1	5'-pApA
+66	Q9X1T1	H2O
+67	Q9X1T1	5'-pApG
+68	Q9X1T1	H2O
+69	Q9X1T1	5'-pGpG
+70	Q9X1T1	H2O
+71	Q922S4	3',5'-cGMP
+72	Q922S4	H2O
+0	Q8WTR4	sn-glycero-3-phosphocholine
+1	Q8WTR4	H2O
+2	A0A0U4VTN7	choline lysoplasmalogen
+3	A0A0U4VTN7	H2O
+4	A0A0U4VTN7	ethanolamine lysoplasmalogen
+5	A0A0U4VTN7	H2O

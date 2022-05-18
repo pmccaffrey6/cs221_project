@@ -1,0 +1,2445 @@
+	uniprot_ids	substrates
+0	Q9RGS8	more
+1	Q9RGS8	sphingomyelin
+2	Q9RGS8	H2O
+3	Q9RGS8	phosphatidylcholine
+4	Q9RGS8	H2O
+5	Q8BGN3	more
+6	Q8BGN3	lysophosphatidylcholine
+7	Q8BGN3	H2O
+8	Q8BGN3	p-nitrophenyl phenylphosphate
+9	Q8BGN3	H2O
+10	Q8BGN3	p-nitrophenyl phosphorylcholine
+11	Q8BGN3	H2O
+12	Q8BGN3	p-nitrophenyl phosphorylcholine
+13	Q8BGN3	H2O
+14	Q6UWR7	more
+15	Q6UWR7	1-palmitoyl-lysophosphatidylcholine
+16	Q6UWR7	H2O
+17	Q6UWR7	1-arachidonoyl-2-lysophosphatidylcholine
+18	Q6UWR7	H2O
+19	Q6UWR7	1-arachidoyl-2-lysophosphatidylcholine
+20	Q6UWR7	H2O
+21	Q6UWR7	1-lauroyl-lysophosphatidylcholine
+22	Q6UWR7	H2O
+23	Q6UWR7	1-linoleoyl-lysophosphatidylcholine
+24	Q6UWR7	H2O
+25	Q6UWR7	1-myristoyl-lysophosphatidylcholine
+26	Q6UWR7	H2O
+27	Q6UWR7	1-oleoyl-lysophosphatidylcholine
+28	Q6UWR7	H2O
+29	Q6UWR7	1-stearoyl-lysophosphatidylcholine
+30	Q6UWR7	H2O
+31	Q6UWR7	egg lysophosphatidylcholine
+32	Q6UWR7	H2O
+33	Q6UWR7	glycerophosphorylcholine
+34	Q6UWR7	H2O
+35	Q6UWR7	lysoPAF
+36	Q6UWR7	H2O
+37	Q6UWR7	p-nitrophenyl phenylphosphate
+38	Q6UWR7	H2O
+39	Q6UWR7	p-nitrophenyl phosphorylcholine
+40	Q6UWR7	H2O
+41	Q6UWR7	platelet activating factor
+42	Q6UWR7	H2O
+43	Q6UWR7	sphingosylphosphorylcholine
+44	Q6UWR7	H2O
+45	O06350	triolein
+46	O06350	H2O
+47	O06350	phosphatidylcholine
+48	O06350	H2O
+49	Q1RQG7	phosphatidylcholine
+50	Q1RQG7	H2O
+51	Q9SRQ7	phosphatidylethanolamine
+52	Q9SRQ7	H2O
+53	Q9SRQ7	phosphatidylcholine
+54	Q9SRQ7	H2O
+55	Q9SRQ7	phosphatidylcholine
+56	Q9SRQ7	H2O
+57	P09598	1,2-dihexanoyl-sn-glycero-3-phosphoethanolamine
+58	P09598	H2O
+59	P09598	1,2-dihexanoyl-sn-glycero-3-phospho-L-serine
+60	P09598	H2O
+61	P09598	1,2-dihexanoyl-sn-glycero-3-phosphocholine
+62	P09598	H2O
+63	Q9SRQ6	phosphatidic acid
+64	Q9SRQ6	H2O
+65	Q9S816	phosphatidylethanolamine
+66	Q9S816	H2O
+67	Q9S816	phosphatidylcholine
+68	Q9S816	H2O
+69	Q5ZZJ8	more
+70	Q5ZZJ8	phosphatidylcholine
+71	Q5ZZJ8	H2O
+72	Q5ZZJ8	phosphatidylglycerol
+73	Q5ZZJ8	H2O
+74	Q5ZZJ8	phosphatidylinositol
+75	Q5ZZJ8	H2O
+76	A0A0E4B8Q4	more
+77	A0A0E4B8Q4	1-palmitoyl-2-oleoyl-sn-glycero-3-phosphocholine
+78	A0A0E4B8Q4	H2O
+79	A0A0E4B8Q4	L-alpha-lysophosphatidylcholine
+80	A0A0E4B8Q4	H2O
+81	A0A0E4B8Q4	choline plasmalogen
+82	A0A0E4B8Q4	H2O
+0	O76074	3',5'-cGMP
+1	O76074	H2O
+2	O76074	guanosine 3',5'-cyclic phosphate
+3	O76074	H2O
+4	O76074	cGMP
+5	O76074	H2O
+6	Q8MLZ3	guanosine 3',5'-cyclic phosphate
+7	Q8MLZ3	H2O
+8	Q8QZV1	guanosine 3',5'-cyclic phosphate
+9	Q8QZV1	H2O
+10	O70628	3',5'-cGMP
+11	O70628	H2O
+12	O70628	guanosine 3',5'-cyclic phosphate
+13	O70628	H2O
+14	Q8UUY7	guanosine 3',5'-cyclic phosphate
+15	Q8UUY7	H2O
+16	O76083	guanosine 3',5'-cyclic phosphate
+17	O76083	H2O
+18	Q2V2M6	3',5'-cGMP
+19	Q2V2M6	H2O
+20	Q864F1	3',5'-cGMP
+21	Q864F1	H2O
+22	P52731	3',5'-cGMP
+23	P52731	H2O
+24	P52731	more
+25	P52731	3',5'-cAMP
+26	P52731	H2O
+27	O54735	3',5'-cGMP
+28	O54735	H2O
+29	O54735	more
+30	Q8CG03	3',5'-cGMP
+31	Q8CG03	H2O
+0	P06961	2',3'-cAMP
+1	P06961	H2O
+2	P06961	2',3'-cGMP
+3	P06961	H2O
+4	P06961	2'-AMP
+5	P06961	H2O
+6	P06961	ADP
+7	P06961	H2O
+8	P06961	ATP
+9	P06961	H2O
+10	P06961	CDP
+11	P06961	H2O
+12	P06961	CTP
+13	P06961	H2O
+14	P06961	NADP+
+15	P06961	H2O
+16	P06961	diphosphate
+17	P06961	H2O
+18	P06961	p-nitrophenyl phosphate
+19	P06961	H2O
+20	P09543	cyclic 2',3'-AMP
+21	P09543	H2O
+22	P16330	nucleoside 2',3'-cyclic phosphate
+23	P16330	H2O
+24	P16330	nucleoside 2',3'-cyclic phosphate
+25	P16330	H2O
+26	P16330	2',3'-cAMP
+27	P16330	H2O
+28	P16330	2',3'-cCMP
+29	P16330	H2O
+30	P16330	2',3'-cNADP+
+31	P16330	H2O
+32	P16330	adenosine 2,3-cyclic phosphorothioate
+33	P16330	H2O
+34	P16330	2',3'-cyclic AMP
+35	P16330	H2O
+36	P16330	2',3'-cNADP+
+37	P16330	H2O
+38	P13233	nucleoside 2',3'-cyclic phosphate
+39	P13233	H2O
+40	P13233	nucleoside 2',3'-cyclic phosphate
+41	P13233	H2O
+42	P13233	2',3'-cAMP
+43	P13233	H2O
+0	Q8BGN3	sn-glycero-3-phosphocholine
+1	Q8BGN3	H2O
+2	U6C6H1	sn-glycero-3-phosphocholine
+3	U6C6H1	H2O
+4	U6C6H1	more
+5	U6C6H1	L-alpha-lysophosphatidylcholine
+6	U6C6H1	H2O
+7	U6C6H1	sn-glycerol-3-phosphate
+8	U6C6H1	H2O
+9	U6C6H1	sn-glycerol-3-phosphocholine
+10	U6C6H1	H2O
+11	U6C6H1	sn-glycerol-3-phosphoethanolamine
+12	U6C6H1	H2O
+0	Q9R1E6	lysophosphatidylcholine
+1	Q9R1E6	H2O
+2	Q9R1E6	p-nitrophenyl phenylphosphate
+3	Q9R1E6	H2O
+4	Q9R1E6	arachidoyl-lysophosphatidylcholine
+5	Q9R1E6	H2O
+6	Q9R1E6	behenoyl-lysophosphatidylcholine
+7	Q9R1E6	H2O
+8	Q9R1E6	lauroyl-lysophosphatidylcholine
+9	Q9R1E6	H2O
+10	Q9R1E6	myristoyl-lysophosphatidylcholine
+11	Q9R1E6	H2O
+12	Q9R1E6	oleoyl-lysophosphatidylcholine
+13	Q9R1E6	H2O
+14	Q9R1E6	palmitoyl-lysophosphatidylcholine
+15	Q9R1E6	H2O
+16	Q9R1E6	stearoyl-lysophosphatidylcholine
+17	Q9R1E6	H2O
+18	Q9R1E6	more
+19	Q9R1E6	decanoyl-lysophosphatidylcholine
+20	Q9R1E6	H2O
+21	Q9R1E6	hexanoyl-lysophosphatidylcholine
+22	Q9R1E6	H2O
+23	Q9R1E6	octanoyl-lysophosphatidylcholine
+24	Q9R1E6	H2O
+25	Q13822	lysophosphatidylcholine
+26	Q13822	H2O
+27	Q13822	lysophosphatidyl choline
+28	Q13822	H2O
+29	Q13822	arachidoyl-lysophosphatidylcholine
+30	Q13822	H2O
+31	Q13822	behenoyl-lysophosphatidylcholine
+32	Q13822	H2O
+33	Q13822	lauroyl-lysophosphatidylcholine
+34	Q13822	H2O
+35	Q13822	myristoyl-lysophosphatidylcholine
+36	Q13822	H2O
+37	Q13822	oleoyl-lysophosphatidylcholine
+38	Q13822	H2O
+39	Q13822	palmitoyl-lysophosphatidylcholine
+40	Q13822	H2O
+41	Q13822	stearoyl-lysophosphatidylcholine
+42	Q13822	H2O
+43	Q13822	more
+44	Q13822	decanoyl-lysophosphatidylcholine
+45	Q13822	H2O
+46	Q13822	hexanoyl-lysophosphatidylcholine
+47	Q13822	H2O
+48	Q13822	octanoyl-lysophosphatidylcholine
+49	Q13822	H2O
+50	Q64610	lysophosphatidylcholine
+51	Q64610	H2O
+52	Q64610	more
+53	Q9CRY7	lysophosphatidylcholine
+54	Q9CRY7	H2O
+55	Q9CRY7	lysophosphatidyl choline
+56	Q9CRY7	H2O
+57	Q9CRY7	1-O-alkyl-sn-glycero-3-phosphocholine
+58	Q9CRY7	H2O
+59	Q9CRY7	lysophosphatidyl ethanolamine
+60	Q9CRY7	H2O
+61	Q9CRY7	N-palmitoyllysophosphatidylethanolamine
+62	Q9CRY7	H2O
+63	Q99LY2	lysophosphatidyl choline
+64	Q99LY2	H2O
+65	Q99LY2	N-arachidonoyl-lysophosphatidylethanolamine
+66	Q99LY2	H2O
+67	Q99LY2	N-oleoyl-lysophosphatidylethanolamine
+68	Q99LY2	H2O
+69	Q99LY2	N-palmitoyl-lysophosphatidylethanolamine
+70	Q99LY2	H2O
+71	Q99LY2	N-palmitoyl-lysoplasmenylethanolamine
+72	Q99LY2	H2O
+73	Q99LY2	more
+74	Q7L5L3	lysophosphatidyl choline
+75	Q7L5L3	H2O
+76	Q7L5L3	N-palmitoyllysophosphatidylethanolamine
+77	Q7L5L3	H2O
+78	Q7L5L3	N-arachidonoyllysophosphatidylethanolamine
+79	Q7L5L3	H2O
+80	Q7L5L3	N-oleoyllysophosphatidylethanolamine
+81	Q7L5L3	H2O
+82	Q7L5L3	N-palmitoyllysoplasmenylethanolamine
+83	Q7L5L3	H2O
+84	Q7L5L3	more
+0	O82549	phosphatidylcholine
+1	O82549	glycerol
+2	O82549	phosphatidylcholine
+3	O82549	L-serine
+4	O82549	phosphatidylcholine
+5	O82549	H2O
+6	O82549	phosphatidylcholine
+7	O82549	ethanolamine
+8	O82549	phosphatidylethanolamine
+9	O82549	H2O
+10	O82549	phosphatidylinositol
+11	O82549	H2O
+12	O82549	phosphatidylglycerol
+13	O82549	H2O
+14	O82549	phosphatidylserine
+15	O82549	H2O
+16	P55939	phosphatidylcholine
+17	P55939	glycerol
+18	P55939	phosphatidylcholine
+19	P55939	L-serine
+20	P55939	phosphatidylcholine
+21	P55939	H2O
+22	P55939	phosphatidylcholine
+23	P55939	ethanolamine
+24	P55939	phosphatidylcholine
+25	P55939	D-serine
+26	P55939	phosphatidylethanolamine
+27	P55939	H2O
+28	P55939	phosphatidylinositol
+29	P55939	H2O
+30	P55939	phosphatidylglycerol
+31	P55939	H2O
+32	P55939	phosphatidylserine
+33	P55939	H2O
+34	Q9C888	phosphatidylcholine
+35	Q9C888	H2O
+36	Q9C888	phosphatidylglycerol
+37	Q9C888	H2O
+38	Q9C888	phosphatidylserine
+39	Q9C888	H2O
+40	Q38882	1-palmitoyl-2-oleoyl-sn-glycero-3-phosphocholine
+41	Q38882	H2O
+42	Q38882	phosphatidylcholine
+43	Q38882	H2O
+44	Q54UK0	phosphatidylcholine
+45	Q54UK0	H2O
+46	Q54Z25	phosphatidylcholine
+47	Q54Z25	H2O
+48	Q7KML4	phosphatidylcholine
+49	Q7KML4	H2O
+50	A2BG86	phosphatidylcholine
+51	A2BG86	H2O
+52	Q54WR4	phosphatidylcholine
+53	Q54WR4	H2O
+54	D7P5E0	more
+55	E0D7I2	more
+56	E0D7I2	phosphatidylcholine
+57	E0D7I2	H2O
+58	E0D7I2	1-palmitoyl-2-oleoyl-sn-glycero-3-phosphocholine
+59	E0D7I2	H2O
+60	E0D7I2	phosphatidylcholine
+61	E0D7I2	L-serine
+62	E0D7I2	phosphatidylcholine
+63	E0D7I2	H2O
+64	O04865	phosphatidylcholine
+65	O04865	H2O
+66	O04865	phospholipid
+67	O04865	H2O
+68	P93400	phosphatidylcholine
+69	P93400	H2O
+70	P93400	phospholipid
+71	P93400	H2O
+72	P84147	phosphatidylglycerol
+73	P84147	H2O
+74	P84147	phosphatidylserine
+75	P84147	H2O
+76	P84147	more
+77	P84147	phosphatidylcholine
+78	P84147	H2O
+79	O82549	more
+80	P36126	more
+81	A0A0E4B8Q4	1-palmitoyl-2-oleoyl-sn-glycero-3-phosphocholine
+82	A0A0E4B8Q4	H2O
+83	A0A0E4B8Q4	L-alpha-lysophosphatidylcholine
+84	A0A0E4B8Q4	H2O
+85	A0A0E4B8Q4	choline plasmalogen
+86	A0A0E4B8Q4	H2O
+87	A0A0E4B8Q4	more
+88	A0A0D4WV12	1-myristoyl-2-hydroxy-sn-glycero-3-phosphoethanolamine
+89	A0A0D4WV12	H2O
+90	A0A0D4WV12	N-lauroyl-D-erythrosphingosylphosphoethanolamine
+91	A0A0D4WV12	H2O
+92	A0A0D4WV12	more
+93	A0A0G4AKV1	more
+94	A0A0G4AKV1	phosphatidylcholine
+95	A0A0G4AKV1	H2O
+96	A0A0G4AKV1	phosphatidylglycerol
+97	A0A0G4AKV1	H2O
+98	A0A0G4AKV1	phosphatidylethanolamine
+99	A0A0G4AKV1	H2O
+100	Q9LRZ5	phosphatidylcholine
+101	Q9LRZ5	H2O
+102	Q8KRU5	1,2-dibutyl-sn-glycero-3-phosphocholine
+103	Q8KRU5	H2O
+104	Q8KRU5	doxorubicin
+105	Q8KRU5	phosphatidate
+106	Q13393	more
+107	Q13393	phosphatidylcholine
+108	Q13393	H2O
+109	Q13393	phosphatidylcholine
+110	Q13393	H2O
+111	Q13393	phospholipid
+112	Q13393	H2O
+113	Q13393	phosphatidylcholine
+114	Q13393	ethanol
+115	Q8W1B2	phosphatidylcholine
+116	Q8W1B2	glycerol
+117	Q8W1B2	phosphatidylcholine
+118	Q8W1B2	H2O
+119	Q8W1B2	phosphatidylcholine
+120	Q8W1B2	H2O
+121	Q8W1B2	phosphatidylcholine
+122	Q8W1B2	ethanolamine
+123	Q8W1B2	phosphatidyl-p-nitrophenol
+124	Q8W1B2	H2O
+125	Q8W1B2	phosphatidylethanolamine
+126	Q8W1B2	H2O
+127	Q8W1B2	phosphatidylinositol
+128	Q8W1B2	H2O
+129	Q8W1B2	phosphatidylglycerol
+130	Q8W1B2	H2O
+131	Q8VWE9	phosphatidylcholine
+132	Q8VWE9	glycerol
+133	Q8VWE9	phosphatidylcholine
+134	Q8VWE9	L-serine
+135	Q8VWE9	phosphatidylcholine
+136	Q8VWE9	H2O
+137	Q8VWE9	phosphatidylcholine
+138	Q8VWE9	H2O
+139	Q8VWE9	phosphatidylcholine
+140	Q8VWE9	ethanolamine
+141	Q8VWE9	phosphatidylcholine
+142	Q8VWE9	D-serine
+143	Q8VWE9	phosphatidyl-p-nitrophenol
+144	Q8VWE9	H2O
+145	Q8VWE9	phosphatidylethanolamine
+146	Q8VWE9	H2O
+147	Q8VWE9	phosphatidylinositol
+148	Q8VWE9	H2O
+149	Q8VWE9	phosphatidylglycerol
+150	Q8VWE9	H2O
+151	Q8VWE9	phosphatidylserine
+152	Q8VWE9	H2O
+153	Q7Y0G7	more
+154	O14939	more
+155	O14939	phosphatidylcholine
+156	O14939	H2O
+157	O14939	phosphatidylcholine
+158	O14939	H2O
+159	O14939	phosphatidylcholine
+160	O14939	ethanol
+161	P55939	phosphatidyl-p-nitrophenol
+162	P55939	H2O
+163	Q09VU3	phosphatidylcholine
+164	Q09VU3	H2O
+165	Q9T051	phosphatidylcholine
+166	Q9T051	H2O
+167	Q9T053	phosphatidylcholine
+168	Q9T053	H2O
+169	Q710M6	more
+170	A4USB4	more
+171	A4USB4	sphingomyelin
+172	A4USB4	H2O
+173	P0CE83	more
+174	Q2XQ09	more
+175	Q53728	more
+176	Q53728	phosphatidylcholine
+177	Q53728	H2O
+178	Q53728	1,2-dioleoylphosphatidylcholine
+179	Q53728	inositol
+180	Q53728	dioleoyl-phosphatidylcholine
+181	Q53728	H2O
+182	Q53728	dioleoyl-phosphatidylcholine
+183	Q53728	cyclohexane-1,2,3-triol
+184	Q53728	dioleoyl-phosphatidylcholine
+185	Q53728	cyclohexane-1,2,5-triol
+186	Q53728	dioleoyl-phosphatidylcholine
+187	Q53728	cyclohexane-1,2-diol
+188	Q53728	dioleoyl-phosphatidylcholine
+189	Q53728	cyclohexane-1,3-diol
+190	Q53728	dioleoyl-phosphatidylcholine
+191	Q53728	cyclohexane-1,4-diol
+192	Q53728	dioleoyl-phosphatidylcholine
+193	Q53728	cyclohexanol
+194	Q53728	dioleoyl-phosphatidylcholine
+195	Q53728	myo-inositol
+196	Q53728	dioleoylphosphatidylcholine
+197	Q53728	myo-inositol
+198	Q53728	phosphatidylcholine
+199	Q53728	myo-inositol
+200	Q5WR67	dipalmitoyl phosphatidylcholine
+201	Q5WR67	H2O
+202	B0FZD9	phosphatidylcholine
+203	B0FZD9	H2O
+204	B0FZD9	phosphatidylcholine
+205	B0FZD9	L-serine
+0	P0CE81	sphingomyelin
+1	P0CE81	H2O
+2	P0CE81	trinitrophenylaminolauric acid sphingomyelin
+3	P0CE81	H2O
+4	P0CE81	sphingomyelin
+5	P0CE81	H2O
+6	P0CE81	sphingomyelin
+7	P0CE81	H2O
+8	Q1KY80	sphingomyelin
+9	Q1KY80	H2O
+10	P0CE83	sphingomyelin
+11	P0CE83	H2O
+12	P0CE83	more
+13	Q7Z1Y7	sphingomyelin
+14	Q7Z1Y7	H2O
+15	P0CE78	sphingomyelin
+16	P0CE78	H2O
+17	Q1KY79	sphingomyelin
+18	Q1KY79	H2O
+19	Q8I912	sphingomyelin
+20	Q8I912	H2O
+21	Q8I914	sphingomyelin
+22	Q8I914	H2O
+23	Q8I914	sphingomyelin
+24	Q8I914	H2O
+25	Q202J4	sphingomyelin
+26	Q202J4	H2O
+27	K9USW8	sphingomyelin
+28	K9USW8	H2O
+29	K9USW8	sphingomyelin
+30	K9USW8	H2O
+31	K9USW8	2-lysophosphatidylcholine
+32	K9USW8	H2O
+33	Q4ZFU2	sphingomyelin
+34	Q4ZFU2	H2O
+35	Q4ZFU2	more
+36	Q4ZFU2	2-lysophosphatidylcholine
+37	Q4ZFU2	H2O
+38	Q4ZFU2	1-octanoyl-2-hydroxy-sn-glycero-3-phosphocholine
+39	Q4ZFU2	H2O
+40	Q4ZFU2	1-palmitoyl-2-hydroxy-sn-glycero-3-phosphocholine
+41	Q4ZFU2	H2O
+42	C7SZ47	sphingomyelin
+43	C7SZ47	H2O
+44	A0A1L4BJ98	sphingomyelin
+45	A0A1L4BJ98	H2O
+46	A0A1L4BJ98	trinitrophenylaminolauric acid sphingomyelin
+47	A0A1L4BJ98	H2O
+0	Q9NZC3	glycerophosphoinositol
+1	Q9NZC3	H2O
+0	Q9UK23	methyl 6-O-(N-acetyl-alpha-D-glucosaminyl)phospho-alpha-D-mannose
+1	Q9UK23	H2O
+2	A7LRK2	6-O-(N-acetyl-alpha-D-glucosaminyl)phospho-D-mannose
+3	A7LRK2	H2O
+4	A7LRK2	methyl 6-O-(N-acetyl-D-glucosaminyl)phospho-alpha D-mannose
+5	A7LRK2	H2O
+0	Q640M6	more
+1	P09394	more
+2	P09394	glycerophosphocholine
+3	P09394	H2O
+4	P09394	sn-glycero-3-phosphoinositol
+5	P09394	H2O
+6	P09394	glycerophosphoethanolamine
+7	P09394	H2O
+8	P09394	glycerophosphoglycerol
+9	P09394	H2O
+10	P09394	bis(glycerophospho)glycerol
+11	P09394	H2O
+12	P09394	cardiolipin
+13	P09394	H2O
+14	P09394	glycerophosphoinositol
+15	P09394	H2O
+16	P09394	glycerophosphoserine
+17	P09394	H2O
+18	P09394	sn-glycero-3-phospho-L-serine
+19	P09394	glycerophosphodiester
+20	P09394	H2O
+21	P09394	sn-glycero-3-phosphocholine
+22	P09394	H2O
+23	P09394	sn-glycero-3-phosphoethanolamine
+24	P09394	H2O
+25	P09394	sn-glycero-3-phosphoglycerol
+26	P09394	H2O
+27	P10908	more
+28	P10908	glycerophosphocholine
+29	P10908	H2O
+30	P10908	sn-glycero-3-phosphoinositol
+31	P10908	H2O
+32	P10908	glycerophosphoethanolamine
+33	P10908	H2O
+34	P10908	glycerophosphoglycerol
+35	P10908	H2O
+36	P10908	bis(glycerophospho)glycerol
+37	P10908	H2O
+38	P10908	cardiolipin
+39	P10908	H2O
+40	P10908	glycerophosphoinositol
+41	P10908	H2O
+42	P10908	glycerophosphoserine
+43	P10908	H2O
+44	P10908	sn-glycero-3-phospho-L-serine
+45	P10908	glycerophosphodiester
+46	P10908	H2O
+47	P10908	sn-glycero-3-phosphocholine
+48	P10908	H2O
+49	P10908	sn-glycero-3-phosphoethanolamine
+50	P10908	H2O
+51	P10908	sn-glycero-3-phosphoglycerol
+52	P10908	H2O
+53	Q1EGY6	glycerophosphodiester
+54	Q1EGY6	H2O
+55	Q6XBH1	glycerophosphocholine
+56	Q6XBH1	H2O
+57	Q6XBH1	glycerophosphodiester
+58	Q6XBH1	H2O
+59	Q6XBH1	ethyl p-nitrophenyl phosphate
+60	Q6XBH1	H2O
+61	Q6XBH1	p-nitrophenyl phosphate
+62	Q6XBH1	H2O
+63	Q6XBH1	bis(p-nitrophenyl) phosphate
+64	Q6XBH1	H2O
+65	Q8WTR4	more
+66	Q8WTR4	glycerophosphocholine
+67	Q8WTR4	H2O
+68	Q8WTR4	sn-glycero-3-phosphoinositol
+69	Q8WTR4	H2O
+70	Q8WTR4	glycerophosphodiester
+71	Q8WTR4	H2O
+72	Q8WTR4	sn-glycero-3-phosphocholine
+73	Q8WTR4	H2O
+74	Q8RB32	glycerophosphorylcholine
+75	Q8RB32	H2O
+76	Q8TZI9	glycerophosphocholine
+77	Q8TZI9	H2O
+78	Q8TZI9	1-lysophosphatidylcholine
+79	Q8TZI9	H2O
+80	Q8TZI9	2-lysophosphatidylcholine
+81	Q8TZI9	H2O
+82	Q8TZI9	bis(p-nitrophenyl) phosphate
+83	Q8TZI9	H2O
+84	Q02979	sn-glycero-3-phosphocholine
+85	Q02979	H2O
+86	Q9NPB8	more
+87	Q9NPB8	sn-glycero-3-phosphocholine
+88	Q9NPB8	H2O
+89	Q45201	sn-glycero-3-phosphocholine
+90	Q45201	H2O
+91	A0A1S2XQM1	glycerophosphocholine
+92	A0A1S2XQM1	H2O
+93	A0A1S2XQM1	glycerophosphoethanolamine
+94	A0A1S2XQM1	H2O
+0	P80108	more
+1	P80109	more
+0	Q9HX69	cyclic-di-GMP
+1	Q9HX69	H2O
+2	Q9HX69	more
+3	Q8P947	c-di-GMP
+4	Q8P947	H2O
+5	Q8EJM6	cyclic di-3',5'-guanylate
+6	Q8EJM6	H2O
+7	Q9HV27	5'-phosphoguanylyl(3'->5')guanosine
+8	Q9HV27	H2O
+9	Q9HV27	cyclic di-3',5'-guanylate
+10	Q9HV27	H2O
+11	Q9HWS0	5'-phosphoguanylyl(3'->5')guanosine
+12	Q9HWS0	H2O
+13	Q9HWS0	cyclic di-3',5'-guanylate
+14	Q9HWS0	H2O
+15	Q9WY30	3',5'-di-cGMP
+16	Q9WY30	H2O
+17	Q9WY30	5'-phosphoguanylyl-(3'->5')guanosine
+18	Q9WY30	H2O
+0	Q6S996	3',5'-cAMP
+1	Q6S996	H2O
+2	Q6S997	3',5'-cAMP
+3	Q6S997	H2O
+4	Q49UB9	2'-O-(N-methylanthraniloyl)adenosine-3',5'-cyclic monophosphate
+5	Q49UB9	H2O
+6	Q49UB9	adenosine 3',5'-cyclic phosphate
+7	Q49UB9	H2O
+8	Q49UB9	more
+9	Q49UB9	cAMP
+10	Q49UB9	H2O
+11	P27815	3',5'-cAMP
+12	P27815	H2O
+13	P27815	cAMP
+14	P27815	H2O
+15	Q08499	3',5'-cAMP
+16	Q08499	H2O
+17	Q08499	more
+18	Q08499	cAMP
+19	Q08499	H2O
+20	Q08499	cGMP
+21	Q08499	H2O
+22	Q309F4	adenosine 3',5'-cyclic phosphate
+23	Q309F4	H2O
+24	Q309F4	more
+25	Q309F4	cAMP
+26	Q309F4	H2O
+27	Q07343	3',5'-cAMP
+28	Q07343	H2O
+29	Q07343	adenosine 3',5'-cyclic phosphate
+30	Q07343	H2O
+31	Q07343	more
+32	Q86H13	3',5'-cAMP
+33	Q86H13	H2O
+34	Q86H13	adenosine 3',5'-cyclic phosphate
+35	Q86H13	H2O
+36	Q86H13	more
+37	P54748	adenosine 3',5'-cyclic phosphate
+38	P54748	H2O
+39	P14646	adenosine 3',5'-cyclic phosphate
+40	P14646	H2O
+41	P14270	3',5'-cAMP
+42	P14270	H2O
+43	Q08493	3',5'-cAMP
+44	Q08493	H2O
+45	O89084	adenosine 3',5'-cyclic phosphate
+46	O89084	H2O
+47	Q9QXI7	adenosine 3',5'-cyclic phosphate
+48	Q9QXI7	H2O
+49	O60658	3',5'-cAMP
+50	O60658	H2O
+51	O60658	adenosine 3',5'-cyclic phosphate
+52	O60658	H2O
+53	O60658	guanosine 3',5'-cyclic phosphate
+54	O60658	H2O
+55	O60658	3',5'-cGMP
+56	O60658	H2O
+57	Q8WQX9	more
+58	Q4ZHU6	adenosine 3',5'-cyclic phosphate
+59	Q4ZHU6	H2O
+60	Q4ZHU6	more
+61	Q9QXQ1	adenosine 3',5'-cyclic phosphate
+62	Q9QXQ1	H2O
+63	Q9QXQ1	more
+64	O88502	adenosine 3',5'-cyclic phosphate
+65	O88502	H2O
+66	P70453	adenosine 3',5'-cyclic phosphate
+67	P70453	H2O
+68	Q9GQU6	adenosine 3',5'-cyclic phosphate
+69	Q9GQU6	H2O
+70	Q9NP56	adenosine 3',5'-cyclic phosphate
+71	Q9NP56	H2O
+72	Q9NP56	more
+73	Q6XG56	adenosine 3',5'-cyclic phosphate
+74	Q6XG56	H2O
+75	B1PSD9	3',5'-cAMP
+76	B1PSD9	H2O
+77	Q846Z1	3',5'-cAMP
+78	Q846Z1	H2O
+79	Q13946	3',5'-cAMP
+80	Q13946	H2O
+81	D4P095	3',5'-cAMP
+82	D4P095	H2O
+83	D4P095	adenosine 3',5'-cyclic phosphate
+84	D4P095	H2O
+85	D4P095	more
+86	D0ERY7	adenosine 3',5'-cyclic phosphate
+87	D0ERY7	H2O
+88	D0ERY8	adenosine 3',5'-cyclic phosphate
+89	D0ERY8	H2O
+90	P0AEW4	3',5'-cAMP
+91	P0AEW4	H2O
+0	Q8BH82	more
+1	Q8BH82	N-arachidonoylphosphatidylethanolamine
+2	Q8BH82	H2O
+3	Q8BH82	N-arachidonoyl-phosphatidylethanolamine
+4	Q8BH82	H2O
+5	Q8BH82	N-acylphosphatidylethanolamine
+6	Q8BH82	H2O
+7	Q8BH82	N-palmitoyl-1,2-dioleoyl-phosphatidylethanolamine
+8	Q8BH82	H2O
+9	Q8BH82	N-arachidonoylphosphatidylethanolamine
+10	Q8BH82	H2O
+11	Q8BH82	N-oleoylphosphatidylethanolamine
+12	Q8BH82	H2O
+13	Q8BH82	N-palmitoylphosphatidylethanolamine
+14	Q8BH82	H2O
+15	Q8BH82	N-stearoylphosphatidylethanolamine
+16	Q8BH82	H2O
+17	Q6IQ20	N-arachidonoylphosphatidylethanolamine
+18	Q6IQ20	H2O
+19	Q6IQ20	N-acylphosphatidylethanolamine
+20	Q6IQ20	H2O
+21	Q6IQ20	N-palmitoyl-1,2-dioleoyl-phosphatidylethanolamine
+22	Q6IQ20	H2O
+23	Q6IQ20	1,2-dihexadecyl-sn-glycerol-3-phospho-(N-palmitoyl)ethanolamine
+24	Q6IQ20	H2O
+25	Q6IQ20	N-palmitoyl-1,2-dilauroylphosphatidylethanolamine
+26	Q6IQ20	H2O
+27	Q769K2	more
+28	Q769K2	N-arachidonoylphosphatidylethanolamine
+29	Q769K2	H2O
+30	Q769K2	N-acylphosphatidylethanolamine
+31	Q769K2	H2O
+32	Q769K2	N-palmitoyl-1,2-dioleoyl-phosphatidylethanolamine
+33	Q769K2	H2O
+34	Q769K2	N-arachidonoylphosphatidylethanolamine
+35	Q769K2	H2O
+36	Q769K2	N-oleoylphosphatidylethanolamine
+37	Q769K2	H2O
+38	Q769K2	N-palmitoylphosphatidylethanolamine
+39	Q769K2	H2O
+40	Q769K2	N-stearoylphosphatidylethanolamine
+41	Q769K2	H2O
+42	Q769K2	N-arachidonoyl-1,2-dioleoyl-phosphatidylehanolamine
+43	Q769K2	H2O
+44	Q769K2	N-arachidonoyl-1,2-dioleoyl-phosphatidylethanolamine
+45	Q769K2	H2O
+46	Q769K2	N-arachidonoyl-1,2-dioleoylphosphatidylethanolamine
+47	Q769K2	H2O
+48	Q769K2	N-arachidonoyl-1-oleoyl-2-lysophosphatidylethanolamine
+49	Q769K2	H2O
+50	Q769K2	N-butanoyl-1-palmitoyl-2-linoleoylphosphatidylethanolamine
+51	Q769K2	H2O
+52	Q769K2	N-decanoyl-1-palmitoyl-2-linoleoylphosphatidylethanolamine
+53	Q769K2	H2O
+54	Q769K2	N-hexanoyl-1-palmitoyl-2-linoleoylphosphatidylethanolamine
+55	Q769K2	H2O
+56	Q769K2	N-lauroyl-1,2-dioleoyl-phosphatidylethanolamine
+57	Q769K2	H2O
+58	Q769K2	N-myristoyl-1,2-dioleoyl-phosphatidylethanolamine
+59	Q769K2	H2O
+60	Q769K2	N-octanoyl-1-palmitoyl-2-linoleoylphosphatidylethanolamine
+61	Q769K2	H2O
+62	Q769K2	N-oleoyl-1,2-dioleoyl-phosphatidylethanolamine
+63	Q769K2	H2O
+64	Q769K2	N-oleoyl-1,2-dioleoylphosphatidylethanolamine
+65	Q769K2	H2O
+66	Q769K2	N-palmitoyl-1-palmitoyl-2-linoleoylphosphatidylethanolamine
+67	Q769K2	H2O
+68	Q769K2	N-palmitoyl-1-palmitoyl-2-lysophosphatidylethanolamine
+69	Q769K2	H2O
+70	Q769K2	N-palmitoyl-1-palmitoyl-2-oleoylphosphatidylethanolamine
+71	Q769K2	H2O
+72	Q769K2	N-palmitoylphosphatidylethanolamine
+73	Q769K2	H2O
+74	Q769K2	N-stearoyl-1,2-dioleoyl-phosphatidylethanolamine
+75	Q769K2	H2O
+76	Q769K2	N-stearoyl-1,2-dioleoylphosphatidylethanolamine
+77	Q769K2	H2O
+0	P16692	2',3'-cAMP
+1	P16692	H2O
+2	P16692	2',3'-cCMP
+3	P16692	H2O
+4	P16692	2',3'-cGMP
+5	P16692	H2O
+6	P16692	bis(p-nitrophenyl)phosphate
+7	P16692	H2O
+8	P16692	methyl 2,4-dichlorophenyl phosphate
+9	P16692	H2O
+10	P16692	methyl 2,4-dinitrophenyl phosphate
+11	P16692	H2O
+12	P16692	methyl 2,5-dinitrophenyl phosphate
+13	P16692	H2O
+14	P16692	methyl 2-chloro-4-nitrophenyl phosphate
+15	P16692	H2O
+16	P16692	methyl 3-nitrophenyl phosphate
+17	P16692	H2O
+18	P16692	methyl 4-chlorophenyl phosphate
+19	P16692	H2O
+20	P16692	methyl 4-cyanophenyl phosphate
+21	P16692	H2O
+22	P16692	methyl 4-nitrophenyl phosphate
+23	P16692	H2O
+24	P16692	methyl nitrophenyl phosphate
+25	P16692	H2O
+26	P16692	methyl phenyl phosphate
+27	P16692	H2O
+28	P16692	more
+29	P16692	thymidine 5'-monophosphate p-nitrophenyl ester
+30	P16692	H2O
+0	Q58247	2',3'-cAMP
+1	Q58247	H2O
+2	Q58247	7,8-dihydroneopterin 2',3'-cyclic phosphate
+3	Q58247	H2O
+4	Q58247	7,8-dihydroneopterin 2',3'-cyclic phosphate
+5	Q58247	H2O
+6	Q58247	O-(4-nitrophenylphosphoryl)choline
+7	Q58247	H2O
+8	Q58247	bis(4-nitrophenyl) phosphate
+9	Q58247	H2O
+10	Q58247	more
+0	C8WJZ5	5-phospho-alpha-D-ribose 1,2-cyclic phosphate
+1	C8WJZ5	H2O
+2	C8WJZ5	D-ribofuranose 2,5-bisphosphate
+3	C8WJZ5	H2O
+4	C8WJZ5	more
+0	P37025	more
+1	Q8U4Q3	more
+2	Q8U4Q3	(ribonucleotide)n-2',3'-cyclic phosphate
+3	Q8U4Q3	H2O
+4	Q7DF71	nucleoside 2',3'-cyclic phosphate
+5	Q7DF71	H2O
+0	A0A0H2ZQZ4	cyclic di-3',5'-adenylate
+1	A0A0H2ZQZ4	H2O
+2	Q8YAR3	cyclic di-3',5'-adenylate
+3	Q8YAR3	H2O
+4	O51564	cyclic di-3',5'-adenylate
+5	O51564	H2O
+6	A0QVM9	cyclic di-3',5'-adenylate
+7	A0QVM9	H2O
+8	A0QVM9	more
+9	A0QVM9	cyclic di-3',5'-guanylate
+10	A0QVM9	H2O
+11	A0A0H2XFX6	cyclic di-3',5'-adenylate
+12	A0A0H2XFX6	H2O
+13	A0A0H2XFX6	more
+14	P71615	cyclic di-3',5'-adenylate
+15	P71615	H2O
+16	P71615	more
+17	P37484	cyclic di-3',5'-adenylate
+18	P37484	H2O
+19	P37484	cyclic di-3',5'-guanylate
+20	P37484	H2O
+21	A0A0U1MUE2	cyclic di-3',5'-adenylate
+22	A0A0U1MUE2	H2O
+23	A0A0U1MUE2	more
+24	A0A0H2ZNP2	cyclic di-3',5'-adenylate
+25	A0A0H2ZNP2	H2O
+26	A0A0H2ZNP2	more
+27	A0A0H2ZNP2	5'-O-phosphonoadenylyl-(3'->5')-adenosine
+28	A0A0H2ZNP2	H2O
+0	A0A0H2XFX6	more
+1	A0A0H2XFX6	5'-O-phosphonoadenylyl-(3'->5')-adenosine
+2	A0A0H2XFX6	H2O
+3	A0A0H2ZNP2	more
+4	A0A0H2ZNP2	5'-O-phosphonoadenylyl-(3'->5')-adenosine
+5	A0A0H2ZNP2	H2O
+6	A0A0H2ZNP2	cyclic di-3',5'-adenylate
+7	A0A0H2ZNP2	H2O
+8	A0QVM9	5'-O-phosphonoadenylyl-(3'->5')-adenosine
+9	A0QVM9	H2O
+10	A0QVM9	cyclic di-3',5'-adenylate
+11	A0QVM9	H2O
+0	Q53752	more
+0	P15723	dGTP
+1	P15723	H2O
+0	P51691	4-nitrophenyl sulfate
+1	P51691	H2O
+2	P51691	4-nitrophenyl phosphate
+3	P51691	H2O
+4	P51691	estrone 3-sulfate
+5	P51691	H2O
+6	P51691	androsterone 3-sulfate
+7	P51691	H2O
+8	P51691	boldenone 17-sulfate
+9	P51691	H2O
+10	P51691	dehydroepiandrosterone 3-sulfate
+11	P51691	H2O
+12	P51691	epiandrosterone 3-sulfate
+13	P51691	H2O
+14	P51691	epitestosterone 17-sulfate
+15	P51691	H2O
+16	P51691	etiocholanolone 3-sulfate
+17	P51691	H2O
+18	P51691	testosterone 17-sulfate
+19	P51691	H2O
+20	Q6UWY0	4-nitrophenyl sulfate
+21	Q6UWY0	H2O
+22	Q6UWY0	4-nitrocatechol sulfate
+23	Q6UWY0	H2O
+24	Q6UWY0	more
+25	J9QRU6	4-nitrophenyl sulfate
+26	J9QRU6	H2O
+27	J9QRU6	4-nitrocatechol sulfate
+28	J9QRU6	H2O
+29	J9QXV9	4-nitrophenyl sulfate
+30	J9QXV9	H2O
+31	J9QXV9	4-nitrocatechol sulfate
+32	J9QXV9	H2O
+33	J9QWA6	4-nitrophenyl sulfate
+34	J9QWA6	H2O
+35	J9QWA6	4-nitrocatechol sulfate
+36	J9QWA6	H2O
+37	Q9X229	4-nitrophenyl sulfate
+38	Q9X229	H2O
+39	Q9X229	agar
+40	Q9X229	H2O
+41	A0A3R5WSX8	4-nitrophenyl sulfate
+42	A0A3R5WSX8	H2O
+43	A0A3R5WSX8	agar
+44	A0A3R5WSX8	H2O
+45	A0A0H3WG62	4-nitrophenyl sulfate
+46	A0A0H3WG62	H2O
+47	A0A0H3WG62	sulfated polysaccharide
+48	A0A0H3WG62	H2O
+49	K9NCQ5	4-nitrophenyl sulfate
+50	K9NCQ5	H2O
+51	K9NCQ5	3-nitrophenyl sulfate
+52	K9NCQ5	H2O
+53	K9NCQ5	more
+54	K9NCQ5	2-fluoro-4-nitrophenyl sulfate
+55	K9NCQ5	H2O
+56	K9NCQ5	3,4-dimethylphenyl sulfate
+57	K9NCQ5	H2O
+58	K9NCQ5	3,4-dinitrophenyl sulfate
+59	K9NCQ5	H2O
+60	K9NCQ5	3-bromophenyl sulfate
+61	K9NCQ5	H2O
+62	K9NCQ5	3-chlorophenyl sulfate
+63	K9NCQ5	H2O
+64	K9NCQ5	3-cyanophenyl sulfate
+65	K9NCQ5	H2O
+66	K9NCQ5	3-fluoro-4-nitrophenyl sulfate
+67	K9NCQ5	H2O
+68	K9NCQ5	4-chlorophenyl sulfate
+69	K9NCQ5	H2O
+70	K9NCQ5	4-fluorophenyl sulfate
+71	K9NCQ5	H2O
+72	P28607	4-nitrophenyl sulfate
+73	P28607	H2O
+0	P15848	dermatan sulfate
+1	P15848	H2O
+2	P15848	chondroitin 4-sulfate
+3	P15848	H2O
+4	P15848	4-methylumbelliferyl sulfate
+5	P15848	H2O
+6	P15848	sulfated glycosaminoglycan
+7	P15848	H2O
+8	P15848	4-methylumbelliferyl sulfate
+9	P15848	H2O
+10	P15848	4-methylumbelliferyl sulfate
+11	P15848	H2O
+12	P15848	chondroitin sulfate
+13	P15848	H2O
+14	P15848	more
+0	P22304	dermatan sulfate
+1	P22304	H2O
+2	P22304	heparan sulfate
+3	P22304	H2O
+4	P22304	more
+5	P22304	4-methylumbelliferyl-alpha-L-iduronate 2-sulfate
+6	P22304	H2O
+7	P22304	4-methylumbelliferyl-alpha-iduronate 2-sulfate
+8	P22304	H2O
+9	P22304	4-methylumbelliferyl-alpha-idopyranosiduronic acid 2-sulfate
+10	P22304	H2O
+11	P22304	4-methylumbelliferyl-alpha-iduronide 2-sulfate
+12	P22304	H2O
+13	A0ST40	4-methylumbelliferyl-alpha-iduronide-2-sulfate
+14	A0ST40	H2O
+0	P15586	more
+0	Q6UWY0	more
+1	Q6UWY0	2-sulfoglucuronate-N-acetylglucosamine
+2	Q6UWY0	H2O
+3	Q6UWY0	2-sulfoglucuronate-N-sulfoglucosamine
+4	Q6UWY0	H2O
+0	P08842	estrone sulfate
+1	P08842	dehydroepiandrosterone sulfate
+2	P08842	H2O
+3	P08842	dehydroepiandrosterone 3-sulfate
+4	P08842	H2O
+5	P08842	estrone sulfate
+6	P08842	H2O
+7	P08842	4-methylumbelliferyl sulfate
+8	P08842	H2O
+9	P08842	estrone 3-sulfate
+10	P08842	H2O
+11	P08842	17beta-estradiol sulfate
+12	P08842	H2O
+13	P08842	cholesterol 3-sulfate
+14	P08842	H2O
+15	P08842	pregnenolone 3-sulfate
+16	P08842	H2O
+17	Q45FD5	estrone sulfate
+18	Q45FD5	H2O
+19	P51691	epiandrosterone 3-sulfate
+20	P51691	H2O
+21	P51691	androsterone 3-sulfate
+22	P51691	H2O
+23	P51691	boldenone 17-sulfate
+24	P51691	H2O
+25	P51691	epitestosterone 17-sulfate
+26	P51691	H2O
+27	P51691	etiocholanolone 3-sulfate
+28	P51691	H2O
+29	P51691	testosterone 17-sulfate
+30	P51691	H2O
+31	P51691	dehydroepiandrosterone 3-sulfate
+32	P51691	H2O
+33	P51691	estrone 3-sulfate
+34	P51691	H2O
+35	P51691	testosterone 3-sulfate
+36	P51691	H2O
+37	P51691	4-nitrophenyl sulfate
+38	P51691	H2O
+39	F1QB82	dehydroepiandrosterone 3-sulfate
+40	F1QB82	H2O
+41	F1QB82	estrone 3-sulfate
+42	F1QB82	H2O
+43	F1QB82	17beta-estradiol sulfate
+44	F1QB82	H2O
+45	F1QB82	cholesterol 3-sulfate
+46	F1QB82	H2O
+47	F1QB82	pregnenolone 3-sulfate
+48	F1QB82	H2O
+0	P72177	[SoxY protein]-S-(2-sulfodisulfanyl)-L-cysteine
+1	P72177	H2O
+2	P72177	[SoxY protein]-S-sulfosulfanyl-L-cysteine
+3	P72177	H2O
+4	Q72IT0	[SoxY protein]-S-(2-sulfodisulfanyl)-L-cysteine
+5	Q72IT0	H2O
+6	Q72IT0	[SoxY protein]-S-sulfosulfanyl-L-cysteine
+7	Q72IT0	H2O
+8	Q1W3E6	[SoxY protein]-S-(2-sulfodisulfanyl)-L-cysteine
+9	Q1W3E6	H2O
+10	Q1W3E6	[SoxY protein]-S-sulfosulfanyl-L-cysteine
+11	Q1W3E6	H2O
+0	P34059	keratan sulfate
+1	P34059	H2O
+2	P34059	4-methylumbelliferyl beta-D-galactoside 6-sulfate
+3	P34059	H2O
+4	P34059	4-methylumbelliferyl-beta-D-galactoside-6-sulfate
+5	P34059	H2O
+6	P34059	chondroitin sulfate
+7	P34059	H2O
+8	Q571E4	keratan sulfate
+9	Q571E4	H2O
+10	Q571E4	chondroitin sulfate
+11	Q571E4	H2O
+0	O69787	choline sulfate
+1	O69787	H2O
+2	O69787	choline sulfate
+3	O69787	H2O
+4	O69787	4-methylumbelliferyl sulfate
+5	O69787	H2O
+6	O69787	4-nitrophenyl methylphosphate
+7	O69787	H2O
+8	O69787	4-nitrophenyl methylphosphonate
+9	O69787	H2O
+10	O69787	4-nitrophenyl phosphate
+11	O69787	H2O
+12	O69787	4-nitrophenyl sulfate
+13	O69787	H2O
+14	O69787	choline O-sulfate
+15	O69787	H2O
+16	O69787	phosphoryl choline
+17	O69787	H2O
+18	D8LAR6	choline-O-sulfate
+19	D8LAR6	H2O
+0	P15289	cerebroside 3-sulfate
+1	P15289	H2O
+2	P15289	sulfogalactosylglycerolipid
+3	P15289	H2O
+4	P15289	4-nitrocatechol sulfate
+5	P15289	H2O
+6	P15289	cerebroside 3-sulphate
+7	P15289	H2O
+8	P15289	sulfogalactosylceramide
+9	P15289	H2O
+10	P15289	p-nitrocatechol sulfate
+11	P15289	H2O
+12	P15289	more
+13	Q8WNR3	sulfogalactosylglycerolipid
+14	Q8WNR3	H2O
+15	Q8WNR3	4-nitrocatechol sulfate
+16	Q8WNR3	H2O
+17	Q8WNR3	sulfogalactosylceramide
+18	Q8WNR3	H2O
+19	Q8WNR3	more
+20	P50428	more
+0	G1DGI7	geranylgeranyl diphosphate
+1	G1DGI7	H2O
+0	I1VSB0	more
+1	I1VSB0	geranyl diphosphate
+2	I1VSB0	H2O
+3	I7GSK7	geranyl diphosphate
+4	I7GSK7	H2O
+5	J9PZR5	geranyl diphosphate
+6	J9PZR5	H2O
+7	A0A109P1X1	geranyl diphosphate
+8	A0A109P1X1	H2O
+9	Q4JHG3	geranyl diphosphate
+10	Q4JHG3	H2O
+11	Q308N0	geranyl diphosphate
+12	Q308N0	H2O
+13	C0KWV6	geranyl diphosphate
+14	C0KWV6	H2O
+15	C0KWV4	geranyl diphosphate
+16	C0KWV4	H2O
+17	Q8GUE4	geranyl diphosphate
+18	Q8GUE4	H2O
+0	A9AWD6	(+)-kolavenyl diphosphate
+1	A9AWD6	H2O
+2	A9AWD6	more
+0	K4FKJ1	geranylgeranyl diphosphate
+1	K4FKJ1	H2O
+0	P9WJ61	tuberculosinyl diphosphate
+1	P9WJ61	H2O
+2	P9WJ61	tuberculosinyl diphosphate
+3	P9WJ61	H2O
+0	P9WJ61	tuberculosinyl diphosphate
+1	P9WJ61	H2O
+2	P9WJ61	tuberculosinyl diphosphate
+3	P9WJ61	H2O
+0	Q9NQW7	more
+1	Q9NQW7	1-methylethyl 4-nitrophenyl (1-methylpropyl)phosphonate
+2	Q9NQW7	H2O
+3	Q9NQW7	1-methylethyl 4-nitrophenyl methylphosphonate
+4	Q9NQW7	H2O
+5	Q9NQW7	1-methylpropyl 4-nitrophenyl methylphosphonate
+6	Q9NQW7	H2O
+7	Q9NQW7	4-nitrophenyl phenyl methylphosphonate
+8	Q9NQW7	H2O
+9	Q9NQW7	4-nitrophenyl propyl methylphosphonate
+10	Q9NQW7	H2O
+11	Q9NQW7	ethyl 1-methylethyl 4-nitrophenyl phosphate
+12	Q9NQW7	H2O
+13	Q9NQW7	ethyl 4-nitrophenyl (1-methylpropyl)phosphonate
+14	Q9NQW7	H2O
+15	Q9NQW7	ethyl 4-nitrophenyl methylphosphonate
+16	Q9NQW7	H2O
+17	Q9NQW7	diethyl 4-nitrophenyl phosphate
+18	Q9NQW7	H2O
+19	P55159	paraoxon
+20	P55159	H2O
+21	P37669	more
+22	P37669	paraoxon
+23	P37669	H2O
+24	P37669	paraoxon
+25	P37669	H2O
+26	P37669	methyl parathion
+27	P37669	H2O
+28	P37669	parathion
+29	P37669	H2O
+30	P37669	coumaphos
+31	P37669	H2O
+32	P37669	chlorpyrifos
+33	P37669	H2O
+34	Q93LD7	more
+35	Q93LD7	methyl paraoxon
+36	Q93LD7	H2O
+37	Q93LD7	parathion
+38	Q93LD7	H2O
+39	Q93LD7	methyl parathion
+40	Q93LD7	H2O
+41	Q93LD7	dimethoate
+42	Q93LD7	H2O
+43	Q93LD7	methyl parathion
+44	Q93LD7	H2O
+45	Q93LD7	paraoxon
+46	Q93LD7	H2O
+47	Q93LD7	dichlorvos
+48	Q93LD7	H2O
+49	Q93LD7	methyl chlorpyrifos oxon
+50	Q93LD7	H2O
+51	Q93LD7	methyl chlorpyrifos thion
+52	Q93LD7	H2O
+53	Q93LD7	methyl-parathion
+54	Q93LD7	H2O
+55	Q93LD7	trimethyl phosphate
+56	Q93LD7	H2O
+57	Q9ALW1	methyl parathion
+58	Q9ALW1	H2O
+59	P27169	paraoxon
+60	P27169	H2O
+61	P27169	more
+62	P27169	paraoxon
+63	P27169	H2O
+64	P27169	paraoxon
+65	P27169	H2O
+66	P27169	paraoxon
+67	P27169	H2O
+68	P27169	chlorpyrifos oxon
+69	P27169	H2O
+70	P27169	diazoxon
+71	P27169	H2O
+72	P27169	parathion
+73	P27169	H2O
+74	P27169	dimethyl-paraoxon
+75	P27169	H2O
+76	P27169	diethyl-paraoxon
+77	P27169	H2O
+78	P27169	paraoxon
+79	P27169	H2O
+80	P27169	sarin
+81	P27169	H2O
+82	P27169	soman
+83	P27169	H2O
+84	P27169	sarin
+85	P27169	H2O
+86	P27169	tabun
+87	P27169	H2O
+88	P27169	soman
+89	P27169	H2O
+90	P27169	cyclosarin
+91	P27169	H2O
+92	P27169	phenyl acetate
+93	P27169	H2O
+94	P27169	diisopropyl fluorophosphate
+95	P27169	H2O
+96	P27169	diazoxon
+97	P27169	H2O
+98	P27169	chlorpyrifos
+99	P27169	H2O
+100	P27169	1-methylethyl 2-oxo-4-(trifluoromethyl)-2H-chromen-7-yl methylphosphonate
+101	P27169	H2O
+102	P27169	1-methylethyl 4-methyl-2-oxo-2H-chromen-7-yl methylphosphonate
+103	P27169	H2O
+104	P27169	2,4-dinitrophenyl diethyl phosphate
+105	P27169	H2O
+106	P27169	2,6-difluorophenyl diethyl phosphate
+107	P27169	H2O
+108	P27169	2-fluoro-4-nitrophenyl diethyl phosphate
+109	P27169	H2O
+110	P27169	2-methylpropyl 2-oxo-4-(trifluoromethyl)-2H-chromen-7-yl methylphosphonate
+111	P27169	H2O
+112	P27169	2-oxo-4-(trifluoromethyl)-2H-chromen-7-yl N,N,N',N'-tetramethyldiamidophosphate
+113	P27169	H2O
+114	P27169	3,5-dinitrophenyl diethyl phosphate
+115	P27169	H2O
+116	P27169	3-chloro-4-methyl-2-oxo-2H-chromen-7-yl 1-methylethyl methylphosphonate
+117	P27169	H2O
+118	P27169	3-chloro-4-methyl-2-oxo-2H-chromen-7-yl 2-methylpropyl methylphosphonate
+119	P27169	H2O
+120	P27169	3-chloro-4-methyl-2-oxo-2H-chromen-7-yl cyclohexyl methylphosphonate
+121	P27169	H2O
+122	P27169	3-chloro-4-methyl-2-oxo-2H-chromen-7-yl diethyl phosphate
+123	P27169	H2O
+124	P27169	3-chloro-4-methyl-2-oxo-2H-chromen-7-yl dimethyl phosphate
+125	P27169	H2O
+126	P27169	3-cyanophenyl diethyl phosphate
+127	P27169	H2O
+128	P27169	3-fluoro-4-nitrophenyl diethyl phosphate
+129	P27169	H2O
+130	P27169	3-fluorophenyl diethyl phosphate
+131	P27169	H2O
+132	P27169	3-nitrophenyl diethyl phosphate
+133	P27169	H2O
+134	P27169	4-acetoxy acetophenone
+135	P27169	H2O
+136	P27169	4-chlorophenyl diethyl phosphate
+137	P27169	H2O
+138	P27169	4-cyanophenyl diethyl phosphate
+139	P27169	H2O
+140	P27169	4-diethyl phosphate acetophenone
+141	P27169	H2O
+142	P27169	4-diethyl phosphate benzaldehyde
+143	P27169	H2O
+144	P27169	4-diethyl phosphate methyl benzoate
+145	P27169	H2O
+146	P27169	4-methyl-2-oxo-2H-chromen-7-yl 2-methylpropyl methylphosphonate
+147	P27169	H2O
+148	P27169	4-methyl-2-oxo-2H-chromen-7-yl N,N,N',N'-tetramethyldiamidophosphate
+149	P27169	H2O
+150	P27169	4-nitrophenyl diethyl phosphate
+151	P27169	H2O
+152	P27169	5-(thiobutyryl)butyrolactone
+153	P27169	H2O
+154	P27169	7-O-diethylphosphoryl-3-cyano-7-hydroxycoumarin
+155	P27169	H2O
+156	P27169	7-diethylphosphoro-3-cyanocoumarin
+157	P27169	H2O
+158	P27169	9-(2,4-dimethylphenoxycarbonyl)-10-methylacridinium triflate
+159	P27169	H2O
+160	P27169	9-(4-chlorophenoxycarbonyl)-10-methylacridinium triflate
+161	P27169	H2O
+162	P27169	9-(4-methylphenoxycarbonyl)-10-methylacridinium triflate
+163	P27169	H2O
+164	P27169	9-(4-tert-butylphenoxycarbonyl)-10-methylacridinium triflate
+165	P27169	H2O
+166	P27169	9-(phenyloxycarbonyl)-10-methylacridinium triflate
+167	P27169	H2O
+168	P27169	N-[2-[ethoxy(methyl)phosphoryl]sulfanethyl]-N-propan-2-ylpropan-2-amine
+169	P27169	H2O
+170	P27169	O,O'-(diisobutyl)methylphosphonate
+171	P27169	H2O
+172	P27169	O,O-dimethyl O-(4-methyl-2-oxo-2H-chromen-7-yl) thiophosphate
+173	P27169	H2O
+174	P27169	O,O-dimethyl O-[2-oxo-4-(trifluoromethyl)-2H-chromen-7-yl] thiophosphate
+175	P27169	H2O
+176	P27169	O-(isobutyl)methylphosphonate
+177	P27169	H2O
+178	P27169	O-ethyl O-4-nitrophenyl phenylphosphonothioate
+179	P27169	H2O
+180	P27169	O-ethyl S-2-diisopropylaminoethyl methylphosphonothiolate
+181	P27169	H2O
+182	P27169	SP-CMP
+183	P27169	H2O
+184	P27169	benzyl acetate
+185	P27169	H2O
+186	P27169	bis(1-methylethyl) 2-oxo-4-(trifluoromethyl)-2H-chromen-7-yl phosphate
+187	P27169	H2O
+188	P27169	bis(1-methylethyl) 4-methyl-2-oxo-2H-chromen-7-yl phosphate
+189	P27169	H2O
+190	P27169	chlorpyrifos oxon
+191	P27169	H2O
+192	P27169	chlorpyrifos oxon
+193	P27169	H2O
+194	P27169	chlorpyrifos-oxon
+195	P27169	H2O
+196	P27169	chlortion
+197	P27169	H2O
+198	P27169	cyclohexyl 2-oxo-4-(trifluoromethyl)-2H-chromen-7-yl methylphosphonate
+199	P27169	H2O
+200	P27169	cyclohexyl 4-methyl-2-oxo-2H-chromen-7-yl methylphosphonate
+201	P27169	H2O
+202	P27169	diethyl 2-oxo-4-(trifluoromethyl)-2H-chromen-7-yl phosphate
+203	P27169	H2O
+204	P27169	diisopropyl fluorophosphate
+205	P27169	H2O
+206	P27169	diisopropyl fluorophosphate
+207	P27169	H2O
+208	P27169	dimethyl 2-oxo-4-(trifluoromethyl)-2H-chromen-7-yl phosphate
+209	P27169	H2O
+210	P27169	dimethyl 4-methyl-2-oxo-2H-chromen-7-yl phosphate
+211	P27169	H2O
+212	P27169	ethyl 2-oxo-4-(trifluoromethyl)-2H-chromen-7-yl methylphosphonate
+213	P27169	H2O
+214	P27169	ethyl 4-methyl-2-oxo-2H-chromen-7-yl methylphosphonate
+215	P27169	H2O
+216	P27169	ethyl acetate
+217	P27169	H2O
+218	P27169	methylphosphonic acid
+219	P27169	H2O
+220	P27169	pentafluorophenyl diethyl phosphate
+221	P27169	H2O
+222	P27169	pentafluorophenyl diethyl phosphate
+223	P27169	H2O
+224	P27169	3-chloro-4-methyl-2-oxo-2H-chromen-7-yl ethyl methylphosphonate
+225	P27169	H2O
+226	P27169	diethyl (3,5,6-trichloropyridin-2-yl) phosphate
+227	P27169	H2O
+228	P27169	diethyl 4-chlorophenyl phosphate
+229	P27169	H2O
+230	P27169	chlorpyrifos
+231	P27169	H2O
+232	Q15166	more
+233	Q15166	paraoxon
+234	Q15166	H2O
+235	Q15166	paraoxon
+236	Q15166	H2O
+237	Q68FP2	paraoxon
+238	Q68FP2	H2O
+239	Q68FP2	paraoxon
+240	Q68FP2	H2O
+241	P52430	paraoxon
+242	P52430	H2O
+243	Q9BGN0	paraoxon
+244	Q9BGN0	H2O
+245	Q9BGN0	paraoxon
+246	Q9BGN0	H2O
+247	B5BLW5	paraoxon
+248	B5BLW5	H2O
+249	B5BLW5	methyl paraoxon
+250	B5BLW5	H2O
+251	Q62087	paraoxon
+252	Q62087	H2O
+253	Q62087	paraoxon
+254	Q62087	H2O
+255	P0A434	paraoxon
+256	P0A434	H2O
+257	P0A434	more
+258	P0A434	paraoxon
+259	P0A434	H2O
+260	P0A434	paraoxon
+261	P0A434	H2O
+262	P0A434	parathion
+263	P0A434	H2O
+264	P0A434	parathion
+265	P0A434	H2O
+266	P0A434	dimethyl-parathion
+267	P0A434	H2O
+268	P0A434	dimethyl-paraoxon
+269	P0A434	H2O
+270	P0A434	diethyl-paraoxon
+271	P0A434	H2O
+272	P0A434	coroxon
+273	P0A434	H2O
+274	P0A434	paraoxon
+275	P0A434	H2O
+276	P0A434	4-nitrophenyl phosphate
+277	P0A434	H2O
+278	P0A434	3-chloro-4-methyl-2-oxo-2H-chromen-7-yl ethyl methylphosphonate
+279	P0A434	H2O
+280	P0A434	diethyl (3,5,6-trichloropyridin-2-yl) phosphate
+281	P0A434	H2O
+282	P0A434	diethyl 4-chlorophenyl phosphate
+283	P0A434	H2O
+284	P0A434	(RS)-propan-2-yl methylphosphonofluoridate
+285	P0A434	H2O
+286	P0A434	(S)-[2-(diethylamino)ethyl] O,O-diethyl phosphorothioate
+287	P0A434	H2O
+288	P0A434	(S)-[2-(diethylamino)ethyl] O,O-dimethyl phosphorothioate
+289	P0A434	H2O
+290	P0A434	(S)-[2-(diethylamino)ethyl] O-(2-methylpropyl) methylphosphonothioate
+291	P0A434	H2O
+292	P0A434	(S)-[2-[di(propan-2-yl)amino]ethyl] O,O-diethyl phosphorothioate
+293	P0A434	H2O
+294	P0A434	(S)-[2-[di(propan-2-yl)amino]ethyl] O,O-dimethyl phosphorothioate
+295	P0A434	H2O
+296	P0A434	(S)-[2-[di(propan-2-yl)amino]ethyl] O-ethyl methylphosphonothioate
+297	P0A434	H2O
+298	P0A434	2-methoxycarbonyl-1-methylvinyl dimethyl phosphate
+299	P0A434	H2O
+300	P0A434	3-[fluoro(methyl)phosphoryl]oxy-2,2-dimethylbutane
+301	P0A434	H2O
+302	P0A434	4-acetylphenyl (R)-2-methylpropyl methylphosphonate
+303	P0A434	H2O
+304	P0A434	4-acetylphenyl (S)-2-methylpropyl methylphosphonate
+305	P0A434	H2O
+306	P0A434	N,N-diethyl-2-(methyl-(2-methylpropoxy)phosphoryl)sulfanylethanamine
+307	P0A434	H2O
+308	P0A434	O,O-diethyl-S-[2-diethylaminoethyl]thiophosphate
+309	P0A434	H2O
+310	P0A434	O,O-diethyl-S-[2-diisopropylaminoethyl]thiophosphate
+311	P0A434	H2O
+312	P0A434	O,O-diethyl-S-[2-dimethylaminoethyl]thiophosphate
+313	P0A434	H2O
+314	P0A434	O-ethyl S-(2-diisopropylaminomethyl)methylphosphonothioate
+315	P0A434	H2O
+316	P0A434	O-ethyl-S-(2-di-n-propylaminoethyl)methylphosphonothiolate
+317	P0A434	H2O
+318	P0A434	O-ethyl-S-(2-diethylaminoethyl)ethylphosphonothiolate
+319	P0A434	H2O
+320	P0A434	O-ethyl-S-(2-diethylaminoethyl)methylphosphonothiolate
+321	P0A434	H2O
+322	P0A434	O-ethyl-S-(2-diisopropylaminoethyl)ethylphosphonothiolate
+323	P0A434	H2O
+324	P0A434	O-ethyl-S-(2-dimethylaminoethyl)ethylphosphonothiolate
+325	P0A434	H2O
+326	P0A434	O-ethyl-S-(2-dimethylaminoethyl)methylphosphonothiolate
+327	P0A434	H2O
+328	P0A434	O-isobutyl S-(N,N-diethylaminoethyl)methylphosphonothioate
+329	P0A434	H2O
+330	P0A434	O-methyl-S-(2-diethylaminoethyl)methylphosphonothiolate
+331	P0A434	H2O
+332	P0A434	O-n-butyl-S-(2-diethylaminoethyl)methylphosphonothiolate
+333	P0A434	H2O
+334	P0A434	cyclohexylmethylphosphonofluoridate
+335	P0A434	H2O
+336	P0A434	diethyl 2-(dimethoxyphosphorylsulfanyl)butanedioate
+337	P0A434	H2O
+338	P0A434	diethyl 4-chlorophenyl thiophosphate
+339	P0A434	H2O
+340	P0A434	diethyl 4-methylbenzylphosphonate
+341	P0A434	H2O
+342	P0A434	paraoxon
+343	P0A434	H2O
+344	P0A434	O-ethyl-S-(2-diisopropylaminoethyl)methylphosphonothiolate
+345	P0A434	H2O
+346	P0A434	cyclohexylmethylphosphonofluoridate
+347	P0A434	H2O
+348	P0A434	ethyl dimethylphosphoramidocyanidate
+349	P0A434	H2O
+350	P0A434	O-isobutyl-S-(2-diethylaminoethyl)methylphosphonothiolate
+351	P0A434	H2O
+352	P0A434	demeton-S
+353	P0A434	H2O
+354	Q97VT7	more
+355	Q97VT7	paraoxon
+356	Q97VT7	H2O
+357	Q97VT7	paraoxon
+358	Q97VT7	H2O
+359	Q97VT7	methyl paraoxon
+360	Q97VT7	H2O
+361	Q97VT7	methyl parathion
+362	Q97VT7	H2O
+363	Q97VT7	dimethyl-parathion
+364	Q97VT7	H2O
+365	Q97VT7	diethyl-parathion
+366	Q97VT7	H2O
+367	Q97VT7	dimethyl-paraoxon
+368	Q97VT7	H2O
+369	Q97VT7	diethyl-paraoxon
+370	Q97VT7	H2O
+371	Q97VT7	chlorpyrifos
+372	Q97VT7	H2O
+373	Q97VT7	malathion
+374	Q97VT7	H2O
+375	Q97VT7	paraoxon
+376	Q97VT7	H2O
+377	Q97VT7	O-ethyl-S-(2-diisopropylaminoethyl)methylphosphonothiolate
+378	Q97VT7	H2O
+379	Q97VT7	cyclohexylmethylphosphonofluoridate
+380	Q97VT7	H2O
+381	Q97VT7	ethyl dimethylphosphoramidocyanidate
+382	Q97VT7	H2O
+383	Q97VT7	(+)-cyclosarin
+384	Q97VT7	H2O
+385	Q97VT7	coumaphos
+386	Q97VT7	H2O
+387	Q97VT7	fenitrothion
+388	Q97VT7	H2O
+389	Q97VT7	fensulfothion
+390	Q97VT7	H2O
+391	Q97VT7	malathion
+392	Q97VT7	H2O
+393	Q97VT7	O-isopropyl methylphosphonofluoridate
+394	Q97VT7	H2O
+395	P0A433	paraoxon
+396	P0A433	H2O
+397	P15034	more
+398	P15034	1-methylethyl 4-nitrophenyl (1-methylpropyl)phosphonate
+399	P15034	H2O
+400	P15034	1-methylethyl 4-nitrophenyl methylphosphonate
+401	P15034	H2O
+402	P15034	1-methylpropyl 4-nitrophenyl methylphosphonate
+403	P15034	H2O
+404	P15034	4-nitrophenyl phenyl methylphosphonate
+405	P15034	H2O
+406	P15034	4-nitrophenyl propyl methylphosphonate
+407	P15034	H2O
+408	P15034	ethyl 1-methylethyl 4-nitrophenyl phosphate
+409	P15034	H2O
+410	P15034	ethyl 4-nitrophenyl (1-methylpropyl)phosphonate
+411	P15034	H2O
+412	P15034	ethyl 4-nitrophenyl methylphosphonate
+413	P15034	H2O
+414	P15034	diethyl 4-nitrophenyl phosphate
+415	P15034	H2O
+416	P15034	dimethyl 4-nitrophenyl phosphate
+417	P15034	H2O
+418	P15034	methyl 1-methylethyl 4-nitrophenyl phosphate
+419	P15034	H2O
+420	Q5W503	methyl parathion
+421	Q5W503	H2O
+422	C4KKZ9	more
+423	C4KKZ9	paraoxon
+424	C4KKZ9	H2O
+425	C4KKZ9	paraoxon
+426	C4KKZ9	H2O
+427	C4KKZ9	methyl paraoxon
+428	C4KKZ9	H2O
+429	C4KKZ9	methyl parathion
+430	C4KKZ9	H2O
+431	C4KKZ9	malathion
+432	C4KKZ9	H2O
+433	C4KKZ9	ethyl paraoxon
+434	C4KKZ9	H2O
+435	Q4J6Z8	methyl paraoxon
+436	Q4J6Z8	H2O
+437	Q4J6Z8	methyl parathion
+438	Q4J6Z8	H2O
+439	Q4J6Z8	parathion
+440	Q4J6Z8	H2O
+441	Q4J6Z8	methyl paraoxon
+442	Q4J6Z8	H2O
+443	Q4J6Z8	diethyl 4-nitrophenyl phosphate
+444	Q4J6Z8	H2O
+445	Q4J6Z8	4-nitrophenyl butanoate
+446	Q4J6Z8	H2O
+447	Q4J6Z8	CMP-coumarin
+448	Q4J6Z8	H2O
+449	F0QXN6	paraoxon
+450	F0QXN6	H2O
+451	F0QXN6	paraoxon
+452	F0QXN6	H2O
+453	F0QXN6	methyl paraoxon
+454	F0QXN6	H2O
+455	F0QXN6	parathion
+456	F0QXN6	H2O
+457	F0QXN6	diazinon
+458	F0QXN6	H2O
+459	F0QXN6	methyl parathion
+460	F0QXN6	H2O
+461	F0QXN6	ethyl-paraoxon
+462	F0QXN6	H2O
+463	F0QXN6	fensulfothion
+464	F0QXN6	H2O
+465	P27170	more
+466	P27170	dimethyl-paraoxon
+467	P27170	H2O
+468	P27170	diethyl-paraoxon
+469	P27170	H2O
+470	P0A433	more
+471	P0A433	dimethyl-parathion
+472	P0A433	H2O
+473	Q0PWQ4	methyl parathion
+474	Q0PWQ4	H2O
+475	Q0PWQ4	chlorpyrifos
+476	Q0PWQ4	H2O
+477	Q0PWQ4	fenitrothion
+478	Q0PWQ4	H2O
+479	P9WHN9	diethyl-paraoxon
+480	P9WHN9	H2O
+481	A0A077JBW9	more
+482	A0A077JBW9	paraoxon
+483	A0A077JBW9	H2O
+484	A0A077JBW9	(1E)-but-1-en-1-yl dibutyl phosphate
+485	A0A077JBW9	H2O
+486	A0A077JBW9	4-acetylphenyl cyclohexyl methyl (R)-phosphate
+487	A0A077JBW9	H2O
+488	A0A077JBW9	4-acetylphenyl cyclohexyl methyl (S)-phosphate
+489	A0A077JBW9	H2O
+490	A0A077JBW9	4-carbamoylphenyl diethyl phosphate
+491	A0A077JBW9	H2O
+492	A0A077JBW9	O,O,S-tributyl phosphorothioate
+493	A0A077JBW9	H2O
+494	A0A077JBW9	cyclohexyl ethyl 4-nitrophenyl (R)-phosphate
+495	A0A077JBW9	H2O
+496	A0A077JBW9	cyclohexyl ethyl 4-nitrophenyl (S)-phosphate
+497	A0A077JBW9	H2O
+498	A0A077JBW9	cyclohexyl methyl 4-nitrophenyl (R)-phosphate
+499	A0A077JBW9	H2O
+500	A0A077JBW9	cyclohexyl methyl 4-nitrophenyl (S)-phosphate
+501	A0A077JBW9	H2O
+502	A0A077JBW9	cyclohexyl methyl phenyl (R)-phosphate
+503	A0A077JBW9	H2O
+504	A0A077JBW9	cyclohexyl methyl phenyl (S)-phosphate
+505	A0A077JBW9	H2O
+506	A0A077JBW9	dibutyl 2,2,3,3-tetrafluorobutyl phosphate
+507	A0A077JBW9	H2O
+508	A0A077JBW9	dibutyl 3,3-difluorobutyl phosphate
+509	A0A077JBW9	H2O
+510	A0A077JBW9	dibutyl 4-acetophenyl phosphate
+511	A0A077JBW9	H2O
+512	A0A077JBW9	dibutyl 4-nitrophenyl phosphate
+513	A0A077JBW9	H2O
+514	A0A077JBW9	dibutyl phenyl phosphate
+515	A0A077JBW9	H2O
+516	A0A077JBW9	diethyl 2,4,6-trifluorophenyl phosphate
+517	A0A077JBW9	H2O
+518	A0A077JBW9	diethyl 2,4-difluorophenyl phosphate
+519	A0A077JBW9	H2O
+520	A0A077JBW9	diethyl 2,6-difluoro-4-nitrophenyl phosphate
+521	A0A077JBW9	H2O
+522	A0A077JBW9	diethyl 2-fluoro-4-nitrophenyl phosphate
+523	A0A077JBW9	H2O
+524	A0A077JBW9	diethyl 2-fluorophenyl phosphate
+525	A0A077JBW9	H2O
+526	A0A077JBW9	diethyl 3-fluoro-4-nitrophenyl phosphate
+527	A0A077JBW9	H2O
+528	A0A077JBW9	diethyl 3-fluorophenyl phosphate
+529	A0A077JBW9	H2O
+530	A0A077JBW9	diethyl 4-acetophenyl phosphate
+531	A0A077JBW9	H2O
+532	A0A077JBW9	diethyl 4-chlorophenyl phosphate
+533	A0A077JBW9	H2O
+534	A0A077JBW9	diethyl 4-cyanophenyl phosphate
+535	A0A077JBW9	H2O
+536	A0A077JBW9	diethyl 4-fluorophenyl phosphate
+537	A0A077JBW9	H2O
+538	A0A077JBW9	diethyl 4-formylphenyl phosphate
+539	A0A077JBW9	H2O
+540	A0A077JBW9	diethyl 4-methoxyphenyl phosphate
+541	A0A077JBW9	H2O
+542	A0A077JBW9	diethyl 4-nitrophenyl phosphate
+543	A0A077JBW9	H2O
+544	A0A077JBW9	diethyl pentafluoro-phenyl phosphate
+545	A0A077JBW9	H2O
+546	A0A077JBW9	diethyl phenyl phosphate
+547	A0A077JBW9	H2O
+548	A0A077JBW9	dimethyl 4-nitrophenyl phosphate
+549	A0A077JBW9	H2O
+550	A0A077JBW9	methyl 4-[(diethoxyphosphoryl)oxy]benzoate
+551	A0A077JBW9	H2O
+552	A0A077JBW9	methyl 4-nitrophenyl phenyl (R)-phosphate
+553	A0A077JBW9	H2O
+554	A0A077JBW9	methyl 4-nitrophenyl phenyl (S)-phosphate
+555	A0A077JBW9	H2O
+556	A0A077JBW9	methyl 4-nitrophenyl propan-2-yl (R)-phosphate
+557	A0A077JBW9	H2O
+558	A0A077JBW9	methyl 4-nitrophenyl propan-2-yl (S)-phosphate
+559	A0A077JBW9	H2O
+560	A0A077JBW9	methyl bis(4-nitrophenyl) phosphate
+561	A0A077JBW9	H2O
+562	K4I2M6	more
+563	K4I2M6	diethyl-parathion
+564	K4I2M6	H2O
+565	K4I2M6	diethyl-paraoxon
+566	K4I2M6	H2O
+567	K4I2M6	O-ethyl-S-(2-diisopropylaminoethyl)methylphosphonothiolate
+568	K4I2M6	H2O
+569	K4I2M6	cyclohexylmethylphosphonofluoridate
+570	K4I2M6	H2O
+571	K4I2M6	ethyl dimethylphosphoramidocyanidate
+572	K4I2M6	H2O
+573	K4I2M6	O-isobutyl-S-(2-diethylaminoethyl)methylphosphonothiolate
+574	K4I2M6	H2O
+575	K4I2M6	O-isopropyl methylphosphonofluoridate
+576	K4I2M6	H2O
+577	K4I2M6	3-[fluoro(methyl)phosphoryl]oxy-2,2-dimethylbutane
+578	K4I2M6	H2O
+579	Q5UB52	paraoxon
+580	Q5UB52	H2O
+0	Q03336	more
+1	Q03336	diisopropyl phosphofluoridate
+2	Q03336	H2O
+3	Q03336	phenyl acetate
+4	Q03336	H2O
+5	Q7SIG4	more
+6	Q7SIG4	tabun
+7	Q7SIG4	H2O
+8	Q7SIG4	cyclosarin
+9	Q7SIG4	H2O
+10	Q7SIG4	diisopropyl fluorophosphate
+11	Q7SIG4	H2O
+12	Q7SIG4	soman
+13	Q7SIG4	H2O
+14	Q7SIG4	(R)-cyclosarin
+15	Q7SIG4	H2O
+16	Q7SIG4	(R)-sarin
+17	Q7SIG4	H2O
+18	Q7SIG4	(RS)-propan-2-yl methylphosphonofluoridate
+19	Q7SIG4	H2O
+20	Q7SIG4	(S)-cyclosarin
+21	Q7SIG4	H2O
+22	Q7SIG4	(S)-sarin
+23	Q7SIG4	H2O
+24	Q7SIG4	1,2,2-trimethylpropyl methylphosphonofluoridoate
+25	Q7SIG4	H2O
+26	Q7SIG4	1-methylethyl methylphosphonofluoridoate
+27	Q7SIG4	H2O
+28	Q7SIG4	3-[fluoro(methyl)phosphoryl]oxy-2,2-dimethylbutane
+29	Q7SIG4	H2O
+30	Q7SIG4	chlorpyrifos
+31	Q7SIG4	H2O
+32	Q7SIG4	cyclohexyl methylphosphonofluoridate
+33	Q7SIG4	H2O
+34	Q7SIG4	cyclohexyl methylphosphonofluoridoate
+35	Q7SIG4	H2O
+36	Q7SIG4	cyclohexylmethylphosphonofluoridate
+37	Q7SIG4	H2O
+38	Q7SIG4	ethyl dimethylamidocyanophosphate
+39	Q7SIG4	H2O
+40	Q7SIG4	diethyl-paraoxon
+41	Q7SIG4	H2O
+42	Q7SIG4	3-[fluoro(methyl)phosphoryl]oxy-2,2-dimethylbutane
+43	Q7SIG4	H2O
+44	Q7SIG4	ethyl dimethylphosphoramidocyanidate
+45	Q7SIG4	H2O
+46	Q7SIG4	(RS)-propan-2-yl methylphosphonofluoridate
+47	Q7SIG4	H2O
+48	Q7SIG4	sarin
+49	Q7SIG4	H2O
+50	P27169	more
+51	P27169	diisopropyl fluorophosphate
+52	P27169	H2O
+53	P27169	diethyl-paraoxon
+54	P27169	H2O
+55	P27169	chlorpyrifos oxon
+56	P27169	H2O
+57	P27169	phenyl acetate
+58	P27169	H2O
+59	P0A434	more
+60	P0A434	3-[fluoro(methyl)phosphoryl]oxy-2,2-dimethylbutane
+61	P0A434	H2O
+62	P0A434	ethyl dimethylphosphoramidocyanidate
+63	P0A434	H2O
+64	P0A434	(RS)-propan-2-yl methylphosphonofluoridate
+65	P0A434	H2O
+66	P0A434	ethyl dimethylphosphoramidocyanidate
+67	P0A434	H2O
+68	Q44238	O-isopropylmethylphosphonofluoridate
+69	Q44238	H2O
+70	Q44238	O-pinacolyl methylphosphonofluoridate
+71	Q44238	H2O
+72	Q44238	diisopropyl fluorophosphate
+73	Q44238	H2O
+74	P0A433	more
+75	P0A433	diisopropyl fluorophosphate
+76	P0A433	H2O
+77	P0A433	(RS)-propan-2-yl methylphosphonofluoridate
+78	P0A433	H2O
+79	P0A433	3-[fluoro(methyl)phosphoryl]oxy-2,2-dimethylbutane
+80	P0A433	H2O
+81	P0A433	diethyl fluorophosphate
+82	P0A433	H2O
+0	P51688	heparan sulfate
+1	P51688	H2O
+2	P51688	heparan sulfate
+3	P51688	H2O
+4	P51688	more
+5	P51688	4-methylumbelliferyl-alpha-D-N-sulfoglucosaminide
+6	P51688	H2O
+7	P51688	heparan sulfate
+8	P51688	H2O
+0	Q8RSQ3	phosphonoacetaldehyde
+1	Q8RSQ3	H2O
+2	Q8RSQ3	phosphonoacetaldehyde
+3	Q8RSQ3	H2O
+4	Q9I433	phosphonoacetaldehyde
+5	Q9I433	H2O
+6	Q9I433	phosphonoacetaldehyde
+7	Q9I433	H2O
+8	O31156	phosphonoacetaldehyde
+9	O31156	H2O
+10	O31156	phosphonoacetaldehyde
+11	O31156	H2O
+12	A0A093YC30	phosphonoacetaldehyde
+13	A0A093YC30	H2O
+14	A0A093YC30	phosphonoacetaldehyde
+15	A0A093YC30	H2O
+16	Q7ZAP3	phosphonoacetaldehyde
+17	Q7ZAP3	H2O
+18	Q7ZAP3	phosphonoacetaldehyde
+19	Q7ZAP3	H2O
+0	Q92UV8	Phosphonoacetate
+1	Q92UV8	H2O
+2	Q51782	Phosphonoacetate
+3	Q51782	H2O
+0	Q84G06	3-phosphonopyruvate
+1	Q84G06	H2O
+2	Q84G06	phosphoenolpyruvate
+3	Q84G06	H2O
+0	Q84KI6	UDP-glucose
+1	Q84KI6	sulfite
+2	Q4JBJ3	UDP-alpha-D-glucose
+3	Q4JBJ3	sulfite
+4	C0LIR3	UDP-alpha-D-sulfoquinovopyranose
+5	C0LIR3	H2O
+6	O48917	UDP-glucose
+7	O48917	sulfite
+0	P54997	2'-hydroxybiphenyl-2-sulfinate
+1	P54997	H2O
+2	Q6WE14	2'-hydroxybiphenyl-2-sulfinate
+3	Q6WE14	H2O
+0	K4L7X3	more
+1	K4L7X3	3-sulfinopropanoyl-CoA
+2	K4L7X3	H2O
+0	S5FT07	carbon disulfide
+1	S5FT07	2 H2O
+2	S5FT07	carbonyl sulfide
+3	S5FT07	H2O
+4	S5FT07	more
+5	S5FU55	carbon disulfide
+6	S5FU55	2 H2O
+7	S5FU55	carbonyl sulfide
+8	S5FU55	H2O
+9	S5FU55	more
+0	P9WHS1	[CysO sulfur-carrier protein]-Gly-NH-CH2-C(O)-S-L-cysteine
+1	P9WHS1	H2O
+2	P9WHS1	[CysO sulfur-carrier protein]-His10-L-Ala-NH-CH2-C(O)-S-L-cysteine
+3	P9WHS1	H2O
+4	P9WHS1	[CysO sulfur-carrier protein]-His10-L-Cys-NH-CH2-C(O)-S-L-cysteine
+5	P9WHS1	H2O
+0	H1AAP2	carbonyl sulfide
+1	H1AAP2	H2O
+0	O58212	5'-chloro-5'-deoxyadenosine
+1	O58212	H2O
+2	O58212	S-adenosyl-L-methionine
+3	O58212	H2O
+4	O58212	S-adenosyl-L-methionine
+5	O58212	H2O
+6	O58212	S-adenosyl-L-methionine
+7	O58212	H2O
+8	O58212	more
+0	Q58783	S-inosyl-L-homocysteine
+1	Q58783	H2O
+2	Q58783	S-inosyl-L-homocysteine
+3	Q58783	H2O
+4	Q58783	inosine
+5	Q58783	L-homocysteine
+0	Q75UG5	more
+1	P04745	maltoheptaoside
+2	P04745	H2O
+3	P04745	maltopentaoside
+4	P04745	H2O
+5	P04745	starch
+6	P04745	H2O
+7	P04745	more
+8	A8VWC5	starch
+9	A8VWC5	H2O
+10	Q6WUB6	soluble starch
+11	Q6WUB6	H2O
+12	Q6WUB6	amylopectin
+13	Q6WUB6	H2O
+14	Q6WUB6	glycogen
+15	Q6WUB6	H2O
+16	Q6WUB6	amylose
+17	Q6WUB6	H2O
+18	Q6WUB6	more
+19	Q8LJQ6	starch
+20	Q8LJQ6	H2O
+21	P00693	2-chloro-4-nitrophenyl beta-D-maltoheptaoside
+22	P00693	H2O
+23	P00693	amylose DP440
+24	P00693	H2O
+25	P00693	2-chloro-4-nitrophenyl beta-D-glucopyranosyl-(1-4)-beta-D-glucopyranosyl-(1-4)-beta-D glucopyranosyl-(1-4)-beta-D-glucopyranosyl-(1-4)-beta-D-glucopyranosyl (1-4)-beta-D-glucopyranosyl-(1-4)-beta-D-glucopyranoside
+26	P00693	H2O
+27	P00693	insoluble Blue Starch
+28	P00693	H2O
+29	P00693	beta-cyclodextrin
+30	P00693	H2O
+31	P00693	amylose
+32	P00693	H2O
+33	P04063	amylose DP17
+34	P04063	H2O
+35	P04063	2-chloro-4-nitrophenyl beta-D-maltoheptaoside
+36	P04063	H2O
+37	P04063	amylose
+38	P04063	H2O
+39	P04063	starch
+40	P04063	H2O
+41	P04063	beta-cyclodextrin
+42	P04063	H2O
+43	P04063	more
+44	P06278	starch
+45	P06278	H2O
+46	P06278	4,6-ethylidene-[G7]-p-nitrophenyl-[G1]-alpha-D-maltoheptaoside
+47	P06278	H2O
+48	P06278	starch
+49	P06278	H2O
+50	B6RB08	starch
+51	B6RB08	H2O
+52	P20845	starch
+53	P20845	H2O
+54	P20845	starch
+55	P20845	H2O
+56	B5ARZ9	soluble starch
+57	B5ARZ9	H2O
+58	B5ARZ9	amylopectin
+59	B5ARZ9	H2O
+60	B5ARZ9	4-nitrophenyl alpha-D-maltohexaoside
+61	B5ARZ9	H2O
+62	B5ARZ9	amylase
+63	B5ARZ9	H2O
+64	B5ARZ9	maltoheptaose
+65	B5ARZ9	H2O
+66	B5ARZ9	maltohexaose
+67	B5ARZ9	H2O
+68	B5ARZ9	maltopentaose
+69	B5ARZ9	H2O
+70	B5ARZ9	maltotetraose
+71	B5ARZ9	H2O
+72	B5ARZ9	glycogen
+73	B5ARZ9	H2O
+74	B5ARZ9	more
+75	B5ARZ9	maltotriose
+76	B5ARZ9	H2O
+77	B1VK33	dextrin
+78	B1VK33	H2O
+79	B1VK33	4-nitrophenyl maltoheptaoside
+80	B1VK33	H2O
+81	B1VK33	oyster glycogen
+82	B1VK33	H2O
+83	B1VK33	rabbit glycogen
+84	B1VK33	H2O
+85	B1VK33	soluble potato starch
+86	B1VK33	H2O
+87	B1VK33	more
+88	B8Y1H0	soluble starch
+89	B8Y1H0	H2O
+90	P00692	starch
+91	P00692	H2O
+92	P00692	starch
+93	P00692	H2O
+94	B8Y698	Remazol Brilliant Blue-dyed starch
+95	B8Y698	H2O
+96	P17654	starch
+97	P17654	H2O
+98	P17654	starch
+99	P17654	H2O
+100	C0LZ63	starch
+101	C0LZ63	H2O
+102	Q8A1G3	amylopectin
+103	Q8A1G3	H2O
+104	Q8A1G3	amylose
+105	Q8A1G3	H2O
+106	Q8A1G3	more
+107	Q8A1G3	pullulan
+108	Q8A1G3	H2O
+109	Q1KLC8	raw sago starch
+110	Q1KLC8	H2O
+111	D4P4Y7	soluble starch
+112	D4P4Y7	H2O
+113	D4P4Y7	amylopectin
+114	D4P4Y7	H2O
+115	D4P4Y7	beta-limit dextrin
+116	D4P4Y7	H2O
+117	D4P4Y7	maltoheptaose
+118	D4P4Y7	H2O
+119	D4P4Y7	gamma-cyclodextrin
+120	D4P4Y7	H2O
+121	D4P4Y7	raw starch
+122	D4P4Y7	H2O
+123	D4P4Y7	rice starch
+124	D4P4Y7	H2O
+125	D4P4Y7	corn starch
+126	D4P4Y7	H2O
+127	D4P4Y7	beta-cyclodextrin
+128	D4P4Y7	H2O
+129	D4P4Y7	amylose
+130	D4P4Y7	H2O
+131	D4P4Y7	more
+132	D4P4Y7	pullulan
+133	D4P4Y7	H2O
+134	O08452	soluble starch
+135	O08452	H2O
+136	O08452	maltodextrin
+137	O08452	H2O
+138	O08452	amylopectin
+139	O08452	H2O
+140	O08452	maltodextran
+141	O08452	H2O
+142	O08452	starch
+143	O08452	H2O
+144	O08452	glycogen
+145	O08452	H2O
+146	O08452	amylose
+147	O08452	H2O
+148	O08452	amylopectin
+149	O08452	H2O
+150	O08452	amylose
+151	O08452	H2O
+152	O08452	more
+153	P00690	4-nitrophenyl alpha-D-maltoheptaoside-4,6-O-ethylidene
+154	P00690	H2O
+155	P00690	4-nitrophenyl alpha-D-maltoside
+156	P00690	H2O
+157	P00690	glycogen
+158	P00690	H2O
+159	P00690	starch
+160	P00690	H2O
+161	P00690	more
+162	P04746	alpha-maltotriosyl fluoride
+163	P04746	H2O
+164	P04746	2-chloro-4-nitrophenyl alpha-D-maltotrioside
+165	P04746	H2O
+166	P04746	2-chloro-4-nitrophenyl alpha-maltotrioside
+167	P04746	H2O
+168	P04746	maltosyl fluoride
+169	P04746	H2O
+170	P06279	starch
+171	P06279	H2O
+172	P96107	starch
+173	P96107	H2O
+174	P96107	starch
+175	P96107	H2O
+176	P96107	starch
+177	P96107	butanol
+178	P96107	starch
+179	P96107	methanol
+180	O33476	glycogen
+181	O33476	H2O
+182	O33476	amylopectin
+183	O33476	H2O
+184	O33476	amylose
+185	O33476	H2O
+186	O33476	more
+187	O33476	starch
+188	O33476	H2O
+189	Q4J9M2	amylopectin
+190	Q4J9M2	H2O
+191	Q4J9M2	amylose
+192	Q4J9M2	H2O
+193	Q4J9M2	glycogen
+194	Q4J9M2	H2O
+195	Q4J9M2	starch
+196	Q4J9M2	H2O
+197	Q4J9M2	starch
+198	Q4J9M2	H2O
+199	Q4J9M2	more
+200	Q2QC88	amylopectin
+201	Q2QC88	H2O
+202	Q2QC88	maltooligosaccharide
+203	Q2QC88	H2O
+204	Q2QC88	starch
+205	Q2QC88	H2O
+206	Q2QC88	more
+207	L8B068	soluble starch
+208	L8B068	H2O
+209	L8B068	amylopectin
+210	L8B068	H2O
+211	L8B068	glycogen
+212	L8B068	H2O
+213	L8B068	amylose
+214	L8B068	H2O
+215	Q47R94	4-nitrophenyl alpha-D-maltoheptaoside-4,6-O-ethylidene
+216	Q47R94	H2O
+217	Q47R94	starch
+218	Q47R94	H2O
+219	A0A060DAC6	amylopectin
+220	A0A060DAC6	H2O
+221	A0A060DAC6	maltotetraose
+222	A0A060DAC6	H2O
+223	A0A060DAC6	maltoheptaose
+224	A0A060DAC6	3 H2O
+225	A0A060DAC6	maltopentaose
+226	A0A060DAC6	H2O
+227	A0A060DAC6	starch
+228	A0A060DAC6	H2O
+229	A0A060DAC6	amylose
+230	A0A060DAC6	H2O
+231	A0A060DAC6	more
+232	T1WE96	starch
+233	T1WE96	H2O
+234	T1WDH2	starch
+235	T1WDH2	H2O
+236	H2N0D4	starch
+237	H2N0D4	H2O
+238	P29957	4-nitrophenyl alpha-D-maltoheptaoside-4,6-O-ethylidene
+239	P29957	H2O
+240	P29957	starch
+241	P29957	H2O
+242	P08144	4-nitrophenyl alpha-D-maltoheptaoside-4,6-O-ethylidene
+243	P08144	H2O
+244	P08144	starch
+245	P08144	H2O
+246	A5ILB0	starch
+247	A5ILB0	H2O
+248	A0A482EWM9	amylopectin
+249	A0A482EWM9	H2O
+250	A0A482EWM9	soluble maize starch
+251	A0A482EWM9	H2O
+252	A0A482EWM9	soluble potato starch
+253	A0A482EWM9	H2O
+254	A0A482EWM9	soluble rice starch
+255	A0A482EWM9	H2O
+256	A0A482EWM9	soluble wheat starch
+257	A0A482EWM9	H2O
+258	A0A482EWM9	amylose
+259	A0A482EWM9	H2O
+260	A0A482EWM9	more
+261	A0A0M4N1K4	raw starch
+262	A0A0M4N1K4	H2O
+263	A0A0M4N1K4	amylose
+264	A0A0M4N1K4	H2O
+265	A0A0M4N1K4	cycloamylose
+266	A0A0M4N1K4	H2O
+267	A0A0M4N1K4	maltoheptaose
+268	A0A0M4N1K4	H2O
+269	A0A0M4N1K4	glycogen
+270	A0A0M4N1K4	H2O
+271	A0A0M4N1K4	amylopectin
+272	A0A0M4N1K4	H2O
+273	A0A0M4N1K4	more
+274	A0A0M4N1K4	soluble starch
+275	A0A0M4N1K4	H2O
+276	I3P686	soluble starch
+277	I3P686	H2O
+278	I3P686	raw starch
+279	I3P686	H2O
+280	A0A1S7D3W6	starch
+281	A0A1S7D3W6	H2O
+282	A0A1D9CEW3	maltotriose
+283	A0A1D9CEW3	H2O
+284	A0A1D9CEW3	hydrolyzed starch
+285	A0A1D9CEW3	H2O
+286	A0A1D9CEW3	maltotetraose
+287	A0A1D9CEW3	H2O
+288	A0A1D9CEW3	more
+289	D9MZ14	maize starch
+290	D9MZ14	H2O
+291	D9MZ14	mung bean starch
+292	D9MZ14	H2O
+293	D9MZ14	pea starch
+294	D9MZ14	H2O
+295	D9MZ14	raw rice starch
+296	D9MZ14	H2O
+297	D9MZ14	potato starch
+298	D9MZ14	H2O
+299	D9MZ14	wheat starch
+300	D9MZ14	H2O
+301	D9MZ14	starch
+302	D9MZ14	H2O
+303	Q92394	raw rice starch
+304	Q92394	H2O
+305	Q92394	starch
+306	Q92394	H2O
+307	B1NLD4	amylopectin
+308	B1NLD4	H2O
+309	B1NLD4	starch
+310	B1NLD4	H2O
+311	B1NLD3	amylopectin
+312	B1NLD3	H2O
+313	B1NLD3	starch
+314	B1NLD3	H2O
+315	A0A1L6Z980	starch
+316	A0A1L6Z980	H2O
+317	A0A1P8L1E1	starch
+318	A0A1P8L1E1	H2O
+319	A0A192GPZ8	soluble starch
+320	A0A192GPZ8	H2O
+321	O31193	starch
+322	O31193	H2O
+323	A0A168VCK5	amylopectin
+324	A0A168VCK5	H2O
+325	A0A168VCK5	starch
+326	A0A168VCK5	H2O
+327	P09107	amylopectin
+328	P09107	H2O
+329	P09107	starch
+330	P09107	H2O
+331	A0A2I7SX03	starch
+332	A0A2I7SX03	H2O
+333	A0A2N0UQI0	maltotetraose
+334	A0A2N0UQI0	H2O
+335	A0A2N0UQI0	amylopectin
+336	A0A2N0UQI0	H2O
+337	A0A2N0UQI0	amylose
+338	A0A2N0UQI0	H2O
+339	A0A2N0UQI0	maltopentaose
+340	A0A2N0UQI0	H2O
+341	A0A2N0UQI0	soluble starch
+342	A0A2N0UQI0	H2O
+343	A0A2N0UQI0	pullulan
+344	A0A2N0UQI0	H2O
+345	A0A2N0UQI0	more
+346	A0A2N0UQI0	maltotriose
+347	A0A2N0UQI0	H2O
+348	D2RTP2	potato starch
+349	D2RTP2	H2O
+350	D2RTP2	starch
+351	D2RTP2	H2O
+352	D2RTP2	more
+353	J9PXA2	corn starch
+354	J9PXA2	H2O
+355	J9PXA2	potato starch
+356	J9PXA2	H2O
+357	J9PXA2	raw starch
+358	J9PXA2	H2O
+359	J9PXA2	more
+360	A0A0U4VEK2	amylopectin
+361	A0A0U4VEK2	H2O
+362	A0A0U4VEK2	amylose
+363	A0A0U4VEK2	H2O
+364	A0A0U4VEK2	beta-cyclodextrin
+365	A0A0U4VEK2	H2O
+366	A0A0U4VEK2	glycogen
+367	A0A0U4VEK2	H2O
+368	A0A0U4VEK2	maltoheptaose
+369	A0A0U4VEK2	H2O
+370	A0A0U4VEK2	maltopentaose
+371	A0A0U4VEK2	H2O
+372	A0A0U4VEK2	maltotriose
+373	A0A0U4VEK2	H2O
+374	A0A0U4VEK2	pullulan
+375	A0A0U4VEK2	H2O
+376	A0A0U4VEK2	soluble starch
+377	A0A0U4VEK2	H2O
+378	A0A0U4VEK2	maltose
+379	A0A0U4VEK2	H2O
+380	A0A0U4VEK2	more
+381	W8SKF6	starch
+382	W8SKF6	H2O
+383	G4Y5W9	soluble starch
+384	G4Y5W9	H2O
+385	A0A0A0WA73	soluble starch
+386	A0A0A0WA73	H2O
+387	A0A0A0WA73	maltodextrin
+388	A0A0A0WA73	H2O
+389	A0A0A0WA73	amylopectin
+390	A0A0A0WA73	H2O
+391	A0A0A0WA73	rice flour
+392	A0A0A0WA73	H2O
+393	A0A0A0WA73	wheat flour
+394	A0A0A0WA73	H2O
+395	A0A0K6JV03	soluble starch
+396	A0A0K6JV03	H2O
+397	A0A0K6JV03	starch
+398	A0A0K6JV03	H2O
+399	Q9L035	starch
+400	Q9L035	H2O
+401	A0A150LTP0	starch
+402	A0A150LTP0	H2O
+403	Q93I48	starch
+404	Q93I48	H2O
+405	A1YR25	starch
+406	A1YR25	H2O
+407	A9YDD9	starch
+408	A9YDD9	H2O
+409	A0A223KY92	starch
+410	A0A223KY92	H2O
+411	A0A2U8ZSD8	starch
+412	A0A2U8ZSD8	H2O
+413	A0A1G8DI07	starch
+414	A0A1G8DI07	H2O
+415	A0A2D9BRK8	starch
+416	A0A2D9BRK8	H2O
+417	P86331	starch
+418	P86331	H2O
+0	Q9F4G4	more
+1	Q9AF93	isomaltose
+2	Q9AF93	H2O
+3	Q9AF93	trehalose
+4	Q9AF93	H2O
+5	Q9AF93	more
+6	Q9AF93	4-methylumbelliferyl alpha-D-glucoside
+7	Q9AF93	H2O
+8	Q9AF93	isomaltriose
+9	Q9AF93	H2O
+10	Q9AF93	4-nitrophenyl alpha-D-glucopyranoside
+11	Q9AF93	H2O
+12	P14410	isomaltose
+13	P14410	H2O
+14	P14410	maltose
+15	P14410	H2O
+16	P14410	more
+17	P14410	4-nitrophenyl alpha-D-glucopyranoside
+18	P14410	H2O
+19	C0JP82	isomaltotriose
+20	C0JP82	H2O
+21	C0JP82	isomaltose
+22	C0JP82	H2O
+23	C0JP82	maltulose
+24	C0JP82	H2O
+25	C0JP82	nigerose
+26	C0JP82	H2O
+27	C0JP82	palatinose
+28	C0JP82	H2O
+29	C0JP82	panose
+30	C0JP82	H2O
+31	C0JP82	trehalose
+32	C0JP82	H2O
+33	C0JP82	trehalulose
+34	C0JP82	H2O
+35	C0JP82	turanose
+36	C0JP82	H2O
+37	C0JP83	isomaltotriose
+38	C0JP83	H2O
+39	C0JP83	isomaltose
+40	C0JP83	H2O
+41	C0JP83	maltulose
+42	C0JP83	H2O
+43	C0JP83	nigerose
+44	C0JP83	H2O
+45	C0JP83	palatinose
+46	C0JP83	H2O
+47	C0JP83	panose
+48	C0JP83	H2O
+49	C0JP83	trehalose
+50	C0JP83	H2O
+51	C0JP83	trehalulose
+52	C0JP83	H2O
+53	C0JP83	turanose
+54	C0JP83	H2O
+55	P53051	sucrose
+56	P53051	H2O
+57	P53051	more
+58	P53051	isomaltriose
+59	P53051	H2O
+60	P53051	methyl alpha-D-glucopyranoside
+61	P53051	H2O
+62	P53051	isomaltose
+63	P53051	H2O
+64	P53051	palatinose
+65	P53051	H2O
+66	P53051	4-nitrophenyl alpha-D-glucopyranoside
+67	P53051	H2O
+68	Q4J9M3	panose
+69	Q4J9M3	H2O
+70	Q4J9M3	isomaltose
+71	Q4J9M3	H2O
+72	Q08295	sucrose
+73	Q08295	H2O
+74	Q08295	more
+75	Q08295	isomaltriose
+76	Q08295	H2O
+77	Q08295	methyl alpha-D-glucopyranoside
+78	Q08295	H2O
+79	Q08295	isomaltose
+80	Q08295	H2O
+81	Q08295	palatinose
+82	Q08295	H2O
+83	Q08295	4-nitrophenyl alpha-D-glucopyranoside
+84	Q08295	H2O
+85	P0CW40	sucrose
+86	P0CW40	H2O
+87	P0CW40	more
+88	P0CW40	isomaltriose
+89	P0CW40	H2O
+90	P0CW40	methyl alpha-D-glucopyranoside
+91	P0CW40	H2O
+92	P0CW40	isomaltose
+93	P0CW40	H2O
+94	P0CW40	palatinose
+95	P0CW40	H2O
+96	P0CW40	4-nitrophenyl alpha-D-glucopyranoside
+97	P0CW40	H2O
+98	P40884	sucrose
+99	P40884	H2O
+100	P40884	more
+101	P40884	isomaltriose
+102	P40884	H2O
+103	P40884	isomaltose
+104	P40884	H2O
+105	P40884	palatinose
+106	P40884	H2O
+107	P40884	4-nitrophenyl alpha-D-glucopyranoside
+108	P40884	H2O
+109	D7VFY4	isomaltose
+110	D7VFY4	H2O
+111	D7VFY4	more
+112	D7VFY4	4-nitrophenyl-alpha-D-glucopyranoside
+113	D7VFY4	H2O
+114	D7VFY4	isomaltulose
+115	D7VFY4	H2O

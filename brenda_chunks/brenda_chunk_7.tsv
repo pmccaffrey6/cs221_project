@@ -1,0 +1,2224 @@
+	uniprot_ids	substrates
+0	Q6J1Z5	2-aminophenol
+1	Q6J1Z5	O2
+2	Q6J1Z5	more
+3	Q6J1Z5	2-amino-5-chlorophenol
+4	Q6J1Z5	O2
+5	Q6J1Z5	protocatechuate
+6	Q6J1Z5	O2
+7	O34137	2-aminophenol
+8	O34137	O2
+9	O34137	catechol
+10	O34137	O2
+0	P74334	more
+1	P74334	(3R)-3hydroxy-beta-apo-12'-carotenal
+2	P74334	O2
+3	P74334	(3R)-3hydroxy-beta-apo-8'-carotenal
+4	P74334	O2
+5	P74334	(3R)-3hydroxy-beta-apo-8'-carotenol
+6	P74334	O2
+7	P74334	9'-cis-neoxanthin
+8	P74334	O2
+9	P74334	all-trans-(3R)-hydroxy-8'-apo-beta-carotenol
+10	P74334	O2
+11	P74334	all-trans-8'-apo-beta-carotenol
+12	P74334	O2
+13	P74334	all-trans-8'-apocarotenol
+14	P74334	O2
+15	P74334	all-trans-beta-apo-8'-carotenal
+16	P74334	O2
+17	P74334	beta-apo-8'-carotenol
+18	P74334	O2
+19	Q8YPB4	more
+20	Q8YPB4	beta-apo-8'-carotenol
+21	Q8YPB4	O2
+22	Q8YPB4	(3R)-3hydroxy-beta-apo-12'-carotenal
+23	Q8YPB4	O2
+24	Q8YPB4	(3R)-3hydroxy-beta-apo-8'-carotenal
+25	Q8YPB4	O2
+26	Q8YPB4	(3R)-3hydroxy-beta-apo-8'-carotenol
+27	Q8YPB4	O2
+28	Q8YPB4	apo-10'-lycopenal
+29	Q8YPB4	O2
+30	Q8YPB4	apo-8'-lycopenal
+31	Q8YPB4	O2
+32	Q8YPB4	apo-8'-lycopenol
+33	Q8YPB4	O2
+34	Q8YPB4	beta-apo-10'-carotenal
+35	Q8YPB4	O2
+36	Q8YPB4	beta-apo-8'-carotenal
+37	Q8YPB4	O2
+38	P9WPR5	more
+39	P9WPR5	3,3'-dihydoxyisorenieratene
+40	P9WPR5	O2
+41	P9WPR5	3-hydroxy-beta-apo-10'-carotenal
+42	P9WPR5	O2
+43	P9WPR5	3-hydroxy-beta-apo-8'-carotenal
+44	P9WPR5	O2
+45	P9WPR5	beta-apo-10'-carotenal
+46	P9WPR5	O2
+47	P9WPR5	beta-apo-8'-carotenal
+48	P9WPR5	O2
+49	P9WPR5	beta-carotene
+50	P9WPR5	O2
+51	P9WPR5	lutein
+52	P9WPR5	O2
+53	P9WPR5	zeaxanthin
+54	P9WPR5	O2
+0	Q6J1Z5	2-amino-5-chlorophenol
+1	Q6J1Z5	O2
+2	Q6J1Z5	2-aminophenol
+3	Q6J1Z5	O2
+4	Q6J1Z5	catechol
+5	Q6J1Z5	O2
+6	Q6J1Z5	more
+7	Q6J1Z5	protocatechuate
+8	Q6J1Z5	O2
+0	B2J5P4	alpha-linolenate
+1	B2J5P4	O2
+2	B2J5P4	linoleate
+3	B2J5P4	O2
+4	B2J5P4	more
+5	B2J5P4	oleate
+6	B2J5P4	O2
+0	D0E8I5	(2-amino-1-hydroxyethyl)phosphonate
+1	D0E8I5	O2
+2	D0E8I5	(2-amino-1-hydroxyethyl)phosphonate
+3	D0E8I5	O2
+4	D0E8I5	more
+0	Q2RNG5	FMNH2
+1	Q2RNG5	NADH
+2	Q2RNG5	H+
+3	Q2RNG5	O2
+4	Q2RNG5	H2O
+5	D7GJ95	FMNH2
+6	D7GJ95	O2
+0	G2IQQ4	protocatechuate
+1	G2IQQ4	O2
+2	G2IQQ4	3-O-methylgallate
+3	G2IQQ4	O2
+4	G2IQQ4	more
+5	G2IQQ4	gallate
+6	G2IQQ4	O2
+7	Q8RNX9	protocatechuate
+8	Q8RNX9	O2
+9	Q8RNX9	gallate
+10	Q8RNX9	O2
+0	Q8KLK7	(3-hydroxyphenyl)acetyl-CoA
+1	Q8KLK7	O2
+2	Q8KLK7	(4-hydroxyphenyl)acetyl-CoA
+3	Q8KLK7	O2
+4	Q8KLK7	(5-hydroxyphenyl)acetyl-CoA
+5	Q8KLK7	O2
+6	Q8KLK7	(3,5-dihydroxyphenyl)acetyl-CoA
+7	Q8KLK7	O2
+8	Q8KLK7	phenylacetyl-CoA
+9	Q8KLK7	O2
+10	G4V4T6	(3,5-dihydroxyphenyl)acetyl-CoA
+11	G4V4T6	O2
+12	G4V4T6	phenylacetyl-CoA
+13	G4V4T6	O2
+0	P9WNC5	7,8-dihydroneopterin
+1	P9WNC5	O2
+2	P9WNC5	7,8-dihydroneopterin
+3	P9WNC5	O2
+4	P0AC16	7,8-dihydroneopterin
+5	P0AC16	O2
+6	P0AC16	7,8-dihydroneopterin
+7	P0AC16	O2
+0	Q8GHB1	3-dimethylallyl-4-hydroxyphenylpyruvate
+1	Q8GHB1	O2
+0	Q84K96	zeaxanthin
+1	Q84K96	O2
+2	A0A075W695	zeaxanthin
+3	A0A075W695	O2
+4	A0A075W695	3beta-hydroxy-8'-apo-beta-carotenal
+5	A0A075W695	O2
+6	A0A075W695	zeaxanthin
+7	A0A075W695	O2
+8	A0A075W695	more
+9	A0A0N7CLN0	zeaxanthin
+10	A0A0N7CLN0	O2
+11	A0A0N7CLN0	3beta-hydroxy-8'-apo-beta-carotenal
+12	A0A0N7CLN0	O2
+13	A0A0N7CLN0	zeaxanthin
+14	A0A0N7CLN0	O2
+0	Q7X0P3	cis-1,4-polyisoprene
+1	Q7X0P3	n O2
+2	Q7X0P3	more
+3	Q7X0P3	cis-1,4-polyisoprene
+4	Q7X0P3	n O2
+5	Q7X0P3	more
+6	Q7X0P3	cis-1,4-polyisoprene
+7	Q7X0P3	n O2
+8	Q7X0P3	dolichol
+9	Q7X0P3	O2
+10	Q7X0P3	ficaprenol
+11	Q7X0P3	O2
+12	Q7X0P3	rubber latex
+13	Q7X0P3	O2
+14	Q7X0P3	poly(cis-1,4-isoprene)
+15	Q7X0P3	O2
+16	Q7X0P3	cis-1,4-polyisoprene
+17	Q7X0P3	O2
+18	A0A1Y0DKQ1	poly(cis-1,4-isoprene)
+19	A0A1Y0DKQ1	O2
+0	A0A1V0ELS9	1-hydroxy-2-naphthoate
+1	A0A1V0ELS9	O2
+2	A0A1V0ELS9	gentisate
+3	A0A1V0ELS9	O2
+4	A0A1V0ELS9	more
+5	A0A1V0ELS9	5-aminosalicylate
+6	A0A1V0ELS9	O2
+0	Q3L8N0	cis-1,4-polyisoprene
+1	Q3L8N0	O2
+2	Q7X0P3	poly(cis-1,4-isoprene)
+3	Q7X0P3	O2
+4	Q7X0P3	rubber latex
+5	Q7X0P3	O2
+6	A0A1S6Q8F9	cis-1,4-polyisoprene
+7	A0A1S6Q8F9	O2
+8	A0A1S6Q8F9	poly(cis-1,4-isoprene)
+9	A0A1S6Q8F9	O2
+10	A0A165QBG6	poly(cis-1,4-isoprene)
+11	A0A165QBG6	O2
+12	H6N4Z1	cis-1,4-polyisoprene
+13	H6N4Z1	O2
+14	Q1HUS3	cis-1,4-polyisoprene
+15	Q1HUS3	O2
+0	A5HV13	isoeugenol
+1	A5HV13	O2
+2	A5HV13	2-methoxy-4-vinylphenol
+3	A5HV13	O2
+4	A5HV13	more
+5	C3VA26	isoeugenol
+6	C3VA26	O2
+7	C3VA26	more
+8	A0A384ZRB9	isoeugenol
+9	A0A384ZRB9	O2
+0	A0A4V8H040	[(1R)-1-hydroxy-2-(trimethylamino)ethyl]phosphonate
+1	A0A4V8H040	O2
+0	Q9GV45	more
+1	Q9GV45	Oplophorus luciferin
+2	Q9GV45	O2
+3	Q9GV45	6h-coelenterazine
+4	Q9GV45	O2
+5	Q9GV45	6h-f-coelenterazine
+6	Q9GV45	O2
+7	Q9GV45	bis-coelenterazine
+8	Q9GV45	O2
+9	Q9GV45	coelenterazine
+10	Q9GV45	O2
+11	Q9GV45	f-coelenterazine
+12	Q9GV45	O2
+13	Q9GV45	furimazine
+14	Q9GV45	O2
+15	Q9GV45	h-coelenterazine
+16	Q9GV45	O2
+0	Q9HWH9	more
+1	Q9HWH9	3 propionate-3-nitronate
+2	Q9HWH9	O2
+3	Q9HWH9	butyl-1-nitronate
+4	Q9HWH9	O2
+5	Q9HWH9	ethylnitronate
+6	Q9HWH9	O2
+7	Q9HWH9	pentyl-1-nitronate
+8	Q9HWH9	O2
+9	Q9HWH9	propyl-2-nitronate
+10	Q9HWH9	O2
+11	Q9HWH9	propyl-1-nitronate
+12	Q9HWH9	O2
+13	Q01284	2-nitropropane
+14	Q01284	O2
+15	Q01284	more
+16	Q01284	1-nitropropane
+17	Q01284	O2
+18	Q01284	ethyl nitronate
+19	Q01284	O2
+20	Q01284	nitroethane
+21	Q01284	O2
+22	Q01284	H2O
+23	Q01284	ethylnitronate
+24	Q01284	O2
+25	Q01284	1-nitrobutane
+26	Q01284	O2
+27	Q01284	1-nitrobutane
+28	Q01284	O2
+29	Q01284	1-nitrohexane
+30	Q01284	O2
+31	Q01284	1-nitrohexane
+32	Q01284	O2
+33	Q01284	1-nitropentane
+34	Q01284	O2
+35	Q01284	1-nitropentane
+36	Q01284	O2
+37	Q01284	1-nitropropane
+38	Q01284	O2
+39	Q01284	2-nitropropane
+40	Q01284	O2
+41	Q01284	butyl-1-nitronate
+42	Q01284	O2
+43	Q01284	hexyl-1-nitronate
+44	Q01284	O2
+45	Q01284	nitroethane
+46	Q01284	O2
+47	Q01284	pentyl-1-nitronate
+48	Q01284	O2
+49	Q01284	propyl-1-nitronate
+50	Q01284	O2
+51	Q01284	propyl-2-nitronate
+52	Q01284	O2
+53	Q01284	propyl-1-nitronate
+54	Q01284	O2
+55	Q9I4V0	2-nitropropane
+56	Q9I4V0	O2
+57	Q9I4V0	ethylnitronate
+58	Q9I4V0	O2
+59	Q9I4V0	FMNH2
+60	Q9I4V0	nitroethane
+61	Q9I4V0	O2
+62	Q9I4V0	2-nitropropane
+63	Q9I4V0	O2
+64	Q12723	2-nitropropane
+65	Q12723	O2
+66	Q12723	more
+67	Q12723	1-nitropropane
+68	Q12723	O2
+69	Q12723	3-nitro-2-pentanol
+70	Q12723	O2
+71	Q12723	nitroethane
+72	Q12723	O2
+73	Q12723	3-nitro-2-butanol
+74	Q12723	O2
+75	Q12723	3-nitropropionic acid
+76	Q12723	O2
+77	Q12723	nitrocyclohexane
+78	Q12723	O2
+79	Q12723	2-nitro-1-butanol
+80	Q12723	O2
+81	Q12723	2-nitro-1-propanol
+82	Q12723	O2
+83	Q12723	nitromethane
+84	Q12723	O2
+85	Q12723	butyl-1-nitronate
+86	Q12723	O2
+87	Q12723	ethylnitronate
+88	Q12723	O2
+89	Q12723	hexyl-1-nitronate
+90	Q12723	O2
+91	Q12723	pentyl-1-nitronate
+92	Q12723	O2
+93	Q12723	propyl-1-nitronate
+94	Q12723	O2
+95	Q12723	propyl-2-nitronate
+96	Q12723	O2
+97	Q9FDD4	2-nitropropane
+98	Q9FDD4	O2
+99	Q9FDD4	1-nitropropane
+100	Q9FDD4	O2
+101	Q9FDD4	nitroethane
+102	Q9FDD4	O2
+0	Q06IS2	dichlorochromopyrrolate
+1	Q06IS2	4 O2
+2	Q06IS2	4 NADH
+3	Q06IS2	4 H+
+4	Q06IS2	dichlorochromopyrrolate
+5	Q06IS2	4 O2
+6	Q06IS2	4 NADH
+7	Q06IS2	4 H+
+8	Q83WG3	dichlorochromopyrrolate
+9	Q83WG3	4 O2
+10	Q83WG3	4 NADH
+11	Q83WG3	4 H+
+0	O77206	dinoflagellate luciferin
+1	O77206	O2
+2	O77206	dinoflagellate luciferin
+3	O77206	O2
+4	O77206	more
+0	P32021	2-oxoglutarate
+1	P32021	O2
+2	P32021	2-oxoglutarate
+3	P32021	O2
+4	P32021	more
+5	P32021	3 2-oxoglutarate
+6	P32021	L-arginine
+7	P32021	3 O2
+8	P32021	2-oxoglutarate
+9	P32021	O2
+10	P32021	more
+11	Q9Z3T0	2-oxoglutarate
+12	Q9Z3T0	O2
+13	Q7BS32	3 2-oxoglutarate
+14	Q7BS32	L-arginine
+15	Q7BS32	3 O2
+16	Q8XPV7	3 2-oxoglutarate
+17	Q8XPV7	L-arginine
+18	Q8XPV7	3 O2
+19	Q549K5	2-oxoglutarate
+20	Q549K5	O2
+0	W6JQJ6	L-lysine
+1	W6JQJ6	O2
+2	W6JQJ6	more
+3	W6JQJ6	L-arginine
+4	W6JQJ6	O2
+5	W6JQJ6	L-ornithine
+6	W6JQJ6	O2
+7	Q88QV1	L-lysine
+8	Q88QV1	O2
+0	O54259	[4,5-dihydroxy-10-oxo-3-(3-oxobutanoyl)-9 10-dihydroanthracen-2-yl]acetate
+1	O54259	O2
+2	O54259	deoxynogalonate
+3	O54259	O2
+4	O54259	dithranol
+5	O54259	O2
+0	Q8GHB1	3-dimethylallyl-4-hydroxymandelate
+1	Q8GHB1	O2
+2	Q8GHB1	3-dimethylallyl-4-hydroxymandelate
+3	Q8GHB1	O2
+0	P02592	[aequorin] 1,2-dioxetan-3-one
+1	P02592	[apoaequorin]
+2	P02592	coelenterazine
+3	P02592	O2
+4	P02592	3 Ca2+
+5	P02592	[apoaequorin]
+6	P02592	coelenterazine
+7	P02592	O2
+8	P02592	[apoaequorin]
+9	P02592	coelenterazine
+10	P02592	O2
+11	P02592	[apoaequorin]
+12	P02592	cp-coelenterazine
+13	P02592	O2
+14	P02592	3 Ca2+
+15	P02592	[apoaequorin]
+16	P02592	f-coelenterazine
+17	P02592	O2
+18	P02592	3 Ca2+
+19	P02592	[apoaequorin]
+20	P02592	h-coelenterazine
+21	P02592	O2
+22	P02592	3 Ca2+
+23	P02592	[apoaequorin]
+24	P02592	hcp-coelenterazine
+25	P02592	O2
+26	P02592	3 Ca2+
+27	P02592	coelenterazine
+28	P02592	O2
+29	P02592	h-coelenterazine
+30	P02592	O2
+31	P02592	more
+0	P06617	L-tryptophan
+1	P06617	O2
+2	Q9R717	L-tryptophan
+3	Q9R717	O2
+4	E3KNM7	L-tryptophan
+5	E3KNM7	O2
+0	Q9BLZ2	coelenterazine
+1	Q9BLZ2	O2
+2	Q9BLZ2	coelentrazine
+3	Q9BLZ2	O2
+4	Q9BLZ2	coelenterazine
+5	Q9BLZ2	O2
+6	P27652	more
+7	P27652	coelenterazine
+8	P27652	O2
+9	P27652	2-benzyl-8-benzyl-6-(2-fluorophenylethynyl)imidazo[1 2-a]pyrazin-3(7H)-one
+10	P27652	O2
+11	P27652	2-benzyl-8-benzyl-6-(3-fluorophenylethynyl)imidazo[1 2-a]pyrazin-3(7H)-one
+12	P27652	O2
+13	P27652	2-benzyl-8-benzyl-6-(3-hydroxyphenylethynyl)imidazo[1 2-a]pyrazin-3(7H)-one
+14	P27652	O2
+15	P27652	2-benzyl-8-benzyl-6-(3-methylphenylethynyl)imidazo[1 2-a]pyrazin-3(7H)-one
+16	P27652	O2
+17	P27652	2-benzyl-8-benzyl-6-(4-fluorophenylethynyl)imidazo[1 2-a]pyrazin-3(7H)-one
+18	P27652	O2
+19	P27652	2-benzyl-8-benzyl-6-(phenylethynyl)imidazo[1,2-a]pyrazin-3(7H)-one
+20	P27652	O2
+21	P27652	2-benzyl-8-benzyl-6-[(1-fluoroethyl)-1,2,3-triazol-4]imidazo[1 2-a]pyrazin-3(7H)-one
+22	P27652	O2
+23	P27652	2-benzyl-8-benzyl-6-[(1-hydroxyethyl)-1,2,3-triazol-4]imidazo[1 2-a]pyrazin-3(7H)-one
+24	P27652	O2
+25	P27652	2-benzyl-8-benzyl-6-[(1-hydroxypropyl)-1,2,3-triazol-4]imidazo[1 2-a]pyrazin-3(7H)-one
+26	P27652	O2
+27	P27652	coelenterazine h
+28	P27652	O2
+29	P27652	coelenterazine-h
+30	P27652	O2
+31	C9V492	more
+32	C9V492	coelenterazine
+33	C9V492	O2
+34	C9V492	coelenterazine-v
+35	C9V492	O2
+36	C9V492	coelenterazine
+37	C9V492	O2
+38	P07164	2-hydroperoxycoelenterazine
+39	P07164	O2
+0	P17554	Cypridina luciferin
+1	P17554	O2
+2	Q75R40	Cypridina luciferin
+3	Q75R40	O2
+4	Q75R40	1-{3-[6-(1H-indol-3-yl)-2-(1-methylpropyl)-3-oxo-3,7-dihydroimidazo[1 2-a]pyrazin-8-yl]propyl}guanidine
+5	Q75R40	O2
+6	Q75R40	Vargula hilgendorfii luciferin
+7	Q75R40	O2
+0	Q27758	luciferin
+1	Q27758	O2
+2	Q27758	ATP
+3	Q27758	D-luciferin
+4	Q27758	O2
+5	Q27758	ATP
+6	Q27758	D-luciferin
+7	Q27758	O2
+8	Q27758	ATP
+9	Q27758	8-anilino-1-naphthalene-sulfonate
+10	Q27758	?
+11	Q9U4U8	D-luciferin
+12	Q9U4U8	O2
+13	Q9U4U8	ATP
+14	Q9U4U8	D-luciferin
+15	Q9U4U8	O2
+16	Q9U4U8	ATP
+17	Q9U4U7	D-luciferin
+18	Q9U4U7	O2
+19	Q9U4U7	ATP
+20	Q9U4U7	D-luciferin
+21	Q9U4U7	O2
+22	Q9U4U7	ATP
+23	Q9BLZ2	D-luciferin
+24	Q9BLZ2	O2
+25	Q9BLZ2	ATP
+26	Q9BLZ2	D-luciferin
+27	Q9BLZ2	O2
+28	Q9BLZ2	ATP
+29	Q5UFR2	D-luciferin
+30	Q5UFR2	ATP
+31	Q5UFR2	O2
+32	Q5UFR2	D-luciferin
+33	Q5UFR2	ATP
+34	Q5UFR2	O2
+35	Q5UFR2	D-luciferin
+36	Q5UFR2	O2
+37	Q5UFR2	ATP
+38	Q5UFR2	D-luciferin
+39	Q5UFR2	O2
+40	Q5UFR2	ATP
+41	P08659	D-luciferin
+42	P08659	ATP
+43	P08659	O2
+44	P08659	D-luciferin
+45	P08659	ATP
+46	P08659	O2
+47	P08659	D-luciferin
+48	P08659	O2
+49	P08659	ATP
+50	P08659	linoleic acid
+51	P08659	ATP
+52	P08659	CoA
+53	P08659	luciferin
+54	P08659	MgATP2-
+55	P08659	more
+56	P08659	Photinus luciferin
+57	P08659	O2
+58	P08659	ATP
+59	P08659	D-luciferin
+60	P08659	O2
+61	P08659	ATP
+62	P08659	D-luciferin
+63	P08659	O2
+64	P08659	ATP
+65	P08659	4'-methyl-D-luciferin
+66	P08659	ATP
+67	P08659	O2
+68	P08659	5-methylluciferin
+69	P08659	ATP
+70	P08659	O2
+71	P08659	6'-amino-D-luciferin
+72	P08659	ATP
+73	P08659	O2
+74	P08659	D-5,5-dimethylluciferyl-adenylate
+75	P08659	O2
+76	P08659	D-luciferin
+77	P08659	ATP
+78	P08659	O2
+79	P08659	D-luciferin
+80	P08659	ATP
+81	P08659	D-luciferyl-O-adenosine monophosphate
+82	P08659	?
+83	P08659	D-luciferyl-adenylate
+84	P08659	O2
+85	P08659	D-naphthylluciferin
+86	P08659	ATP
+87	P08659	O2
+88	P08659	D-quinolylluciferin
+89	P08659	ATP
+90	P08659	O2
+91	P08659	fatty acid
+92	P08659	ATP
+93	P08659	CoA
+94	P08659	luciferyl-O-adenosine monophosphate
+95	P08659	CoA
+96	P08659	luciferyl-adenylate
+97	P08659	R-COOH
+98	P08659	ATP
+99	P08659	decanoic acid
+100	P08659	ATP
+101	P08659	CoA
+102	P08659	dehydroluciferin
+103	P08659	ATP
+104	P08659	lauric acid
+105	P08659	ATP
+106	P08659	CoA
+107	P08659	luciferyl-adenylate
+108	P08659	O2
+109	P08659	myristic acid
+110	P08659	ATP
+111	P08659	CoA
+112	P08659	D-firefly luciferin
+113	P08659	O2
+114	P08659	ATP
+115	Q26304	luciferin
+116	Q26304	ATP
+117	Q26304	O2
+118	P13129	more
+119	P13129	R-COOH
+120	P13129	ATP
+121	P13129	decanoic acid
+122	P13129	ATP
+123	P13129	CoA
+124	P13129	dehydroluciferin
+125	P13129	ATP
+126	P13129	lauric acid
+127	P13129	ATP
+128	P13129	CoA
+129	P13129	luciferyl-adenylate
+130	P13129	O2
+131	P13129	myristic acid
+132	P13129	ATP
+133	P13129	CoA
+134	P13129	D-luciferin
+135	P13129	ATP
+136	P13129	O2
+137	Q718F0	D-5,5-dimethylluciferyl-adenylate
+138	Q718F0	O2
+139	Q718F0	ATP
+140	Q1AG35	D-firefly luciferin
+141	Q1AG35	O2
+142	Q1AG35	ATP
+143	A0A1B3TNR9	more
+144	A0A1B3TNR9	D-firefly luciferin
+145	A0A1B3TNR9	O2
+146	A0A1B3TNR9	ATP
+147	Q5USC8	D-luciferin
+148	Q5USC8	O2
+149	Q5USC8	ATP
+150	Q5USC8	D-luciferin
+151	Q5USC8	O2
+152	Q5USC8	ATP
+0	Q5W9R9	L-Met
+1	Q5W9R9	O2
+2	Q5W9R9	L-Phe
+3	Q5W9R9	O2
+4	Q5W9R9	L-phenylalanine
+5	Q5W9R9	O2
+6	Q5W9R9	more
+7	A8NBN1	L-phenylalanine
+8	A8NBN1	O2
+9	A8NBN1	more
+10	A8NBN1	L-phenylalanine
+11	A8NBN1	O2
+12	A8NBN1	H2O
+0	Q9QXN4	myo-inositol
+1	Q9QXN4	O2
+2	Q9QXN4	myo-inositol
+3	Q9QXN4	O2
+4	Q9QXN4	myo-inositol
+5	Q9QXN4	O2
+6	Q9QXN4	myo-inositol
+7	Q9QXN4	O2
+8	Q9UGB7	myo-inositol
+9	Q9UGB7	O2
+10	Q9UGB7	myo-inositol
+11	Q9UGB7	O2
+12	Q9UGB7	myo-inositol
+13	Q9UGB7	O2
+14	Q9UGB7	myo-inositol
+15	Q9UGB7	O2
+16	Q8H1S0	myo-inositol
+17	Q8H1S0	O2
+18	Q8H1S0	myo-inositol
+19	Q8H1S0	O2
+20	Q8H1S0	myo-inositol
+21	Q8H1S0	O2
+22	Q8H1S0	myo-inositol
+23	Q8H1S0	O2
+24	O82200	myo-inositol
+25	O82200	O2
+26	O82200	myo-inositol
+27	O82200	O2
+28	O82200	myo-inositol
+29	O82200	H2O
+30	O82200	myo-inositol
+31	O82200	O2
+32	O82200	myo-inositol
+33	O82200	O2
+34	Q9FJU4	myo-inositol
+35	Q9FJU4	O2
+36	Q9FJU4	myo-inositol
+37	Q9FJU4	O2
+38	Q9FJU4	myo-inositol
+39	Q9FJU4	O2
+40	Q9FJU4	myo-inositol
+41	Q9FJU4	O2
+42	Q8L799	myo-inositol
+43	Q8L799	O2
+44	Q8L799	myo-inositol
+45	Q8L799	O2
+46	Q8L799	myo-inositol
+47	Q8L799	O2
+48	Q8L799	myo-inositol
+49	Q8L799	O2
+50	Q8WN98	myo-inositol
+51	Q8WN98	O2
+52	Q8WN98	myo-inositol
+53	Q8WN98	O2
+54	Q8WN98	D-chiro-inositol
+55	Q8WN98	O2
+56	Q8WN98	myo-inositol
+57	Q8WN98	O2
+58	Q5Z8T3	myo-inositol
+59	Q5Z8T3	O2
+60	Q5Z8T3	myo-inositol
+61	Q5Z8T3	O2
+62	Q5Z8T3	more
+63	A0A0B2PCG9	myo-inositol
+64	A0A0B2PCG9	O2
+65	A0A0B2PCG9	myo-inositol
+66	A0A0B2PCG9	O2
+67	C4QZH8	myo-inositol
+68	C4QZH8	O2
+69	C4QZH8	myo-inositol
+70	C4QZH8	O2
+71	Q70GL3	myo-inositol
+72	Q70GL3	O2
+73	Q70GL3	myo-inositol
+74	Q70GL3	O2
+75	Q9QXN5	myo-inositol
+76	Q9QXN5	O2
+77	Q9QXN5	myo-inositol
+78	Q9QXN5	O2
+79	Q9QXN5	myo-inositol
+80	Q9QXN5	O2
+81	Q9QXN5	myo-inositol
+82	Q9QXN5	O2
+0	P80193	4-trimethylammoniobutanoate
+1	P80193	2-oxoglutarate
+2	P80193	O2
+3	P80193	(3-carboxypropyl)(trimethyl)arsanium
+4	P80193	2-oxoglutarate
+5	P80193	O2
+6	P80193	(3-carboxypropyl)(trimethyl)phosphanium
+7	P80193	2-oxoglutarate
+8	P80193	O2
+9	P80193	(R)-2-amino-3-carboxy-N,N,N-trimethylpropan-1-aminium
+10	P80193	2-oxoglutarate
+11	P80193	O2
+12	P80193	(S)-2-amino-3-carboxy-N,N,N-trimethylpropan-1-aminium
+13	P80193	2-oxoglutarate
+14	P80193	O2
+15	P80193	(S)-3-carboxy-2-hydroxy-N,N,N-trimethylpropan-1-aminium
+16	P80193	2-oxoglutarate
+17	P80193	O2
+18	P80193	[(2R)-3-carboxy-2-hydroxypropyl](trimethyl)arsanium
+19	P80193	2-oxoglutarate
+20	P80193	O2
+21	P80193	[(2R)-3-carboxy-2-hydroxypropyl](trimethyl)phosphanium
+22	P80193	2-oxoglutarate
+23	P80193	O2
+24	P80193	[(2S)-3-carboxy-2-hydroxypropyl](trimethyl)arsanium
+25	P80193	2-oxoglutarate
+26	P80193	O2
+27	P80193	[(2S)-3-carboxy-2-hydroxypropyl](trimethyl)phosphanium
+28	P80193	2-oxoglutarate
+29	P80193	O2
+30	P80193	more
+31	P80193	D-carnitine
+32	P80193	2-oxoglutarate
+33	P80193	O2
+34	P80193	D-carnitine
+35	P80193	2-oxoglutarate
+36	P80193	O2
+37	P80193	(3R)-3-fluoro-4-(trimethylammonio)butanoate
+38	P80193	2-oxoglutarate
+39	P80193	O2
+40	P80193	2-carboxy-N,N,N-trimethylethan-1-aminium
+41	P80193	2-oxoglutarate
+42	P80193	O2
+43	P80193	3-carboxy-N-(fluoromethyl)-N,N-dimethylpropan-1-aminium
+44	P80193	2-oxoglutarate
+45	P80193	O2
+46	P80193	4-trimethylammoniobutanoate
+47	P80193	2-oxoglutarate
+48	P80193	O2
+49	Q9QZU7	more
+50	O75936	4-trimethylammoniobutanoate
+51	O75936	2-oxoglutarate
+52	O75936	O2
+53	O75936	more
+54	O75936	D-carnitine
+55	O75936	2-oxoglutarate
+56	O75936	O2
+57	O75936	D-carnitine
+58	O75936	2-oxoglutarate
+59	O75936	O2
+60	O75936	4-trimethylammoniopropanoate
+61	O75936	2-oxoglutarate
+62	O75936	O2
+63	O75936	L-carnitine
+64	O75936	2-oxoglutarate
+65	O75936	O2
+66	O75936	mildronate
+67	O75936	O2
+68	O75936	(3R)-3-fluoro-4-(trimethylammonio)butanoate
+69	O75936	2-oxoglutarate
+70	O75936	O2
+71	O75936	2-carboxy-N,N,N-trimethylethan-1-aminium
+72	O75936	2-oxoglutarate
+73	O75936	O2
+74	O75936	3-carboxy-N-(fluoromethyl)-N,N-dimethylpropan-1-aminium
+75	O75936	2-oxoglutarate
+76	O75936	O2
+77	O75936	4-trimethylammoniobutanoate
+78	O75936	2-oxoglutarate
+79	O75936	O2
+0	Q6V0J1	L-hyoscyamine
+1	Q6V0J1	2-oxoglutarate
+2	Q6V0J1	O2
+3	Q6V0J1	L-hyoscyamine
+4	Q6V0J1	2-oxoglutarate
+5	Q6V0J1	O2
+6	Q6V0J1	(6S)-hydroxyhyoscyamine
+7	Q6V0J1	succinate
+8	Q6V0J1	CO2
+9	Q6V0J1	(6S)-6-hydroxyhyoscyamine
+10	Q6V0J1	2-oxoglutarate
+11	Q6V0J1	O2
+12	Q6V0J1	(6S)-6-hydroxyhyoscyamine
+13	Q6V0J1	2-oxoglutarate
+14	Q6V0J1	O2
+15	B2CNC8	(6S)-6-hydroxyhyoscyamine
+16	B2CNC8	2-oxoglutarate
+17	B2CNC8	O2
+18	B2CNC8	(6S)-6-hydroxyhyoscyamine
+19	B2CNC8	2-oxoglutarate
+20	B2CNC8	O2
+21	A2IBI0	more
+22	A2IBI0	L-hyoscyamine
+23	A2IBI0	2-oxoglutarate
+24	A2IBI0	O2
+25	A9Q1G4	L-hyoscyamine
+26	A9Q1G4	2-oxoglutarate
+27	A9Q1G4	O2
+28	A9Q1G4	L-hyoscyamine
+29	A9Q1G4	2-oxoglutarate
+30	A9Q1G4	O2
+31	A9Q1G4	6beta-hydroxyhyoscyamine
+32	A9Q1G4	?
+33	J7HDC2	more
+34	J7HDC2	L-hyoscyamine
+35	J7HDC2	2-oxoglutarate
+36	J7HDC2	O2
+37	Q9XJ43	more
+38	Q9XJ43	L-hyoscyamine
+39	Q9XJ43	2-oxoglutarate
+40	Q9XJ43	O2
+0	Q9XHM5	gibberellin 1
+1	Q9XHM5	2-oxoglutarate
+2	Q9XHM5	O2
+3	Q9XHM5	gibberellin 20
+4	Q9XHM5	2-oxoglutarate
+5	Q9XHM5	O2
+6	Q9XHM5	gibberellin
+7	Q9XHM5	2-oxoglutarate
+8	Q9XHM5	O2
+9	Q9XFR9	gibberellin 4
+10	Q9XFR9	2-oxoglutarate
+11	Q9XFR9	O2
+12	Q9XFR9	gibberellin
+13	Q9XFR9	2-oxoglutarate
+14	Q9XFR9	O2
+15	Q9XFR9	?
+16	Q9XFR9	gibberellin 3
+17	Q9XFR9	2-oxoglutarate
+18	Q9XFR9	O2
+19	Q9XFR9	more
+20	A7LCJ5	more
+21	Q75V70	more
+22	Q9FZ21	gibberellin 1
+23	Q9FZ21	2-oxoglutarate
+24	Q9FZ21	O2
+25	Q9FZ21	gibberellin 20
+26	Q9FZ21	2-oxoglutarate
+27	Q9FZ21	O2
+28	Q9FZ21	gibberellin 4
+29	Q9FZ21	2-oxoglutarate
+30	Q9FZ21	O2
+31	Q9FZ21	gibberellin 9
+32	Q9FZ21	2-oxoglutarate
+33	Q9FZ21	O2
+34	Q9FZ21	gibberellin
+35	Q9FZ21	2-oxoglutarate
+36	Q9FZ21	O2
+37	Q9FZ21	?
+38	Q9FZ21	gibberellin 3
+39	Q9FZ21	2-oxoglutarate
+40	Q9FZ21	O2
+41	Q9FZ21	more
+42	Q8LEA2	gibberellin
+43	Q8LEA2	2-oxoglutarate
+44	Q8LEA2	O2
+45	Q8LEA2	?
+46	Q8LEA2	gibberellin 3
+47	Q8LEA2	2-oxoglutarate
+48	Q8LEA2	O2
+49	Q8LEA2	more
+50	Q9SQ80	gibberellin 1
+51	Q9SQ80	2-oxoglutarate
+52	Q9SQ80	O2
+53	Q9SQ80	gibberellin 20
+54	Q9SQ80	2-oxoglutarate
+55	Q9SQ80	O2
+56	Q9SQ80	gibberellin 1
+57	Q9SQ80	2-oxoglutarate
+58	Q9SQ80	O2
+59	Q9SQ80	gibberellin 4
+60	Q9SQ80	2-oxoglutarate
+61	Q9SQ80	O2
+62	Q9SQ80	gibberellin 9
+63	Q9SQ80	2-oxoglutarate
+64	Q9SQ80	O2
+65	Q9SQ80	gibberellin
+66	Q9SQ80	2-oxoglutarate
+67	Q9SQ80	O2
+68	O64692	gibberellin
+69	O64692	2-oxoglutarate
+70	O64692	O2
+71	O64692	?
+72	O64692	gibberellin 3
+73	O64692	2-oxoglutarate
+74	O64692	O2
+75	O64692	more
+76	Q9C7Z1	gibberellin
+77	Q9C7Z1	2-oxoglutarate
+78	Q9C7Z1	O2
+79	Q9C7Z1	?
+80	Q9C7Z1	gibberellin 3
+81	Q9C7Z1	2-oxoglutarate
+82	Q9C7Z1	O2
+83	Q9C7Z1	more
+84	P93771	gibberellin 20
+85	P93771	2-oxoglutarate
+86	P93771	O2
+87	P93771	gibberellin 1
+88	P93771	2-oxoglutarate
+89	P93771	O2
+90	P93771	gibberellin 4
+91	P93771	2-oxoglutarate
+92	P93771	O2
+93	P93771	gibberellin 9
+94	P93771	2-oxoglutarate
+95	P93771	O2
+96	P93771	gibberellin 44
+97	P93771	2-oxoglutarate
+98	P93771	O2
+99	Q9XG83	gibberellin 1
+100	Q9XG83	2-oxoglutarate
+101	Q9XG83	O2
+102	Q9XG83	gibberellin 4
+103	Q9XG83	2-oxoglutarate
+104	Q9XG83	O2
+0	Q3I411	gibberellin a20
+1	Q3I411	2-oxoglutarate
+2	Q3I411	O2
+3	Q3I411	gibberellin a9
+4	Q3I411	2-oxoglutarate
+5	Q3I411	O2
+6	Q3I410	gibberellin a20
+7	Q3I410	2-oxoglutarate
+8	Q3I410	O2
+9	Q3I410	gibberellin a9
+10	Q3I410	2-oxoglutarate
+11	Q3I410	O2
+12	Q3I409	gibberellin a20
+13	Q3I409	2-oxoglutarate
+14	Q3I409	O2
+15	Q3I409	gibberellin a9
+16	Q3I409	2-oxoglutarate
+17	Q3I409	O2
+18	Q9C971	gibberellin a20
+19	Q9C971	2-oxoglutarate
+20	Q9C971	O2
+21	Q9ZT84	gibberellin a20
+22	Q9ZT84	2-oxoglutarate
+23	Q9ZT84	O2
+24	Q39103	gibberellin a9
+25	Q39103	2-oxoglutarate
+26	Q39103	O2
+27	J9Z485	gibberellin 9
+28	J9Z485	2-oxoglutarate
+29	J9Z485	O2
+30	J9Z485	gibberellin 5
+31	J9Z485	2-oxoglutarate
+32	J9Z485	O2
+33	J9Z485	gibberellin 20
+34	J9Z485	2-oxoglutarate
+35	J9Z485	O2
+36	A0A1A5QSE9	gibberellin 9
+37	A0A1A5QSE9	2-oxoglutarate
+38	A0A1A5QSE9	O2
+39	A0A1B4YT28	gibberellin 9
+40	A0A1B4YT28	2-oxoglutarate
+41	A0A1B4YT28	O2
+42	A0A1A5S2N8	gibberellin 9
+43	A0A1A5S2N8	2-oxoglutarate
+44	A0A1A5S2N8	O2
+45	A0A1E2SU26	gibberellin 9
+46	A0A1E2SU26	2-oxoglutarate
+47	A0A1E2SU26	O2
+48	W6RGX9	gibberellin 9
+49	W6RGX9	2-oxoglutarate
+50	W6RGX9	O2
+51	W6RGX9	gibberellin 9
+52	W6RGX9	2-oxoglutarate
+53	W6RGX9	O2
+0	Q9NWT6	peptide L-asparagine
+1	Q9NWT6	2-oxoglutarate
+2	Q9NWT6	O2
+3	Q9NWT6	HIF-1alpha peptide Asp788-Leu822 (L-Asn803)
+4	Q9NWT6	2-oxoglutarate
+5	Q9NWT6	O2
+6	Q9NWT6	HIF-1alpha peptide Asp788-Leu822 (L-asparagine803)
+7	Q9NWT6	2-oxoglutarate
+8	Q9NWT6	O2
+0	P37610	taurine
+1	P37610	2-oxoglutarate
+2	P37610	O2
+3	P37610	2-oxoglutarate
+4	P37610	2-methylaminoethane-1-sulfonic acid
+5	P37610	O2
+6	P37610	4-aminobutyric acid
+7	P37610	2-oxoglutarate
+8	P37610	O2
+9	P37610	5-aminovaleric acid
+10	P37610	2-oxoglutarate
+11	P37610	O2
+12	P37610	6-aminocaproic acid
+13	P37610	2-oxoglutarate
+14	P37610	O2
+15	P37610	alpha-methyl-beta-alanine
+16	P37610	2-oxoglutarate
+17	P37610	O2
+18	P37610	beta-alanine
+19	P37610	2-oxoglutarate
+20	P37610	O2
+21	P37610	butyric acid
+22	P37610	2-oxoglutarate
+23	P37610	O2
+24	P37610	propionic acid
+25	P37610	2-oxoglutarate
+26	P37610	O2
+27	P37610	valeric acid
+28	P37610	2-oxoglutarate
+29	P37610	O2
+30	Q88RA3	taurine
+31	Q88RA3	2-oxoglutarate
+32	Q88RA3	O2
+0	O14832	isovaleryl-CoA
+1	O14832	2-oxoglutarate
+2	O14832	O2
+3	O14832	phytanoyl-CoA
+4	O14832	2-oxoglutarate
+5	O14832	O2
+6	O14832	phytanoyl-CoA
+7	O14832	2-oxoglutarate
+0	Q95W53	protocollagen
+1	Q95W53	2-oxoglutarate
+2	Q95W53	O2
+3	Q9ZW86	more
+4	Q9ZW86	(Pro-Pro-Gly)n
+5	Q9ZW86	2-oxoglutarate
+6	Q9ZW86	O2
+7	Q9ZW86	(L-Pro-L-Pro-Gly)10
+8	Q9ZW86	2-oxoglutarate
+9	Q9ZW86	O2
+10	Q9ZW86	(L-Pro-L-Pro-Gly)5
+11	Q9ZW86	2-oxoglutarate
+12	Q9ZW86	O2
+13	Q9ZW86	poly(L-proline)
+14	Q9ZW86	2-oxoglutarate
+15	Q9ZW86	O2
+16	Q9ZW86	(Pro-Ala-Pro-Lys)n
+17	Q9ZW86	2-oxoglutarate
+18	Q9ZW86	O2
+19	Q9ZW86	(Pro-Glu-Pro-Pro-Ala)5
+20	Q9ZW86	2-oxoglutarate
+21	Q9ZW86	O2
+22	Q9ZW86	(Ser-Pro-Lys-Pro-Pro)5
+23	Q9ZW86	2-oxoglutarate
+24	Q9ZW86	O2
+25	Q9ZW86	(Ala-Pro-Gly)5
+26	Q9ZW86	2-oxoglutarate
+27	Q9ZW86	O2
+28	Q9ZW86	(Ala-Thr-Pro-Pro-Pro-Val)3
+29	Q9ZW86	2-oxoglutarate
+30	Q9ZW86	O2
+31	Q9ZW86	(Gly-Pro-4Hyp)5
+32	Q9ZW86	2-oxoglutarate
+33	Q9ZW86	O2
+34	Q9ZW86	(Pro-Ala-Gly)5
+35	Q9ZW86	2-oxoglutarate
+36	Q9ZW86	O2
+37	Q9ZW86	Asp-Ala-Leu-Thr-Leu-Leu-Ala-Pro-Ala-Ala-Gly-Asp-Thr-Ile-Ile-Ser-Leu-Phe Gly
+38	Q9ZW86	2-oxoglutarate
+39	Q9ZW86	O2
+40	Q9ZW86	Asp-Leu-Asp-Leu-Glu-Met-Leu-Ala-Pro-Tyr-Ile-Pro-Met-Asp-Asp-Asp-Phe-Gln Leu
+41	Q9ZW86	2-oxoglutarate
+42	Q9ZW86	O2
+43	Q9ZW86	Ser-Pro-Pro-Pro-Pro-Val-Ser-Pro-Pro-Pro-Val-Ser-Pro-Pro-Pro-Pro-Val
+44	Q9ZW86	2-oxoglutarate
+45	Q9ZW86	O2
+46	Q9ZW86	Ser-Pro-Pro-Pro-Val-Tyr-Lys-Ser-Pro-Pro-Pro-Pro-Val-Lys-His-Tyr-Ser-Pro Pro-Pro-Val
+47	Q9ZW86	2-oxoglutarate
+48	Q9ZW86	O2
+49	Q9ZW86	poly(L-Pro)
+50	Q9ZW86	2-oxoglutarate
+51	Q9ZW86	O2
+52	Q9ZW86	(L-Pro-L-Ala-L-Pro-L-Lys)3
+53	Q9ZW86	2-oxoglutarate
+54	Q9ZW86	O2
+55	Q95W51	protocollagen
+56	Q95W51	2-oxoglutarate
+57	Q95W51	O2
+58	Q8LAN3	more
+59	Q8LAN3	(Pro-Pro-Gly)n
+60	Q8LAN3	2-oxoglutarate
+61	Q8LAN3	O2
+62	Q8LAN3	(L-Pro-L-Pro-Gly)10
+63	Q8LAN3	2-oxoglutarate
+64	Q8LAN3	O2
+65	Q8LAN3	(L-Pro-L-Pro-Gly)5
+66	Q8LAN3	2-oxoglutarate
+67	Q8LAN3	O2
+68	Q8LAN3	poly(L-proline)
+69	Q8LAN3	2-oxoglutarate
+70	Q8LAN3	O2
+71	Q8LAN3	(Pro-Ala-Pro-Lys)n
+72	Q8LAN3	2-oxoglutarate
+73	Q8LAN3	O2
+74	Q8LAN3	(Pro-Glu-Pro-Pro-Ala)5
+75	Q8LAN3	2-oxoglutarate
+76	Q8LAN3	O2
+77	Q8LAN3	(Ser-Pro-Lys-Pro-Pro)5
+78	Q8LAN3	2-oxoglutarate
+79	Q8LAN3	O2
+80	Q8LAN3	(Ala-Pro-Gly)5
+81	Q8LAN3	2-oxoglutarate
+82	Q8LAN3	O2
+83	Q8LAN3	(Ala-Thr-Pro-Pro-Pro-Val)3
+84	Q8LAN3	2-oxoglutarate
+85	Q8LAN3	O2
+86	Q8LAN3	(Gly-Pro-4Hyp)5
+87	Q8LAN3	2-oxoglutarate
+88	Q8LAN3	O2
+89	Q8LAN3	(Pro-Ala-Gly)5
+90	Q8LAN3	2-oxoglutarate
+91	Q8LAN3	O2
+92	Q8LAN3	Asp-Ala-Leu-Thr-Leu-Leu-Ala-Pro-Ala-Ala-Gly-Asp-Thr-Ile-Ile-Ser-Leu-Phe Gly
+93	Q8LAN3	2-oxoglutarate
+94	Q8LAN3	O2
+95	Q8LAN3	Asp-Leu-Asp-Leu-Glu-Met-Leu-Ala-Pro-Tyr-Ile-Pro-Met-Asp-Asp-Asp-Phe-Gln Leu
+96	Q8LAN3	2-oxoglutarate
+97	Q8LAN3	O2
+98	Q8LAN3	Ser-Pro-Pro-Pro-Pro-Val-Ser-Pro-Pro-Pro-Val-Ser-Pro-Pro-Pro-Pro-Val
+99	Q8LAN3	2-oxoglutarate
+100	Q8LAN3	O2
+101	Q8LAN3	Ser-Pro-Pro-Pro-Val-Tyr-Lys-Ser-Pro-Pro-Pro-Pro-Val-Lys-His-Tyr-Ser-Pro Pro-Pro-Val
+102	Q8LAN3	2-oxoglutarate
+103	Q8LAN3	O2
+104	Q8LAN3	poly(L-Pro)
+105	Q8LAN3	2-oxoglutarate
+106	Q8LAN3	O2
+107	Q8LAN3	(L-Pro-L-Ala-L-Pro-L-Lys)3
+108	Q8LAN3	2-oxoglutarate
+109	Q8LAN3	O2
+110	Q8L970	more
+111	Q8L970	(Pro-Pro-Gly)n
+112	Q8L970	2-oxoglutarate
+113	Q8L970	O2
+114	Q8L970	(L-Pro-L-Pro-Gly)10
+115	Q8L970	2-oxoglutarate
+116	Q8L970	O2
+117	Q8L970	(L-Pro-L-Pro-Gly)5
+118	Q8L970	2-oxoglutarate
+119	Q8L970	O2
+120	Q8L970	poly(L-proline)
+121	Q8L970	2-oxoglutarate
+122	Q8L970	O2
+123	Q8L970	(Pro-Ala-Pro-Lys)n
+124	Q8L970	2-oxoglutarate
+125	Q8L970	O2
+126	Q8L970	(Pro-Glu-Pro-Pro-Ala)5
+127	Q8L970	2-oxoglutarate
+128	Q8L970	O2
+129	Q8L970	(Ser-Pro-Lys-Pro-Pro)5
+130	Q8L970	2-oxoglutarate
+131	Q8L970	O2
+132	Q8L970	(Ala-Pro-Gly)5
+133	Q8L970	2-oxoglutarate
+134	Q8L970	O2
+135	Q8L970	(Ala-Thr-Pro-Pro-Pro-Val)3
+136	Q8L970	2-oxoglutarate
+137	Q8L970	O2
+138	Q8L970	(Gly-Pro-4Hyp)5
+139	Q8L970	2-oxoglutarate
+140	Q8L970	O2
+141	Q8L970	(Pro-Ala-Gly)5
+142	Q8L970	2-oxoglutarate
+143	Q8L970	O2
+144	Q8L970	Asp-Ala-Leu-Thr-Leu-Leu-Ala-Pro-Ala-Ala-Gly-Asp-Thr-Ile-Ile-Ser-Leu-Phe Gly
+145	Q8L970	2-oxoglutarate
+146	Q8L970	O2
+147	Q8L970	Asp-Leu-Asp-Leu-Glu-Met-Leu-Ala-Pro-Tyr-Ile-Pro-Met-Asp-Asp-Asp-Phe-Gln Leu
+148	Q8L970	2-oxoglutarate
+149	Q8L970	O2
+150	Q8L970	Ser-Pro-Pro-Pro-Pro-Val-Ser-Pro-Pro-Pro-Val-Ser-Pro-Pro-Pro-Pro-Val
+151	Q8L970	2-oxoglutarate
+152	Q8L970	O2
+153	Q8L970	Ser-Pro-Pro-Pro-Val-Tyr-Lys-Ser-Pro-Pro-Pro-Pro-Val-Lys-His-Tyr-Ser-Pro Pro-Pro-Val
+154	Q8L970	2-oxoglutarate
+155	Q8L970	O2
+156	Q8L970	poly(L-Pro)
+157	Q8L970	2-oxoglutarate
+158	Q8L970	O2
+159	Q8L970	(L-Pro-L-Ala-L-Pro-L-Lys)3
+160	Q8L970	2-oxoglutarate
+161	Q8L970	O2
+162	P54001	procollagen L-proline
+163	P54001	2-oxoglutarate
+164	P54001	O2
+165	Q9H6Z9	2-oxoglutarate
+166	Q9H6Z9	O2
+167	Q9H6Z9	ascorbate
+168	Q9H6Z9	DLDLEMLAPAIPMDDDFQLRSFDQ
+169	Q9H6Z9	2-oxoglutarate
+170	Q9H6Z9	O2
+171	Q9H6Z9	LAPYIPMDDDFQL
+172	Q9H6Z9	2-oxoglutarate
+173	Q9H6Z9	O2
+174	Q9H6Z9	DALTLLAPAAGDTIISLFG
+175	Q9H6Z9	2-oxoglutarate
+176	Q9H6Z9	O2
+177	Q9H6Z9	DLDLEMLAPAIPMDDDFQL
+178	Q9H6Z9	2-oxoglutarate
+179	Q9H6Z9	O2
+180	Q9H6Z9	DLDLEMLAPGIPMDDDFQL
+181	Q9H6Z9	2-oxoglutarate
+182	Q9H6Z9	O2
+183	Q9H6Z9	DLDLEMLAPYIPMD
+184	Q9H6Z9	2-oxoglutarate
+185	Q9H6Z9	O2
+186	Q9H6Z9	DLDLEMLAPYIPMDD
+187	Q9H6Z9	2-oxoglutarate
+188	Q9H6Z9	O2
+189	Q9H6Z9	DLDLEMLAPYIPMDDDF
+190	Q9H6Z9	2-oxoglutarate
+191	Q9H6Z9	O2
+192	Q9H6Z9	DLDLEMLAPYIPMDDDFQL
+193	Q9H6Z9	2-oxoglutarate
+194	Q9H6Z9	O2
+195	Q9H6Z9	DLDLEMLAPYIPMDDDFQLRSFDQ
+196	Q9H6Z9	2-oxoglutarate
+197	Q9H6Z9	O2
+198	Q9H6Z9	DLEMLAPYIPMDDDFQL
+199	Q9H6Z9	2-oxoglutarate
+200	Q9H6Z9	O2
+201	Q9H6Z9	EMLAPYIPMDDDFQL
+202	Q9H6Z9	2-oxoglutarate
+203	Q9H6Z9	O2
+204	Q9H6Z9	hypoxia-inducible factor alpha L-proline
+205	Q9H6Z9	2-oxoglutarate
+206	Q9H6Z9	O2
+207	Q9H6Z9	hypoxia-inducible factor L-proline
+208	Q9H6Z9	2-oxoglutarate
+209	Q9H6Z9	O2
+210	Q9GZT9	2-oxoglutarate
+211	Q9GZT9	O2
+212	Q9GZT9	ascorbate
+213	Q9GZT9	DALTLLAPAAGDTIISLFG
+214	Q9GZT9	2-oxoglutarate
+215	Q9GZT9	O2
+216	Q9GZT9	DLDLEMLAPAIPMDDDFQL
+217	Q9GZT9	2-oxoglutarate
+218	Q9GZT9	O2
+219	Q9GZT9	DLDLEMLAPGIPMDDDFQL
+220	Q9GZT9	2-oxoglutarate
+221	Q9GZT9	O2
+222	Q9GZT9	DLDLEMLAPYIPMD
+223	Q9GZT9	2-oxoglutarate
+224	Q9GZT9	O2
+225	Q9GZT9	DLDLEMLAPYIPMDD
+226	Q9GZT9	2-oxoglutarate
+227	Q9GZT9	O2
+228	Q9GZT9	DLDLEMLAPYIPMDDDF
+229	Q9GZT9	2-oxoglutarate
+230	Q9GZT9	O2
+231	Q9GZT9	DLDLEMLAPYIPMDDDFQL
+232	Q9GZT9	2-oxoglutarate
+233	Q9GZT9	O2
+234	Q9GZT9	DLDLEMLAPYIPMDDDFQLRSFDQ
+235	Q9GZT9	2-oxoglutarate
+236	Q9GZT9	O2
+237	Q9GZT9	DLEMLAPYIPMDDDFQL
+238	Q9GZT9	2-oxoglutarate
+239	Q9GZT9	O2
+240	Q9GZT9	EMLAPYIPMDDDFQL
+241	Q9GZT9	2-oxoglutarate
+242	Q9GZT9	O2
+243	Q9GZT9	hypoxia-inducible factor alpha L-proline
+244	Q9GZT9	2-oxoglutarate
+245	Q9GZT9	O2
+246	Q9GZT9	hypoxia-inducible factor L-proline
+247	Q9GZT9	2-oxoglutarate
+248	Q9GZT9	O2
+249	Q96KS0	2-oxoglutarate
+250	Q96KS0	O2
+251	Q96KS0	ascorbate
+252	Q96KS0	DALTLLAPAAGDTIISLFG
+253	Q96KS0	2-oxoglutarate
+254	Q96KS0	O2
+255	Q96KS0	DLDLEMLAPAIPMDDDFQL
+256	Q96KS0	2-oxoglutarate
+257	Q96KS0	O2
+258	Q96KS0	DLDLEMLAPGIPMDDDFQL
+259	Q96KS0	2-oxoglutarate
+260	Q96KS0	O2
+261	Q96KS0	DLDLEMLAPYIPMD
+262	Q96KS0	2-oxoglutarate
+263	Q96KS0	O2
+264	Q96KS0	DLDLEMLAPYIPMDD
+265	Q96KS0	2-oxoglutarate
+266	Q96KS0	O2
+267	Q96KS0	DLDLEMLAPYIPMDDDF
+268	Q96KS0	2-oxoglutarate
+269	Q96KS0	O2
+270	Q96KS0	DLDLEMLAPYIPMDDDFQL
+271	Q96KS0	2-oxoglutarate
+272	Q96KS0	O2
+273	Q96KS0	DLDLEMLAPYIPMDDDFQLRSFDQ
+274	Q96KS0	2-oxoglutarate
+275	Q96KS0	O2
+276	Q96KS0	DLEMLAPYIPMDDDFQL
+277	Q96KS0	2-oxoglutarate
+278	Q96KS0	O2
+279	Q96KS0	EMLAPYIPMDDDFQL
+280	Q96KS0	2-oxoglutarate
+281	Q96KS0	O2
+282	Q96KS0	hypoxia-inducible factor alpha L-proline
+283	Q96KS0	2-oxoglutarate
+284	Q96KS0	O2
+285	Q96KS0	hypoxia-inducible factor L-proline
+286	Q96KS0	2-oxoglutarate
+287	Q96KS0	O2
+288	Q7Z4N8	2-oxoglutarate
+289	Q7Z4N8	O2
+290	Q7Z4N8	ascorbate
+291	Q7Z4N8	procollagen L-proline
+292	Q7Z4N8	2-oxoglutarate
+293	Q7Z4N8	O2
+294	Q7Z4N8	(Pro-Pro-Gly)10
+295	Q7Z4N8	2-oxoglutarate
+296	Q7Z4N8	O2
+297	Q6W3E9	procollagen L-proline
+298	Q6W3E9	2-oxoglutarate
+299	Q6W3E9	O2
+300	Q6W3F0	procollagen L-proline
+301	Q6W3F0	2-oxoglutarate
+302	Q6W3F0	O2
+303	P13674	2-oxoglutarate
+304	P13674	O2
+305	P13674	ascorbate
+306	P13674	more
+307	P13674	procollagen L-proline
+308	P13674	2-oxoglutarate
+309	P13674	O2
+310	P13674	(L-Pro-L-Pro-Gly)10
+311	P13674	2-oxoglutarate
+312	P13674	O2
+313	P13674	(Pro-Pro-Gly)10 L-proline
+314	P13674	2-oxoglutarate
+315	P13674	O2
+316	O15460	2-oxoglutarate
+317	O15460	O2
+318	O15460	ascorbate
+319	O15460	(Pro-Pro-Gly)n
+320	O15460	2-oxoglutarate
+321	O15460	O2
+322	O15460	procollagen L-proline
+323	O15460	2-oxoglutarate
+324	O15460	O2
+325	O15460	(L-Pro-L-Pro-Gly)10
+326	O15460	2-oxoglutarate
+327	O15460	O2
+328	O15460	protocollagen
+329	O15460	2-oxoglutarate
+330	O15460	O2
+331	O15460	poly(L-Pro)
+332	O15460	2-oxoglutarate
+333	O15460	O2
+334	O15460	Gly-Val-Pro-Gly-Val
+335	O15460	2-oxoglutarate
+336	O15460	O2
+337	O15460	(Pro-Pro-Gly)10 L-proline
+338	O15460	2-oxoglutarate
+339	O15460	O2
+340	O15460	(Pro-Pro-Gly)10
+341	O15460	2-oxoglutarate
+342	O15460	O2
+343	Q20065	2-oxoglutarate
+344	Q20065	O2
+345	Q20065	ascorbate
+346	Q20065	procollagen L-proline
+347	Q20065	2-oxoglutarate
+348	Q20065	O2
+349	Q20065	(L-Pro-L-Pro-Gly)10
+350	Q20065	2-oxoglutarate
+351	Q20065	O2
+352	Q20065	(Pro-Pro-Gly)10 L-proline
+353	Q20065	2-oxoglutarate
+354	Q20065	O2
+355	A7LD83	more
+356	Q81LZ8	more
+357	Q81LZ8	procollagen L-proline
+358	Q81LZ8	2-oxoglutarate
+359	Q81LZ8	O2
+360	Q81LZ8	(Gly-Pro-Pro)10
+361	Q81LZ8	2-oxoglutarate
+362	Q81LZ8	O2
+363	Q81LZ8	human procollagen-like (P-P-G)10 peptide L-proline
+364	Q81LZ8	2-oxoglutarate
+365	Q81LZ8	O2
+366	Q81LZ8	human procollagen-like (P-P-G)5 peptide L-proline
+367	Q81LZ8	2-oxoglutarate
+368	Q81LZ8	O2
+369	Q86KR9	His10-rSkp1A
+370	Q86KR9	?
+371	Q60715	procollagen L-proline
+372	Q60715	2-oxoglutarate
+373	Q60715	O2
+0	O04847	deacetoxyvindoline
+1	O04847	2-oxoglutarate
+2	O04847	O2
+3	O04847	deacetoxyvindoline
+4	O04847	2-oxoglutarate
+5	O04847	O2
+0	Q05581	2-oxoglutarate
+1	Q05581	O2
+2	Q05581	deoxyamidinoproclavaminate
+3	Q05581	2-oxoglutarate
+4	Q05581	O2
+5	Q05581	deoxyguanidinoproclavaminate
+6	Q05581	2-oxoglutarate
+7	Q05581	O2
+8	Q05581	dihydroclavaminate
+9	Q05581	2-oxoglutarate
+10	Q05581	O2
+11	Q05581	more
+12	Q05581	proclavaminate
+13	Q05581	2-oxoglutarate
+14	Q05581	O2
+15	Q05581	N-alpha-acetyl-L-arginine
+16	Q05581	2-oxoglutarate
+17	Q05581	O2
+18	Q53939	proclavaminate
+19	Q53939	2-oxoglutarate
+20	Q53939	O2
+21	Q53939	(3S,5S)-dihydroclavaminate
+22	Q53939	2-oxoglutarate
+23	Q53939	O2
+0	Q40062	2'-deoxymugineic acid
+1	Q40062	2-oxoglutarate
+2	Q40062	O2
+3	Q40062	3-epihydroxy-2'-deoxymugineic acid
+4	Q40062	2-oxoglutarate
+5	Q40062	O2
+0	P11935	deacetoxycephalosporin C
+1	P11935	2-oxoglutarate
+2	P11935	O2
+3	P42220	deacetoxycephalosporin C
+4	P42220	2-oxoglutarate
+5	P42220	O2
+6	P42220	cephalosporin G
+7	P42220	2-oxoglutarate
+8	P42220	O2
+0	Q9VHH9	[histone H3]-N6,N6-dimethyl-L-lysine36
+1	Q9VHH9	2-oxoglutarate
+2	Q9VHH9	O2
+3	Q6P1G2	more
+4	Q6P1G2	[histone H3]-N6,N6-dimethyl-L-lysine36
+5	Q6P1G2	2-oxoglutarate
+6	Q6P1G2	O2
+7	Q9H3R0	more
+8	Q9H3R0	histone H3-N6,N6-dimethyl-L-lysine36
+9	Q9H3R0	2-oxoglutarate
+10	Q9H3R0	O2
+11	Q9H3R0	histone H3-N6,N6,N6-trimethyl-L-lysine36
+12	Q9H3R0	2-oxoglutarate
+13	Q9H3R0	O2
+14	Q9H3R0	histone H3 N6,N6,N6-trimethyl-L-lysine36
+15	Q9H3R0	2-oxoglutarate
+16	Q9H3R0	O2
+17	O94953	histone H3 N6,N6,N6-trimethyl-L-lysine9
+18	O94953	2-oxoglutarate
+19	O94953	O2
+20	Q6B0I6	histone H3 N6,N6,N6-trimethyl-L-lysine36
+21	Q6B0I6	2-oxoglutarate
+22	Q6B0I6	O2
+23	P40034	more
+24	P40034	dimethyl-histone 3 L-lysine 36
+25	P40034	2-oxoglutarate
+26	P40034	O2
+27	P40034	histone H3 N6,N6,N6-trimethyl-L-lysine36
+28	P40034	2-oxoglutarate
+29	P40034	O2
+30	O75164	more
+31	O75164	histone H3-N6,N6-dimethyl-L-lysine36
+32	O75164	2-oxoglutarate
+33	O75164	O2
+34	O75164	histone H3-N6,N6,N6-trimethyl-L-lysine36
+35	O75164	2-oxoglutarate
+36	O75164	O2
+37	O75164	histone H3 N6,N6,N6-trimethyl-L-lysine26
+38	O75164	2-oxoglutarate
+39	O75164	O2
+40	O75164	histone H3 N6,N6,N6-trimethyl-L-lysine36
+41	O75164	2-oxoglutarate
+42	O75164	O2
+0	Q91UZ4	DLDLEMLAPYIPMDDDFQL
+1	Q91UZ4	2-oxoglutarate
+2	Q91UZ4	O2
+3	Q91UZ4	hypoxia-inducible factor-alpha-L-proline
+4	Q91UZ4	2-oxoglutarate
+5	Q91UZ4	O2
+6	A0A140EDB6	hypoxia-inducible factor-L-proline
+7	A0A140EDB6	2-oxoglutarate
+8	A0A140EDB6	O2
+9	Q91YE3	DLDLEMLAPYIPMDDDFQL
+10	Q91YE3	2-oxoglutarate
+11	Q91YE3	O2
+12	P59722	hypoxia-inducible factor-alpha-L-proline
+13	P59722	2-oxoglutarate
+14	P59722	O2
+15	Q9H6Z9	hypoxia-inducible factor-L-proline
+16	Q9H6Z9	2-oxoglutarate
+17	Q9H6Z9	O2
+18	Q9H6Z9	EEPDLSCLAPFVDTYDMMQM
+19	Q9H6Z9	2-oxoglutarate
+20	Q9H6Z9	O2
+21	Q9H6Z9	DLDLEMLAPAIPMDDDFQL
+22	Q9H6Z9	2-oxoglutarate
+23	Q9H6Z9	O2
+24	Q9H6Z9	DLDLEMLAPGIPMDDDFQL
+25	Q9H6Z9	2-oxoglutarate
+26	Q9H6Z9	O2
+27	Q9H6Z9	DLDLEMLAPYIPMD
+28	Q9H6Z9	2-oxoglutarate
+29	Q9H6Z9	O2
+30	Q9H6Z9	DLDLEMLAPYIPMDD
+31	Q9H6Z9	2-oxoglutarate
+32	Q9H6Z9	O2
+33	Q9H6Z9	DLDLEMLAPYIPMDDDF
+34	Q9H6Z9	2-oxoglutarate
+35	Q9H6Z9	O2
+36	Q9H6Z9	DLDLEMLAPYIPMDDDFQL
+37	Q9H6Z9	2-oxoglutarate
+38	Q9H6Z9	O2
+39	Q9H6Z9	DLDLEMLAPYIPMDDDFQLRSFDQ
+40	Q9H6Z9	2-oxoglutarate
+41	Q9H6Z9	O2
+42	Q9H6Z9	DLEMLAPYIPMDDDFQL
+43	Q9H6Z9	2-oxoglutarate
+44	Q9H6Z9	O2
+45	Q9H6Z9	EMLAPYIPMDDDFQL
+46	Q9H6Z9	2-oxoglutarate
+47	Q9H6Z9	O2
+48	Q9H6Z9	EPEELAQLAPTPGDAIISLD
+49	Q9H6Z9	2-oxoglutarate
+50	Q9H6Z9	O2
+51	Q9H6Z9	hypoxia-inducible factor-L-proline
+52	Q9H6Z9	2-oxoglutarate
+53	Q9H6Z9	O2
+54	Q9H6Z9	more
+55	Q9H6Z9	DALDLEMLAPYISMDDDFQL
+56	Q9H6Z9	2-oxoglutarate
+57	Q9H6Z9	O2
+58	Q9H6Z9	ELDLETLAPYIPMDGEDFQ
+59	Q9H6Z9	2-oxoglutarate
+60	Q9H6Z9	O2
+61	Q9H6Z9	EMLAPYIPMDD
+62	Q9H6Z9	2-oxoglutarate
+63	Q9H6Z9	O2
+64	Q9H6Z9	LAPYIPMDDDFQL
+65	Q9H6Z9	2-oxoglutarate
+66	Q9H6Z9	O2
+67	Q9H6Z9	hypoxia-inducible factor2alpha C-terminal oxygen-dependent degradation domain-L-proline
+68	Q9H6Z9	2-oxoglutarate
+69	Q9H6Z9	O2
+70	Q9H6Z9	hypoxia-inducible factor1alpha C-terminal oxygen-dependent degradation domain-L-proline
+71	Q9H6Z9	2-oxoglutarate
+72	Q9H6Z9	O2
+73	Q9H6Z9	DLDLEMLAPYIPMDDDFQL
+74	Q9H6Z9	2-oxoglutarate
+75	Q9H6Z9	O2
+76	Q9GZT9	hypoxia-inducible factor-L-proline
+77	Q9GZT9	2-oxoglutarate
+78	Q9GZT9	O2
+79	Q9GZT9	DLDLEMLAPAIPMDDDFQL
+80	Q9GZT9	2-oxoglutarate
+81	Q9GZT9	O2
+82	Q9GZT9	DLDLEMLAPGIPMDDDFQL
+83	Q9GZT9	2-oxoglutarate
+84	Q9GZT9	O2
+85	Q9GZT9	DLDLEMLAPYIPMD
+86	Q9GZT9	2-oxoglutarate
+87	Q9GZT9	O2
+88	Q9GZT9	DLDLEMLAPYIPMDD
+89	Q9GZT9	2-oxoglutarate
+90	Q9GZT9	O2
+91	Q9GZT9	DLDLEMLAPYIPMDDDF
+92	Q9GZT9	2-oxoglutarate
+93	Q9GZT9	O2
+94	Q9GZT9	DLDLEMLAPYIPMDDDFQL
+95	Q9GZT9	2-oxoglutarate
+96	Q9GZT9	O2
+97	Q9GZT9	DLDLEMLAPYIPMDDDFQLRSFDQ
+98	Q9GZT9	2-oxoglutarate
+99	Q9GZT9	O2
+100	Q9GZT9	DLEMLAPYIPMDDDFQL
+101	Q9GZT9	2-oxoglutarate
+102	Q9GZT9	O2
+103	Q9GZT9	EMLAPYIPMDDDFQL
+104	Q9GZT9	2-oxoglutarate
+105	Q9GZT9	O2
+106	Q9GZT9	EPEELAQLAPTPGDAIISLD
+107	Q9GZT9	2-oxoglutarate
+108	Q9GZT9	O2
+109	Q9GZT9	hypoxia-inducible factor-L-proline
+110	Q9GZT9	2-oxoglutarate
+111	Q9GZT9	O2
+112	Q9GZT9	more
+113	Q9GZT9	DALDLEMLAPYISMDDDFQL
+114	Q9GZT9	2-oxoglutarate
+115	Q9GZT9	O2
+116	Q9GZT9	DALTLLAPAAGDTIISLFG
+117	Q9GZT9	2-oxoglutarate
+118	Q9GZT9	O2
+119	Q9GZT9	ELDLETLAPYIPMDGEDFQ
+120	Q9GZT9	2-oxoglutarate
+121	Q9GZT9	O2
+122	Q9GZT9	hypoxia-inducible factor1alpha C-terminal oxygen-dependent degradation domain-L-proline
+123	Q9GZT9	2-oxoglutarate
+124	Q9GZT9	O2
+125	Q9GZT9	DLDLEMLAPYIPMDDDFQL
+126	Q9GZT9	2-oxoglutarate
+127	Q9GZT9	O2
+128	Q9GZT9	DLDLEALAPYIPADDDFQL
+129	Q9GZT9	2-oxoglutarate
+130	Q9GZT9	O2
+131	Q9GZT9	hypoxia-inducible factor-alpha-L-proline
+132	Q9GZT9	2-oxoglutarate
+133	Q9GZT9	O2
+134	Q9GZT9	hypoxia-inducible factor1alpha N-terminal oxygen-dependent degradation domain-L-proline
+135	Q9GZT9	2-oxoglutarate
+136	Q9GZT9	O2
+137	Q9GZT9	hypoxia-inducible factor2alpha C-terminal oxygen dependent degradation domain-L-proline
+138	Q9GZT9	2-oxoglutarate
+139	Q9GZT9	O2
+140	Q9GZT9	hypoxia-inducible factor2alpha N-terminal oxygen dependent degradation domain-L-proline
+141	Q9GZT9	2-oxoglutarate
+142	Q9GZT9	O2
+143	Q96KS0	hypoxia-inducible factor-L-proline
+144	Q96KS0	2-oxoglutarate
+145	Q96KS0	O2
+146	Q96KS0	hypoxia-inducible factor-L-proline
+147	Q96KS0	2-oxoglutarate
+148	Q96KS0	O2
+149	Q96KS0	more
+150	Q96KS0	hypoxia-inducible factor1alpha C-terminal oxygen-dependent degradation domain-L-proline
+151	Q96KS0	2-oxoglutarate
+152	Q96KS0	O2
+153	Q96KS0	DLDLEMLAPYIPMDDDFQL
+154	Q96KS0	2-oxoglutarate
+155	Q96KS0	O2
+156	Q96KS0	hypoxia-inducible factor1alpha N-terminal oxygen-dependent degradation domain-L-proline
+157	Q96KS0	2-oxoglutarate
+158	Q96KS0	O2
+159	Q96KS0	hypoxia-inducible factor2alpha C-terminal oxygen dependent degradation domain-L-proline
+160	Q96KS0	2-oxoglutarate
+161	Q96KS0	O2
+162	Q96KS0	hypoxia-inducible factor2alpha N-terminal oxygen dependent degradation domain-L-proline
+163	Q96KS0	2-oxoglutarate
+164	Q96KS0	O2
+165	A0A0K0M9M3	hypoxia-inducible factor-L-proline
+166	A0A0K0M9M3	2-oxoglutarate
+167	A0A0K0M9M3	O2
+168	Q91YE2	DLDLEMLAPYIPMDDDFQL
+169	Q91YE2	2-oxoglutarate
+170	Q91YE2	O2
+171	Q91YE2	hypoxia-inducible factor 1 alpha-L-proline
+172	Q91YE2	2-oxoglutarate
+173	Q91YE2	O2
+0	Q9NWT6	hypoxia-inducible factor-L-asparagine
+1	Q9NWT6	2-oxoglutarate
+2	Q9NWT6	O2
+3	Q9NWT6	DESGLPQLTSYDAEVNAPIQGSRNLLQGEELLRALDQVN
+4	Q9NWT6	2-oxoglutarate
+5	Q9NWT6	O2
+0	Q16D46	more
+1	Q16D46	DNA-1,N6-ethenoadenine
+2	Q16D46	2-oxoglutarate
+3	Q16D46	O2
+4	Q16D46	DNA-3,N4-ethenocytosine
+5	Q16D46	2-oxoglutarate
+6	Q16D46	O2
+7	Q16D46	DNA-1-methylcytosine-CH3
+8	Q16D46	2-oxoglutarate
+9	Q16D46	O2
+10	Q6NS38	more
+11	Q6NS38	DNA-1-methylguanine
+12	Q6NS38	2-oxoglutarate
+13	Q6NS38	O2
+14	Q6NS38	DNA-1-methylguanine
+15	Q6NS38	2-oxoglutarate
+16	Q6NS38	O2
+17	Q6NS38	DNA-3-methylthymine
+18	Q6NS38	2-oxoglutarate
+19	Q6NS38	O2
+20	Q6NS38	DNA-3-methylthymine
+21	Q6NS38	2-oxoglutarate
+22	Q6NS38	O2
+23	Q6NS38	DNA-1-methyladenine
+24	Q6NS38	2-oxoglutarate
+25	Q6NS38	O2
+26	Q6NS38	DNA-1-methyladenine
+27	Q6NS38	2-oxoglutarate
+28	Q6NS38	O2
+29	Q6NS38	DNA-3-methylcytosine
+30	Q6NS38	2-oxoglutarate
+31	Q6NS38	O2
+32	Q6NS38	DNA-3-methylcytosine
+33	Q6NS38	2-oxoglutarate
+34	Q6NS38	O2
+35	Q6NS38	methylated poly(deoxyadenine)
+36	Q6NS38	2-oxoglutarate
+37	Q6NS38	O2
+38	Q6NS38	methylated poly(deoxyadenine)
+39	Q6NS38	2-oxoglutarate
+40	Q6NS38	O2
+41	Q6NS38	methylated poly(deoxycytosine)
+42	Q6NS38	2-oxoglutarate
+43	Q6NS38	O2
+44	Q6NS38	methylated poly(deoxycytosine)
+45	Q6NS38	2-oxoglutarate
+46	Q6NS38	O2
+47	Q6NS38	DNA-1-ethyladenine
+48	Q6NS38	2-oxoglutarate
+49	Q6NS38	O2
+50	Q96Q83	more
+51	Q96Q83	DNA-1-methylguanine
+52	Q96Q83	2-oxoglutarate
+53	Q96Q83	O2
+54	Q96Q83	DNA-1-methylguanine
+55	Q96Q83	2-oxoglutarate
+56	Q96Q83	O2
+57	Q96Q83	DNA-3-methylthymine
+58	Q96Q83	2-oxoglutarate
+59	Q96Q83	O2
+60	Q96Q83	DNA-3-methylthymine
+61	Q96Q83	2-oxoglutarate
+62	Q96Q83	O2
+63	Q96Q83	DNA-1-methyladenine
+64	Q96Q83	2-oxoglutarate
+65	Q96Q83	O2
+66	Q96Q83	DNA-1-methyladenine
+67	Q96Q83	2-oxoglutarate
+68	Q96Q83	O2
+69	Q96Q83	DNA-3-methylcytosine
+70	Q96Q83	2-oxoglutarate
+71	Q96Q83	O2
+72	Q96Q83	DNA-3-methylcytosine
+73	Q96Q83	2-oxoglutarate
+74	Q96Q83	O2
+75	Q96Q83	methylated poly(deoxyadenine)
+76	Q96Q83	2-oxoglutarate
+77	Q96Q83	O2
+78	Q96Q83	methylated poly(deoxyadenine)
+79	Q96Q83	2-oxoglutarate
+80	Q96Q83	O2
+81	Q96Q83	methylated poly(deoxycytosine)
+82	Q96Q83	2-oxoglutarate
+83	Q96Q83	O2
+84	Q96Q83	methylated poly(deoxycytosine)
+85	Q96Q83	2-oxoglutarate
+86	Q96Q83	O2
+87	Q96Q83	DNA-1-ethyladenine
+88	Q96Q83	2-oxoglutarate
+89	Q96Q83	O2
+90	Q96Q83	methylated double-stranded bacteriophage lambda
+91	Q96Q83	2-oxoglutarate
+92	Q96Q83	O2
+93	Q96Q83	methylated RNA bacteriophage MS2
+94	Q96Q83	2-oxoglutarate
+95	Q96Q83	O2
+96	P05050	more
+97	P05050	DNA-1-methylguanine
+98	P05050	2-oxoglutarate
+99	P05050	O2
+100	P05050	DNA-1-methylguanine
+101	P05050	2-oxoglutarate
+102	P05050	O2
+103	P05050	DNA-3-methylthymine
+104	P05050	2-oxoglutarate
+105	P05050	O2
+106	P05050	DNA-3-methylthymine
+107	P05050	2-oxoglutarate
+108	P05050	O2
+109	P05050	DNA-1-methyladenine
+110	P05050	2-oxoglutarate
+111	P05050	O2
+112	P05050	DNA-1-methyladenine
+113	P05050	2-oxoglutarate
+114	P05050	O2
+115	P05050	DNA-3-methylcytosine
+116	P05050	2-oxoglutarate
+117	P05050	O2
+118	P05050	DNA-3-methylcytosine
+119	P05050	2-oxoglutarate
+120	P05050	O2
+121	P05050	DNA-base-CH3
+122	P05050	2-oxoglutarate
+123	P05050	O2
+124	P05050	DNA-1,N6-ethenoadenine
+125	P05050	2-oxoglutarate
+126	P05050	O2
+127	P05050	DNA-3,N4-ethenocytosine
+128	P05050	2-oxoglutarate
+129	P05050	O2
+130	P05050	methylated poly(deoxyadenine)
+131	P05050	2-oxoglutarate
+132	P05050	O2
+133	P05050	methylated poly(deoxyadenine)
+134	P05050	2-oxoglutarate
+135	P05050	O2
+136	P05050	methylated poly(deoxycytosine)
+137	P05050	2-oxoglutarate
+138	P05050	O2
+139	P05050	methylated poly(deoxycytosine)
+140	P05050	2-oxoglutarate
+141	P05050	O2
+142	P05050	DNA-1-ethyladenine
+143	P05050	2-oxoglutarate
+144	P05050	O2
+145	P05050	DNA-1,N6-ethenoadenine
+146	P05050	2-oxoglutarate
+147	P05050	O2
+148	P05050	DNA-1-(2-hydroxypropyl)-adenine
+149	P05050	2-oxoglutarate
+150	P05050	O2
+151	P05050	DNA-1-ethanoadenine
+152	P05050	2-oxoglutarate
+153	P05050	O2
+154	P05050	DNA-1-ethenoadenine
+155	P05050	2-oxoglutarate
+156	P05050	O2
+157	P05050	DNA-1-hydroxyethyladenine
+158	P05050	2-oxoglutarate
+159	P05050	O2
+160	P05050	DNA-2-furfurylguanosine
+161	P05050	2-oxoglutarate
+162	P05050	O2
+163	P05050	DNA-2-methylguanosine
+164	P05050	2-oxoglutarate
+165	P05050	O2
+166	P05050	DNA-3-methylcytosine
+167	P05050	2-oxoglutarate
+168	P05050	O2
+169	P05050	DNA-4-methylcytosine
+170	P05050	2-oxoglutarate
+171	P05050	O2
+172	P05050	DNA-N1-methyladenine
+173	P05050	2-oxoglutarate
+174	P05050	O2
+175	P05050	DNA-tetrahydro-2-furfurylguanosine
+176	P05050	2-oxoglutarate
+177	P05050	O2
+0	Q82IZ1	(+/-)-1-deoxypentalenic acid
+1	Q82IZ1	O2
+2	Q82IZ1	more
+0	E3VWK4	neopentalenolactone D
+1	E3VWK4	2 2-oxoglutarate
+2	E3VWK4	pentalenolactone D
+3	E3VWK4	2 2-oxoglutarate
+4	E3VWI8	neopentalenolactone D
+5	E3VWI8	2 2-oxoglutarate
+6	E3VWI8	pentalenolactone D
+7	E3VWI8	2 2-oxoglutarate
+0	Q6L732	kanamycin B
+1	Q6L732	2-oxoglutarate
+2	Q6L732	O2
+3	Q6L732	kanamycin B
+4	Q6L732	2-oxoglutarate
+5	Q6L732	O2
+0	Q9Z4Z5	L-asparagine
+1	Q9Z4Z5	2-oxoglutarate
+2	Q9Z4Z5	O2
+0	Q9R0E1	[procollagen]-L-lysine
+1	Q9R0E1	2-oxoglutarate
+2	Q9R0E1	O2
+3	Q9R0E1	[procollagen]-L-lysine
+4	Q9R0E1	2-oxoglutarate
+5	Q9R0E1	O2
+6	Q9R0E1	adiponectin-L-lysine
+7	Q9R0E1	2-oxoglutarate
+8	Q9R0E1	O2
+9	Q9R0E1	mannan-binding lectin-A-L-lysine
+10	Q9R0E1	2-oxoglutarate
+11	Q9R0E1	O2
+12	Q9R0E1	more
+13	O00469	collagen
+14	O00469	2-oxoglutarate
+15	O00469	O2
+16	O00469	peptidyl-L-lysine
+17	O00469	2-oxoglutarate
+18	O00469	O2
+19	O00469	[procollagen]-L-lysine
+20	O00469	2-oxoglutarate
+21	O00469	O2
+22	O00469	[procollagen]-L-lysine
+23	O00469	2-oxoglutarate
+24	O00469	O2
+25	O00469	peptide (IKG)3
+26	O00469	2-oxoglutarate
+27	O00469	O2
+28	O00469	procollagen L-lysine
+29	O00469	2-oxoglutarate
+30	O00469	O2
+31	O00469	more
+32	Q811A3	[procollagen]-L-lysine
+33	Q811A3	2-oxoglutarate
+34	Q811A3	O2
+35	Q811A3	[procollagen]-L-lysine
+36	Q811A3	2-oxoglutarate
+37	Q811A3	O2
+38	Q811A3	procollagen L-lysine
+39	Q811A3	2-oxoglutarate
+40	Q811A3	O2
+41	Q811A3	more
+42	A4U7F9	collagen
+43	A4U7F9	2-oxoglutarate
+44	A4U7F9	O2
+45	A0JMD1	collagen
+46	A0JMD1	2-oxoglutarate
+47	A0JMD1	O2
+48	A4U7F8	collagen
+49	A4U7F8	2-oxoglutarate
+50	A4U7F8	O2
+51	O60568	Ala-Arg-Gly-Ile-Lys-Gly-Ile-Arg-Gly-Phe-Ser-Gly
+52	O60568	2-oxoglutarate
+53	O60568	O2
+54	O60568	collagen
+55	O60568	2-oxoglutarate
+56	O60568	O2
+57	O60568	peptidyl-L-lysine
+58	O60568	2-oxoglutarate
+59	O60568	O2
+60	O60568	2-oxoglutarate
+61	O60568	O2
+62	O60568	ascorbate
+63	O60568	[procollagen]-L-lysine
+64	O60568	2-oxoglutarate
+65	O60568	O2
+66	O60568	[procollagen]-L-lysine
+67	O60568	2-oxoglutarate
+68	O60568	O2
+69	O60568	L-lysine-[procollagen]
+70	O60568	2-oxoglutarate
+71	O60568	O2
+72	O60568	more
+73	O60568	(Ile-Lys-Gly)3
+74	O60568	2-oxoglutarate
+75	O60568	O2
+76	O60568	KGIKGIKG
+77	O60568	2-oxoglutarate
+78	O60568	O2
+79	Q9R0E2	[procollagen]-L-lysine
+80	Q9R0E2	2-oxoglutarate
+81	Q9R0E2	O2
+82	Q9R0E2	[procollagen]-L-lysine
+83	Q9R0E2	2-oxoglutarate
+84	Q9R0E2	O2
+85	Q6NYC1	luc7like2(267-278)
+86	Q6NYC1	2-oxoglutarate
+87	Q6NYC1	more
+88	A5A6S1	L-lysine-[procollagen]
+89	A5A6S1	2-oxoglutarate
+90	A5A6S1	O2
+91	A5A6S3	L-lysine-[procollagen]
+92	A5A6S3	2-oxoglutarate
+93	A5A6S3	O2
+94	A5A6S2	L-lysine-[procollagen]
+95	A5A6S2	2-oxoglutarate
+96	A5A6S2	O2
+97	Q9R0B9	[procollagen]-L-lysine
+98	Q9R0B9	2-oxoglutarate
+99	Q9R0B9	O2
+100	Q9R0B9	[procollagen]-L-lysine
+101	Q9R0B9	2-oxoglutarate
+102	Q9R0B9	O2
+103	Q9R0B9	more
+104	Q5U367	[procollagen]-L-lysine
+105	Q5U367	2-oxoglutarate
+106	Q5U367	O2
+107	Q5U367	[procollagen]-L-lysine
+108	Q5U367	2-oxoglutarate
+109	Q5U367	O2
+110	Q63321	collagen
+111	Q63321	2-oxoglutarate
+112	Q63321	O2
+113	Q63321	peptidyl-L-lysine
+114	Q63321	2-oxoglutarate
+115	Q63321	O2
+116	Q63321	[procollagen] L-lysine
+117	Q63321	2-oxoglutarate
+118	Q63321	O2
+119	Q63321	2-oxoglutarate
+120	Q63321	O2
+121	Q63321	ascorbate
+122	Q63321	[procollagen]-L-lysine
+123	Q63321	2-oxoglutarate
+124	Q63321	O2
+125	Q63321	[procollagen]-L-lysine
+126	Q63321	2-oxoglutarate
+127	Q63321	O2
+0	Q6WZB0	L-arginine
+1	Q6WZB0	2-oxoglutarate
+2	Q6WZB0	O2
+3	Q6WZB0	L-canavanine
+4	Q6WZB0	2-oxoglutarate
+5	Q6WZB0	O2
+6	Q6WZB0	L-homoarginine
+7	Q6WZB0	2-oxoglutarate
+8	Q6WZB0	O2
+9	Q6WZB0	more
+0	A2RUC4	7-(3-amino-3-carboxypropyl)wyosine37 in tRNAPhe
+1	A2RUC4	2-oxoglutarate
+2	A2RUC4	O2
+3	A2RUC4	more
+0	Q700X4	(R)-(2,4-dichlorophenoxy)propanoate
+1	Q700X4	2-oxoglutarate
+2	Q700X4	O2
+3	Q700X4	(R)-2-(4-chloro-2-methylphenoxy)propanoate
+4	Q700X4	2-oxoglutarate
+5	Q700X4	O2
+6	Q700X4	more
+7	Q700X4	(S)-(2,4-dichlorophenoxy)propanoate
+8	Q700X4	2-oxoglutarate
+9	Q700X4	O2
+10	Q700X4	(S)-2-(4-chloro-2-methylphenoxy)propanoate
+11	Q700X4	2-oxoglutarate
+12	Q700X4	O2
+13	P83309	(S)-(2,4-dichlorophenoxy)propanoate
+14	P83309	2-oxoglutarate
+15	P83309	O2
+16	P83309	(S)-2-(4-chloro-2-methylphenoxy)propanoate
+17	P83309	2-oxoglutarate
+18	P83309	O2
+0	Q8KSC8	more
+1	Q8KSC8	(R)-(2,4-dichlorophenoxy)propanoate
+2	Q8KSC8	2-oxoglutarate
+3	Q8KSC8	O2
+4	Q8KSC8	(R)-2-(4-chloro-2-methylphenoxy)propanoate
+5	Q8KSC8	2-oxoglutarate
+6	Q8KSC8	O2
+7	P83310	(R)-(2,4-dichlorophenoxy)propanoate
+8	P83310	2-oxoglutarate
+9	P83310	O2
+10	P83310	(R)-2-(4-chloro-2-methylphenoxy)propanoate
+11	P83310	2-oxoglutarate
+12	P83310	O2
+0	E2GIN1	more
+1	E2GIN1	L-isoleucine
+2	E2GIN1	2-oxoglutarate
+3	E2GIN1	O2
+4	E2GIN1	L-leucine
+5	E2GIN1	2-oxoglutarate
+6	E2GIN1	O2
+7	E2GIN1	L-methionine
+8	E2GIN1	2-oxoglutarate
+9	E2GIN1	O2
+10	S5SPJ1	L-isoleucine
+11	S5SPJ1	2-oxoglutarate
+12	S5SPJ1	O2
+0	P27431	AVSEATIR
+1	P27431	2-oxoglutarate
+2	P27431	O2
+3	P27431	KPITEKPLAVRMGKGKGNVE
+4	P27431	2-oxoglutarate
+5	P27431	O2
+6	P27431	RLLPAVSEATIRRL
+7	P27431	2-oxoglutarate
+8	P27431	O2
+9	P27431	[50S ribosomal protein L16]-L-Arg81
+10	P27431	2-oxoglutarate
+11	P27431	O2
+12	P27431	more
+0	Q4QZZ9	xanthine
+1	Q4QZZ9	2-oxoglutarate
+2	Q4QZZ9	O2
+3	Q4QZZ9	9-methylxanthine
+4	Q4QZZ9	2-oxoglutarate
+5	Q4QZZ9	O2
+0	P0CB42	N6-methyladenine in DNA
+1	P0CB42	2-oxoglutarate
+2	P0CB42	O2
+3	Q13686	N6-methyladenine in DNA
+4	Q13686	2-oxoglutarate
+5	Q13686	O2
+0	Q15JG7	more
+1	Q15JG7	validamycin A
+2	Q15JG7	2-oxoglutarate
+3	Q15JG7	O2
+4	Q15JG7	validoxylamine A
+5	Q15JG7	2-oxoglutarate
+6	Q15JG7	O2
+0	Q9C0B1	more
+1	Q9C0B1	N6-methyladenine in mRNA
+2	Q9C0B1	2-oxoglutarate
+3	Q9C0B1	O2
+4	Q9C0B1	N3-methylcytosine in single-stranded DNA
+5	Q9C0B1	2-oxoglutarate
+6	Q9C0B1	O2
+7	Q9C0B1	N3-methylthymine in single-stranded DNA
+8	Q9C0B1	2-oxoglutarate
+9	Q9C0B1	O2
+10	Q9C0B1	N3-methyluracil in single-stranded mRNA
+11	Q9C0B1	2-oxoglutarate
+12	Q9C0B1	O2
+13	Q8BGW1	more
+14	Q8BGW1	N3-methylcytosine in single-stranded DNA
+15	Q8BGW1	2-oxoglutarate
+16	Q8BGW1	O2
+17	Q8BGW1	N3-methylthymine in single-stranded DNA
+18	Q8BGW1	2-oxoglutarate
+19	Q8BGW1	O2
+20	Q8BGW1	N3-methyluracil in single-stranded mRNA
+21	Q8BGW1	2-oxoglutarate
+22	Q8BGW1	O2
+23	Q6P6C2	N6-methyladenine in mRNA
+24	Q6P6C2	2-oxoglutarate
+25	Q6P6C2	O2
+26	Q6P6C2	5'-CUCGAUACG(m6A)UCCGGUCAAA-3'
+27	Q6P6C2	2-oxoglutarate
+28	Q6P6C2	O2
+29	Q6P6C2	N6-methyladenine in single-stranded DNA
+30	Q6P6C2	2-oxoglutarate
+31	Q6P6C2	O2
+32	Q6P6C2	N6-methyladenine in single-stranded DNA oligonucleotide
+33	Q6P6C2	2-oxoglutarate
+34	Q6P6C2	O2
+35	Q3TSG4	N6-methyladenine in mRNA
+36	Q3TSG4	2-oxoglutarate
+37	Q3TSG4	O2
+38	Q08BA6	N6-methyladenine in mRNA
+39	Q08BA6	2-oxoglutarate
+40	Q08BA6	O2
+0	Q96Q83	N1-methyladenine in mRNA
+1	Q96Q83	2-oxoglutarate
+2	Q96Q83	O2
+3	Q96Q83	5'-dAAAA-1-methyladenine-AYYAAA
+4	Q96Q83	2-oxoglutarate
+5	Q96Q83	O2
+6	Q96Q83	N1-methyladenine in ssDNA
+7	Q96Q83	2-oxoglutarate
+8	Q96Q83	O2
+9	P05050	RNA-N1-methyladenine
+10	P05050	2-oxoglutarate
+11	P05050	O2
+12	P05050	RNA-N6-methyladenine
+13	P05050	2-oxoglutarate
+14	P05050	O2
+15	Q8K1E6	N3-ethylthymidine in mRNA
+16	Q8K1E6	2-oxoglutarate
+17	Q8K1E6	O2
+0	Q6QUY7	ectoine
+1	Q6QUY7	2-oxoglutarate
+2	Q6QUY7	O2
+3	Q6QUY7	ectoine
+4	Q6QUY7	2-oxoglutarate
+5	Q6QUY7	O2
+6	A0A1B1SPG3	ectoine
+7	A0A1B1SPG3	2-oxoglutarate
+8	A0A1B1SPG3	O2
+9	A0A1B1SPG3	ectoine
+10	A0A1B1SPG3	2-oxoglutarate
+11	A0A1B1SPG3	O2
+12	Q2TDY4	ectoine
+13	Q2TDY4	2-oxoglutarate
+14	Q2TDY4	O2
+15	Q2TDY4	ectoine
+16	Q2TDY4	2-oxoglutarate
+17	Q2TDY4	O2
+18	Q2TDY4	more
+19	Q2TDY4	(4S)-ectoine
+20	Q2TDY4	2-oxoglutarate
+21	Q2TDY4	O2
+22	Q1GNW5	ectoine
+23	Q1GNW5	2-oxoglutarate
+24	Q1GNW5	O2
+25	Q1GNW5	ectoine
+26	Q1GNW5	2-oxoglutarate
+27	Q1GNW5	O2
+28	Q1GNW5	more
+29	E1VA04	ectoine
+30	E1VA04	2-oxoglutarate
+31	E1VA04	O2
+32	E1VA04	ectoine
+33	E1VA04	2-oxoglutarate
+34	E1VA04	O2
+35	E1VA04	more
+36	A0A1R1AUM9	ectoine
+37	A0A1R1AUM9	2-oxoglutarate
+38	A0A1R1AUM9	O2
+39	A0A1R1AUM9	ectoine
+40	A0A1R1AUM9	2-oxoglutarate
+41	A0A1R1AUM9	O2
+42	A0A1R1AUM9	more
+0	Q989T9	L-pipecolate
+1	Q989T9	2-oxoglutarate
+2	Q989T9	O2
+3	Q989T9	L-proline
+4	Q989T9	2-oxoglutarate
+5	Q989T9	O2
+6	Q989T9	L-pipecolic acid
+7	Q989T9	2-oxoglutarate
+8	Q989T9	O2
+9	Q92LF6	L-pipecolate
+10	Q92LF6	2-oxoglutarate
+11	Q92LF6	O2
+12	Q92LF6	L-proline
+13	Q92LF6	2-oxoglutarate
+14	Q92LF6	O2
+15	Q92LF6	L-proline
+16	Q92LF6	2-oxoglutarate
+17	Q92LF6	O2
+18	Q92LF6	L-pipecolic acid
+19	Q92LF6	2-oxoglutarate
+20	Q92LF6	O2

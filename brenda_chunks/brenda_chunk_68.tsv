@@ -1,0 +1,1567 @@
+	uniprot_ids	substrates
+0	P27695	DNA
+1	P27695	DNA
+2	P27695	more
+3	P27695	43-mer oligonucleotide containing apurinic/apyrimidinic sites
+4	P27695	5'-TCGAGGATCCTGAGCTCGAGTCGACGXTCGCGAATTCTGCGGATCCAAGC-3'
+5	P27695	DNA containing apurinic/apyrimidinic sites
+6	P27695	AP-DNA
+7	P78549	DNA
+8	P78549	DNA
+9	P78549	more
+10	P78549	DNA containing dihydrouracil
+11	Q9SIC4	DNA
+12	Q9SIC4	DNA
+13	Q9SIC4	more
+14	O35980	DNA
+15	O35980	DNA
+16	Q9AIV4	DNA containing apurinic/apyrimidinic sites
+17	P22936	more
+18	P23196	more
+19	P50465	5'-CTCTCCCTTC-5,6-dihydrouracil-CTCCTTTCCTCT-3'
+20	P50465	5'-CTCTCCCTTC-8-oxo-7,8-dihydroguanine-CTCCTTTCCTCT-3'
+21	P50465	5'-GACAAGCGCAG-(5R,6S)-2'-deoxy-5,6-dihydroxyuridine-CAGCCGAACAC-3'
+22	P50465	5'-GACAAGCGCAG-(5S,6R)-2'-deoxy-5,6-dihydroxyuridine-CAGCCGAACAC-3'
+23	P50465	DNA containing apurinic/apyrimidinic sites
+24	Q8U437	DNA
+25	Q8U437	DNA
+26	O15527	DNA
+27	O15527	DNA
+28	O15527	more
+29	Q5KX27	21 bp double-stranded DNA containing an apurinic/apyrimidinic-site analogue
+30	F6KAZ5	26-bp-oligonucleotide
+31	Q58134	DNA with an abasic site
+32	Q8ZVK6	DNA with an abasic site
+33	O29876	DNA with an abasic site
+34	P28352	5'-TCGAGGATCCTGAGCTCGAGTCGACGXTCGCGAATTCTGCGGATCCAAGC-3'
+35	P0AB83	more
+36	Q9ZJ98	more
+37	Q9ZJ98	30mer THF-T duplex
+38	Q9ZJ98	31mer oligonucleotide duplex
+39	F0NEW7	more
+40	P96273	more
+41	P96273	N1 duplex DNA substrate
+42	P96273	H2O
+0	P37355	(1R,2S,5S 6S)-2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylate
+0	Q51507	more
+1	Q51507	isochorismate
+2	P9WFX1	more
+3	P9WFX1	isochorismate
+4	Q9X9I8	more
+5	Q9X9I8	isochorismate
+0	R4X244	6-tuliposide A
+1	R4X244	6-tuliposide B
+2	R4X244	more
+3	I4DST8	6-tuliposide A
+4	I4DST8	6-tuliposide B
+5	I4DST8	more
+6	I4DST8	1,6-tuliposide D
+7	I4DST8	tuliposide F
+0	I4DST8	6-tuliposide A
+1	I4DST8	6-tuliposide B
+2	I4DST8	more
+3	I4DST8	1,6-tuliposide D
+4	I4DST8	tuliposide F
+0	A0A2U9GHG9	salutaridinol 7-O-acetate
+1	A0A2U9GGW3	salutaridinol 7-O-acetate
+0	Q9LCC6	L-aspartate
+1	Q9LCC6	L-aspartate
+2	Q9LCC6	fumarate
+3	Q9LCC6	NH3
+4	Q9LCC6	fumarate
+5	Q9LCC6	NH3
+6	P0AC38	L-aspartate
+7	P0AC38	L-aspartate
+8	P0AC38	fumarate
+9	P0AC38	NH3
+10	P0AC38	fumarate
+11	P0AC38	NH3
+12	P0AC38	more
+13	P0AC38	L-aspartic acid alpha-amide
+14	Q0PC50	L-aspartate
+15	Q0PC50	L-aspartate
+16	Q0PC50	more
+17	Q9HTD7	L-aspartate
+18	Q9HTD7	L-aspartate
+19	Q9HTD7	fumarate
+20	Q9HTD7	NH3
+21	Q9HTD7	fumarate
+22	Q9HTD7	NH3
+23	Q9HTD7	L-phenylalanine
+0	Q88H32	L-ornithine
+1	Q88H32	L-ornithine
+2	Q88H32	L-ornithine
+0	P40817	D-serine
+1	P40817	D-2,3-diaminopropanoate
+2	P40817	2 H2O
+3	P40817	DL-2,3-diaminopropanoate
+4	P40817	2 H2O
+5	P40817	L-2,3-diaminopropanoate
+6	P40817	2 H2O
+7	P40817	L-cysteine
+8	P40817	D-2,3-diaminopropanoate
+9	P40817	H2O
+10	P40817	L-2,3-diaminopropanoate
+11	P40817	H2O
+12	P66899	D-2,3-Diaminopropanoate
+13	P66899	H2O
+14	P66899	L-2,3-Diaminopropanoate
+15	P66899	H2O
+16	P66899	D-2,3-diaminopropanoate
+17	P66899	H2O
+18	P66899	L-2,3-diaminopropanoate
+19	P66899	H2O
+20	P40817	2,3-diaminopropanoate
+21	P40817	H2O
+0	A4F2N8	L-threo-3-hydroxyaspartate
+1	A4F2N8	L-threo-3-hydroxyaspartate
+2	A4F2N8	more
+3	L0N5C4	more
+4	L0N5C4	erythro-3-hydroxy-D-aspartate
+5	L0N5C4	threo-3-hydroxy-L-aspartate
+0	Q9QZX7	L-serine
+1	Q9QZX7	L-serine
+2	Q9QZX7	L-serine O-sulfate
+3	Q9QZX7	L-threo-3-hydroxyaspartate
+4	Q9QZX7	beta-chloro-L-alanine
+5	Q9QZX7	D-serine
+6	Q9QZX7	more
+7	Q9QZX7	D-serine
+8	Q9QZX7	L-serine
+9	Q9QZX7	L-threonine
+10	P20132	L-serine
+11	P20132	L-serine
+12	P20132	L-threonine
+13	P20132	L-threonine
+14	P09367	L-serine
+15	P09367	L-serine
+16	Q96GA7	L-serine
+17	Q96GA7	L-serine
+18	B1N2N4	L-serine
+19	B1N2N4	L-serine
+20	B1N2N4	L-threonine
+21	Q5ZXE1	L-serine
+22	Q5ZXE1	L-serine
+23	Q5ZXE1	more
+24	Q5ZXE1	L-Ser
+25	Q5ZXE1	L-Thr
+26	A0QY48	L-serine
+27	A0QY48	L-serine
+28	A0QY48	more
+29	A0A0X1KHE6	L-serine
+30	A0A0X1KHE6	L-serine
+31	A0A0X1KHE6	L-threonine
+32	O57809	L-serine
+33	O57809	L-serine
+34	O57809	more
+0	Q4A041	D-serine
+1	O57809	more
+2	O57809	D-serine
+3	Q8ZL08	D-serine
+4	Q9HYN9	D-serine
+5	Q54HH2	D-serine
+6	P00926	D-serine
+7	P00926	S-serine
+8	P53095	D-serine
+9	P53095	D-threonine
+10	P53095	D-allo-threonine
+11	P53095	beta-chloro-D-alanine
+0	Q9AXU4	L-threonine
+1	Q74FW6	L-threonine
+2	Q74FW6	more
+3	P25306	L-threonine
+4	P25306	L-serine
+5	P04968	L-threonine
+6	V6QU65	L-threonine
+7	A0QX60	L-threonine
+8	A0QX60	L-allo-threonine
+9	A0QX60	beta-chloro-L-alanine
+10	A0QX60	L-serine
+0	Q05514	L-threo-3-methylaspartate
+1	Q05514	L-threo-3-methylaspartate
+2	Q05514	(2E)-2-butylbut-2-enedioate
+3	Q05514	NH3
+4	Q05514	(2E)-2-ethylbut-2-enedioate
+5	Q05514	NH3
+6	Q05514	(2E)-2-hexylbut-2-enedioate
+7	Q05514	NH3
+8	Q05514	(2E)-2-methylbut-2-enedioate
+9	Q05514	NH3
+10	Q05514	(2E)-2-pentylbut-2-enedioate
+11	Q05514	NH3
+12	Q05514	(2E)-2-phenylbut-2-enedioate
+13	Q05514	NH3
+14	Q05514	(2E)-2-propylbut-2-enedioate
+15	Q05514	NH3
+16	Q05514	(2Z)-2-(benzyloxy)but-2-enedioate
+17	Q05514	NH3
+18	Q05514	(2Z)-2-(benzylsulfanyl)but-2-enedioate
+19	Q05514	NH3
+20	Q05514	(2Z)-2-(ethylsulfanyl)but-2-enedioate
+21	Q05514	NH3
+22	Q05514	(2Z)-2-(phenylsulfanyl)but-2-enedioate
+23	Q05514	NH3
+24	Q05514	(2Z)-2-ethoxybut-2-enedioate
+25	Q05514	NH3
+26	Q05514	(2Z)-2-phenoxybut-2-enedioate
+27	Q05514	NH3
+28	Q05514	L-threo-3-methylaspartic acid
+29	Q05514	mesaconate
+30	Q05514	(aminooxy)ethane
+31	Q05514	mesaconate
+32	Q05514	(aminooxy)methane
+33	Q05514	mesaconate
+34	Q05514	1-cyclopropylmethanamine
+35	Q05514	mesaconate
+36	Q05514	2-aminoethanol
+37	Q05514	mesaconate
+38	Q05514	2-methoxyethanamine
+39	Q05514	mesaconate
+40	Q05514	3-aminopropan-1-ol
+41	Q05514	mesaconate
+42	Q05514	N-methylethane-1,2-diamine
+43	Q05514	mesaconate
+44	Q05514	NH3
+45	Q05514	mesaconate
+46	Q05514	NH3
+47	Q05514	mesaconate
+48	Q05514	aminobutane
+49	Q05514	mesaconate
+50	Q05514	aniline
+51	Q05514	mesaconate
+52	Q05514	cyclobutanamine
+53	Q05514	mesaconate
+54	Q05514	cyclohexanamine
+55	Q05514	mesaconate
+56	Q05514	cyclopentanamine
+57	Q05514	mesaconate
+58	Q05514	cyclopropanamine
+59	Q05514	mesaconate
+60	Q05514	ethanamine
+61	Q05514	mesaconate
+62	Q05514	ethane-1,2-diamine
+63	Q05514	mesaconate
+64	Q05514	hexanamine
+65	Q05514	mesaconate
+66	Q05514	methanamine
+67	Q05514	mesaconate
+68	Q05514	pentanamine
+69	Q05514	mesaconate
+70	Q05514	propan-2-amine
+71	Q05514	mesaconate
+72	Q05514	propanamine
+73	Q05514	mesaconate
+74	Q05514	propane-1,3-diamine
+75	Q05514	mesaconic acid
+76	Q05514	NH3
+77	Q3AEU2	fumarate
+78	Q3AEU2	NH3
+79	Q3AEU2	mesaconate
+80	Q3AEU2	NH3
+81	Q3AEU2	mesaconate
+82	Q3AEU2	ethylamine
+83	Q3AEU2	mesaconate
+84	Q3AEU2	hydrazine
+85	Q3AEU2	mesaconate
+86	Q3AEU2	hydroxylamine
+87	Q3AEU2	mesaconate
+88	Q3AEU2	methoxylamine
+89	Q3AEU2	mesaconate
+90	Q3AEU2	methylamine
+91	Q3AEU2	methylfumarate
+92	Q3AEU2	NH3
+93	Q3AEU2	propylfumarate
+94	Q3AEU2	NH3
+95	Q3AEU2	(2S,3S)-3-ethylaspartic acid
+96	Q3AEU2	ethylfumarate
+97	Q3AEU2	NH3
+0	Q3IWB0	L-tyrosine
+1	U5TV35	L-tyrosine
+0	P35510	L-Phe
+1	P35510	L-Phe
+2	P35510	more
+3	P35510	L-phenylalanine
+4	P35510	L-phenylalanine
+5	P35510	L-phenylalanine
+6	P35510	L-phenylalanine
+7	P35510	L-tyrosine
+8	P45724	L-Phe
+9	P45724	L-Phe
+10	P45724	more
+11	P45724	L-tyrosine
+12	P45724	2-chloro-trans-cinnamate
+13	P45724	NH3
+14	P45724	2-fluoro-trans-cinnamate
+15	P45724	NH3
+16	P45724	2-hydroxy-trans-cinnamate
+17	P45724	NH3
+18	P45724	2-methoxy-trans-cinnamate
+19	P45724	NH3
+20	P45724	3-chloro-trans-cinnamate
+21	P45724	NH3
+22	P45724	3-fluoro-trans-cinnamate
+23	P45724	NH3
+24	P45724	3-hydroxy-trans-cinnamate
+25	P45724	NH3
+26	P45724	3-methoxy-trans-cinnamate
+27	P45724	NH3
+28	P45724	4-chloro-trans-cinnamate
+29	P45724	NH3
+30	P45724	4-fluoro-trans-cinnamate
+31	P45724	NH3
+32	P45724	4-hydroxy-trans-cinnamate
+33	P45724	NH3
+34	P45724	4-methoxy-trans-cinnamate
+35	P45724	NH3
+36	P45724	L-phenylalanine
+37	P45724	L-phenylalanine
+38	P45724	trans-cinnamate
+39	P45724	NH3
+40	P45724	trans-cinnamate
+41	P45724	NH3
+42	P45725	L-Phe
+43	P45725	L-Phe
+44	P45725	more
+45	P45725	L-phenylalanine
+46	P45725	L-phenylalanine
+47	Q9SS45	L-Phe
+48	Q9SS45	L-Phe
+49	Q9SS45	more
+50	Q9SS45	L-phenylalanine
+51	Q9SS45	L-phenylalanine
+52	P35511	more
+53	P35511	L-phenylalanine
+54	P35511	L-phenylalanine
+55	Q52QH3	more
+56	Q52QH3	L-phenylalanine
+57	Q52QH3	L-phenylalanine
+58	Q852S1	L-phenylalanine
+59	Q852S1	L-phenylalanine
+60	P11544	L-Phe
+61	P11544	L-Phe
+62	P11544	L-phenylalanine
+63	P11544	L-phenylalanine
+64	A9XIW5	L-phenylalanine
+65	A9XIW5	L-phenylalanine
+66	A9XIW5	trans-cinnamate
+67	A9XIW5	NH3
+68	A9XIW5	trans-cinnamate
+69	A9XIW5	NH3
+70	A9XIW5	L-phenylalanine
+71	A9XIW5	L-phenylalanine
+72	B1GS33	L-phenylalanine
+73	B1GS33	L-phenylalanine
+74	Q5EIB6	L-phenylalanine
+75	Q5EIB6	L-phenylalanine
+76	Q2VMT1	L-phenylalanine
+77	Q2VMT1	L-phenylalanine
+78	B5LAW0	L-phenylalanine
+79	B5LAW0	L-phenylalanine
+80	Q43210	L-phenylalanine
+81	Q43210	L-phenylalanine
+82	Q43210	L-phenylalanine
+83	Q43210	L-phenylalanine
+84	A7UHB6	L-phenylalanine
+85	A7UHB6	L-phenylalanine
+86	B5U983	L-phenylalanine
+87	B5U983	L-phenylalanine
+88	Q672H7	more
+89	Q672H7	L-phenylalanine
+90	Q672H7	L-phenylalanine
+91	Q6ST23	L-Phe
+92	Q6ST23	L-Phe
+93	Q6ST23	more
+94	Q6ST23	L-phenylalanine
+95	Q6ST23	L-phenylalanine
+96	P45733	L-phenylalanine
+97	P45733	L-phenylalanine
+98	P52777	L-phenylalanine
+99	P52777	L-phenylalanine
+100	Q8VXG7	L-phenylalanine
+101	Q8VXG7	L-phenylalanine
+102	P25872	L-phenylalanine
+103	P25872	L-phenylalanine
+104	C6ZIA5	L-phenylalanine
+105	C6ZIA5	L-phenylalanine
+106	C0LL35	L-Phe
+107	C0LL35	L-Phe
+108	C0LL35	more
+109	C0LL35	L-Tyr
+110	C0LL35	L-phenylalanine
+111	C0LL35	L-phenylalanine
+112	P35513	L-phenylalanine
+113	P35513	L-phenylalanine
+114	D0E576	L-phenylalanine
+115	D0E576	L-phenylalanine
+116	B9VU66	L-phenylalanine
+117	B9VU66	L-phenylalanine
+118	B9VU66	trans-cinnamate
+119	B9VU66	NH3
+120	B9VU66	trans-cinnamate
+121	B9VU66	NH3
+122	B9VU66	3-chloro-L-phenylalanine
+123	B9VU66	3-chloro-L-phenylalanine
+124	B9VU66	4-fluoro-L-phenylalanine
+125	B9VU66	4-fluoro-L-phenylalanine
+126	Q0GA81	L-Phe
+127	Q0GA81	L-Phe
+128	Q0GA81	L-Tyr
+129	D5KS97	L-Phe
+130	D5KS97	L-Phe
+131	D5KS97	L-Tyr
+132	D3Y5L6	L-Phe
+133	D3Y5L6	L-Phe
+134	D3Y5L6	more
+135	P45735	L-phenylalanine
+136	P45735	L-phenylalanine
+137	P24481	2-chloro-trans-cinnamate
+138	P24481	NH3
+139	P24481	2-fluoro-trans-cinnamate
+140	P24481	NH3
+141	P24481	2-hydroxy-trans-cinnamate
+142	P24481	NH3
+143	P24481	2-methoxy-trans-cinnamate
+144	P24481	NH3
+145	P24481	3-chloro-trans-cinnamate
+146	P24481	NH3
+147	P24481	3-fluoro-trans-cinnamate
+148	P24481	NH3
+149	P24481	3-hydroxy-trans-cinnamate
+150	P24481	NH3
+151	P24481	3-methoxy-trans-cinnamate
+152	P24481	NH3
+153	P24481	4-chloro-trans-cinnamate
+154	P24481	NH3
+155	P24481	4-fluoro-trans-cinnamate
+156	P24481	NH3
+157	P24481	4-hydroxy-trans-cinnamate
+158	P24481	NH3
+159	P24481	4-methoxy-trans-cinnamate
+160	P24481	NH3
+161	P24481	L-phenylalanine
+162	P24481	L-phenylalanine
+163	P24481	trans-cinnamate
+164	P24481	NH3
+165	P24481	trans-cinnamate
+166	P24481	NH3
+167	Q3M5Z3	L-phenylalanine
+168	Q3M5Z3	L-phenylalanine
+169	Q3M5Z3	trans-cinnamate
+170	Q3M5Z3	NH3
+171	Q3M5Z3	trans-cinnamate
+172	Q3M5Z3	NH3
+173	Q3M5Z3	(2S)-2-amino-3-(3-fluorophenyl)propanoic acid
+174	Q3M5Z3	(2S)-2-amino-3-(3-hydroxyphenyl)propanoic acid
+175	Q3M5Z3	(2S)-2-amino-3-(4-fluorophenyl)propanoic acid
+176	Q3M5Z3	(2S)-2-amino-3-(4-nitrophenyl)propanoic acid
+177	Q3M5Z3	(2S)-2-amino-3-(pyridin-3-yl)propanoic acid
+178	Q3M5Z3	(2S)-2-amino-3-(pyridin-4-yl)propanoic acid
+179	Q3M5Z3	(2S)-2-amino-3-[4-(trifluoromethyl)phenyl]propanoic acid
+180	Q3M5Z3	(2S)-2-amino-3-phenylpropanoic acid
+181	Q3M5Z3	4-nitro-trans-cinnamate
+182	Q3M5Z3	NH3
+183	Q3M5Z3	4-nitro-trans-cinnamate
+184	Q3M5Z3	NH3
+185	Q3M5Z3	L-phenylalanine
+186	Q3M5Z3	L-phenylalanine
+187	L0BXX7	L-phenylalanine
+188	L0BXX7	L-phenylalanine
+189	C0HJ40	L-phenylalanine
+190	C0HJ40	L-phenylalanine
+191	A0A194SF92	L-phenylalanine
+192	A0A194SF92	L-phenylalanine
+193	A0A194SF92	trans-cinnamate
+194	A0A194SF92	NH3
+195	A0A194SF92	trans-cinnamate
+196	A0A194SF92	NH3
+197	A0A194SF92	(2E)-4-fluoro-cinnamic acid
+198	A0A194SF92	NH3
+199	A0A194SF92	(2E)-4-fluoro-cinnamic acid
+200	A0A194SF92	NH3
+201	A0A194SF92	(2E)-3-bromo-cinnamic acid
+202	A0A194SF92	NH3
+203	A0A194SF92	(2E)-3-fluoro-cinnamic acid
+204	A0A194SF92	NH3
+205	A0A194SF92	(2E)-3-nitro-cinnamic acid
+206	A0A194SF92	NH3
+207	A0A194SF92	(2E)-4-bromo-cinnamic acid
+208	A0A194SF92	NH3
+209	Q68G83	more
+210	Q68G83	trans-cinnamate
+211	Q68G83	NH3
+212	Q68G83	trans-cinnamate
+213	Q68G83	NH3
+214	Q68G83	trans-cinnamate
+215	Q68G83	NH3
+216	Q1ZZ95	L-phenylalanine
+217	Q1ZZ95	L-phenylalanine
+218	H0UFN3	L-phenylalanine
+219	H0UFN3	L-phenylalanine
+220	Q54JI7	L-phenylalanine
+221	Q54JI7	L-phenylalanine
+222	F0SIS6	L-phenylalanine
+223	F0SIS6	L-phenylalanine
+224	C5XXT9	L-phenylalanine
+225	C5XXT9	L-phenylalanine
+226	C7E4J2	L-phenylalanine
+227	C7E4J2	L-phenylalanine
+228	C7E4J2	trans-cinnamate
+229	C7E4J2	NH3
+230	C7E4J2	trans-cinnamate
+231	C7E4J2	NH3
+232	U3N6Q1	L-phenylalanine
+233	U3N6Q1	L-phenylalanine
+234	U3N6Q1	trans-cinnamate
+235	U3N6Q1	NH3
+236	U3N6Q1	trans-cinnamate
+237	U3N6Q1	NH3
+238	P10248	L-phenylalanine
+239	P10248	L-phenylalanine
+240	P10248	trans-cinnamate
+241	P10248	NH3
+242	P10248	trans-cinnamate
+243	P10248	NH3
+244	V5TFQ0	L-phenylalanine
+245	V5TFQ0	L-phenylalanine
+246	V5TFQ0	trans-cinnamate
+247	V5TFQ0	NH3
+248	V5TFQ0	trans-cinnamate
+249	V5TFQ0	NH3
+250	B2J528	L-phenylalanine
+251	B2J528	L-phenylalanine
+252	B2J528	trans-cinnamate
+253	B2J528	NH3
+254	B2J528	trans-cinnamate
+255	B2J528	NH3
+256	E1UYU6	L-phenylalanine
+257	E1UYU6	L-phenylalanine
+258	E1UYU6	trans-cinnamate
+259	E1UYU6	NH3
+260	E1UYU6	trans-cinnamate
+261	E1UYU6	NH3
+0	P11544	2-chloro-trans-cinnamate
+1	P11544	NH3
+2	P11544	2-fluoro-trans-cinnamate
+3	P11544	NH3
+4	P11544	2-hydroxy-trans-cinnamate
+5	P11544	NH3
+6	P11544	2-methoxy-trans-cinnamate
+7	P11544	NH3
+8	P11544	3-chloro-trans-cinnamate
+9	P11544	NH3
+10	P11544	3-fluoro-trans-cinnamate
+11	P11544	NH3
+12	P11544	3-hydroxy-trans-cinnamate
+13	P11544	NH3
+14	P11544	3-methoxy-4-hydroxy-trans-cinnamate
+15	P11544	NH3
+16	P11544	3-methoxy-trans-cinnamate
+17	P11544	NH3
+18	P11544	4-fluoro-trans-cinnamate
+19	P11544	NH3
+20	P11544	4-hydroxy-trans-cinnamate
+21	P11544	NH3
+22	P11544	4-methoxy-trans-cinnamate
+23	P11544	NH3
+24	P11544	trans-cinnamate
+25	P11544	NH3
+26	P11544	L-phenylalanine
+27	P11544	L-phenylalanine
+28	P11544	L-tyrosine
+29	D5KS97	L-Phe
+30	D5KS97	L-Phe
+31	D5KS97	L-Tyr
+32	C5XXT8	more
+33	C5XXT8	L-DOPA
+34	C5XXT8	L-phenylalanine
+35	C5XXT8	L-phenylalanine
+36	C5XXT8	L-tyrosine
+37	C5YCD6	more
+38	C5YCD6	L-DOPA
+39	C5YCD6	L-phenylalanine
+40	C5YCD6	L-phenylalanine
+41	C5YCD6	L-tyrosine
+0	B2DFG5	D-serine
+1	B2DFG5	D-threo-3-hydroxyaspartate
+2	B2DFG5	L-erythro-3-hydroxyaspartate
+3	B2DFG5	L-serine
+4	B2DFG5	L-threo-3-hydroxyaspartate
+5	B2DFG5	L-threo-3-hydroxyaspartate
+6	B2DFG5	more
+7	B2DFG5	threo-3-hydroxy-D-aspartate
+0	D0ZLR3	2-amino-2-deoxy-D-gluconate 6-phosphate
+0	P21310	L-histidine
+1	P21310	L-histidine
+0	Q9ZGH1	dTDP-4-amino-4,6-dideoxy-alpha-D-glucopyranose
+1	Q9ZGH1	S-adenosyl-L-methionine
+2	Q9ZGH1	more
+3	Q9ZGH1	TDP-4-amino-4-deoxy-D-fucose
+4	Q9ZGH1	S-adenosyl-L-methionine
+5	Q9ZGH1	reduced acceptor
+6	Q9ZGH1	TDP-D-quinovose
+7	Q9ZGH1	S-adenosyl-L-methionine
+8	Q9ZGH1	dTDP-4-amino-4,6-dideoxy-alpha-D-glucopyranose
+9	Q9ZGH1	S-adenosyl-L-methionine
+10	Q9ZGH1	reduced acceptor
+0	A0R2I4	5-amino-5-(4-hydroxybenzyl)-6-(D-ribitylimino)-5,6-dihydrouracil
+1	A0R2I4	S-adenosyl-L-methionine
+2	Q57888	5-amino-5-(4-hydroxybenzyl)-6-(D-ribitylimino)-5,6-dihydrouracil
+3	Q57888	S-adenosyl-L-methionine
+4	A0A0D6IWS7	5-amino-5-(4-hydroxybenzyl)-6-(D-ribitylimino)-5,6-dihydrouracil
+5	A0A0D6IWS7	S-adenosyl-L-methionine
+0	O95954	more
+1	P53603	5-formiminotetrahydrofolate
+2	P53603	5-formiminotetrahydrofolate
+3	P53603	5-formiminotetrahydrofolate
+4	Q9YH58	5-formiminotetrahydrofolate
+5	Q9YH58	5-formiminotetrahydrofolate
+6	Q9YH58	5-formiminotetrahydrofolate
+0	Q6KC22	more
+1	Q6KC22	acryloyl-CoA
+2	Q6KC22	NH3
+0	P19264	ethanolamine
+1	P19264	ethanolamine
+2	P19264	ethanolamine
+0	Q93HX6	D-glucosaminate
+1	Q93HX6	D-glucosaminate
+2	Q93HX6	thioredoxin
+3	Q93HX6	NADP+
+0	Q9LAE5	(Nomega-L-arginino)succinate
+1	Q9LAE5	(Nomega-L-arginino)succinate
+2	Q9P870	2-(Nomega-L-arginino)succinate
+3	Q9P870	2-(Nomega-L-arginino)succinate
+4	Q9P8B5	argininosuccinate
+5	Q9P8B5	argininosuccinate
+6	P04424	2-(Nomega-L-arginino)succinate
+7	P04424	2-(Nomega-L-arginino)succinate
+8	P9WPY7	2-(Nomega-L-arginino)succinate
+9	P9WPY7	2-(Nomega-L-arginino)succinate
+0	P33734	5-[(5-phospho-1-deoxy-D-ribulos-1-ylamino)methylideneamino]-1-(5 phospho-beta-D-ribosyl)imidazole-4-carboxamide
+1	P33734	L-glutamine
+2	P33734	5-[(5-phospho-1-deoxy-D-ribulos-1-ylamino)methylideneamino]-1-(5 phospho-beta-D-ribosyl)imidazole-4-carboxamide
+3	P33734	NH4+
+4	Q9X0C8	5-[(5-phospho-1-deoxy-D-ribulos-1-ylamino)methylideneamino]-1-(5 phospho-beta-D-ribosyl)imidazole-4-carboxamide
+5	Q9X0C8	NH3
+6	Q9X0C8	L-glutamine
+7	Q9X0C8	H2O
+8	Q7SIC0	5-[(5-phospho-1-deoxy-D-ribulos-1-ylamino)methylideneamino]-1-(5 phospho-beta-D-ribosyl)imidazole-4-carboxamide
+9	Q7SIC0	L-glutamine
+10	Q9X0C6	5-[(5-phospho-1-deoxy-D-ribulos-1-ylamino)methylideneamino]-1-(5 phospho-beta-D-ribosyl)imidazole-4-carboxamide
+11	Q9X0C6	L-glutamine
+12	Q9X0C6	5-[(5-phospho-1-deoxy-D-ribulos-1-ylamino)methylideneamino]-1-(5 phospho-beta-D-ribosyl)imidazole-4-carboxamide
+13	Q9X0C6	NH4+
+14	Q9X0C6	L-glutamine
+15	Q9X0C6	H2O
+16	Q9X0C6	5-[(5-phospho-1-deoxy-D-ribulos-1-ylamino)methylideneamino]-1-(5 phospho-ß-D-ribosyl)imidazole-4-carboxamide
+17	Q9X0C6	NH3
+0	O15918	5-aminoimidazole-4-(N-succinylcarboxamide) ribonucleotide
+1	O15918	5-aminoimidazole-4-(N-succinylcarboxamide) ribonucleotide
+2	O15918	succinyladenosine monophosphate
+3	O15918	succinyladenosine monophosphate
+4	O15918	more
+5	P30566	5-aminoimidazole-4-(N-succinylcarboxamide) ribonucleotide
+6	P30566	5-aminoimidazole-4-(N-succinylcarboxamide) ribonucleotide
+7	P30566	succinyladenosine monophosphate
+8	P30566	succinyladenosine monophosphate
+9	P30566	more
+10	P30566	1-(5-phosphoribosyl)-4-(N-succinocarboxamide)-5-aminoimidazole
+11	P12047	5-aminoimidazole-4-(N-succinylcarboxamide) ribonucleotide
+12	P12047	5-aminoimidazole-4-(N-succinylcarboxamide) ribonucleotide
+13	P12047	succinyladenosine monophosphate
+14	P12047	succinyladenosine monophosphate
+15	Q8X737	5-aminoimidazole-4-(N-succinylcarboxamide) ribonucleotide
+16	Q8X737	5-aminoimidazole-4-(N-succinylcarboxamide) ribonucleotide
+17	Q8X737	succinyladenosine monophosphate
+18	Q8X737	succinyladenosine monophosphate
+19	Q9X0I0	5-aminoimidazole-(N-succinylocarboxamide) ribotide
+20	Q9X0I0	adenylosuccinate
+21	Q9X0I0	(S)-2-[5-amino-1-(5-phospho-D-ribosyl)imidazole-4-carboxamido]succinate
+22	Q9X0I0	N6-(1,2-dicarboxyethyl)AMP
+23	Q9X0I0	N6-(1,2-dicarboxyethyl)AMP
+24	P0AB89	5-aminoimidazole-(N-succinylocarboxamide) ribotide
+25	P0AB89	adenylosuccinate
+26	P0AB89	(S)-2-[5-amino-1-(5-phospho-D-ribosyl)imidazole-4-carboxamido]succinate
+27	P0AB89	N6-(1,2-dicarboxyethyl)AMP
+28	P0AB89	N6-(1,2-dicarboxyethyl)AMP
+29	A0R4I6	5-aminoimidazole-(N-succinylocarboxamide) ribotide
+30	A0R4I6	succinyladenosine monophosphate
+31	A0R4I6	succinyladenosine monophosphate
+32	D3ZW08	(S)-2-[5-amino-1-(5-phospho-D-ribosyl)imidazole-4-carboxamido]succinate
+33	D3ZW08	N6-(1,2-dicarboxyethyl)AMP
+34	D3ZW08	N6-(1,2-dicarboxyethyl)AMP
+35	A4H3W5	(S)-2-[5-amino-1-(5-phospho-D-ribosyl)imidazole-4-carboxamido]succinate
+36	A4H3W5	N6-(1,2-dicarboxyethyl)AMP
+37	A4H3W5	N6-(1,2-dicarboxyethyl)AMP
+0	P63486	more
+1	P63486	(S)-ureidoglycolate
+2	P32459	(S)-ureidoglycolate
+0	P19021	N-2,4,6-trinitrophenyl-D-Tyr-L-Val-(S)-alpha-hydroxy-Gly
+1	Q9V5E1	peptidylamidoglycolate
+2	Q9V5E1	alpha-N-acetyl-Tyr-Val-alpha-hydroxyglycine
+3	Q9W1L5	peptidylamidoglycolate
+4	Q9W1L5	alpha-N-acetyl-Tyr-Val-alpha-hydroxyglycine
+5	P14925	peptidylamidoglycolate
+6	P14925	alpha-N-acetyl-Tyr-Val-alpha-hydroxyglycine
+7	P14925	(S)-N-dansyl-Tyr-Val-alpha-hydroxyglycine
+0	Q8R3J5	glutathione
+1	Q8R3J5	more
+2	Q8WUX2	glutathione
+3	Q8WUX2	more
+4	Q9CQG1	glutathione
+5	Q9CQG1	more
+6	P32656	glutathione
+0	Q9BVM4	epsilon-(gamma-L-glutamyl)-L-lysine
+1	Q9BVM4	more
+2	G1TDA5	more
+3	G1TDA5	L-gamma-glutamyl-n-butylamine
+4	G1TDA5	L-gamma-glutamyl-(2S)-2-methylbutylamine
+5	G1TDA5	L-gamma-glutamyl-2-methylbutylamine
+6	G1TDA5	L-gamma-glutamyl-beta-alanine
+7	G1TDA5	L-gamma-glutamyl-n-propylamine
+8	G1TDA5	L-gamma-glutamylbenzylamine
+9	G1TDA5	L-gamma-glutamylcyclopentylamine
+10	G1TDA5	L-gamma-glutamylneohexylamine
+11	G1TDA5	Nepsilon-(L-gamma-glutamyl)-D-lysine
+12	G1TDA5	Nepsilon-(L-gamma-glutamyl)-L-lysine
+13	G1TDA5	S-(cyclohexylamine)-L-cysteine
+14	G1TDA5	S-(n-butylcarbamyl)-L-cysteine
+0	O75223	L-gamma-glutamyl-O-[(4-methylumbelliferyl)carbonyl]-L-serine
+1	O75223	N5-((S)-1-carboxy-3-(ethyl(((3-oxo-3H-phenoxazin-7 yl)oxy)carbonyl)amino)propyl)-L-glutamine
+2	O75223	gamma-L-Glu-epsilon-N-benzyloxycarbonyl-L-Lys
+3	O75223	gamma-glutamyl-L-alanine
+4	O75223	(gamma-L-glutamyl)-L-amino acid
+5	Q9BVM4	L-gamma-glutamyl-L-epsilon-lysine
+6	Q9BVM4	(gamma-L-glutamyl)-L-amino acid
+0	Q1L6F4	tryptamine
+1	Q1L6F4	secologanin
+2	P68175	tryptamine
+3	P68175	secologanin
+4	P68175	more
+5	P68175	tryptamine
+6	P68175	secologanin
+7	P68175	tryptamine
+8	P68175	secologanin
+9	P68175	3-[(tert-butoxycarbonyl)amino]propyl (2S,3R,4S)-3-ethenyl-2-(beta-D-glucopyranosyloxy)-4-(2-oxoethyl)-3 4-dihydro-2H-pyran-5-carboxylate
+10	P68175	secologanin
+11	P68175	5,6-dihydroxytryptamine
+12	P68175	secologanin
+13	P68175	5,6-dihydroxytryptamine
+14	P68175	5-fluorotryptamine
+15	P68175	6-fluorotryptamine
+16	P68175	6-methoxyltryptamine
+17	P68175	secologanin
+18	P68175	6-methoxytryptamine
+19	P68175	7-azatryptamine
+20	P68175	secologanin
+21	P68175	7-methyltryptamine
+22	P68175	but-3-yn-1-yl (2S,3R,4S)-3-ethenyl-2-(beta-D-glucopyranosyloxy)-4-(2-oxoethyl)-3 4-dihydro-2H-pyran-5-carboxylate
+23	P68175	secologanin
+24	P68175	methyl (2R,4S)-2-(2-methylpropoxy)-4-(2-oxoethyl)-3 4-dihydro-2H-pyran-5-carboxylate
+25	P68175	tryptamine
+26	P68175	methyl (2R,4S)-2-(cyclohexyloxy)-4-(2-oxoethyl)-3 4-dihydro-2H-pyran-5-carboxylate
+27	P68175	tryptamine
+28	P68175	methyl (2R,4S)-2-ethoxy-4-(2-oxoethyl)-3,4-dihydro-2H-pyran-5-carboxylate
+29	P68175	tryptamine
+30	P68175	methyl (2R,4S)-2-tert-butoxy-4-(2-oxoethyl)-3,4-dihydro-2H-pyran-5-carboxylate
+31	P68175	tryptamine
+32	P68175	methyl (2S,4S)-2-(2-methylpropoxy)-4-(2-oxoethyl)-3 4-dihydro-2H-pyran-5-carboxylate
+33	P68175	tryptamine
+34	P68175	methyl (2S,4S)-2-ethoxy-4-(2-oxoethyl)-3,4-dihydro-2H-pyran-5-carboxylate
+35	P68175	tryptamine
+36	P68175	methyl (2S,4S)-2-tert-butoxy-4-(2-oxoethyl)-3,4-dihydro-2H-pyran-5-carboxylate
+37	P68175	tryptamine
+38	P68175	prop-2-yn-1-yl (2S,3R,4S)-3-ethenyl-2-(beta-D-glucopyranosyloxy)-4-(2-oxoethyl)-3 4-dihydro-2H-pyran-5-carboxylate
+39	P68175	secologanin
+40	P68175	secologanin
+41	P68175	tryptamine
+42	P68175	serotonin
+43	P68175	tryptamine
+44	P68175	2'-O-methylsecologanin
+45	P68175	tryptamine
+46	P68175	3'-O-methylsecologanin
+47	P68175	tryptamine
+48	P68175	secologanic acid allyl ester
+49	P68175	tryptamine
+50	P68175	secologanic acid pentynyl ester
+51	P68175	tryptamine
+52	P68175	secologanic acid propynyl ester
+53	P68175	5-fluorotryptamine
+54	P68175	secologanin
+55	P68175	6-fluorotryptamine
+56	P68175	secologanin
+57	P68175	6-methyltryptamine
+58	P68175	secologanin
+59	P68175	7-methyltryptamine
+60	P68175	secologanin
+61	P68175	serotonin
+62	P68175	secologanin
+63	P68175	3-alpha(S)-strictosidine
+64	P68175	H2O
+65	P18417	tryptamine
+66	P18417	secologanin
+67	P18417	more
+68	P18417	tryptamine
+69	P18417	secologanin
+70	P18417	5-fluorotryptamine
+71	P18417	secologanin
+72	P18417	6-fluorotryptamine
+73	P18417	secologanin
+74	P18417	6-methyltryptamine
+75	P18417	secologanin
+76	P18417	7-methyltryptamine
+77	P18417	secologanin
+78	P18417	serotonin
+79	P18417	secologanin
+80	P18417	3-(2-aminoethyl)-benzothiophene
+81	P18417	secologanin
+82	P18417	4-fluorotryptamine
+83	P18417	secologanin
+84	P18417	4-methyltryptamine
+85	P18417	secologanin
+86	P18417	7-fluorotryptamine
+87	P18417	secologanin
+88	Q94LW9	4-methyltryptamine
+89	Q94LW9	secologanin
+90	Q94LW9	5-hydroxytryptamine
+91	Q94LW9	secologanin
+92	Q94LW9	5-methoxytryptamine
+93	Q94LW9	secologanin
+94	Q94LW9	6-methoxytryptamine
+95	Q94LW9	secologanin
+96	Q94LW9	7-methyltryptamine
+97	Q94LW9	secologanin
+98	Q94LW9	tryptamine
+99	Q94LW9	secologanin
+0	Q8KHE4	6-N-methylarcyriaflavin C
+1	Q8KHE4	beta-D-glucose
+2	Q8KHE4	J-109303
+3	Q8KHE4	beta-D-glucose
+0	A0A509AM71	D-ribose 5-phosphate
+1	A0A509AM71	glyceraldehyde 3-phosphate
+2	A0A509AM71	L-glutamine
+3	A0A509AM71	D-ribose 5-phosphate
+4	A0A509AM71	glyceraldehyde 3-phosphate
+5	A0A509AM71	NH4+
+6	Q8L1A7	more
+7	Q5L3Y2	D-ribose 5-phosphate
+8	Q5L3Y2	D-glyceraldehyde 3-phosphate
+9	Q5L3Y2	NH3
+10	Q5L3Y2	L-glutamine
+11	Q5L3Y2	H2O
+12	Q5L3Y2	D-ribose 5-phosphate
+13	Q5L3Y2	D-glyceraldehyde 3-phosphate
+14	Q5L3Y2	L-glutamine
+15	O31465	D-ribose 5-phosphate
+16	O31465	D-glyceraldehyde 3-phosphate
+17	O31465	L-glutamine
+18	O59080	D-ribose 5-phosphate
+19	O59080	glyceraldehyde 3-phosphate
+20	O59080	NH4+
+21	Q03148	ribulose 5-phosphate
+22	Q03148	glyceraldehyde 3-phosphate
+23	Q03148	NH4+
+24	C6KT50	D-ribose 5-phosphate
+25	C6KT50	glyceraldehyde 3-phosphate
+26	C6KT50	L-glutamine
+27	C6KT50	D-ribose 5-phosphate
+28	C6KT50	glyceraldehyde 3-phosphate
+29	C6KT50	NH4+
+0	Q5HG25	(S)-aspartate 4-semialdehyde
+1	Q5HG25	pyruvate
+2	Q6GH13	(S)-aspartate 4-semialdehyde
+3	Q6GH13	pyruvate
+4	P0A6L2	pyruvate
+5	P0A6L2	L-aspartate-4-semialdehyde
+6	P0A6L2	(S)-aspartate-4-semialdehyde
+7	P0A6L2	pyruvate
+8	P0A6L2	L-aspartate 4-semialdehyde
+9	P0A6L2	pyruvate
+10	P0A6L2	(S)-aspartate 4-semialdehyde
+11	P0A6L2	pyruvate
+12	P0A6L2	L-aspartate 4-semialdehyde
+13	P0A6L2	pyruvate
+14	P19808	L-aspartate 4-semialdehyde
+15	P19808	pyruvate
+16	Q07607	L-aspartate 4-semialdehyde
+17	Q07607	pyruvate
+18	Q8RBI5	(S)-aspartate 4-semialdehyde
+19	Q8RBI5	pyruvate
+20	Q81WN7	L-aspartate 4-semialdehyde
+21	Q81WN7	pyruvate
+22	Q1PDD5	L-aspartate 4-semialdehyde
+23	Q1PDD5	pyruvate
+24	Q9JZR4	L-aspartate 4-semialdehyde
+25	Q9JZR4	pyruvate
+26	Q9I4W3	(S)-aspartate-4-semialdehyde
+27	Q9I4W3	pyruvate
+28	Q9I4W3	L-aspartate 4-semialdehyde
+29	Q9I4W3	pyruvate
+30	Q9I4W3	more
+31	P9WP25	pyruvate
+32	P9WP25	L-aspartate-4-semialdehyde
+33	Q9X1K9	(S)-aspartate 4-semialdehyde
+34	Q9X1K9	pyruvate
+35	Q7D313	(S)-aspartate-4-semialdehyde
+36	Q7D313	pyruvate
+37	A9CL94	(S)-aspartate-4-semialdehyde
+38	A9CL94	pyruvate
+39	A9CL97	(S)-aspartate-4-semialdehyde
+40	A9CL97	pyruvate
+41	Q7D3Z9	(S)-aspartate-4-semialdehyde
+42	Q7D3Z9	pyruvate
+43	A9CHR2	(S)-aspartate-4-semialdehyde
+44	A9CHR2	pyruvate
+45	Q7D0E8	(S)-aspartate-4-semialdehyde
+46	Q7D0E8	pyruvate
+47	Q8UGL3	(S)-aspartate-4-semialdehyde
+48	Q8UGL3	pyruvate
+49	A9CGZ4	(S)-aspartate-4-semialdehyde
+50	A9CGZ4	pyruvate
+51	Q7CU96	(S)-aspartate-4-semialdehyde
+52	Q7CU96	pyruvate
+53	A9CFV4	(S)-aspartate-4-semialdehyde
+54	A9CFV4	pyruvate
+55	Q9FVC8	(S)-aspartate-4-semialdehyde
+56	Q9FVC8	pyruvate
+57	D7U7T8	pyruvate
+58	D7U7T8	L-aspartate-4-semialdehyde
+59	D7U7T8	more
+60	O67216	(S)-aspartate-4-semialdehyde
+61	O67216	pyruvate
+62	Q3MFY8	pyruvate
+63	Q3MFY8	L-aspartate-4-semialdehyde
+64	Q6G468	pyruvate
+65	Q6G468	L-aspartate-4-semialdehyde
+66	Q8A3Z0	pyruvate
+67	Q8A3Z0	L-aspartate-4-semialdehyde
+68	P24846	pyruvate
+69	P24846	L-aspartate-4-semialdehyde
+70	A5F699	pyruvate
+71	A5F699	L-aspartate-4-semialdehyde
+0	O31677	6-carboxy-5,6,7,8-tetrahydropterin
+1	O31677	6-carboxypterin
+2	A0A0H3KB22	6-carboxy-5,6,7,8-tetrahydropterin
+3	A0A0H3KB22	more
+0	Q30W70	choline
+1	B8J0I2	choline
+2	A0A0M3KL45	choline
+0	P32929	L-cystathionine
+1	P32929	H2O
+2	P32929	L-cystathionine
+3	P32929	H2O
+4	P32929	L-cysteine
+5	P32929	H2O
+6	P32929	L-homocysteine
+7	P32929	L-cystathionine
+8	P32929	H2O
+9	P32929	L-cystathionine
+10	P32929	L-cystathione
+11	P32929	H2O
+12	A2RM21	L-cysteine
+13	A2RM21	H2O
+14	A2RM21	L-cystathionine
+15	A2RM21	H2O
+16	A2RM21	L-cystine
+17	A2RM21	H2O
+18	A2RM21	L-djenkolic acid
+19	A2RM21	H2O
+20	A2RM21	lanthionine
+21	A2RM21	H2O
+22	Q9EQS4	L-cysteine
+23	Q9EQS4	H2O
+24	Q8VCN5	L-cystathionine
+25	Q8VCN5	H2O
+26	Q5H4T8	more
+27	B2LXT6	L-cystathionine
+28	B2LXT6	H2O
+29	B2LXT6	L-cystathionine
+30	B2LXT6	H2O
+31	B2LXT6	L-cystine
+32	B2LXT6	H2O
+33	B2LXT6	DL-cystathionine
+34	B3TNN8	L-cysteine
+35	B3TNN8	H2O
+36	B3TNN8	L-cystathionine
+37	B3TNN8	H2O
+38	B3TNN8	L-homoserine
+39	B3TNN8	H2O
+40	B7UDE6	L-cystathionine
+41	B7UDE6	H2O
+42	E9AFE7	L-cystathionine
+43	E9AFE7	H2O
+44	E9AFE7	L-cystathionine
+45	E9AFE7	H2O
+46	Q96VU7	L-cystathionine
+47	Q96VU7	H2O
+48	Q96VU7	L-cystathionine
+49	Q96VU7	H2O
+50	B6K8Y1	L-cysteine
+51	B6K8Y1	L-cystathionine
+52	B6K8Y1	H2O
+53	B6K8Y1	L-cystathionine
+54	B6K8Y1	H2O
+55	B6K8Y1	djenkolic acid
+56	Q4WCI1	L-cystathionine
+57	Q4WCI1	H2O
+58	Q4WCI1	L-cystathionine
+59	Q4WCI1	H2O
+0	Q86D27	L-methionine
+1	Q86D27	H2O
+2	Q86D27	L-methionine
+3	Q86D27	H2O
+4	Q86D27	DL-homocysteine
+5	Q86D27	H2O
+6	Q86D27	trifluoromethionine
+7	Q86D27	H2O
+8	Q86D27	L-cysteine
+9	Q86D27	H2O
+10	Q86D27	O-acetyl-L-serine
+11	Q86D27	H2O
+12	Q86D27	more
+13	Q86D28	L-methionine
+14	Q86D28	H2O
+15	Q86D28	L-methionine
+16	Q86D28	H2O
+17	Q86D28	DL-homocysteine
+18	Q86D28	H2O
+19	Q86D28	DL-homocysteine
+20	Q86D28	H2O
+21	Q86D28	trifluoromethionine
+22	Q86D28	H2O
+23	Q86D28	L-cysteine
+24	Q86D28	H2O
+25	Q86D28	O-acetyl-L-serine
+26	Q86D28	H2O
+27	Q86D28	more
+28	Q5MQ31	L-methionine
+29	Q5MQ31	H2O
+30	Q5MQ31	L-methionine
+31	Q5MQ31	H2O
+32	Q84AR1	L-methionine
+33	Q84AR1	H2O
+34	Q84AR1	L-methionine
+35	Q84AR1	H2O
+36	Q84AR1	DL-homocysteine
+37	Q84AR1	H2O
+38	Q84AR1	S-benzyl-L-cysteine
+39	Q84AR1	H2O
+40	Q84AR1	S-ethyl-L-homocysteine
+41	Q84AR1	H2O
+42	Q84AR1	S-ethyl-L-cysteine
+43	Q84AR1	H2O
+44	Q84AR1	S-methyl-L-cysteine
+45	Q84AR1	H2O
+46	Q84AR1	L-cysteine
+47	Q84AR1	H2O
+48	Q84AR1	O-acetyl-L-serine
+49	Q84AR1	H2O
+50	Q84AR1	(+)-alliin
+51	Q84AR1	H2O
+52	Q84AR1	(+)methiin
+53	Q84AR1	H2O
+54	Q84AR1	(+)propiin
+55	Q84AR1	H2O
+56	Q84AR1	(+-)-alliin
+57	Q84AR1	H2O
+58	Q84AR1	(+-)-butiin
+59	Q84AR1	H2O
+60	Q84AR1	(+-)-ethiin
+61	Q84AR1	H2O
+62	Q84AR1	(+-)methiin
+63	Q84AR1	H2O
+64	Q84AR1	(+-)propiin
+65	Q84AR1	H2O
+66	Q84AR1	DL-homocysteine
+67	Q84AR1	H2O
+68	Q84AR1	L-1-amino-3-methylthiopropylphosphinic acid
+69	Q84AR1	H2O
+70	Q84AR1	L-alanine
+71	Q84AR1	L-norvaline
+72	Q84AR1	O-acetyl-L-homoserine
+73	Q84AR1	H2O
+74	Q84AR1	S-butyl-L-cysteine
+75	Q84AR1	H2O
+76	Q84AR1	S-ethyl-L-cysteine
+77	Q84AR1	H2O
+78	Q84AR1	S-propyl-L-cysteine
+79	Q84AR1	H2O
+80	Q84AR1	alliin
+81	Q84AR1	H2O
+82	Q84AR1	ethiin
+83	Q84AR1	H2O
+84	Q84AR1	methiin
+85	Q84AR1	H2O
+86	Q84AR1	more
+87	Q84AR1	L-ethionine
+88	Q84AR1	H2O
+89	Q8RDT4	L-methionine
+90	Q8RDT4	H2O
+91	Q8RDT4	L-methionine
+92	Q8RDT4	H2O
+93	Q8RDT4	L-cysteine
+94	Q8RDT4	H2O
+95	Q7MX71	L-methionine
+96	Q7MX71	H2O
+97	Q7MX71	L-methionine
+98	Q7MX71	H2O
+99	Q7MX71	L-cysteine
+100	Q7MX71	H2O
+101	Q73KL7	L-methionine
+102	Q73KL7	H2O
+103	Q73KL7	L-methionine
+104	Q73KL7	H2O
+105	Q73KL7	L-cysteine
+106	Q73KL7	H2O
+107	P13254	L-methionine
+108	P13254	H2O
+109	P13254	L-methionine
+110	P13254	H2O
+111	P13254	DL-homocysteine
+112	P13254	H2O
+113	P13254	S-ethyl-L-cysteine
+114	P13254	H2O
+115	P13254	S-methyl-L-cysteine
+116	P13254	H2O
+117	P13254	L-cysteine
+118	P13254	H2O
+119	P13254	O-acetyl-L-serine
+120	P13254	H2O
+121	P13254	DL-homocysteine
+122	P13254	H2O
+123	P13254	L-cysteine
+124	P13254	H2O
+125	P13254	L-methionine
+126	P13254	2-mercaptoethanol
+127	P13254	O-succinyl-L-homoserine
+128	P13254	H2O
+129	P13254	S-methyl-L-cysteine
+130	P13254	2-mercaptoethanol
+131	P13254	beta-chloro-L-alanine
+132	P13254	H2O
+133	P13254	more
+134	P13254	L-ethionine
+135	P13254	H2O
+136	Q5MQ31	L-cystine
+137	Q5MQ31	H2O
+138	Q5MQ31	L-methionine
+139	Q5MQ31	H2O
+140	Q5MQ31	L-cysteine
+141	Q5MQ31	H2O
+142	Q5MQ31	L-cystathionine
+143	Q5MQ31	H2O
+144	Q8KNG3	L-methionine
+145	Q8KNG3	H2O
+146	Q8KNG3	L-methionine
+147	Q8KNG3	H2O
+148	Q826W3	L-methionine
+149	Q826W3	H2O
+150	Q826W3	L-methionine
+151	Q826W3	H2O
+152	Q826W3	L-cysteine
+153	Q826W3	H2O
+154	Q826W3	L-homocysteine
+155	Q826W3	H2O
+156	C3VMV9	L-methionine
+157	C3VMV9	H2O
+158	C3VMV9	L-methionine
+159	C3VMV9	H2O
+160	C3VMV9	L-methionine sulfone
+161	C3VMV9	H2O
+0	A2RM21	more
+1	A2RM21	cystathionine
+2	A2RM21	H2O
+3	Q84UD0	L-cystine
+4	Q84UD0	H2O
+5	Q9EYM7	more
+6	Q6YP21	more
+7	Q6YP21	L-selenomethionine
+8	Q6YP21	Se-methyl-L-selenocysteine
+9	Q6YP21	H2O
+10	P43623	more
+11	A6YH85	L-cystathionine
+12	A6YH85	H2O
+13	A6YH85	more
+14	A6YH85	L-methionine
+15	A6YH85	H2O
+16	A6YH85	L-cysteine
+17	A6YH85	H2O
+18	A6YH85	L-serine
+19	A6YH85	H2O
+20	B3TNN9	L-cystathionine
+21	B3TNN9	H2O
+22	B3TNN9	DL-homocysteine
+23	B3TNN9	H2O
+24	B3TNN9	L-cysteine
+25	B3TNN9	H2O
+26	B3TNN9	L-methionine
+27	B3TNN9	H2O
+28	B3TNN8	L-cystathionine
+29	B3TNN8	H2O
+30	B3TNN8	DL-homocysteine
+31	B3TNN8	H2O
+32	B3TNN8	L-cysteine
+33	B3TNN8	H2O
+34	B3TNN8	L-methionine
+35	B3TNN8	H2O
+36	E3VL26	L-cystathionine
+37	E3VL26	H2O
+38	E3VL26	L-cysteine
+39	E3VL26	H2O
+40	E3VL26	more
+41	E3VL26	S-methyl-L-cysteine
+42	E3VL26	H2O
+43	E3VL26	(S)-4-(4-methylpentan-2-one)-L-cysteine
+44	E3VL26	H2O
+45	E3VL26	L-cystine
+46	E3VL26	H2O
+47	E3VL26	L-djenkolate
+48	E3VL26	H2O
+49	E3VL26	S-(1-hydroxyhexan-3-yl)-L-cysteine
+50	E3VL26	H2O
+51	E3VL26	S-ethyl-L-cysteine
+52	P06721	L-cystathionine
+53	P06721	H2O
+54	P06721	L-cystathionine
+55	P06721	O-acetyl-L-serine
+56	P06721	H2O
+57	P06721	L-cystathionine
+58	P06721	H2O
+59	Q9MT31	more
+60	P53780	more
+61	Q1K8G0	L-cystathionine
+62	Q1K8G0	H2O
+63	A0A0M3VI47	more
+64	A0A0M3VI47	cystathionine
+65	A0A0M3VI47	H2O
+0	Q6U5H3	S-adenosyl-L-methionine
+1	Q6U5H3	S-adenosyl-L-methionine
+2	A9NIT9	S-adenosyl-L-methionine
+3	A9NIT9	S-adenosyl-L-methionine
+4	A2IA37	S-adenosyl-L-methionine
+5	A2IA37	S-adenosyl-L-methionine
+6	A2IA38	S-adenosyl-L-methionine
+7	A2IA38	S-adenosyl-L-methionine
+8	A2IA39	S-adenosyl-L-methionine
+9	A2IA39	S-adenosyl-L-methionine
+10	A2IA40	S-adenosyl-L-methionine
+11	A2IA40	S-adenosyl-L-methionine
+12	A2IA41	S-adenosyl-L-methionine
+13	A2IA41	S-adenosyl-L-methionine
+14	A2IA42	S-adenosyl-L-methionine
+15	A2IA42	S-adenosyl-L-methionine
+16	A2IA43	S-adenosyl-L-methionine
+17	A2IA43	S-adenosyl-L-methionine
+18	A2IA44	S-adenosyl-L-methionine
+19	A2IA44	S-adenosyl-L-methionine
+20	Q42881	S-adenosyl-L-methionine
+21	Q42881	S-adenosyl-L-methionine
+22	P18485	S-adenosyl-L-methionine
+23	P18485	S-adenosyl-L-methionine
+24	Q06402	S-adenosyl-L-methionine
+25	Q06402	S-adenosyl-L-methionine
+26	A0JBY6	S-adenosyl-L-methionine
+27	A0JBY6	S-adenosyl-L-methionine
+28	O82125	S-adenosyl-L-methionine
+29	O82125	S-adenosyl-L-methionine
+30	Q2EN04	S-adenosyl-L-methionine
+31	Q2EN04	S-adenosyl-L-methionine
+32	Q10DK7	S-adenosyl-L-methionine
+33	Q10DK7	S-adenosyl-L-methionine
+34	B2XCJ8	S-adenosyl-L-methionine
+35	B2XCJ8	S-adenosyl-L-methionine
+36	B2XCK1	S-adenosyl-L-methionine
+37	B2XCK1	S-adenosyl-L-methionine
+38	Q06IN7	S-adenosyl-L-methionine
+39	Q06IN7	S-adenosyl-L-methionine
+40	Q307X1	S-adenosyl-L-methionine
+41	Q307X1	S-adenosyl-L-methionine
+42	Q94LA1	S-adenosyl-L-methionine
+43	Q94LA1	S-adenosyl-L-methionine
+44	Q94LA1	more
+45	B2WR82	S-adenosyl-L-methionine
+46	B2WR82	S-adenosyl-L-methionine
+47	B2WR79	S-adenosyl-L-methionine
+48	B2WR79	S-adenosyl-L-methionine
+49	B2WR80	S-adenosyl-L-methionine
+50	B2WR80	S-adenosyl-L-methionine
+51	B2WR81	S-adenosyl-L-methionine
+52	B2WR81	S-adenosyl-L-methionine
+53	B2XCK2	S-adenosyl-L-methionine
+54	B2XCK2	S-adenosyl-L-methionine
+55	B2XCJ7	S-adenosyl-L-methionine
+56	B2XCJ7	S-adenosyl-L-methionine
+57	A2IBN7	S-adenosyl-L-methionine
+58	A2IBN7	S-adenosyl-L-methionine
+59	P23279	S-adenosyl-L-methionine
+60	P23279	S-adenosyl-L-methionine
+61	K0E1C1	S-adenosyl-L-methionine
+62	K0E1C1	S-adenosyl-L-methionine
+63	H6WRD6	S-adenosyl-L-methionine
+64	H6WRD6	S-adenosyl-L-methionine
+0	B2MWN0	D-cysteine
+1	B2MWN0	H2O
+2	B2MWN0	more
+3	Q8ZNT7	D-cysteine
+4	Q8ZNT7	H2O
+5	Q8ZNT7	more
+6	C5AQP6	D-cysteine
+7	C5AQP6	H2O
+8	C5AQP6	more
+0	Q9JLI6	L-selenocysteine
+1	Q9JLI6	reduced acceptor
+2	Q9JLI6	more
+3	Q9JLI6	L-cysteine sulfinic acid
+4	Q9JLI6	reduced acceptor
+5	P77444	L-selenocysteine
+6	P77444	reduced acceptor
+7	D4GYV5	more
+8	D4GYV5	L-selenocysteine
+9	D4GYV5	reduced acceptor
+10	Q96I15	L-selenocysteine
+11	Q96I15	reduced acceptor
+12	Q96I15	more
+0	P06182	Apocytochrome c
+1	P06182	heme
+2	P06182	more
+3	P53701	Apocytochrome c
+4	P53701	heme
+5	P53701	more
+6	P53701	apocytochrome c1
+7	P53701	heme
+8	P53702	Apocytochrome c
+9	P53702	heme
+10	P53702	apocytochrome c1
+11	P53702	heme
+12	P53700	Apocytochrome c
+13	P53700	heme
+0	Q57703	more
+1	Q57703	sulfite
+2	Q57703	phosphoenolpyruvate
+3	Q57703	sulfite
+4	Q57703	phosphoenolpyruvate
+5	Q9AF21	phosphoenolpyruvate
+6	Q9AF21	sulfite
+0	Q60860	more
+1	Q60860	leukotriene A4
+2	Q60860	glutathione
+3	Q60860	leukotriene A4
+4	Q60860	glutathione
+5	Q16873	leukotriene A4 methyl ester
+6	Q16873	glutathione
+7	Q16873	leukotriene A4 methyl ester
+8	Q16873	glutathione
+9	Q16873	leukotriene A4
+10	Q16873	glutathione
+11	Q16873	leukotriene A4
+12	Q16873	glutathione
+13	Q16873	leukotriene C4
+14	Q16873	leukotriene C4
+15	Q925U2	leukotriene A4 methyl ester
+16	Q925U2	glutathione
+17	Q925U2	leukotriene A4 methyl ester
+18	Q925U2	glutathione
+19	Q925U2	leukotriene A4
+20	Q925U2	glutathione
+21	Q925U2	leukotriene A4
+22	Q925U2	glutathione
+23	Q925U2	leukotriene C4
+24	Q925U2	leukotriene C4
+25	Q925U2	leukotriene A4 free acid
+26	Q925U2	glutathione
+27	Q925U2	leukotriene A4 free acid
+28	Q925U2	glutathione
+0	P45578	S-ribosylhomocysteine
+1	P45578	S-(5-deoxy-D-ribos-5-yl)-L-homocysteine
+2	O34667	S-ribosylhomocysteine
+3	O34667	S-ribosylhomocysteine
+4	O34667	S-ribosylhomocysteine
+5	O34667	S-(5-deoxy-D-ribos-5-yl)-L-homocysteine
+6	O34667	S-ribosylhomocysteine
+7	Q9Z5X1	S-ribosylhomocysteine
+8	Q9Z5X1	S-(5-deoxy-D-ribos-5-yl)-L-homocysteine
+9	Q8X902	S-(5-deoxy-D-ribos-5-yl)-L-homocysteine
+10	Q2F7Q0	S-ribosylhomocysteine
+11	Q2F7Q0	S-ribosylhomocysteine
+12	A1Z1R8	S-ribosylhomocysteine
+13	A1Z1R8	S-ribosylhomocysteine
+14	Q3I354	S-ribosylhomocysteine
+15	Q3I354	S-ribosylhomocysteine
+16	A6XJQ9	more
+17	A6XJQ9	S-ribosylhomocysteine
+18	A6XJQ9	S-ribosylhomocysteine
+19	B4XQ50	S-ribosylhomocysteine
+20	B4XQ50	S-ribosylhomocysteine
+21	Q1KMU6	more
+22	Q1KMU6	S-ribosylhomocysteine
+23	Q1KMU6	S-ribosylhomocysteine
+24	Q003Y1	more
+25	Q003Y1	S-ribosylhomocysteine
+26	Q003Y1	S-ribosylhomocysteine
+27	Q2PA28	more
+28	Q2PA28	S-ribosylhomocysteine
+29	Q2PA28	S-ribosylhomocysteine
+30	B1PWE7	S-ribosylhomocysteine
+31	B1PWE7	S-ribosylhomocysteine
+32	B2CMA5	S-ribosylhomocysteine
+33	B2CMA5	S-ribosylhomocysteine
+0	Q51669	5,6,7,8-tetrahydromethanopterin
+1	Q51669	formaldehyde
+2	Q51669	more
+0	B9VTP5	epoxyethane
+1	B9VTP5	CoM
+2	B9VTP0	epoxyethane
+3	B9VTP0	CoM
+0	Q58Y44	3-sulfolactate
+1	Q58Y44	more
+0	I6WU39	3,5,7-trioxododecanoyl-CoA
+1	I6WU39	more
+0	A0A0U5KG73	L-cystathionine
+1	A0A0U5KG73	H2O
+2	A0A0U5KG73	L-cystine
+3	A0A0U5KG73	H2O
+4	A0A0U5KG73	L-djenkolic acid
+5	A0A0U5KG73	S-(2-methyl-4-oxopentan-2-yl)-L-cysteine
+6	A0A0U5KG73	H2O
+7	A0A0U5KG73	more
+8	A0A0U5KG73	S-aminoethyl-L-cysteine
+9	A0A0U5KG73	H2O
+10	A0A0U5KG73	L-cysteine
+11	A0A0U5KG73	H2O
+12	Q58431	L-cysteine
+13	Q58431	H2O
+14	F4K5T2	L-cysteine
+15	F4K5T2	H2O
+16	B9X1L2	L-cysteine
+17	B9X1L2	H2O
+18	J9WJN8	L-cysteine
+19	J9WJN8	H2O
+20	Q46061	L-cysteine
+21	Q46061	H2O
+22	Q8L0X3	L-cysteine
+23	Q8L0X3	H2O
+0	Q8YZ70	more
+1	Q8YZ70	apo-[C-phycocyanin beta-subunit]
+2	Q8YZ70	(2R,3E)-phycocyanobilin
+3	Q8YZ70	apo-[C-phycoerythrin alpha-subunit]
+4	Q8YZ70	(3E)-phycoerythrobilin
+5	Q8YZ70	apo-[C-phycoerythrin beta-subunit]
+6	Q8YZ70	(3E)-phycoerythrobilin
+7	Q8YZ70	apo-[phycoerythrocyanin beta-subunit]
+8	Q8YZ70	(2R,3E)-phycocyanobilin
+9	Q8YZ70	apo-phycoerythrocyanin beta-subunit
+10	Q8YZ70	(2R,3E)-phycocyanobilin
+11	Q8YZ70	apo-[allophycocyanin alpha-subunit]
+12	Q8YZ70	(2R,3E)-phycocyanobilin
+13	Q8YZ70	apo-[allophycocyanin beta-subunit]
+14	Q8YZ70	(2R,3E)-phycocyanobilin
+15	A8HTN2	apo C-phycocyanin beta-subunit
+16	A8HTN2	(2R,3E)-phycocyanobilin
+17	A8HTN2	apo allophycocyanin alpha-subunit
+18	A8HTN2	(2R,3E)-phycocyanobilin
+19	A8HTN2	apo allophycocyanin beta-subunit
+20	A8HTN2	(2R,3E)-phycocyanobilin
+21	A8HTN2	apo-[C-phycocyanin beta-subunit]
+22	A8HTN2	(2R,3E)-phycocyanobilin
+23	A8HTN2	apo-[allophycocyanin alpha-subunit]
+24	A8HTN2	(2R,3E)-phycocyanobilin
+25	A8HTN2	apo-allophycocyanin beta-subunit
+26	A8HTN2	(2R,3E)-phycocyanobilin
+27	A8HTM2	apo-[allophycocyanin alpha-subunit]
+28	A8HTM2	(2R,3E)-phycocyanobilin
+29	A8HTM2	apo-[allophycocyanin beta-subunit]
+30	A8HTM2	(2R,3E)-phycocyanobilin
+31	Q8DI91	more
+32	Q8DI91	apo-[allophycocyanin alpha-subunit]
+33	Q8DI91	(2R,3E)-phycocyanobilin
+34	Q8DI91	apo-[allophycocyanin beta-subunit]
+35	Q8DI91	(2R,3E)-phycocyanobilin
+36	Q8DI91	apo-[allophycocyanin alpha-subunit]
+37	Q8DI91	phycoerythrobilin
+38	Q8DI91	apo-[allophycocyanin alpha-subunit]
+39	Q8DI91	phytochromobilin
+40	Q8DI91	apo-[allophycocyanin beta-subunit]
+41	Q8DI91	phycoerythrobilin
+42	Q8DI91	apo-[allophycocyanin beta-subunit]
+43	Q8DI91	phytochromobilin
+44	Q8DI91	apo-[phycocyanin beta-subunit]
+45	Q8DI91	(2R,3E)-phycocyanobilin
+46	Q8DI91	apo-[phycocyanin beta-subunit]
+47	Q8DI91	phycoerythrobilin
+48	Q8DI91	apo-[phycocyanin beta-subunit]
+49	Q8DI91	phytochromobilin
+50	Q8YZ70	more
+51	Q8YZ70	apo-[phycoerythrin beta-subunit]
+52	Q8YZ70	phycocyanobilin
+53	Q7V2Z2	more
+54	Q7V2Z2	apo-[phycoerythrin beta-subunit]
+55	Q7V2Z2	3Z-phycoerythrobilin
+56	Q9ALZ8	apo-[phycoerythrin alpha-subunit]
+57	Q9ALZ8	phycoerythrobilin
+58	Q9ALZ8	apo-[phycoerythrin beta-subunit]
+59	Q9ALZ8	phycoerythrobilin
+0	E7DDH2	beta-dimethylsulfoniopropanoate
+1	A0A1M6LQI1	beta-dimethylsulfoniopropanoate
+2	N8X9V6	beta-dimethylsulfoniopropanoate
+3	D0CY07	beta-dimethylsulfoniopropanoate
+4	D0CY07	more
+5	Q5LW89	beta-dimethylsulfoniopropanoate
+6	Q5LW89	3-(thiolan-1-ium-1-yl)propanoate
+7	Q5LW89	diethylsulfoniopropionate
+8	Q5LW89	ethylmethylsulfoniopropionate
+9	Q5LW89	methylpropylsulfoniopropionate
+10	Q5LW89	dimethylseleniopropionate
+11	Q5LW89	dimethylsulfoniopropionate
+12	Q5LT18	3-(thiolan-1-ium-1-yl)propanoate
+13	Q5LT18	diethylsulfoniopropionate
+14	Q5LT18	ethylmethylsulfoniopropionate
+15	Q5LT18	methylpropylsulfoniopropionate
+16	Q5LT18	dimethylseleniopropionate
+17	Q5LT18	dimethylsulfoniopropionate
+0	Q9ALZ8	apo-[phycoerythrin alpha-subunit]
+1	Q9ALZ8	phycoerythrobilin
+2	Q8YLF9	apo-[C-phycocyanin beta-subunit]
+3	Q8YLF9	(2R,3E)-phycocyanobilin
+4	Q8YLF9	apo-[phycocyanin beta-subunit]
+5	Q8YLF9	phycocyanobilin
+6	Q8YLF9	apo-[phycoerythrocyanin beta-subunit]
+7	Q8YLF9	(2R,3E)-phycocyanobilin
+8	Q8YLF9	more
+9	B1XI94	apo-[phycocyanin beta-subunit]
+10	B1XI94	phycocyanobilin
+11	E3SMK9	more
+0	P29729	apo-[phycoerythrocyanin alpha-subunit]
+1	P29729	(2R,3E)-phycocyanobilin
+2	P35791	apo-[phycoerythrocyanin alpha-subunit PecA]
+3	P35791	phycoerythrobilin
+4	P29729	apo-[phycoerythrocyanin alpha-subunit PecA]
+5	P29729	phycocyanobilin
+6	P29730	apo-[phycoerythrocyanin alpha-subunit PecA]
+7	P29730	phycocyanobilin
+0	Q44115	apo-[C-phycocyanin alpha-subunit]
+1	Q44115	(2R,3E)-phycocyanobilin
+2	P73638	[C-phycocyanin alpha-subunit]
+3	P73638	phycocyanobilin
+0	Q9RBP4	(3R)-3,4-epoxy-3-methylbut-1-ene
+1	Q9RBP4	glutathione
+2	Q9RBP4	1,2-epoxybutane
+3	Q9RBP4	glutathione
+4	Q9RBP4	1,2-epoxyhexane
+5	Q9RBP4	glutathione
+6	Q9RBP4	cis-1,2-dichloroepoxyethane
+7	Q9RBP4	glutathione
+8	Q9RBP4	cis-2,3-epoxybutane
+9	Q9RBP4	glutathione
+10	Q9RBP4	epibromohydrin
+11	Q9RBP4	glutathione
+12	Q9RBP4	epichlorohydrin
+13	Q9RBP4	glutathione
+14	Q9RBP4	epifluorohydrin
+15	Q9RBP4	glutathione
+16	Q9RBP4	epithiopropane
+17	Q9RBP4	glutathione
+18	Q9RBP4	epoxyethane
+19	Q9RBP4	glutathione
+20	Q9RBP4	epoxypropane
+21	Q9RBP4	glutathione
+22	Q9RBP4	trans-1,2-dichloroepoxyethane
+23	Q9RBP4	glutathione

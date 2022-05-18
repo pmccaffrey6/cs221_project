@@ -1,0 +1,512 @@
+	uniprot_ids	substrates
+0	P0DI76	more
+1	P0DI76	geranyl diphosphate
+2	P0DI76	H2O
+3	W8GLB1	more
+4	W8GLB1	geranyl diphosphate
+5	W8GLB1	H2O
+6	I7C6Y2	more
+7	I7C6Y2	geranyl diphosphate
+8	I7C6Y2	H2O
+9	I7CTV3	more
+10	I7CTV3	geranyl diphosphate
+11	I7CTV3	H2O
+12	I7D3D7	more
+13	I7D3D7	geranyl diphosphate
+14	I7D3D7	H2O
+15	B5GMG2	more
+16	B5GMG2	geranyl diphosphate
+17	B5GMG2	H2O
+18	A0A0H4U5M2	more
+19	A0A0H4U5M2	geranyl diphosphate
+20	A0A0H4U5M2	H2O
+21	A0A068L889	more
+22	A0A068L889	geranyl diphosphate
+23	A0A068L889	H2O
+24	A5Y5L5	more
+25	A5Y5L5	geranyl diphosphate
+26	A5Y5L5	H2O
+27	O81193	geranyl diphosphate
+28	O81191	geranyl diphosphate
+29	O81191	H2O
+30	O81191	(3R)-linalyl diphosphate
+31	O81191	H2O
+32	O81191	(3S)-linalyl diphosphate
+33	O81191	H2O
+34	O81191	neryl diphosphate
+35	O81191	H2O
+36	H6WZF2	geranyl diphosphate
+37	H6WZF2	H2O
+38	H2ELN1	geranyl diphosphate
+39	H2ELN1	H2O
+40	I3WEV8	geranyl diphosphate
+41	I3WEV8	H2O
+42	I3WEV8	neryl diphosphate
+43	I3WEV8	H2O
+44	A6XH05	geranyl diphosphate
+45	A6XH05	H2O
+0	P0DI76	geranyl diphosphate
+1	P0DI76	H2O
+2	P0DI76	more
+0	L0HAM7	(3R)-linalyl diphosphate
+1	L0HAM7	H2O
+2	L0HAM7	geranyl diphosphate
+3	L0HAM7	H2O
+4	L0HAM7	geranyl diphosphate
+5	L0HAM7	H2O
+6	L0HAM7	(3S)-linalyl diphosphate
+7	L0HAM7	H2O
+8	L0HAM7	(3S)-linalyl diphosphate
+9	L0HAM7	H2O
+10	L0HB77	(3R)-linalyl diphosphate
+11	L0HB77	H2O
+12	L0HB77	(3S)-linalyl diphosphate
+13	L0HB77	H2O
+14	L0HB77	(3S)-linalyl diphosphate
+15	L0HB77	H2O
+16	L0HB77	geranyl diphosphate
+17	L0HB77	H2O
+0	O81193	geranyl diphosphate
+1	O81193	geranyl diphosphate
+2	O81193	H2O
+3	G0Y7D3	geranyl diphosphate
+4	F1CKJ1	geranyl diphosphate
+5	F1CKJ1	more
+6	A6XH06	geranyl diphosphate
+7	R9WS05	geranyl diphosphate
+8	A0A1U9M7Y9	geranyl diphosphate
+9	A0A1U9M7Y9	more
+0	H2ELN1	more
+1	H2ELN1	geranyl diphosphate
+2	H2ELN1	H2O
+3	Q6PWU2	more
+4	Q6PWU2	geranyl diphosphate
+5	Q6PWU2	H2O
+6	Q6PWU2	geranyl diphosphate
+7	V5JYL0	geranyl diphosphate
+8	V5JYL0	H2O
+0	F1CKI6	geranyl diphosphate
+1	F1CKJ1	2 geranyl diphosphate
+2	A0A075EAR1	geranyl diphosphate
+3	A0A075EAR1	more
+4	A0A075EB43	geranyl diphosphate
+5	A0A075EB43	more
+6	Q2XSC6	geranyl diphosphate
+7	Q2XSC6	more
+8	Q84SM8	geranyl diphosphate
+9	Q84SM8	more
+10	Q9M7D0	geranyl diphosphate
+11	Q9M7D0	more
+12	Q4QSN6	geranyl diphosphate
+13	Q4QSN6	more
+14	F1CKI8	2 geranyl diphosphate
+15	F1CKI9	2 geranyl diphosphate
+0	A0A068EN29	geranyl diphosphate
+1	A0A068EN29	more
+2	A0A0M3Q1Q3	geranyl diphosphate
+3	A0A0M3Q1Q3	more
+4	K9Y6Y9	geranyl diphosphate
+5	K9Y6Y9	more
+6	Q6F5H0	geranyl diphosphate
+7	Q6F5H0	more
+8	O81193	geranyl diphosphate
+9	O81193	H2O
+10	Q6F5H1	geranyl diphosphate
+11	Q8L5K4	geranyl diphosphate
+12	E2E2P0	geranyl diphosphate
+13	E2E2P0	more
+14	R4JHV6	geranyl diphosphate
+0	Q2XSC6	geranyl diphosphate
+1	Q2XSC6	more
+2	A0A068L7N8	more
+3	A0A068L7N8	geranyl diphosphate
+0	Q948Z0	geranyl diphosphate
+1	Q4QSN3	geranyl diphosphate
+2	A0A068L7N8	more
+3	A0A068L7N8	geranyl diphosphate
+0	Q9F1Y6	2-fluorolinalyl diphosphate
+1	Q9F1Y6	H2O
+2	Q9F1Y6	2-methyllinalyl diphosphate
+3	Q9F1Y6	H2O
+4	Q9F1Y6	2-methylneryl diphosphate
+5	Q9F1Y6	H2O
+6	Q9F1Y6	geranyl diphosphate
+7	Q9F1Y6	H2O
+8	Q9F1Y6	(E)-2-methylgeranyl diphosphate
+9	Q9F1Y6	H2O
+10	Q9F1Y6	more
+11	D3KYU2	(E)-2-methylgeranyl diphosphate
+12	D3KYU2	H2O
+13	E9NH28	(E)-2-methylgeranyl diphosphate
+14	E9NH28	H2O
+15	G0YUP1	(E)-2-methylgeranyl diphosphate
+16	G0YUP1	H2O
+17	G0YUP5	(E)-2-methylgeranyl diphosphate
+18	G0YUP5	H2O
+19	Q9F1V8	(E)-2-methylgeranyl diphosphate
+20	Q9F1V8	H2O
+21	A0A0A7HMM5	(E)-2-methylgeranyl diphosphate
+22	A0A0A7HMM5	H2O
+23	A0A0A7HMM5	more
+24	A0A0A7HKJ5	(E)-2-methylgeranyl diphosphate
+25	A0A0A7HKJ5	H2O
+26	A0A0A7HKJ5	more
+0	O24475	geranyl diphosphate
+1	Q94G53	geranyl diphosphate
+2	U5N0S4	geranyl diphosphate
+3	R9QMR3	geranyl diphosphate
+4	R9QMY9	geranyl diphosphate
+5	R9QMW5	geranyl diphosphate
+6	A0A2Z4K4P3	geranyl diphosphate
+7	A0A2Z4K4P3	more
+8	A0A0G3BIB7	geranyl diphosphate
+9	A0A0G3BIB7	more
+10	Q6XDB5	geranyl diphosphate
+11	Q9M7D0	geranyl diphosphate
+12	Q9M7D0	more
+13	Q948Z0	geranyl diphosphate
+14	Q4QSN3	geranyl diphosphate
+15	Q4QSN3	more
+16	Q84KL6	geranyl diphosphate
+17	Q9M7C9	geranyl diphosphate
+0	Q03393	7,8-dihydroneopterin triphosphate
+1	Q03393	7,8-dihydroneopterin 3'-triphosphate
+2	Q03393	6-(L-erythro-1,2-dihydroxypropyl 3-triphosphate)-7,8-dihydropterin
+3	P27213	7,8-dihydroneopterin triphosphate
+4	G3FNL7	7,8-dihydroneopterin triphosphate
+5	C6KTB6	6-(L-erythro-1,2-dihydroxypropyl 3-triphosphate)-7,8-dihydropterin
+0	Q8L5K2	geranyl diphosphate
+1	U5N0S4	geranyl diphosphate
+2	R9QMR3	geranyl diphosphate
+3	R9QMW5	geranyl diphosphate
+4	R9QMR0	geranyl diphosphate
+5	R9QMR0	geranyl diphosphate
+6	A0A2Z4K4P3	more
+7	A0A2Z4K4P3	geranyl diphosphate
+8	Q6XDB5	geranyl diphosphate
+9	Q9M7D0	geranyl diphosphate
+10	Q9M7D0	more
+11	O24475	geranyl diphosphate
+12	Q94G53	geranyl diphosphate
+0	A0A0G3BIB7	more
+1	A0A0G3BIB7	geranyl diphosphate
+2	Q2XSC6	geranyl diphosphate
+3	Q84KL3	geranyl diphosphate
+4	R9QMW2	geranyl diphosphate
+5	R9QMR1	geranyl diphosphate
+6	T1RR71	more
+7	T1RR71	geranyl diphosphate
+8	T1RRI8	more
+9	T1RRI8	geranyl diphosphate
+10	A0A2Z4K4P3	more
+11	A0A2Z4K4P3	geranyl diphosphate
+0	A0A2Z4K4P3	more
+1	A0A2Z4K4P3	geranyl diphosphate
+0	Q0J7R9	(2E,6E)-farnesyl diphosphate
+1	C5YHH7	(E,E)-farnesyl diphosphate
+2	C5YHH7	more
+3	C5YHI2	(2E,6E)-farnesyl diphosphate
+4	C5YHI2	more
+5	I6XZ73	(2E,6E)-farnesyl diphosphate
+6	I6XZ73	more
+0	Q9S5E2	D-glucose 6-phosphate
+1	Q9S5E2	2-deoxy-D-glucose 6-phosphate
+2	Q9S5E2	3-deoxy-D-glucose 6-phosphate
+3	Q9S5E2	more
+4	Q2MF16	D-glucose 6-phosphate
+0	A8NE23	(2E,6E)-farnesyl diphosphate
+1	A8NE23	more
+0	A8NE23	more
+1	A8NE23	(2E,6E)-farnesyl diphosphate
+2	B5A435	(2E,6E)-farnesyl diphosphate
+0	A8NU13	(E)-geranyl diphosphate
+1	A8NU13	(2E,6E)-farnesyl diphosphate
+2	A8NU13	more
+0	A8NU13	more
+1	A8NU13	(2E,6E)-farnesyl diphosphate
+2	A8NU13	(2Z,6E)-farnesyl diphosphate
+3	A8NU13	(E)-geraniol diphosphate
+4	B3TPQ6	more
+5	B3TPQ6	(2E,6E)-farnesyl diphosphate
+6	D0UZK2	(2E,6E)-farnesyl diphosphate
+0	A8NU13	(2E,6E)-farnesyl diphosphate
+1	A8NU13	(2Z,6E)-farnesyl diphosphate
+2	A8NU13	more
+0	J7LP58	(2E,6E)-farnesyl diphosphate
+1	P93665	(2E,6E)-farnesyl diphosphate
+2	Q39760	(2E,6E)-farnesyl diphosphate
+3	A0A1V0E4A6	(2E,6E)-farnesyl diphosphate
+4	Q39760	2-trans,6-trans-farnesyl diphosphate
+5	Q39761	2-trans,6-trans-farnesyl diphosphate
+6	Q39761	(2E,6E)-farnesyl diphosphate
+7	Q39761	(2E,6E)-farnesyl diphosphate
+8	Q39761	(2E,6Z)-farnesyl diphosphate
+9	Q39761	nerolidyl diphosphate
+10	Q39761	more
+11	Q4U3F6	(2E,6E)-farnesyl diphosphate
+12	Q4U3F6	more
+13	B9S9Z3	(2E,6E)-farnesyl diphosphate
+0	O34707	all-trans-heptaprenyl diphosphate
+1	A0A563C0M5	all-trans-heptaprenyl diphosphate
+2	A0A0H3E5A4	all-trans-heptaprenyl diphosphate
+3	E6U1R5	all-trans-heptaprenyl diphosphate
+4	A8FGH3	all-trans-heptaprenyl diphosphate
+5	D5DN48	all-trans-heptaprenyl diphosphate
+0	W8QMF8	(+)-copalyl diphosphate
+1	W8QMF8	more
+2	W8QMF8	8-hydroxy-(+)-copalyl diphosphate
+3	W8QMF8	geranylgeranyl diphosphate
+4	W8QEG7	(+)-copalyl diphosphate
+5	W8QEG7	more
+6	W8QEG7	8-hydroxy-(+)-copalyl diphosphate
+7	W8QEG7	geranylgeranyl diphosphate
+8	A0A0C5QH30	(+)-copalyl diphosphate
+9	A0A0C5QH30	more
+10	A0A1W6QDI7	(+)-copalyl diphosphate
+11	A0A1C7AAM8	(+)-copalyl diphosphate
+12	A0A1C7AAM8	more
+0	Q38710	(+)-copalyl diphosphate
+0	Q4U3F6	(2E,6E)-farnesyl diphosphate
+1	B9S9Z3	(2E,6E)-farnesyl diphosphate
+2	B9S9Z3	(2E,6E)-farnesyl diphosphate
+3	J7LP58	2 (2E,6E)-farnesyl diphosphate
+4	J9PDV7	geranylgeranyl diphosphate
+5	J9PDV7	H2O
+6	D0UZK2	(2E,6E)-farnesyl diphosphate
+0	Q8R1K1	(5R)-5-phosphohydroxy-L-lysine
+1	Q8R1K1	H2O
+0	I6R4V5	(2E,6E)-farnesyl diphosphate
+0	J7LH11	(2E,6E)-farnesyl diphosphate
+1	J7LH11	H2O
+0	L0HP52	(2E,6E)-farnesyl diphosphate
+1	L0HP52	more
+0	H8ZM73	(13E)-8alpha-hydroxylabd-13-en-15-yl diphosphate
+1	H8ZM73	more
+0	K4HYB0	(13E)-8alpha-hydroxylabd-13-en-15-yl diphosphate
+1	K4HYB0	H2O
+2	K4HYB0	(13E)-8alpha-hydroxylabd-13-en-15-yl diphosphate
+3	K4HYB0	H2O
+4	K4HYB0	(9S,10S)-copalyl diphosphate
+5	K4HYB0	H2O
+6	K4HYB0	labda-13-en-8-ol diphosphate
+7	K4HYB0	H2O
+8	K4HYB0	more
+0	I2CM37	(2Z,6Z)-farnesyl diphosphate
+1	I2CM37	more
+0	K4LMW2	(2E,6E)-farnesyl diphosphate
+1	K4LMW2	H2O
+2	K4LMW2	more
+0	Q93YV0	geranylgeranyl diphosphate
+1	Q93YV0	H2O
+2	U5KL21	geranylgeranyl diphosphate
+3	U5KL21	H2O
+4	K4BE78	(2E,6E)-farnesyl diphosphate
+5	K4BE78	H2O
+6	K4BE78	geranylgeranyl diphosphate
+7	K4BE78	H2O
+8	K4BE78	more
+9	A0A088DC07	geranylgeranyl diphosphate
+10	A0A088DC07	H2O
+11	A0A088DC07	more
+12	A0A0H4U599	geranylgeranyl diphosphate
+13	A0A0H4U599	H2O
+14	A0A0H4U599	more
+15	A0A0H4U599	(2E,6E)-farnesyl diphosphate
+16	A0A0H4U599	H2O
+0	C9K1X5	geranylgeranyl diphosphate
+1	C9K1X5	H2O
+2	C9K1X5	more
+0	M4HYC8	(+)-copalyl diphosphate
+1	M4HY08	(+)-copalyl diphosphate
+0	M1V9Q0	geranylgeranyl diphosphate
+0	M1V9Q0	geranylgeranyl diphosphate
+1	M1VDX3	geranylgeranyl diphosphate
+0	Q9ZUH4	geranyl diphosphate
+1	Q9ZUH4	geranyl diphosphate
+2	Q9ZUH4	geranyl diphosphate
+3	Q9ZUH4	geranyl diphosphate
+4	Q9ZUH4	geranyl diphosphate
+5	Q9ZUH4	geranyl diphosphate
+6	Q58GE8	geranyl diphosphate
+7	O24474	geranyl diphosphate
+8	A0A068L9J0	more
+9	A0A068L9J0	geranyl diphosphate
+0	M1VDX3	geranylgeranyl diphosphate
+0	M1VDX3	geranylgeranyl diphosphate
+0	A1YPR2	D-sedoheptulose 7-phosphate
+1	Q9ZAE9	D-sedoheptulose 7-phosphate
+2	A8D7K2	D-sedoheptulose 7-phosphate
+3	A8D7K2	more
+4	A8D7K2	sedoheptulose 7-phosphate
+5	H2K887	D-sedoheptulose 7-phosphate
+0	Q58499	2 D-glyceraldehyde 3-phosphate
+1	Q58499	D-glyceraldehyde 3-phosphate
+2	Q58499	glycerone phosphate
+3	Q58499	D-glyceraldehyde 3-phosphate
+4	Q58499	more
+0	Q3M6C3	D-sedoheptulose 7-phosphate
+0	C6WFL3	D-sedoheptulose 7-phosphate
+1	Q08VU0	D-sedoheptulose 7-phosphate
+0	Q5NP67	more
+1	Q5NP67	presqualene diphosphate
+2	Q5NP67	H2O
+3	Q6N3F1	more
+4	Q6N3F1	presqualene diphosphate
+5	Q6N3F1	H2O
+6	A0LVK5	more
+7	A0LVK5	presqualene diphosphate
+8	A0LVK5	H2O
+0	A0A0A0NRS4	(2E,6E)-farnesyl diphosphate
+1	A0A0A0NRS4	H2O
+2	G2P5T1	(2E,6E)-farnesyl diphosphate
+3	G2P5T1	H2O
+0	A0A1G9TH01	geranylgeranyl diphosphate
+0	I2N045	geranylgeranyl diphosphate
+0	Q9M7D0	geranyl diphosphate
+1	Q9M7D0	more
+2	O22340	geranyl diphosphate
+0	Q54P86	(2E,6E)-farnesyl diphosphate
+0	Q7KWU0	(2E,6E)-farnesyl diphosphate
+0	E4N7E5	more
+1	E4N7E5	(2E,6E)-farnesyl diphosphate
+2	E4N7E5	H2O
+0	A9FZ87	(2E,6E)-farnesyl diphosphate
+1	S0DX56	(2E,6E)-farnesyl diphosphate
+0	S0ENM8	(2E,6E)-farnesyl diphosphate
+0	E8W6C7	(2E,6E)-farnesyl diphosphate
+1	E8W6C7	H2O
+0	A0A178U9Y5	geranylgeranyl diphosphate
+1	A0A178U9Y5	H2O
+2	A0A178U9Y5	more
+0	A0A178U9Y5	geranylgeranyl diphosphate
+1	A0A178U9Y5	H2O
+2	A0A178U9Y5	more
+0	D9XD61	(2E,6E)-farnesyl diphosphate
+1	D9XD61	H2O
+0	Q93YA3	geranylgeranyl diphosphate
+1	Q41594	geranylgeranyl diphosphate
+2	Q41594	geranylgeranyl diphosphate
+3	Q41594	geranylgeranyl diphosphate
+4	Q41594	geranylgeranyl diphosphate
+5	Q41594	more
+6	Q6TBY0	geranylgeranyl diphosphate
+7	Q9FT37	geranylgeranyl diphosphate
+0	E4N7E5	more
+1	E4N7E5	(2E,6E)-farnesyl diphosphate
+2	E4N7E5	H2O
+0	A0A1L2D3T3	(2E,6E)-farnesyl diphosphate
+1	A0A1L2D3T3	H2O
+2	A0A1L2D3T3	(2E,6E)-farnesyl diphosphate
+3	A0A1L2D3T3	H2O
+0	A0A1L2D3T3	(2E,6E)-farnesyl diphosphate
+1	A0A1L2D3T3	H2O
+2	A0A1L2D3T3	(2E,6E)-farnesyl diphosphate
+3	A0A1L2D3T3	H2O
+4	U3LW50	(2E,6E)-farnesyl diphosphate
+5	U3LW50	H2O
+6	Q5GJ59	(2E,6E)-farnesyl diphosphate
+7	Q5GJ59	H2O
+8	Q5GJ59	more
+0	A0A140KFG9	(2E,6E)-farnesyl diphosphate
+1	A0A140KFG9	H2O
+0	A9GK58	(2E,6E)-farnesyl diphosphate
+1	A9GK58	H2O
+0	A0A142BX74	(2E,6E)-farnesyl diphosphate
+0	Q675L4	(+)-copalyl-diphosphate
+1	Q50EK2	(+)-copalyl-diphosphate
+2	Q38710	(+)-copalyl diphosphate
+3	Q38710	(+)-copalyl-diphosphate
+4	Q38710	geranylgeranyl diphosphate
+5	Q38710	diphosphate
+0	A0A1L6Z3A0	geranylgeranyl diphosphate
+1	A0A1L6Z3A0	more
+0	B5HDJ6	(2E,6E)-farnesyl diphosphate
+0	B5H7H3	(2E,6E)-farnesyl diphosphate
+1	B5H7H3	H2O
+2	B5H7H3	more
+0	A0A1W6QDI4	(+)-copalyl diphosphate
+1	A0A1W6QDI4	H2O
+2	A0A1W6QDI4	more
+0	A0A1L5YKS7	(2E,6E)-farnesyl diphosphate
+1	A0A1L5YKS7	H2O
+0	A0A1Z3GBK8	ent-copalyl diphosphate
+1	D8L2U4	ent-copalyl diphosphate
+0	A0A0A7ANA5	ent-8alpha-hydroxylabd-13-en-15-yl diphosphate
+1	A0A0A7ANA5	more
+0	E4MYY0	(2E,6E)-farnesyl diphosphate
+1	E4MYY0	H2O
+2	E4MYY0	more
+0	Q5WIP9	all-trans-geranylfarnesyl diphosphate
+1	Q5WIP9	all-trans-heptaprenyl diphosphate
+2	Q5WIP9	all-trans-hexaprenyl diphosphate
+0	A0A075FBG7	more
+1	A0A075FBG7	peregrinol diphosphate
+0	O13284	ent-copalyl diphosphate
+1	A5A8G0	ent-copalyl diphosphate
+2	A5A8G0	8alpha-hydroxy-copalyl diphosphate
+3	A5A8G0	ent-copalyl diphosphate
+4	A5A8G0	H2O
+5	A5A8G0	ent-copalyl diphosphate
+6	A5A8G0	ent-copalyl diphosphate
+7	A5A8G0	ent-copalyl diphosphate
+8	A5A8G0	ent-copalyl diphosphate
+9	A5A8G0	ent-copalyl diphosphate
+10	A5A8G0	ent-copalyl diphosphate
+11	A5A8G0	geranylgeranyl diphosphate
+12	A5A8G0	more
+13	A5A8G0	ent-copalyl diphosphate
+14	A5A8G0	ent-copalyl diphosphate
+15	A5A8G0	H2O
+16	Q9SAK2	ent-copalyl diphosphate
+17	Q9SAK2	more
+18	Q9SAK2	ent-copalyl diphosphate
+19	B5DBY7	more
+20	D2X8G3	ent-copalyl diphosphate
+21	D2X8G1	ent-copalyl diphosphate
+22	Q9UVY5	ent-copalyl diphosphate
+23	G9M5S9	ent-copalyl diphosphate
+24	A0A077JGG8	ent-copalyl diphosphate
+25	A0A077JGG8	more
+26	A0A077JGG8	ent-copalyl diphosphate
+27	A0A077JGG8	syn-copalyl diphosphate
+28	A0A077JGG8	copalyl diphosphate
+29	B9T625	ent-copalyl diphosphate
+30	B9SIL7	ent-copalyl diphosphate
+31	B9SIL7	more
+32	B9SIL7	ent-copalyl diphosphate
+33	B9SIL7	ent-copalyl diphosphate
+34	S0EA85	ent-copalyl diphosphate
+35	Q9XEH9	ent-copalyl diphosphate
+36	F6M9X0	ent-copalyl diphosphate
+37	Q0JA82	more
+38	Q0JA82	ent-copalyl diphosphate
+39	Q0JA82	ent-copalyl diphosphate
+40	D2XEB3	more
+41	D2XEB3	ent-copalyl diphosphate
+42	A0A176VPW0	more
+43	A0A176VPW0	ent-copalyl diphosphate
+44	A0A0U4CDK4	ent-copalyl diphosphate
+45	Q45222	more
+46	Q45222	ent-copalyl diphosphate
+47	A0A0H4SPM5	ent-copalyl diphosphate
+0	W8QMF8	(13E)-8alpha-hydroxylabd-13-en-15-yl diphosphate
+1	W8QMF8	more
+2	W8QEG7	(13E)-8alpha-hydroxylabd-13-en-15-yl diphosphate
+3	W8QEG7	more
+4	A0A075FBG7	(13E)-8alpha-hydroxylabd-13-en-15-yl diphosphate
+5	A0A075FBG7	more
+6	X5A2Z7	(13E)-8alpha-hydroxylabd-13-en-15-yl diphosphate
+7	X5AHD9	(13E)-8alpha-hydroxylabd-13-en-15-yl diphosphate
+0	A0A1B4XBG5	geranylgeranyl diphosphate
+0	B5GRC8	(+)-copalyl diphosphate
+1	B5GRC8	labda-7,13-dienyl diphosphate
+2	B5GRC8	more
+0	A0A0H5BN57	(+)-copalyl diphosphate
+1	A0A0H5BN57	labda-7,13-dienyl diphosphate
+2	A0A0H5BN57	more
+0	L0HQE3	(2E,6E)-farnesyl diphosphate
+1	L0HQE3	H2O
+2	L0HQE3	more
+0	O65435	geranylgeranyl diphosphate
+0	A0A3L6GCD0	ent-copalyl diphosphate
+0	Q5SBP7	(2E,6E)-farnesyl diphosphate

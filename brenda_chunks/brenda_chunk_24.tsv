@@ -1,0 +1,1274 @@
+	uniprot_ids	substrates
+0	A0A2Z5FRT2	S-adenosyl-L-methionine
+1	A0A2Z5FRT2	(S)-norcoclaurine
+2	A0A2Z5FRT2	S-adenosyl-L-methionine
+3	A0A2Z5FRT2	(S)-norcoclaurine
+4	Q9LEL6	S-adenosyl-L-methionine
+5	Q9LEL6	(S)-norcoclaurine
+6	Q9LEL6	S-adenosyl-L-methionine
+7	Q9LEL6	(S)-norcoclaurine
+8	Q9LEL6	S-adenosyl-L-methionine
+9	Q9LEL6	laudanosoline
+10	Q9LEL6	S-adenosyl-L-homocysteine
+11	Q9LEL6	(S)-reticuline
+12	Q6WUC1	S-adenosyl-L-methionine
+13	Q6WUC1	(RS)-norcoclaurine
+14	A0A2Z5FRS1	S-adenosyl-L-methionine
+15	A0A2Z5FRS1	(S)-norcoclaurine
+16	A0A2Z5FRS1	S-adenosyl-L-methionine
+17	A0A2Z5FRS1	(S)-norcoclaurine
+18	A0A2Z5FRS5	S-adenosyl-L-methionine
+19	A0A2Z5FRS5	(S)-norcoclaurine
+20	A0A2Z5FRS5	S-adenosyl-L-methionine
+21	A0A2Z5FRS5	(S)-norcoclaurine
+0	P45986	S-adenosyl-L-methionine
+1	P45986	myo-inositol
+2	G7JTH4	S-adenosyl-L-methionine
+3	G7JTH4	myo-inositol
+0	P13009	N5-methyltetrahydropteroylmonoglutamate
+1	P13009	L-homocysteine
+2	P13009	more
+0	Q9R9K1	more
+1	Q9R9K1	S-Adenosyl-L-methionine
+2	Q9R9K1	precorrin-3B
+0	P21922	S-Adenosyl-L-methionine
+1	P21922	precorrin-4
+2	P21922	S-adenosyl-L-methionine
+3	P21922	precorrin-4
+0	Q8VHT6	S-adenosyl-L-methionine
+1	Q8VHT6	arsenite
+2	Q8VHT6	more
+3	Q8VHT6	S-adenosyl-L-methionine
+4	Q8VHT6	methylarsonite
+5	Q9HBK9	S-adenosyl-L-methionine
+6	Q9HBK9	arsenite
+7	Q9HBK9	more
+8	Q9HBK9	S-adenosyl-L-methionine
+9	Q9HBK9	methylarsonite
+10	Q58DQ0	more
+11	Q91WU5	S-adenosyl-L-methionine
+12	Q91WU5	arsenite
+13	Q9Y5N5	S-adenosyl-L-methionine
+14	Q9Y5N5	methylarsonate
+15	A0A0D3MJQ5	S-adenosyl-L-methionine
+16	A0A0D3MJQ5	arsenite
+17	A0A0D3MJQ5	S-adenosyl-L-methionine
+18	A0A0D3MJQ5	methylarsonite
+19	U2ZU49	S-adenosyl-L-methionine
+20	U2ZU49	arsenite
+21	U2ZU49	S-adenosyl-L-methionine
+22	U2ZU49	methylarsonite
+23	C0JV69	S-adenosyl-L-methionine
+24	C0JV69	arsenite
+25	C0JV69	S-adenosyl-L-methionine
+26	C0JV69	methylarsonite
+27	C0JV69	S-adenosyl-L-methionine
+28	C0JV69	arsenite
+29	C0JV69	S-adenosyl-L-methionine
+30	C0JV69	phenylarsenite
+31	A0A2P1M875	S-adenosyl-L-methionine
+32	A0A2P1M875	arsenite
+33	A0A2P1M875	S-adenosyl-L-methionine
+34	A0A2P1M875	methylarsonite
+0	Q9X112	5-methyltetrahydropteroyl-gamma-glutamyl-gamma-glutamylglutamate
+1	Q9X112	L-homocysteine
+2	Q9X112	5-methyltetrahydropteroyl-gamma-glutamyl-gamma-glutamylglutamate
+3	Q9X112	L-homocysteine
+4	O50008	5-methyltetrahydropteroyl-gamma-glutamyl-gamma-glutamylglutamate
+5	O50008	L-homocysteine
+6	O50008	5-methyltetrahydropteroyl-gamma-glutamyl-gamma-glutamylglutamate
+7	O50008	L-homocysteine
+8	P25665	5-methyltetrahydropteroyl-gamma-glutamyl-gamma-glutamylglutamate
+9	P25665	L-homocysteine
+10	P25665	5-methyltetrahydropteroyl-gamma-glutamyl-gamma-glutamylglutamate
+11	P25665	L-homocysteine
+12	P05694	5-methyltetrahydropteroyl-gamma-glutamyl-gamma-glutamylglutamate
+13	P05694	L-homocysteine
+14	P05694	5-methyltetrahydropteroyl-gamma-glutamyl-gamma-glutamylglutamate
+15	P05694	L-homocysteine
+16	P82610	5-methyltetrahydropteroyl-gamma-glutamyl-gamma-glutamylglutamate
+17	P82610	L-homocysteine
+18	P82610	5-methyltetrahydropteroyl-gamma-glutamyl-gamma-glutamylglutamate
+19	P82610	L-homocysteine
+0	Q7XB08	S-adenosyl-L-methionine
+1	Q7XB08	(S)-coclaurine
+2	Q948P7	S-adenosyl-L-methionine
+3	Q948P7	(S)-coclaurine
+4	Q948P7	S-adenosyl-L-methionine
+5	Q948P7	(R,S)-6-O-methylnorlaudanosoline
+6	Q948P7	S-adenosyl-L-methionine
+7	Q948P7	(RS)-coclaurine
+8	Q948P7	S-adenosyl-L-methionine
+9	Q948P7	(S)-N-methylcoclaurine
+10	Q948P7	S-adenosyl-L-methionine
+11	Q948P7	(S)-reticuline
+12	Q948P7	S-adenosyl-L-methionine
+13	Q948P7	heliamine
+14	A0A5P9PAN8	S-adenosyl-L-methionine
+15	A0A5P9PAN8	(R)-coclaurine
+16	A0A5P9PAQ9	S-adenosyl-L-methionine
+17	A0A5P9PAQ9	(R)-coclaurine
+18	A0A5P9PAT6	S-adenosyl-L-methionine
+19	A0A5P9PAT6	(R)-N-methylcoclaurine
+20	A0A5P9PAT6	S-adenosyl-L-methionine
+21	A0A5P9PAT6	(R)-coclaurine
+0	Q9AR07	S-adenosyl-L-methionine
+1	Q9AR07	jasmonate
+2	Q9AR07	S-adenosyl-L-methionine
+3	Q9AR07	9,10-dihydrojasmonic acid
+4	Q9AR07	more
+5	Q9SBK6	S-adenosyl-L-methionine
+6	Q9SBK6	jasmonate
+7	Q9FW31	S-adenosyl-L-methionine
+8	Q9FW31	jasmonate
+9	B9H4E1	S-adenosyl-L-methionine
+10	B9H4E1	jasmonate
+11	B9H4E1	S-adenosyl-L-methionine
+12	B9H4E1	benzoate
+13	B9H4E1	more
+0	D2D5G4	cycloartenol
+1	D2D5G4	S-adenosyl-L-methionine
+2	D2D5G4	zymosterol
+3	D2D5G4	S-adenosyl-L-methionine
+4	D2D5G4	ergosta-7,24(28)-dienol
+5	D2D5G4	S-adenosyl-L-methionine
+6	D2D5G4	fecosterol
+7	D2D5G4	S-adenosyl-L-methionine
+8	D2D5G4	24(28)-methylene lophenol
+9	D2D5G4	S-adenosyl-L-methionine
+10	D2D5G4	lanosterol
+11	D2D5G4	S-adenosyl-L-methionine
+12	Q9LM02	S-adenosyl-L-methionine
+13	Q9LM02	cycloartenol
+14	Q96WX4	S-adenosyl-L-methionine
+15	Q96WX4	lanosterol
+16	A8IJ34	S-adenosyl-L-methionine
+17	A8IJ34	24(28)-methylene cycloartenol
+18	A8IJ34	S-adenosyl-L-methionine
+19	A8IJ34	24(28)-methylene lophenol
+20	A8IJ34	S-adenosyl-L-methionine
+21	A8IJ34	cycloartenol
+22	A8IJ34	S-adenosyl-L-methionine
+23	A8IJ34	lanosterol
+24	A8IJ34	S-adenosyl-L-methionine
+25	A8IJ34	obtusifoliol
+26	A8IJ34	more
+27	A8IJ34	S-adenosyl-L-methionine
+28	A8IJ34	zymosterol
+29	A0A2U7MCR4	S-adenosyl-L-methionine
+30	A0A2U7MCR4	cycloartenol
+31	A0A2R2UK37	S-adenosyl-L-methionine
+32	A0A2R2UK37	cycloartenol
+33	Q43445	cycloartenol
+34	Q43445	S-adenosyl-L-methionine
+35	Q43445	zymosterol
+36	Q43445	S-adenosyl-L-methionine
+37	Q43445	24(28)-methylene lophenol
+38	Q43445	S-adenosyl-L-methionine
+39	Q43445	S-adenosyl-L-methionine
+40	Q43445	cycloartenol
+41	Q43445	cycloartenol
+42	Q43445	S-adenosyl-L-methionine
+0	D2D5G4	S-adenosyl-L-methionine
+1	D2D5G4	cycloartenol
+2	D2D5G4	S-adenosyl-L-methionine
+3	D2D5G4	4alpha-methyl zymosterol
+4	D2D5G4	S-adenosyl-L-methionine
+5	D2D5G4	ergosta-7,24(28)-dienol
+6	D2D5G4	S-adenosyl-L-methionine
+7	D2D5G4	fecosterol
+8	D2D5G4	S-adenosyl-L-methionine
+9	D2D5G4	zymosterol
+10	D2D5G4	S-adenosyl-L-methionine
+11	D2D5G4	24(28)-methylene lophenol
+12	D2D5G3	S-adenosyl-L-methionine
+13	D2D5G3	cycloartenol
+14	D2D5G3	S-adenosyl-L-methionine
+15	D2D5G3	24(28)-methylene lophenol
+16	A8IJ34	S-adenosyl-L-methionine
+17	A8IJ34	obtusifoliol
+18	A8IJ34	S-adenosyl-L-methionine
+19	A8IJ34	24(28)-methylene lophenol
+20	A8IJ34	S-adenosyl-L-methionine
+21	A8IJ34	24(28)-methylene cycloartenol
+22	A8IJ34	S-adenosyl-L-methionine
+23	A8IJ34	cycloartenol
+24	A8IJ34	S-adenosyl-L-methionine
+25	A8IJ34	lanosterol
+26	A8IJ34	S-adenosyl-L-methionine
+27	A8IJ34	zymosterol
+28	A8IJ34	more
+0	Q74ZT8	S-adenosyl-L-methionine
+1	Q74ZT8	trans-aconitate
+0	O04385	S-adenosyl-L-methionine
+1	O04385	isoeugenol
+2	O04385	more
+3	O04385	S-adenosyl-L-methionine
+4	O04385	caffeyl alcohol
+5	O04385	S-adenosyl-L-methionine
+6	O04385	coniferyl alcohol
+7	O04385	S-adenosyl-L-methionine
+8	O04385	coumaryl alcohol
+9	O04385	S-adenosyl-L-methionine
+10	O04385	monolignol
+11	O04385	S-adenosyl-L-methionine
+12	O04385	sinapyl alcohol
+13	O04385	S-adenosyl-L-methionine
+14	O04385	eugenol
+15	Q93WU2	S-adenosyl-L-methionine
+16	Q93WU2	isoeugenol
+17	Q93WU2	S-adenosyl-L-methionine
+18	Q93WU2	eugenol
+19	Q93WU2	S-adenosyl-L-methionine
+20	Q93WU2	chavicol
+21	Q93WU2	S-adenosyl-L-methionine
+22	Q93WU2	guaiacol
+23	Q93WU2	S-adenosyl-L-methionine
+24	Q93WU2	trans-isoeugenol
+25	Q93WU2	S-adenosyl-L-methionine
+26	Q93WU2	isoeugenol
+0	Q9ZJ93	5,10-methylenetetrahydrofolate
+1	Q9ZJ93	dUMP
+2	Q9ZJ93	FADH2
+3	Q9ZJ93	5,10-methylenetetrahydrofolate
+4	Q9ZJ93	dUMP
+5	Q9ZJ93	FMNH2
+6	Q9UZ51	5,10-methylenetetrahydrofolate
+7	Q9UZ51	dUMP
+8	Q9UZ51	FADH2
+9	Q9UZ51	5,10-methylenetetrahydrofolate
+10	Q9UZ51	dUMP
+11	Q9UZ51	FMNH2
+12	Q9WYT0	5,10-methylenetetrahydrofolate
+13	Q9WYT0	dUMP
+14	Q9WYT0	FADH2
+15	Q9WYT0	more
+16	Q9WYT0	5,10-methylenetetrahydrofolate
+17	Q9WYT0	dUMP
+18	Q9WYT0	NADPH
+19	Q9WYT0	H+
+20	Q8U3C9	more
+21	P9WG57	5,10-methylenetetrahydrofolate
+22	P9WG57	BrdUMP
+23	P9WG57	FADH2
+24	Q5UVJ4	5,10-methylenetetrahydrofolate
+25	Q5UVJ4	dUMP
+26	Q5UVJ4	FADH2
+27	O41156	5,10-methylenetetrahydrofolate
+28	O41156	dUMP
+29	O41156	FADH2
+0	B2HHT4	3-hydroxydecanoic acid
+1	B2HHT4	S-adenosyl-L-methionine
+2	B2HHT4	3-hydroxyoctanoic acid
+3	B2HHT4	S-adenosyl-L-methionine
+4	B2HHT4	decanoic acid
+5	B2HHT4	S-adenosyl-L-methionine
+6	B2HHT4	octanoic acid
+7	B2HHT4	S-adenosyl-L-methionine
+8	Q7VUX9	S-adenosyl-L-methionine
+9	Q7VUX9	palmitate
+0	O24529	S-adenosyl-L-methionine
+1	O24529	5,7,4'-trihydroxyisoflavone
+2	O24529	S-adenosyl-L-methionine
+3	O24529	6,7,4'-trihydroxyisoflavone
+4	O24529	S-adenosyl-L-methionine
+5	O24529	7,4'-dihydroxyisoflavone
+6	O24529	more
+7	Q06YR4	S-adenosyl-L-methionine
+8	Q06YR4	5,7,4'-trihydroxyisoflavone
+9	Q06YR4	S-adenosyl-L-methionine
+10	Q06YR4	6,7,4'-trihydroxyisoflavone
+11	Q06YR4	S-adenosyl-L-methionine
+12	Q06YR4	7,4'-dihydroxyisoflavone
+13	Q06YR4	more
+14	Q06YR4	S-adenosyl-L-methionine
+15	Q06YR4	7,3',4'-trihydroxyisoflavone
+16	Q06YR4	S-adenosyl-L-methionine
+17	Q06YR4	7,4'-dihydroxyisoflavanone
+18	Q06YR4	S-adenosyl-L-methionine
+19	Q06YR4	7,4'-dihydroxy-6-methoxyisoflavone
+20	Q06YR3	S-adenosyl-L-methionine
+21	Q06YR3	7,4'-dihydroxy-6-methoxyisoflavone
+22	Q06YR3	S-adenosyl-L-methionine
+23	Q06YR3	6,7,4'-trihydroxyisoflavone
+0	O27402	S-adenosyl-L-methionine
+1	O27402	cobalt-factor II
+2	O27402	S-adenosyl-L-methionine
+3	O27402	Co(II)-precorrin-2
+4	O27402	S-adenosyl-L-methionine
+5	O27402	Co(II)-cobalt-factor II
+6	O27402	more
+7	Q8KFD9	S-adenosyl-L-methionine
+8	Q8KFD9	cobalt-factor II
+0	Q9KJ22	S-adenosyl-L-methionine
+1	Q9KJ22	glycine
+2	Q9KJ22	S-adenosyl-L-methionine
+3	Q9KJ22	sarcosine
+4	Q9KJ22	more
+5	Q9KJ20	S-adenosyl-L-methionine
+6	Q9KJ20	glycine
+7	Q9KJ20	S-adenosyl-L-methionine
+8	Q9KJ20	sarcosine
+9	Q9KJ20	more
+10	Q83WC4	S-adenosyl-L-methionine
+11	Q83WC4	glycine
+12	Q83WC4	S-adenosyl-L-methionine
+13	Q83WC4	sarcosine
+14	Q83WC4	more
+15	F6KV61	S-adenosyl-L-methionine
+16	F6KV61	glycine
+17	F6KV61	S-adenosyl-L-methionine
+18	F6KV61	sarcosine
+19	F6KV61	more
+20	F6KV61	2 S-adenosyl-L-methionine
+21	F6KV61	glycine
+0	Q9KJ21	S-adenosyl-L-methionine
+1	Q9KJ21	N,N-dimethylglycine
+2	Q9KJ21	S-adenosyl-L-methionine
+3	Q9KJ21	sarcosine
+4	Q9KJ21	more
+5	Q83WC3	S-adenosyl-L-methionine
+6	Q83WC3	N,N-dimethylglycine
+7	Q83WC3	S-adenosyl-L-methionine
+8	Q83WC3	sarcosine
+9	Q83WC3	more
+10	Q83WC3	S-adenosyl-L-methionine
+11	Q83WC3	glycine
+12	F6KV62	S-adenosyl-L-methionine
+13	F6KV62	N,N-dimethylglycine
+14	F6KV62	S-adenosyl-L-methionine
+15	F6KV62	sarcosine
+16	F6KV62	more
+0	Q9AVK0	S-adenosyl-L-methionine
+1	Q9AVK0	xanthosine
+2	Q9AVK0	S-adenosyl-L-methionine
+3	Q9AVK0	xanthosine
+4	Q9AVK0	more
+5	A4GE69	S-adenosyl-L-methionine
+6	A4GE69	xanthosine
+7	A4GE69	S-adenosyl-L-methionine
+8	A4GE69	xanthosine
+9	A4GE69	more
+0	Q9FZN8	S-adenosyl-L-methionine
+1	Q9FZN8	1-methylxanthine
+2	Q9FZN8	S-adenosyl-L-methionine
+3	Q9FZN8	3-methylxanthine
+4	Q9FZN8	S-adenosyl-L-methionine
+5	Q9FZN8	7-methylxanthine
+6	Q9FZN8	S-adenosyl-L-methionine
+7	Q9FZN8	7-methylxanthine
+8	Q9FZN8	more
+9	Q9FZN8	S-adenosyl-L-methionine
+10	Q9FZN8	3,7-dimethylxanthine
+11	Q9FZN8	S-adenosyl-L-methionine
+12	Q9FZN8	paraxanthine
+13	Q9FZN8	S-adenosyl-L-methionine
+14	Q9FZN8	paraxanthine
+15	Q8H0G0	S-adenosyl-L-methionine
+16	Q8H0G0	7-methylxanthine
+17	Q8H0G0	S-adenosyl-L-methionine
+18	Q8H0G0	7-methylxanthine
+19	Q8H0G0	more
+20	B6ZGN6	more
+21	B6ZGN6	S-adenosyl-L-methionine
+22	B6ZGN6	7-methylxanthine
+23	B6ZH67	more
+24	B6ZH67	S-adenosyl-L-methionine
+25	B6ZH67	7-methylxanthine
+26	B6ZH68	more
+27	B6ZH68	S-adenosyl-L-methionine
+28	B6ZH68	7-methylxanthine
+29	B6ZH69	more
+30	B6ZH69	S-adenosyl-L-methionine
+31	B6ZH69	7-methylxanthine
+32	B6ZH70	more
+33	B6ZH70	S-adenosyl-L-methionine
+34	B6ZH70	7-methylxanthine
+35	B6ZH71	more
+36	B6ZH71	S-adenosyl-L-methionine
+37	B6ZH71	7-methylxanthine
+38	Q9AVK1	S-adenosyl-L-methionine
+39	Q9AVK1	7-methylxanthine
+40	Q9AVK1	S-adenosyl-L-methionine
+41	Q9AVK1	7-methylxanthine
+42	Q9AVK1	S-adenosyl-L-methionine
+43	Q9AVK1	paraxanthine
+44	Q9AVK1	S-adenosyl-L-methionine
+45	Q9AVK1	paraxanthine
+46	Q8H0D3	S-adenosyl-L-methionine
+47	Q8H0D3	7-methylxanthine
+48	Q8H0D3	S-adenosyl-L-methionine
+49	Q8H0D3	7-methylxanthine
+50	Q8H0D3	more
+51	Q8H0D3	S-adenosyl-L-methionine
+52	Q8H0D3	paraxanthine
+53	Q8H0D3	S-adenosyl-L-methionine
+54	Q8H0D3	paraxanthine
+55	Q9AVJ9	S-adenosyl-L-methionine
+56	Q9AVJ9	7-methylxanthine
+57	Q9AVJ9	S-adenosyl-L-methionine
+58	Q9AVJ9	7-methylxanthine
+59	Q9AVJ9	S-adenosyl-L-methionine
+60	Q9AVJ9	paraxanthine
+61	Q9AVJ9	S-adenosyl-L-methionine
+62	Q9AVJ9	paraxanthine
+63	Q84PP7	S-adenosyl-L-methionine
+64	Q84PP7	7-methylxanthine
+65	Q84PP7	S-adenosyl-L-methionine
+66	Q84PP7	7-methylxanthine
+67	Q84PP7	S-adenosyl-L-methionine
+68	Q84PP7	paraxanthine
+69	Q84PP7	S-adenosyl-L-methionine
+70	Q84PP7	paraxanthine
+71	A4GE70	S-adenosyl-L-methionine
+72	A4GE70	7-methylxanthine
+73	A4GE70	S-adenosyl-L-methionine
+74	A4GE70	7-methylxanthine
+75	A4GE70	more
+76	A4GE70	S-adenosyl-L-methionine
+77	A4GE70	3,7-dimethylxanthine
+0	Q2HXL9	more
+1	Q2HXL9	S-adenosyl-L-methionine
+2	Q2HXL9	1,7-dimethylxanthine
+3	Q2HXI6	more
+4	Q2HXI6	S-adenosyl-L-methionine
+5	Q2HXI6	1,7-dimethylxanthine
+6	Q8H0D2	more
+7	Q8H0D2	S-adenosyl-L-methionine
+8	Q8H0D2	3,7-dimethylxanthine
+9	Q8H0D2	S-adenosyl-L-methionine
+10	Q8H0D2	3,7-dimethylxanthine
+11	Q8H0D2	S-adenosyl-L-methionine
+12	Q8H0D2	1,7-dimethylxanthine
+13	B9VI89	more
+14	B9VI89	S-adenosyl-L-methionine
+15	B9VI89	3,7-dimethylxanthine
+16	B9VI89	S-adenosyl-L-methionine
+17	B9VI89	3,7-dimethylxanthine
+18	B9VI89	S-adenosyl-L-methionine
+19	B9VI89	7-methylxanthine
+20	K9MNV5	S-adenosyl-L-methionine
+21	K9MNV5	3,7-dimethylxanthine
+22	K9MNV5	S-adenosyl-L-methionine
+23	K9MNV5	3,7-dimethylxanthine
+24	K9MNV5	S-adenosyl-L-methionine
+25	K9MNV5	7-methylxanthine
+26	Q2HXL8	more
+27	Q2HXL8	S-adenosyl-L-methionine
+28	Q2HXL8	1,7-dimethylxanthine
+29	Q8H0D3	more
+30	Q8H0D3	S-adenosyl-L-methionine
+31	Q8H0D3	3,7-dimethylxanthine
+32	Q8H0D3	S-adenosyl-L-methionine
+33	Q8H0D3	3,7-dimethylxanthine
+34	Q8H0D3	S-adenosyl-L-methionine
+35	Q8H0D3	7-methylxanthine
+36	Q9AVJ9	S-adenosyl-L-methionine
+37	Q9AVJ9	3,7-dimethylxanthine
+38	Q9AVJ9	S-adenosyl-L-methionine
+39	Q9AVJ9	3,7-dimethylxanthine
+40	A4GE70	more
+41	A4GE70	S-adenosyl-L-methionine
+42	A4GE70	3,7-dimethylxanthine
+43	A4GE70	S-adenosyl-L-methionine
+44	A4GE70	3,7-dimethylxanthine
+45	Q9FZN8	more
+46	Q9FZN8	S-adenosyl-L-methionine
+47	Q9FZN8	3,7-dimethylxanthine
+48	Q9FZN8	S-adenosyl-L-methionine
+49	Q9FZN8	3,7-dimethylxanthine
+50	Q9FZN8	S-adenosyl-L-methionine
+51	Q9FZN8	1-methylxanthine
+52	Q9FZN8	S-adenosyl-L-methionine
+53	Q9FZN8	3-methylxanthine
+54	Q9FZN8	S-adenosyl-L-methionine
+55	Q9FZN8	1,7-dimethylxanthine
+0	Q7U4Z9	S-adenosyl-L-methionine
+1	Q7U4Z9	N,N-dimethylglycine
+2	Q7U4Z9	more
+0	B8BQQ3	S-adenosyl-L-methionine
+1	B8BQQ3	N,N-dimethylglycine
+2	B8BQQ3	S-adenosyl-L-methionine
+3	B8BQQ3	glycine
+4	B8BQQ3	S-adenosyl-L-methionine
+5	B8BQQ3	sarcosine
+6	B8BQQ3	more
+0	P0A887	6-methoxy-2-octaprenyl-1,4-benzoquinol
+1	P0A887	S-adenosyl-L-methionine
+2	P0A887	demethylmenaquinol
+3	P0A887	S-adenosyl-L-methionine
+4	O86169	2-heptaprenyl-6-methoxy-1,4-benzoquinone
+5	O86169	S-adenosyl-L-methionine
+0	Q8KZ94	4'-demethylrebeccamycin
+1	Q8KZ94	S-adenosyl-L-methionine
+2	Q8KZ94	3-bromo-11-beta-D-glucopyranosyl-11,12-dihydroindolo[2,3-a]carbazole
+3	Q8KZ94	S-adenosyl-L-methionine
+4	Q8KZ94	3-bromo-12-beta-D-glucopyranosyl-11,12-dihydroindolo[2,3-a]carbazole
+5	Q8KZ94	S-adenosyl-L-methionine
+6	Q8KZ94	dechlorinated 4'-demethyl-rebeccamycin
+7	Q8KZ94	5'-[[(3S)-3-amino-3-carboxypropyl](2-iodoethyl)ammonio]-5' deoxyadenosine
+8	Q8KZ94	dechlorinated 4'-demethyl-rebeccamycin
+9	Q8KZ94	S-adenosyl-L-methionine
+10	Q8KZ94	dechlorinated 5-deoxo-4'-demethyl-rebeccamycin
+11	Q8KZ94	S-adenosyl-L-methionine
+12	Q8KZ94	dechlorinated 6-[3-(1H-imidazol-1-yl)propyl]-4'-demethyl-rebeccamycin
+13	Q8KZ94	S-adenosyl-L-methionine
+14	Q8KZ94	dechlorinated 6-methyl-2'-deoxy-4'-demethyl-alpha-D-Glc-rebeccamycin
+15	Q8KZ94	S-adenosyl-L-methionine
+16	Q8KZ94	dechlorinated 6-methyl-2'-deoxy-4'-demethyl-rebeccamycin
+17	Q8KZ94	S-adenosyl-L-methionine
+18	Q8KZ94	dechlorinated 7-deoxo-4'-demethyl-rebeccamycin
+19	Q8KZ94	S-adenosyl-L-methionine
+20	Q8KZ94	more
+0	Q9ZSZ7	S-adenosyl-L-methionine
+1	Q9ZSZ7	iodide
+2	Q9ZSZ7	S-adenosyl-L-methionine
+3	Q9ZSZ7	bromide
+4	Q9ZSZ7	more
+5	Q9ZSZ7	S-adenosyl-L-methionine
+6	Q9ZSZ7	chloride
+7	Q0WP12	S-adenosyl-L-methionine
+8	Q0WP12	iodide
+9	Q0WP12	more
+10	Q0WP12	S-adenosyl-L-methionine
+11	Q0WP12	chloride
+12	C6L2E7	S-adenosyl-L-methionine
+13	C6L2E7	iodide
+14	C6L2E7	S-adenosyl-L-methionine
+15	C6L2E7	bromide
+16	C6L2E7	more
+17	C6L2E7	S-adenosyl-L-methionine
+18	C6L2E7	chloride
+19	Q6AWU6	S-adenosyl-L-methionine
+20	Q6AWU6	iodide
+21	Q6AWU6	more
+22	Q6AWU6	S-adenosyl-L-methionine
+23	Q6AWU6	chloride
+24	O80562	S-adenosyl-L-methionine
+25	O80562	iodide
+26	O80562	more
+27	O80562	S-adenosyl-L-methionine
+28	O80562	chloride
+0	A0A140N5X9	S-adenosyl-L-methionine
+1	A0A140N5X9	uridine2552 in 23S rRNA
+0	P25582	S-adenosyl-L-methionine
+1	P25582	uridine2918 in 25S rRNA
+2	P25582	more
+0	P53123	S-adenosyl-L-methionine
+1	P53123	uridine2791 in 21S rRNA
+0	Q38J50	S-adenosyl-L-methionine
+1	Q38J50	5-hydroxyferulic acid
+2	Q38J50	S-adenosyl-L-methionine
+3	Q38J50	tricetin
+4	Q38J50	more
+5	Q38J50	3 S-adenosyl-L-methionine
+6	Q38J50	tricetin
+7	Q38J50	S-adenosyl-L-methionine
+8	Q38J50	3',5'-O-dimethyltricetin
+9	Q38J50	S-adenosyl-L-methionine
+10	Q38J50	3'-O-methyltricetin
+11	Q38J50	S-adenosyl-L-methionine
+12	Q38J50	tricetin
+13	Q84N28	3 S-adenosyl-L-methionine
+14	Q84N28	tricetin
+15	Q84N28	S-adenosyl-L-methionine
+16	Q84N28	3',5'-O-dimethyltricetin
+17	Q84N28	S-adenosyl-L-methionine
+18	Q84N28	3'-O-methyltricetin
+19	Q84N28	S-adenosyl-L-methionine
+20	Q84N28	tricetin
+0	Q9UBM1	more
+1	Q08388	3 S-adenosyl-L-methionine
+2	Q08388	phosphatidylethanolamine
+0	Q9LCY2	S-adenosyl-L-methionine
+1	Q9LCY2	guanine527 in 16S rRNA
+2	P0A6U5	S-adenosyl-L-methionine
+3	P0A6U5	guanine527 in 16S rRNA
+0	P0ADX9	S-adenosyl-L-methionine
+1	P0ADX9	guanine966 in 16S rRNA
+2	P95128	S-adenosyl-L-methionine
+3	P95128	guanine966 in 16S rRNA
+4	P95128	S-adenosyl-L-methionine
+5	P95128	guanine966 in 30S rRNA
+6	P95128	more
+0	P39406	S-adenosyl-L-methionine
+1	P39406	guanine1207 in 16S rRNA
+0	P75864	S-adenosyl-L-methionine
+1	P75864	guanine2445 in 23S rRNA
+2	P75864	more
+3	P75864	S-adenosyl-L-methionine
+4	P75864	guanine2069 in 23S rRNA
+0	Q0T0I4	S-adenosyl-L-methionine
+1	Q0T0I4	guanine1835 in 23S rRNA
+2	P42596	S-adenosyl-L-methionine
+3	P42596	guanine1835 in 23S rRNA
+4	P42596	more
+0	Q9XGP7	2 S-adenosyl-L-methionine
+1	Q9XGP7	tricetin
+2	Q9XGP7	S-adenosyl-L-methionine
+3	Q9XGP7	3'-O-methyltricetin
+4	Q9XGP7	S-adenosyl-L-methionine
+5	Q9XGP7	tricetin
+0	P36929	S-adenosyl-L-methionine
+1	P36929	cytosine967 in 16S rRNA
+2	O58581	S-adenosyl-L-methionine
+3	O58581	cytosine967 in 16S rRNA
+0	P0A8I8	S-adenosyl-L-methionine
+1	P0A8I8	pseudouridine1915 in 23S rRNA
+0	P76273	S-adenosyl-L-methionine
+1	P76273	cytosine1407 in 16S rRNA
+2	Q5SJI2	S-adenosyl-L-methionine
+3	Q5SJI2	cytosine1407 in 16S rRNA
+4	Q5SJI2	S-adenosyl-L-methionine
+5	Q5SJI2	cytosine1400 in 16S rRNA
+6	Q5SJI2	S-adenosyl-L-methionine
+7	Q5SJI2	cytosine1404 in 16S rRNA
+8	Q5SJI2	more
+0	Q5Y813	S-adenosyl-L-methionine
+1	Q5Y813	cytosine1405 in 16S rRNA
+2	O52472	S-adenosyl-L-methionine
+3	O52472	cytosine1405 in 16S rRNA
+4	Q75PS4	S-adenosyl-L-methionine
+5	Q75PS4	cytosine1405 in 16S rRNA
+6	I1YZZ5	S-adenosyl-L-methionine
+7	I1YZZ5	cytosine1405 in 16S rRNA
+8	Q76G15	S-adenosyl-L-methionine
+9	Q76G15	cytosine1405 in 16S rRNA
+10	Q8GRA1	S-adenosyl-L-methionine
+11	Q8GRA1	cytosine1405 in 16S rRNA
+12	A0MK31	S-adenosyl-L-methionine
+13	A0MK31	cytosine1405 in 16S rRNA
+14	E9N3S1	S-adenosyl-L-methionine
+15	E9N3S1	cytosine1405 in 16S rRNA
+16	Q08325	S-adenosyl-L-methionine
+17	Q08325	cytosine1405 in 16S rRNA
+18	P24619	S-adenosyl-L-methionine
+19	P24619	cytosine1405 in 16S rRNA
+20	Q7M0R2	S-adenosyl-L-methionine
+21	Q7M0R2	guanine1405 in 16S rRNA
+22	Q7M0R2	S-adenosyl-L-methionine
+23	Q7M0R2	guanine1405 in 16S rRNA
+24	Q7M0R2	S-adenosyl-L-methionine
+25	Q7M0R2	cytosine1405 in 16S rRNA
+26	Q70KC8	S-adenosyl-L-methionine
+27	Q70KC8	guanine1405 in 16S rRNA
+28	Q70KC8	S-adenosyl-L-methionine
+29	Q70KC8	cytosine1405 in 16S rRNA
+30	Q2J7L5	S-adenosyl-L-methionine
+31	Q2J7L5	guanine1405 in 16S rRNA
+32	Q33DX5	S-adenosyl-L-methionine
+33	Q33DX5	guanine1405 in 16S rRNA
+34	Q33DX5	S-adenosyl-L-methionine
+35	Q33DX5	cytosine1405 in 16S rRNA
+0	B2L3G9	S-adenosyl-L-methionine
+1	B2L3G9	adenine1408 in 16S rRNA
+2	B2L3G9	more
+3	A8C927	S-adenosyl-L-methionine
+4	A8C927	adenine1408 in 16S rRNA
+5	A8C927	S-adenosyl-L-methionine
+6	A8C927	adenosine1408 in 16S rRNA
+7	A8C927	sinefungin
+8	A8C927	adenine1408 in 16S rRNA
+9	A8C927	more
+0	P75782	S-adenosyl-L-methionine
+1	P75782	adenine1618 in 23S rRNA
+0	Q5SM60	4 S-adenosyl-L-methionine
+1	Q5SM60	adenine1518/adenine1519 in 16S rRNA
+0	C7GSG6	4 S-adenosyl-L-methionine
+1	C7GSG6	adenine1779/1780 in 18S rRNA
+2	C7GSG6	4 S-adenosyl-L-methionine
+3	C7GSG6	adenine1779/adenine1780 in 18S rRNA
+4	C7GSG6	4 S-adenosyl-L-methionine
+5	C7GSG6	adenine1779/adenine1780 in 18S rRNA
+6	C7GSG6	4 S-adenosyl-L-methionine
+7	C7GSG6	adenine1779/adenine1780 in 18S rRNA
+8	C7GSG6	more
+0	P13956	2 S-adenosyl-L-methionine
+1	P13956	adenine2085 in 23S rRNA
+2	P13956	2 S-adenosyl-L-methionine
+3	P13956	adenine2085 in a 262-nucleotide RNA fragment within domain V of Bacillus subtilis 23S rRNA
+4	P13956	2 S-adenosyl-L-methionine
+5	P13956	adenine2085 in a 623-nucleotide RNA fragment within domain V of Bacillus subtilis 23S rRNA
+6	P13956	2 S-adenosyl-L-methionine
+7	P13956	adenine2085 in a 623-nucleotide RNA fragment within domain V of Bacillus subtilis 23S rRNA with mutation A2086T
+8	P13956	S-adenosyl-L-methionine
+9	P13956	23S rRNA
+10	P13956	S-adenosyl-L-methionine
+11	P13956	262-nucleotide RNA fragment within domain V of Bacillus subtilis 23S rRNA
+12	P13956	S-adenosyl-L-methionine
+13	P13956	623-nucleotide RNA fragment within domain V of Bacillus subtilis 23S rRNA
+14	P13956	S-adenosyl-L-methionine
+15	P13956	623-nucleotide RNA fragment within domain V of Bacillus subtilis 23S rRNA with mutation A2086T
+16	P13956	more
+0	P63177	S-adenosyl-L-methionine
+1	P63177	guanosine2251 in 23S rRNA
+0	P0ADR6	S-adenosyl-L-methionine
+1	P0ADR6	cytidine2498 in 23S rRNA
+0	Q9AEP4	S-adenosyl-L-methionine
+1	Q9AEP4	guanine745 in 23S rRNA
+2	P36999	S-adenosyl-L-methionine
+3	P36999	guanine745 in 23S rRNA
+4	C1DSW3	S-adenosyl-L-methionine
+5	C1DSW3	guanine745 in 23S rRNA
+6	A4VMZ0	S-adenosyl-L-methionine
+7	A4VMZ0	guanine745 in 23S rRNA
+8	Q48F48	S-adenosyl-L-methionine
+9	Q48F48	guanine745 in 23S rRNA
+0	Q9S1M6	S-adenosyl-L-methionine
+1	Q9S1M6	guanine748 in 23S rRNA
+2	Q9S1M6	S-adenosyl-L-methionine
+3	Q9S1M6	guanine748 in 23S rRNA
+0	P75817	S-adenosyl-L-methionine
+1	P75817	uracil747 in 23S rRNA
+2	O31503	S-adenosyl-L-methionine
+3	O31503	uracil747 in 23S rRNA
+4	O31503	more
+5	Q97R12	more
+6	Q97R12	S-adenosyl-L-methionine
+7	Q97R12	5'-740GGCACGUUGAAAAGUGCC757-3'
+0	P55135	S-adenosyl-L-methionine
+1	P55135	uracil1939 in 23S rRNA
+2	Q2SS13	S-adenosyl-L-methionine
+3	Q2SS13	uracil1939 in 23S rRNA
+4	Q97R12	more
+0	P75876	S-adenosyl-L-methionine
+1	P75876	cytosine1962 in 23S rRNA
+2	P75876	S-adenosyl-L-methionine
+3	P75876	cytosine1962 in 23S rRNA
+0	P36979	2 S-adenosyl-L-methionine
+1	P36979	adenine2503 in 23S rRNA
+2	Q9FBG4	S-adenosyl-L-methionine
+3	Q9FBG4	adenine2503 in 23S rRNA
+4	Q5SGZ3	2 S-adenosyl-L-methionine
+5	Q5SGZ3	adenine2503 in 23S rRNA
+6	Q5SGZ3	2 reduced [4Fe-4S] ferredoxin
+7	O34617	2 S-adenosyl-L-methionine
+8	O34617	adenine2503 in 23S rRNA
+9	O34617	2 reduced [4Fe-4S] ferredoxin
+10	P36979	more
+11	P36979	2 S-adenosyl-L-methionine
+12	P36979	adenine2503 in 23S rRNA
+13	P36979	2 reduced [2Fe-2S] ferredoxin
+14	P36979	2 S-adenosyl-L-methionine
+15	P36979	adenine37 in tRNAArg(ACG)
+16	P36979	2 reduced [2Fe-2S] ferredoxin
+17	P36979	2 S-adenosyl-L-methionine
+18	P36979	adenine37 in tRNAAsp(GUC)
+19	P36979	2 reduced [2Fe-2S] ferredoxin
+20	P36979	2 S-adenosyl-L-methionine
+21	P36979	adenine37 in tRNAGln(CUG)
+22	P36979	2 reduced [2Fe-2S] ferredoxin
+23	P36979	2 S-adenosyl-L-methionine
+24	P36979	adenine37 in tRNAGln(UUG)
+25	P36979	2 reduced [2Fe-2S] ferredoxin
+26	P36979	2 S-adenosyl-L-methionine
+27	P36979	adenine37 in tRNAGlu(UUC)
+28	P36979	2 reduced [2Fe-2S] ferredoxin
+29	P36979	2 S-adenosyl-L-methionine
+30	P36979	adenine37 in tRNAHis(GUG)
+31	P36979	2 reduced [2Fe-2S] ferredoxin
+32	P36979	2 S-adenosyl-L-methionine
+33	P36979	adenine2503 in 23S rRNA
+34	P36979	2 reduced [2Fe-2S] ferredoxin
+35	P36979	2 S-adenosyl-L-methionine
+36	P36979	adenine37 in tRNA
+37	P36979	2 reduced [2Fe-2S] ferredoxin
+38	A0A1X0U0N1	more
+39	A0A1X0U0N1	2 S-adenosyl-L-methionine
+40	A0A1X0U0N1	adenine2503 in 23S rRNA
+41	A0A1X0U0N1	2 reduced [2Fe-2S] ferredoxin
+42	A0A1X0U0N1	2 S-adenosyl-L-methionine
+43	A0A1X0U0N1	adenine37 in tRNA
+44	A0A1X0U0N1	2 reduced [2Fe-2S] ferredoxin
+0	P0AGL7	S-adenosyl-L-methionine
+1	P0AGL7	uracil1498 in 16S rRNA
+2	P9WGX1	S-adenosyl-L-methionine
+3	P9WGX1	uracil1498 in 16S rRNA
+4	Q9I694	S-adenosyl-L-methionine
+5	Q9I694	uracil1498 in 16S rRNA
+0	Q87693	cobalt-precorrin-5B
+1	Q87693	S-adenosyl-L-methionine
+0	Q731I1	S-adenosyl-L-methionine
+1	Q731I1	malonyl-CoA
+2	Q731I1	S-adenosyl-L-methionine
+3	Q731I1	malonyl-[acyl-carrier protein]
+4	Q731I1	more
+0	P67087	S-adenosyl-L-methionine
+1	P67087	cytidine1402 in 16S rRNA
+0	P60390	S-adenosyl-L-methionine
+1	P60390	cytosine1402 in 16S rRNA
+2	P60390	S-adenosyl-L-methionine
+3	P60390	cytidine1402 in 16S rRNA
+0	Q3S316	S-adenosyl-L-methionine
+1	Q3S316	guanidinoacetate
+2	Q3S316	S-adenosyl-L-methionine
+3	Q3S316	guanidinoacetate
+4	P10868	S-adenosyl-L-methionine
+5	P10868	guanidinoacetate
+6	P10868	S-adenosyl-L-methionine
+7	P10868	guanidinoacetate
+0	Q29555	S-adenosyl-L-methionine
+1	Q29555	glycine
+2	P13255	S-adenosyl-L-methionine
+3	P13255	glycine
+4	P13255	S-adenosyl-L-methionine
+5	P13255	glycine
+6	P13255	more
+7	Q9QXF8	S-adenosyl-L-methionine
+8	Q9QXF8	glycine
+9	Q9QXF8	more
+10	Q14749	S-adenosyl-L-methionine
+11	Q14749	glycine
+12	Q14749	more
+0	P0AE01	S-adenosyl-L-methionine
+1	P0AE01	nucleoside32 in EctRNAGln1(UUG)
+2	P0AE01	S-adenosyl-L-methionine
+3	P0AE01	nucleoside32 in EctRNAGln2(CUG)
+4	P0AE01	S-adenosyl-L-methionine
+5	P0AE01	nucleoside32 in EctRNASer1(UGA)
+6	P0AE01	S-adenosyl-L-methionine
+7	P0AE01	nucleoside32 in EctRNATrp1(CCA)
+8	P0AE01	S-adenosyl-L-methionine
+9	P0AE01	nucleoside32 in EctRNAfMet1(CAU)
+10	P0AE01	S-adenosyl-L-methionine
+11	P0AE01	nucleoside32 in EctRNAfMet2(CAU)
+12	P0AE01	S-adenosyl-L-methionine
+13	P0AE01	nucleoside32 in tRNA
+14	P0AE01	S-adenosyl-L-methionine
+15	P0AE01	uridine32 in tRNA
+16	P0AE01	S-adenosyl-L-methionine
+17	P0AE01	cytidine32 in tRNA
+18	P0AE01	more
+19	Q4JB16	S-adenosyl-L-methionine
+20	Q4JB16	cytidine32 in tRNA
+21	A0A0H2ZF87	S-adenosyl-L-methionine
+22	A0A0H2ZF87	cytidine32 in tRNA
+23	A0A0H2ZF87	more
+24	A0A0H2ZF87	S-adenosyl-L-methionine
+25	A0A0H2ZF87	adenine32 in tRNAPro(GGG)
+26	A0A0H2ZF87	S-adenosyl-L-methionine
+27	A0A0H2ZF87	cytidine32 in tRNAMet(CAU)
+28	A0A0H2ZF87	S-adenosyl-L-methionine
+29	A0A0H2ZF87	cytidine32 in tRNATrp(CCA)
+30	A0A0H2ZF87	S-adenosyl-L-methionine
+31	A0A0H2ZF87	uridine32 in tRNAGln(UUG)
+32	A0A0H2ZF87	S-adenosyl-L-methionine
+33	A0A0H2ZF87	uridine32 in tRNAPro(CGG)
+34	A0A0H2ZF87	S-adenosyl-L-methionine
+35	A0A0H2ZF87	uridine32 in tRNAPro(UGG)
+0	P49017	S-adenosyl-L-methionine
+1	P49017	2-methoxy-6-(all-trans-hexaprenyl)-1,4-benzoquinol
+2	P49017	S-adenosyl-L-methionine
+3	P49017	2-methoxy-6-all-trans-polyprenyl-1,4-benzoquinol
+4	P49017	S-adenosyl-L-methionine
+5	P49017	2-methoxy-6-polyprenyl-1,4-benzoquinol
+6	P49017	S-adenosyl-L-methionine
+7	P49017	6-((2-trans,6-trans)-farnesyl)-2-methoxy-1,4-benzoquinone
+0	Q08J23	more
+1	Q08J23	S-adenosyl-L-methionine
+2	Q08J23	cytosine15 in vtRNA1.3
+3	Q08J23	S-adenosyl-L-methionine
+4	Q08J23	cytosine27 in vtRNA1.2
+5	Q08J23	S-adenosyl-L-methionine
+6	Q08J23	cytosine27 in vtRNA1.3
+7	Q08J23	S-adenosyl-L-methionine
+8	Q08J23	cytosine4( in tRNAPro(AGG)
+9	Q08J23	S-adenosyl-L-methionine
+10	Q08J23	cytosine48 in tRNAAla(AGC)
+11	Q08J23	S-adenosyl-L-methionine
+12	Q08J23	cytosine48 in tRNAAla(CGC)
+13	Q08J23	S-adenosyl-L-methionine
+14	Q08J23	cytosine48 in tRNAAla(UGC)
+15	Q08J23	S-adenosyl-L-methionine
+16	Q08J23	cytosine48 in tRNAAsp(GUC)
+17	Q08J23	S-adenosyl-L-methionine
+18	Q08J23	cytosine48 in tRNAGln(CUG)
+19	Q08J23	S-adenosyl-L-methionine
+20	Q08J23	cytosine48 in tRNAGln(UUG)
+21	Q08J23	S-adenosyl-L-methionine
+22	Q08J23	cytosine48 in tRNAGlu(CUC)
+23	Q08J23	S-adenosyl-L-methionine
+24	Q08J23	cytosine48 in tRNAGlu(UUC)
+25	Q08J23	S-adenosyl-L-methionine
+26	Q08J23	cytosine48 in tRNAGly(CCC)
+27	Q08J23	S-adenosyl-L-methionine
+28	Q08J23	cytosine48 in tRNAGly(GCC)
+29	Q08J23	S-adenosyl-L-methionine
+30	Q08J23	cytosine48 in tRNAGly(UCC)
+31	Q08J23	S-adenosyl-L-methionine
+32	Q08J23	cytosine48 in tRNAHis(GUG)
+33	Q08J23	S-adenosyl-L-methionine
+34	Q08J23	cytosine48 in tRNAIle(AAU)
+35	Q08J23	S-adenosyl-L-methionine
+36	Q08J23	cytosine48 in tRNALeu(AAG)
+37	Q08J23	S-adenosyl-L-methionine
+38	Q08J23	cytosine48 in tRNALeu(CAA) precursor
+39	Q08J23	S-adenosyl-L-methionine
+40	Q08J23	cytosine48 in tRNALeu(CAG)
+41	Q08J23	S-adenosyl-L-methionine
+42	Q08J23	cytosine48 in tRNALeu(UAA)
+43	Q08J23	S-adenosyl-L-methionine
+44	Q08J23	cytosine48 in tRNALeu(UAG)
+45	Q08J23	S-adenosyl-L-methionine
+46	Q08J23	cytosine48 in tRNALys(CUU)
+47	Q08J23	S-adenosyl-L-methionine
+48	Q08J23	cytosine48 in tRNALys(UUU)
+49	Q08J23	S-adenosyl-L-methionine
+50	Q08J23	cytosine48 in tRNAMet(CAU)
+51	Q08J23	S-adenosyl-L-methionine
+52	Q08J23	cytosine48 in tRNAPhe(GAA)
+53	Q08J23	S-adenosyl-L-methionine
+54	Q08J23	cytosine48 in tRNAPro(CGG)
+55	Q08J23	S-adenosyl-L-methionine
+56	Q08J23	cytosine48 in tRNAPro(UGG)
+57	Q08J23	S-adenosyl-L-methionine
+58	Q08J23	cytosine48 in tRNASer(AGA)
+59	Q08J23	S-adenosyl-L-methionine
+60	Q08J23	cytosine48 in tRNASer(CGA)
+61	Q08J23	S-adenosyl-L-methionine
+62	Q08J23	cytosine48 in tRNASer(GCU)
+63	Q08J23	S-adenosyl-L-methionine
+64	Q08J23	cytosine48 in tRNASer(UGA)
+65	Q08J23	S-adenosyl-L-methionine
+66	Q08J23	cytosine48 in tRNAThr(AGU)
+67	Q08J23	S-adenosyl-L-methionine
+68	Q08J23	cytosine48 in tRNAThr(CGT)
+69	Q08J23	S-adenosyl-L-methionine
+70	Q08J23	cytosine48 in tRNAThr(UGU)
+71	Q08J23	S-adenosyl-L-methionine
+72	Q08J23	cytosine48 in tRNATyr(GUA)
+73	Q08J23	S-adenosyl-L-methionine
+74	Q08J23	cytosine48 in tRNAVal(AAC)
+75	Q08J23	S-adenosyl-L-methionine
+76	Q08J23	cytosine48 in tRNAVal(CAC)
+77	Q08J23	S-adenosyl-L-methionine
+78	Q08J23	cytosine48 in tRNAVal(UAC)
+79	Q08J23	S-adenosyl-L-methionine
+80	Q08J23	cytosine49 in tRNAAsp(GUC)
+81	Q08J23	S-adenosyl-L-methionine
+82	Q08J23	cytosine49 in tRNAGln(CUG)
+83	Q08J23	S-adenosyl-L-methionine
+84	Q08J23	cytosine49 in tRNAGln(UUG)
+85	Q08J23	S-adenosyl-L-methionine
+86	Q08J23	cytosine49 in tRNAGlu(CUC)
+87	Q08J23	S-adenosyl-L-methionine
+88	Q08J23	cytosine49 in tRNAGlu(UUC)
+89	Q08J23	S-adenosyl-L-methionine
+90	Q08J23	cytosine49 in tRNAGly(CCC)
+91	Q08J23	S-adenosyl-L-methionine
+92	Q08J23	cytosine49 in tRNAGly(GCC)
+93	Q08J23	S-adenosyl-L-methionine
+94	Q08J23	cytosine49 in tRNAGly(UCC)
+95	Q08J23	S-adenosyl-L-methionine
+96	Q08J23	cytosine49 in tRNALys(UUU)
+97	Q08J23	S-adenosyl-L-methionine
+98	Q08J23	cytosine49 in tRNAPhe(GAA)
+99	Q08J23	S-adenosyl-L-methionine
+100	Q08J23	cytosine49 in tRNAPro(AGG)
+101	Q08J23	S-adenosyl-L-methionine
+102	Q08J23	cytosine49 in tRNAPro(UGG)
+103	Q08J23	S-adenosyl-L-methionine
+104	Q08J23	cytosine49 in tRNAThr(AGU)
+105	Q08J23	S-adenosyl-L-methionine
+106	Q08J23	cytosine49 in tRNAVal(AAC)
+107	Q08J23	S-adenosyl-L-methionine
+108	Q08J23	cytosine49 in tRNAVal(CAC)
+109	Q08J23	S-adenosyl-L-methionine
+110	Q08J23	cytosine49 in tRNAVal(UAC)
+111	Q08J23	S-adenosyl-L-methionine
+112	Q08J23	cytosine50 in tRNAGlu(CUC)
+113	Q08J23	S-adenosyl-L-methionine
+114	Q08J23	cytosine50 in tRNAGlu(UUC)
+115	Q08J23	S-adenosyl-L-methionine
+116	Q08J23	cytosine50 in tRNAGly(CCC)
+117	Q08J23	S-adenosyl-L-methionine
+118	Q08J23	cytosine50 in tRNAGly(GCC)
+119	Q08J23	S-adenosyl-L-methionine
+120	Q08J23	cytosine50 in tRNAGly(UCC)
+121	Q08J23	S-adenosyl-L-methionine
+122	Q08J23	cytosine50 in tRNAPro(AGG)
+123	Q08J23	S-adenosyl-L-methionine
+124	Q08J23	cytosine50 in tRNAPro(UGG)
+125	Q08J23	S-adenosyl-L-methionine
+126	Q08J23	cytosine59 in vtRNA1.2
+127	Q08J23	S-adenosyl-L-methionine
+128	Q08J23	cytosine59 in vtRNA1.3
+129	Q08J23	S-adenosyl-L-methionine
+130	Q08J23	cytosine69 in vtRNA1.1
+131	Q08J23	S-adenosyl-L-methionine
+132	Q08J23	cytosine49 in tRNAPro(CGG)
+133	Q08J23	S-adenosyl-L-methionine
+134	Q08J23	cytosine50 in tRNAPro(CGG)
+135	Q08J23	S-adenosyl-L-methionine
+136	Q08J23	cytosine40 in tRNA
+137	Q08J23	S-adenosyl-L-methionine
+138	Q08J23	cytosine34 in tRNA
+139	O14717	S-adenosyl-L-methionine
+140	O14717	CpG-rich ssRNA (5'-CGCGCGCGCGCG-3')
+141	O14717	S-adenosyl-L-methionine
+142	O14717	cytosine in tRNALeu(CAA)
+143	Q8TEA1	more
+144	Q8TEA1	S-adenosyl-L-methionine
+145	Q8TEA1	cytosine72 in tRNACys(GCA)
+146	Q8TEA1	S-adenosyl-L-methionine
+147	Q8TEA1	cytosine72 in tRNACys(GCA)-G2A:C71U
+148	Q8TEA1	S-adenosyl-L-methionine
+149	Q8TEA1	cytosine72 in tRNACys
+150	Q8TEA1	S-adenosyl-L-methionine
+151	Q8TEA1	cytosine72 in tRNAThr
+152	O57712	more
+153	O57712	S-adenosyl-L-methionine
+154	O57712	cytosine72 in tRNACys
+155	O57712	S-adenosyl-L-methionine
+156	O57712	cytosine72 in tRNAThr
+157	Q9HGQ2	more
+158	Q9HGQ2	S-adenosyl-L-methionine
+159	Q9HGQ2	cytosine34 in tRNAPro(CGG)
+160	Q9HGQ2	S-adenosyl-L-methionine
+161	Q9HGQ2	cytosine48 in tRNALeu(CAA)
+162	Q9HGQ2	S-adenosyl-L-methionine
+163	Q9HGQ2	cytosine48 in tRNA
+164	Q9HGQ2	S-adenosyl-L-methionine
+165	Q9HGQ2	cytosine34 in tRNA
+166	O13935	more
+167	O13935	S-adenosyl-L-methionine
+168	O13935	cytosine49 in tRNAPro(CGG)
+169	O13935	S-adenosyl-L-methionine
+170	O13935	cytosine50 in tRNAPro(CGG)
+171	O13935	S-adenosyl-L-methionine
+172	O13935	cytosine50 in tRNA
+173	O13935	S-adenosyl-L-methionine
+174	O13935	cytosine49 in tRNA
+175	P38205	S-adenosyl-L-methionine
+176	P38205	cytosine48 in tRNA
+177	P38205	S-adenosyl-L-methionine
+178	P38205	cytosine34 in tRNA precursor
+179	P38205	S-adenosyl-L-methionine
+180	P38205	cytosine40 in tRNA
+181	P38205	S-adenosyl-L-methionine
+182	P38205	cytosine34 in tRNA
+183	P38205	S-adenosyl-L-methionine
+184	P38205	cytosine49 in tRNA
+185	P38205	S-adenosyl-L-methionine
+186	P38205	cytosine40 in tRNA precursor
+0	Q08J23	more
+1	Q08J23	S-adenosyl-L-methionine
+2	Q08J23	cytosine34 in tRNA precursor
+3	Q08J23	S-adenosyl-L-methionine
+4	Q08J23	cytosine34 in tRNA
+5	Q08J23	S-adenosyl-L-methionine
+6	Q08J23	cytosine34 in tRNALeu(CAG) precursor
+7	P40999	S-adenosyl-L-methionine
+8	P40999	cytosine34 in tRNAPro
+9	Q9H649	S-adenosyl-L-methionine
+10	Q9H649	cytidine34 in mitochondrial tRNA
+11	Q9H649	S-adenosyl-L-methionine
+12	Q9H649	cytosine34 in mitochondrial tRNAMet(AUA) precursor
+13	Q9H649	S-adenosyl-L-methionine
+14	Q9H649	cytosine34 in mitochondrial tRNAMet precursor
+15	Q54JH6	S-adenosyl-L-methionine
+16	Q54JH6	cytosine34 in tRNAPro
+17	Q9W4M9	S-adenosyl-L-methionine
+18	Q9W4M9	cytosine34 in tRNA precursor
+19	Q9H649	more
+20	Q9H649	S-adenosyl-L-methionine
+21	Q9H649	cytosine34 in mitochondrial tRNAMet precursor
+0	O14717	S-adenosyl-L-methionine
+1	O14717	cytosine38 in tRNAAsp
+2	O14717	more
+3	O14717	S-adenosyl-L-methionine
+4	O14717	cytosine38 in tRNA
+5	Q9U6H7	S-adenosyl-L-methionine
+6	Q9U6H7	cytosine38 in tRNA-Asp(GUC)
+7	Q9U6H7	S-adenosyl-L-methionine
+8	Q9U6H7	cytosine38 in tRNAVal(AAC)
+9	Q9U6H7	S-adenosyl-L-methionine
+10	Q9U6H7	cytosine38 in tRNA
+11	Q9U6H7	S-adenosyl-L-methionine
+12	Q9U6H7	cytosine38 in tRNAGly(GCC)
+13	P40999	S-adenosyl-L-methionine
+14	P40999	cytosine38 in G34tRNAAsp
+15	P40999	S-adenosyl-L-methionine
+16	P40999	cytosine38 in Q34tRNAAsp
+17	P40999	S-adenosyl-L-methionine
+18	P40999	cytosine38 in tRNAGlu
+19	P40999	S-adenosyl-L-methionine
+20	P40999	cytosine38 in tRNAAsp
+21	P40999	more
+22	P40999	S-adenosyl-L-methionine
+23	P40999	cytosine38 in tRNA
+24	Q9VKB3	S-adenosyl-L-methionine
+25	Q9VKB3	cytosine38 in tRNAAsp
+26	Q9VKB3	more
+27	Q9VKB3	S-adenosyl-L-methionine
+28	Q9VKB3	cytosine38 in tRNA
+29	Q8IBI4	S-adenosyl-L-methionine
+30	Q8IBI4	cytosine38 in tRNAVal
+31	Q8IBI4	S-adenosyl-L-methionine
+32	Q8IBI4	cytosine38 in tRNAAsp
+33	Q8IBI4	more
+34	O55055	S-adenosyl-L-methionine
+35	O55055	cytosine38 in tRNAAsp
+36	O55055	more
+37	O55055	S-adenosyl-L-methionine
+38	O55055	cytosine38 in tRNA
+39	O55055	S-adenosyl-L-methionine
+40	O55055	cytosine38 in tRNAAspGTC
+41	O55055	S-adenosyl-L-methionine
+42	O55055	cytosine38 in tRNAGlyGCC
+43	O55055	S-adenosyl-L-methionine
+44	O55055	cytosine38 in tRNAValAAC
+0	P38238	S-adenosyl-L-methionine
+1	P38238	cytidine32/guanosine34 in tRNA
+2	P38238	S-adenosyl-L-methionine
+3	P38238	cytidine32/guanosine34 in tRNALeu
+4	P38238	S-adenosyl-L-methionine
+5	P38238	cytidine32/guanosine34 in tRNAPhe
+6	P38238	S-adenosyl-L-methionine
+7	P38238	cytidine32/guanosine34 in tRNATrp
+8	P38238	more
+0	Q9UYD1	S-adenosyl-L-methionine
+1	Q9UYD1	cytidine56 in tRNA
+2	O58214	S-adenosyl-L-methionine
+3	O58214	cytidine56 in tRNA
+4	Q9HJN6	S-adenosyl-L-methionine
+5	Q9HJN6	cytidine56 in elongator tRNAMet
+6	Q9HJN6	S-adenosyl-L-methionine
+7	Q9HJN6	cytidine56 in initiator tRNAMet
+8	Q9HJN6	S-adenosyl-L-methionine
+9	Q9HJN6	cytidine56 in tRNALeu(UAG)
+10	Q9HJN6	S-adenosyl-L-methionine
+11	Q9HJN6	cytidine56 in tRNA
+12	Q9HJN6	more
+0	P0AGJ7	S-adenosyl-L-methionine
+1	P0AGJ7	cytidine34 in tRNALeuCAA
+2	P0AGJ7	S-adenosyl-L-methionine
+3	P0AGJ7	cytidine34 in tRNALeuUAA
+4	P0AGJ7	more
+5	P0AGJ7	S-adenosyl-L-methionine
+6	P0AGJ7	5-carboxymethylaminomethyluridine34 in tRNALeu
+7	P0AGJ7	S-adenosyl-L-methionine
+8	P0AGJ7	cytidine34 in tRNA
+0	Q9F5K6	S-adenosyl-L-methionine
+1	Q9F5K6	uridine2479 in 23S rRNA
+0	Q9F5K5	S-adenosyl-L-methionine
+1	Q9F5K5	guanine2535 in 23S rRNA
+0	Q02648	S-adenosyl-L-methionine
+1	Q02648	uridine44 in tRNASer
+0	Q84KK6	S-adenosyl-L-methionine
+1	Q84KK6	2,7,4'-trihydroxyisoflavanone
+2	Q84KK6	more
+3	Q84KK4	S-adenosyl-L-methionine
+4	Q84KK4	2,7,4'-trihydroxyisoflavanone
+5	Q29U70	S-adenosyl-L-methionine
+6	Q29U70	2,7,4'-trihydroxyisoflavanone
+7	Q29U70	more
+0	Q9UY84	2 S-adenosyl-L-methionine
+1	Q9UY84	guanine10 in tRNA
+2	Q9UY84	S-adenosyl-L-methionine
+3	Q9UY84	guanine10 in tRNA
+0	Q12463	S-adenosyl-L-methionine
+1	Q12463	guanine10 in tRNA
+2	Q12463	S-adenosyl-L-methionine
+3	Q12463	guanine10 in tRNAIle(AAU)
+4	Q5JID5	S-adenosyl-L-methionine
+5	Q5JID5	guanine10 in tRNA
+6	Q5JID5	S-adenosyl-L-methionine
+7	Q5JID5	guanine10 in tRNATrp
+0	O67010	4 S-adenosyl-L-methionine
+1	O67010	guanine26/guanine27 in tRNA
+2	O67010	more
+3	O67010	4 S-adenosyl-L-methionine
+4	O67010	guanine26/guanine27 in tRNACys
+5	O67010	S-adenosyl-L-methionine
+6	O67010	N2-dimethylguanine26/N2-methylguanine27
+7	O67010	S-adenosyl-L-methionine
+8	O67010	N2-dimethylguanine26/N2-methylguanine27 in tRNACys
+9	O67010	S-adenosyl-L-methionine
+10	O67010	N2-dimethylguanine26/guanine27 in tRNA
+11	O67010	S-adenosyl-L-methionine
+12	O67010	N2-dimethylguanine26/guanine27 in tRNACys
+13	O67010	S-adenosyl-L-methionine
+14	O67010	N2-methylguanine26 in mutant tRNATyr
+15	O67010	S-adenosyl-L-methionine
+16	O67010	N2-methylguanine26/guanine27 in tRNA
+17	O67010	S-adenosyl-L-methionine
+18	O67010	N2-methylguanine26/guanine27 in tRNACys
+19	O67010	S-adenosyl-L-methionine
+20	O67010	N2-methylguanine27 in tRNATyr
+21	O67010	S-adenosyl-L-methionine
+22	O67010	guanine26 in mutant tRNATyr
+23	O67010	S-adenosyl-L-methionine
+24	O67010	guanine26/guanine27 in tRNA
+25	O67010	S-adenosyl-L-methionine
+26	O67010	guanine26/guanine27 in tRNACys
+27	O67010	S-adenosyl-L-methionine
+28	O67010	guanine27 in tRNATyr
+0	Q9P804	2 S-adenosyl-L-methionine
+1	Q9P804	guanine26 in tRNA
+2	P15565	2 S-adenosyl-L-methionine
+3	P15565	guanine26 in tRNAPhe
+4	P15565	S-adenosyl-L-methionine
+5	P15565	N2-methylguanine26 in tRNAPhe
+6	P15565	S-adenosyl-L-methionine
+7	P15565	guanine26 in tRNAPhe
+8	O59493	2 S-adenosyl-L-methionine
+9	O59493	guanine26 in tRNA
+10	O59493	S-adenosyl-L-methionine
+11	O59493	N2-methylguanine26 in tRNA
+12	O59493	S-adenosyl-L-methionine
+13	O59493	guanine26 in tRNA
+14	P15565	2 S-adenosyl-L-methionine
+15	P15565	guanine26 in tRNA
+16	P15565	S-adenosyl-L-methionine
+17	P15565	N2-methylguanine26 in tRNA
+18	P15565	S-adenosyl-L-methionine
+19	P15565	guanine26 in tRNA
+20	Q23270	2 S-adenosyl-L-methionine
+21	Q23270	guanine26 in tRNA
+22	Q23270	S-adenosyl-L-methionine
+23	Q23270	N2-methylguanine26 in tRNA
+24	Q23270	S-adenosyl-L-methionine
+25	Q23270	guanine26 in tRNA
+26	P57706	S-adenosyl-L-methionine
+27	P57706	N2-methylguanine26 in tRNA
+28	P57706	S-adenosyl-L-methionine
+29	P57706	guanine26 in tRNA
+30	P57706	more
+31	P57706	2 S-adenosyl-L-methionine
+32	P57706	guanine26 in tRNALeu(UAG)
+33	P57706	4 S-adenosyl-L-methionine
+34	P57706	guanine26 in tRNA
+35	P57706	4 S-adenosyl-L-methionine
+36	P57706	guanine26 in initiator tRNAMet
+37	P57706	4 S-adenosyl-L-methionine
+38	P57706	guanine26 in prolongator tRNAMet
+39	P57706	S-adenosyl-L-methionine
+40	P57706	2'-O-methylguanine26 in elongator tRNAMet
+41	P57706	S-adenosyl-L-methionine
+42	P57706	2'-O-methylguanine26 in initiator tRNAMet
+43	P57706	S-adenosyl-L-methionine
+44	P57706	guanine26 in elongator tRNAMet
+45	P57706	S-adenosyl-L-methionine
+46	P57706	guanine26 in initiator tRNAMet
+47	P57706	2 S-adenosyl-L-methionine
+48	P57706	guanine26 in tRNA
+0	A0A0H2UR54	S-adenosyl-L-methionine
+1	A0A0H2UR54	adenine22 in tRNA
+2	P54471	S-adenosyl-L-methionine
+3	P54471	adenine22 in tRNA
+4	P54471	S-adenosyl-L-methionine
+5	P54471	adenine22 in Bacillus subtilis tRNA(Ser)
+6	P54471	S-adenosyl-L-methionine
+7	P54471	adenine22 in tRNASer
+8	P54471	S-adenosyl-L-methionine
+9	P54471	adenine22 in tRNATyr
+10	P54471	more
+11	A0A656DTJ7	S-adenosyl-L-methionine
+12	A0A656DTJ7	adenine22 in tRNA
+13	A0A0H6U323	S-adenosyl-L-methionine
+14	A0A0H6U323	adenine22 in tRNA
+15	A0A0E1R6X8	S-adenosyl-L-methionine
+16	A0A0E1R6X8	adenine22 in tRNA
+17	A0A0D6HIR7	S-adenosyl-L-methionine
+18	A0A0D6HIR7	adenine22 in tRNA
