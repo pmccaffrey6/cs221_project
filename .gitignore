@@ -2,3 +2,5 @@
 CID-SMILES
 brenda_download.txt
 seqvec_items/*
+protein_seq_embeddings_kappa_10.tsv
+all_embeddings.tsv
