@@ -1,0 +1,29 @@
+{% extends 'base.html' %}
+
+{% block content %}
+    <h1>{% block title %} Create a New Enzyme Search {% endblock %}</h1>
+    <form method="post">
+        <label for="title">Job Title</label>
+        <br>
+        <input type="text" name="title"
+               placeholder="Message title"
+               value="{{ request.form['title'] }}"></input>
+        <br>
+
+        <label for="content">Chemical Structure</label>
+        <br>
+        <textarea name="content"
+                  placeholder="Message content"
+                  rows="15"
+                  cols="60"
+                  >{{ request.form['content'] }}</textarea>
+        <br>
+        <label for="neighbors">Number of Nearest Neighbors in Search</label>
+        <br>
+        <input type="text" name="neighbors"
+               placeholder="Number of Nearest Neighbors in Search"
+               value="{{ request.form['neighbors'] }}"></input>
+        <br>
+        <button type="submit">Submit</button>
+    </form>
+{% endblock %}

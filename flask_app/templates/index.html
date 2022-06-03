@@ -1,0 +1,12 @@
+{% extends 'base.html' %}
+
+{% block content %}
+    <h1>{% block title %} Previous Searches {% endblock %}</h1>
+    {% for message in messages %}
+        <div class='message'>
+            <h3>Job Title: {{ message['Job Title'] }}</h3>
+            <p>Query Chemical: {{ message['Chemical Structure'] }}</p>
+            <p>PFAM Match(es): {{ message['PFAM Matches'] }}</p>
+        </div>
+    {% endfor %}
+{% endblock %}
